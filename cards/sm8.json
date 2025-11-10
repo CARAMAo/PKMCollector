@@ -1,0 +1,4001 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sm8-1",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/1/high.jpg",
+        "localId": "1",
+        "name": "Tangela",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178798
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-2",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/2/high.jpg",
+        "localId": "2",
+        "name": "Tangrowth",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178799
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-3",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/3/high.jpg",
+        "localId": "3",
+        "name": "Scyther",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178800
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-4",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/4/high.jpg",
+        "localId": "4",
+        "name": "Pinsir",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178801
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-5",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/5/high.jpg",
+        "localId": "5",
+        "name": "Chikorita",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178802
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-6",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/6/high.jpg",
+        "localId": "6",
+        "name": "Chikorita",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178803
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-7",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/7/high.jpg",
+        "localId": "7",
+        "name": "Bayleef",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178804
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-8",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/8/high.jpg",
+        "localId": "8",
+        "name": "Meganium",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178805
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-9",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/9/high.jpg",
+        "localId": "9",
+        "name": "Spinarak",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178806
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-10",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/10/high.jpg",
+        "localId": "10",
+        "name": "Ariados",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178807
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-11",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/11/high.jpg",
+        "localId": "11",
+        "name": "Hoppip",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178808
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-12",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/12/high.jpg",
+        "localId": "12",
+        "name": "Hoppip",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178809
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-13",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/13/high.jpg",
+        "localId": "13",
+        "name": "Skiploom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178810
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-14",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/14/high.jpg",
+        "localId": "14",
+        "name": "Jumpluff",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178811
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-15",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/15/high.jpg",
+        "localId": "15",
+        "name": "Pineco",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178812
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-16",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/16/high.jpg",
+        "localId": "16",
+        "name": "Shuckle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178813
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-17",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/17/high.jpg",
+        "localId": "17",
+        "name": "Shuckle GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178814
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-18",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/18/high.jpg",
+        "localId": "18",
+        "name": "Heracross",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178817
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-19",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/19/high.jpg",
+        "localId": "19",
+        "name": "Celebi ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-20",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/20/high.jpg",
+        "localId": "20",
+        "name": "Treecko",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178819
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-21",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/21/high.jpg",
+        "localId": "21",
+        "name": "Grovyle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178820
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-22",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/22/high.jpg",
+        "localId": "22",
+        "name": "Sceptile GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178821
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-23",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/23/high.jpg",
+        "localId": "23",
+        "name": "Wurmple",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178824
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-24",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/24/high.jpg",
+        "localId": "24",
+        "name": "Wurmple",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178825
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-25",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/25/high.jpg",
+        "localId": "25",
+        "name": "Silcoon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178826
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-26",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/26/high.jpg",
+        "localId": "26",
+        "name": "Beautifly",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178827
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-27",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/27/high.jpg",
+        "localId": "27",
+        "name": "Cascoon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178828
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-28",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/28/high.jpg",
+        "localId": "28",
+        "name": "Dustox",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178829
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-29",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/29/high.jpg",
+        "localId": "29",
+        "name": "Nincada",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178830
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-30",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/30/high.jpg",
+        "localId": "30",
+        "name": "Ninjask",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178831
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-31",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/31/high.jpg",
+        "localId": "31",
+        "name": "Combee",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178832
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-32",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/32/high.jpg",
+        "localId": "32",
+        "name": "Vespiquen",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178833
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-33",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/33/high.jpg",
+        "localId": "33",
+        "name": "Shaymin",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178834
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-34",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/34/high.jpg",
+        "localId": "34",
+        "name": "Virizion GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178835
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-35",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/35/high.jpg",
+        "localId": "35",
+        "name": "Skiddo",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178838
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-36",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/36/high.jpg",
+        "localId": "36",
+        "name": "Gogoat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178839
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-37",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/37/high.jpg",
+        "localId": "37",
+        "name": "Tapu Bulu",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178840
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-38",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/38/high.jpg",
+        "localId": "38",
+        "name": "Moltres",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178841
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-39",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/39/high.jpg",
+        "localId": "39",
+        "name": "Cyndaquil",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178842
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-40",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/40/high.jpg",
+        "localId": "40",
+        "name": "Cyndaquil",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178843
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-41",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/41/high.jpg",
+        "localId": "41",
+        "name": "Quilava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178844
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-42",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/42/high.jpg",
+        "localId": "42",
+        "name": "Typhlosion",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178845
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-43",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/43/high.jpg",
+        "localId": "43",
+        "name": "Slugma",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178846
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-44",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/44/high.jpg",
+        "localId": "44",
+        "name": "Magcargo GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178847
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-45",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/45/high.jpg",
+        "localId": "45",
+        "name": "Houndour",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178850
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-46",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/46/high.jpg",
+        "localId": "46",
+        "name": "Houndoom",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178851
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-47",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/47/high.jpg",
+        "localId": "47",
+        "name": "Entei",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178852
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-48",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/48/high.jpg",
+        "localId": "48",
+        "name": "Heatran",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178853
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-49",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/49/high.jpg",
+        "localId": "49",
+        "name": "Victini",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178854
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-50",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/50/high.jpg",
+        "localId": "50",
+        "name": "Litleo",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178855
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-51",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/51/high.jpg",
+        "localId": "51",
+        "name": "Pyroar",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178856
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-52",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/52/high.jpg",
+        "localId": "52",
+        "name": "Blacephalon GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178857
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-53",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/53/high.jpg",
+        "localId": "53",
+        "name": "Alolan Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178860
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-54",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/54/high.jpg",
+        "localId": "54",
+        "name": "Slowpoke",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178861
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-55",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/55/high.jpg",
+        "localId": "55",
+        "name": "Slowking",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178862
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-56",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/56/high.jpg",
+        "localId": "56",
+        "name": "Lapras",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178863
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-57",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/57/high.jpg",
+        "localId": "57",
+        "name": "Delibird",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178864
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-58",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/58/high.jpg",
+        "localId": "58",
+        "name": "Mantine",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178865
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-59",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/59/high.jpg",
+        "localId": "59",
+        "name": "Suicune",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178866
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-60",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/60/high.jpg",
+        "localId": "60",
+        "name": "Suicune GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178867
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-61",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/61/high.jpg",
+        "localId": "61",
+        "name": "Cubchoo",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178870
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-62",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/62/high.jpg",
+        "localId": "62",
+        "name": "Beartic",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178871
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-63",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/63/high.jpg",
+        "localId": "63",
+        "name": "White Kyurem",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178872
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-64",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/64/high.jpg",
+        "localId": "64",
+        "name": "Popplio",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178873
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-65",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/65/high.jpg",
+        "localId": "65",
+        "name": "Popplio",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178874
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-66",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/66/high.jpg",
+        "localId": "66",
+        "name": "Brionne",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178875
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-67",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/67/high.jpg",
+        "localId": "67",
+        "name": "Primarina",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178876
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-68",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/68/high.jpg",
+        "localId": "68",
+        "name": "Mareanie",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178877
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-69",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/69/high.jpg",
+        "localId": "69",
+        "name": "Toxapex",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178878
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-70",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/70/high.jpg",
+        "localId": "70",
+        "name": "Bruxish",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178879
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-71",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/71/high.jpg",
+        "localId": "71",
+        "name": "Electabuzz",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178880
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-72",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/72/high.jpg",
+        "localId": "72",
+        "name": "Electivire",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178881
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-73",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/73/high.jpg",
+        "localId": "73",
+        "name": "Chinchou",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178882
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-74",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/74/high.jpg",
+        "localId": "74",
+        "name": "Lanturn",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178883
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-75",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/75/high.jpg",
+        "localId": "75",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178884
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-76",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/76/high.jpg",
+        "localId": "76",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178885
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-77",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/77/high.jpg",
+        "localId": "77",
+        "name": "Flaaffy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178886
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-78",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/78/high.jpg",
+        "localId": "78",
+        "name": "Ampharos",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178887
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-79",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/79/high.jpg",
+        "localId": "79",
+        "name": "Raikou",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178888
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-80",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/80/high.jpg",
+        "localId": "80",
+        "name": "Pachirisu",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178889
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-81",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/81/high.jpg",
+        "localId": "81",
+        "name": "Blitzle",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178890
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-82",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/82/high.jpg",
+        "localId": "82",
+        "name": "Zebstrika",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178891
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-83",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/83/high.jpg",
+        "localId": "83",
+        "name": "Stunfisk",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178892
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-84",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/84/high.jpg",
+        "localId": "84",
+        "name": "Dedenne",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178893
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-85",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/85/high.jpg",
+        "localId": "85",
+        "name": "Tapu Koko",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178894
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-86",
+        "illustrator": "PLANETA Otani",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/86/high.jpg",
+        "localId": "86",
+        "name": "Zeraora GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178895
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-87",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/87/high.jpg",
+        "localId": "87",
+        "name": "Natu",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178898
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-88",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/88/high.jpg",
+        "localId": "88",
+        "name": "Xatu",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178899
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-89",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/89/high.jpg",
+        "localId": "89",
+        "name": "Espeon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178900
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-90",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/90/high.jpg",
+        "localId": "90",
+        "name": "Unown",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178901
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-91",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/91/high.jpg",
+        "localId": "91",
+        "name": "Unown",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178902
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-92",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/92/high.jpg",
+        "localId": "92",
+        "name": "Unown",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178903
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-93",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/93/high.jpg",
+        "localId": "93",
+        "name": "Wobbuffet",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178904
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-94",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/94/high.jpg",
+        "localId": "94",
+        "name": "Girafarig",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178905
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-95",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/95/high.jpg",
+        "localId": "95",
+        "name": "Shedinja",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178906
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-96",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/96/high.jpg",
+        "localId": "96",
+        "name": "Sableye",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178907
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-97",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/97/high.jpg",
+        "localId": "97",
+        "name": "Giratina",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178908
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-98",
+        "illustrator": "PLANETA Otani",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/98/high.jpg",
+        "localId": "98",
+        "name": "Sigilyph GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178909
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-99",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/99/high.jpg",
+        "localId": "99",
+        "name": "Yamask",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178912
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-100",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/100/high.jpg",
+        "localId": "100",
+        "name": "Cofagrigus",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178913
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-101",
+        "illustrator": "Asako Ito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/101/high.jpg",
+        "localId": "101",
+        "name": "Litwick",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178914
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-102",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/102/high.jpg",
+        "localId": "102",
+        "name": "Lampent",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178915
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-103",
+        "illustrator": "so-taro",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/103/high.jpg",
+        "localId": "103",
+        "name": "Chandelure",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178916
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-104",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/104/high.jpg",
+        "localId": "104",
+        "name": "Meloetta",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178917
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-105",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/105/high.jpg",
+        "localId": "105",
+        "name": "Mareanie",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178918
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-106",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/106/high.jpg",
+        "localId": "106",
+        "name": "Nihilego",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178919
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-107",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/107/high.jpg",
+        "localId": "107",
+        "name": "Poipole",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178920
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-108",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/108/high.jpg",
+        "localId": "108",
+        "name": "Naganadel",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178921
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-109",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/109/high.jpg",
+        "localId": "109",
+        "name": "Onix",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178922
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-110",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/110/high.jpg",
+        "localId": "110",
+        "name": "Sudowoodo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178923
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-111",
+        "illustrator": "Asako Ito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/111/high.jpg",
+        "localId": "111",
+        "name": "Phanpy",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178924
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-112",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/112/high.jpg",
+        "localId": "112",
+        "name": "Donphan",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178925
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-113",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/113/high.jpg",
+        "localId": "113",
+        "name": "Hitmontop",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178926
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-114",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/114/high.jpg",
+        "localId": "114",
+        "name": "Larvitar",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178927
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-115",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/115/high.jpg",
+        "localId": "115",
+        "name": "Larvitar",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178928
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-116",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/116/high.jpg",
+        "localId": "116",
+        "name": "Pupitar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178929
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-117",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/117/high.jpg",
+        "localId": "117",
+        "name": "Carbink",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178930
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-118",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/118/high.jpg",
+        "localId": "118",
+        "name": "Alolan Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178931
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-119",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/119/high.jpg",
+        "localId": "119",
+        "name": "Alolan Persian",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178932
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-120",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/120/high.jpg",
+        "localId": "120",
+        "name": "Umbreon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178933
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-121",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/121/high.jpg",
+        "localId": "121",
+        "name": "Tyranitar GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178934
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-122",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/122/high.jpg",
+        "localId": "122",
+        "name": "Alolan Diglett",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178937
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-123",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/123/high.jpg",
+        "localId": "123",
+        "name": "Alolan Dugtrio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178938
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-124",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/124/high.jpg",
+        "localId": "124",
+        "name": "Forretress",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178939
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-125",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/125/high.jpg",
+        "localId": "125",
+        "name": "Steelix",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178940
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-126",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/126/high.jpg",
+        "localId": "126",
+        "name": "Scizor",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178941
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-127",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/127/high.jpg",
+        "localId": "127",
+        "name": "Dialga",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178942
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-128",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/128/high.jpg",
+        "localId": "128",
+        "name": "Durant",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178943
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-129",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/129/high.jpg",
+        "localId": "129",
+        "name": "Cobalion",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178944
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-130",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/130/high.jpg",
+        "localId": "130",
+        "name": "Genesect GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178945
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-131",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/131/high.jpg",
+        "localId": "131",
+        "name": "Magearna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178948
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-132",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/132/high.jpg",
+        "localId": "132",
+        "name": "Alolan Ninetales GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178949
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-133",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/133/high.jpg",
+        "localId": "133",
+        "name": "Jigglypuff",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178952
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-134",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/134/high.jpg",
+        "localId": "134",
+        "name": "Wigglytuff",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178953
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-135",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/135/high.jpg",
+        "localId": "135",
+        "name": "Marill",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178954
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-136",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/136/high.jpg",
+        "localId": "136",
+        "name": "Azumarill",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178955
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-137",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/137/high.jpg",
+        "localId": "137",
+        "name": "Snubbull",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178956
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-138",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/138/high.jpg",
+        "localId": "138",
+        "name": "Granbull",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178957
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-139",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/139/high.jpg",
+        "localId": "139",
+        "name": "Ralts",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178958
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-140",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/140/high.jpg",
+        "localId": "140",
+        "name": "Kirlia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178959
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-141",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/141/high.jpg",
+        "localId": "141",
+        "name": "Gardevoir",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178960
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-142",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/142/high.jpg",
+        "localId": "142",
+        "name": "Dedenne",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178961
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-143",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/143/high.jpg",
+        "localId": "143",
+        "name": "Carbink",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178962
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-144",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/144/high.jpg",
+        "localId": "144",
+        "name": "Xerneas ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-145",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/145/high.jpg",
+        "localId": "145",
+        "name": "Cutiefly",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178964
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-146",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/146/high.jpg",
+        "localId": "146",
+        "name": "Ribombee",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178965
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-147",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/147/high.jpg",
+        "localId": "147",
+        "name": "Morelull",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178966
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-148",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/148/high.jpg",
+        "localId": "148",
+        "name": "Shiinotic",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178967
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-149",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/149/high.jpg",
+        "localId": "149",
+        "name": "Mimikyu GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178968
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-150",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/150/high.jpg",
+        "localId": "150",
+        "name": "Tapu Lele",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178971
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-151",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/151/high.jpg",
+        "localId": "151",
+        "name": "Tapu Fini",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178972
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-152",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/152/high.jpg",
+        "localId": "152",
+        "name": "Chansey",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178973
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-153",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/153/high.jpg",
+        "localId": "153",
+        "name": "Blissey",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178974
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-154",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/154/high.jpg",
+        "localId": "154",
+        "name": "Ditto ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-155",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/155/high.jpg",
+        "localId": "155",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178976
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-156",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/156/high.jpg",
+        "localId": "156",
+        "name": "Stantler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178977
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-157",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/157/high.jpg",
+        "localId": "157",
+        "name": "Smeargle",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178978
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-158",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/158/high.jpg",
+        "localId": "158",
+        "name": "Miltank",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178979
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-159",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/159/high.jpg",
+        "localId": "159",
+        "name": "Lugia GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178980
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-160",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/160/high.jpg",
+        "localId": "160",
+        "name": "Ho-Oh",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178983
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-161",
+        "illustrator": "OOYAMA",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/161/high.jpg",
+        "localId": "161",
+        "name": "Kecleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178984
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-162",
+        "illustrator": "OOYAMA",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/162/high.jpg",
+        "localId": "162",
+        "name": "Kecleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178985
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-163",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/163/high.jpg",
+        "localId": "163",
+        "name": "Pikipek",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178986
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-164",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/164/high.jpg",
+        "localId": "164",
+        "name": "Pikipek",
+        "rarity": "Common",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178987
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-165",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/165/high.jpg",
+        "localId": "165",
+        "name": "Trumbeak",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178988
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-166",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/166/high.jpg",
+        "localId": "166",
+        "name": "Toucannon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178989
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-167",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/167/high.jpg",
+        "localId": "167",
+        "name": "Adventure Bag",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178990
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-168",
+        "illustrator": "take",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/168/high.jpg",
+        "localId": "168",
+        "name": "Aether Foundation Employee",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178991
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-169",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/169/high.jpg",
+        "localId": "169",
+        "name": "Choice Helmet",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178993
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-170",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/170/high.jpg",
+        "localId": "170",
+        "name": "Counter Gain",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178995
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-171",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/171/high.jpg",
+        "localId": "171",
+        "name": "Custom Catcher",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178997
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-172",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/172/high.jpg",
+        "localId": "172",
+        "name": "Electropower",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178999
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-173",
+        "illustrator": "take",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/173/high.jpg",
+        "localId": "173",
+        "name": "Faba",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179001
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-174",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/174/high.jpg",
+        "localId": "174",
+        "name": "Fairy Charm Grass",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-175",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/175/high.jpg",
+        "localId": "175",
+        "name": "Fairy Charm Psychic",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-176",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/176/high.jpg",
+        "localId": "176",
+        "name": "Fairy Charm Fighting",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-177",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/177/high.jpg",
+        "localId": "177",
+        "name": "Fairy Charm Dragon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-178",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/178/high.jpg",
+        "localId": "178",
+        "name": "Heat Factory ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-179",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/179/high.jpg",
+        "localId": "179",
+        "name": "Kahili",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179008
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-180",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/180/high.jpg",
+        "localId": "180",
+        "name": "Life Forest ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-181",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/181/high.jpg",
+        "localId": "181",
+        "name": "Lost Blender",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179012
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-182",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/182/high.jpg",
+        "localId": "182",
+        "name": "Lusamine ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-183",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/183/high.jpg",
+        "localId": "183",
+        "name": "Mina",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179015
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-184",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/184/high.jpg",
+        "localId": "184",
+        "name": "Mixed Herbs",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179017
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-185",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/185/high.jpg",
+        "localId": "185",
+        "name": "Moomoo Milk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179018
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-186",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/186/high.jpg",
+        "localId": "186",
+        "name": "Morty",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179019
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-187",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/187/high.jpg",
+        "localId": "187",
+        "name": "Net Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179021
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-188",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/188/high.jpg",
+        "localId": "188",
+        "name": "Professor Elm’s Lecture",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-189",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/189/high.jpg",
+        "localId": "189",
+        "name": "Sightseer",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179025
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-190",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/190/high.jpg",
+        "localId": "190",
+        "name": "Spell Tag",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179026
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-191",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/191/high.jpg",
+        "localId": "191",
+        "name": "Thunder Mountain ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-192",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/192/high.jpg",
+        "localId": "192",
+        "name": "Wait and See Hammer",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179029
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-193",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/193/high.jpg",
+        "localId": "193",
+        "name": "Whitney",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179030
+    },
+    {
+        "category": "Energy",
+        "id": "sm8-194",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm8/194/high.jpg",
+        "localId": "194",
+        "name": "Memory Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179032
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-195",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/195/high.jpg",
+        "localId": "195",
+        "name": "Shuckle GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178815
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-196",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/196/high.jpg",
+        "localId": "196",
+        "name": "Sceptile GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178822
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-197",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/197/high.jpg",
+        "localId": "197",
+        "name": "Virizion GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178836
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-198",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/198/high.jpg",
+        "localId": "198",
+        "name": "Magcargo GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178848
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-199",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/199/high.jpg",
+        "localId": "199",
+        "name": "Blacephalon GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178858
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-200",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/200/high.jpg",
+        "localId": "200",
+        "name": "Suicune GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178868
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-201",
+        "illustrator": "PLANETA Otani",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/201/high.jpg",
+        "localId": "201",
+        "name": "Zeraora GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178896
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-202",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/202/high.jpg",
+        "localId": "202",
+        "name": "Sigilyph GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178910
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-203",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/203/high.jpg",
+        "localId": "203",
+        "name": "Tyranitar GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178935
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-204",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/204/high.jpg",
+        "localId": "204",
+        "name": "Genesect GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178946
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-205",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/205/high.jpg",
+        "localId": "205",
+        "name": "Alolan Ninetales GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178950
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-206",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/206/high.jpg",
+        "localId": "206",
+        "name": "Mimikyu GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178969
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-207",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/207/high.jpg",
+        "localId": "207",
+        "name": "Lugia GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178981
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-208",
+        "illustrator": "take",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/208/high.jpg",
+        "localId": "208",
+        "name": "Faba",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179002
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-209",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/209/high.jpg",
+        "localId": "209",
+        "name": "Judge",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179010
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-210",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/210/high.jpg",
+        "localId": "210",
+        "name": "Kahili",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179009
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-211",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/211/high.jpg",
+        "localId": "211",
+        "name": "Mina",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179016
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-212",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/212/high.jpg",
+        "localId": "212",
+        "name": "Morty",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179020
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-213",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/213/high.jpg",
+        "localId": "213",
+        "name": "Professor Elm’s Lecture",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-214",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/214/high.jpg",
+        "localId": "214",
+        "name": "Whitney",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179031
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-215",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/215/high.jpg",
+        "localId": "215",
+        "name": "Shuckle GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178816
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-216",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/216/high.jpg",
+        "localId": "216",
+        "name": "Sceptile GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178823
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-217",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/217/high.jpg",
+        "localId": "217",
+        "name": "Virizion GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178837
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-218",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/218/high.jpg",
+        "localId": "218",
+        "name": "Magcargo GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178849
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-219",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/219/high.jpg",
+        "localId": "219",
+        "name": "Blacephalon GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178859
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-220",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/220/high.jpg",
+        "localId": "220",
+        "name": "Suicune GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178869
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-221",
+        "illustrator": "PLANETA Otani",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/221/high.jpg",
+        "localId": "221",
+        "name": "Zeraora GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178897
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-222",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/222/high.jpg",
+        "localId": "222",
+        "name": "Sigilyph GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178911
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-223",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/223/high.jpg",
+        "localId": "223",
+        "name": "Tyranitar GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178936
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-224",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/224/high.jpg",
+        "localId": "224",
+        "name": "Genesect GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178947
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-225",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/225/high.jpg",
+        "localId": "225",
+        "name": "Alolan Ninetales GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178951
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-226",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/226/high.jpg",
+        "localId": "226",
+        "name": "Mimikyu GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178970
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm8-227",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/227/high.jpg",
+        "localId": "227",
+        "name": "Lugia GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178982
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-228",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/228/high.jpg",
+        "localId": "228",
+        "name": "Adventure Bag",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178992
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-229",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/229/high.jpg",
+        "localId": "229",
+        "name": "Choice Helmet",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178994
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-230",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/230/high.jpg",
+        "localId": "230",
+        "name": "Counter Gain",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178996
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-231",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/231/high.jpg",
+        "localId": "231",
+        "name": "Custom Catcher",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 178998
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-232",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/232/high.jpg",
+        "localId": "232",
+        "name": "Electropower",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179000
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-233",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/233/high.jpg",
+        "localId": "233",
+        "name": "Lost Blender",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179013
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-234",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/234/high.jpg",
+        "localId": "234",
+        "name": "Net Ball",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179022
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-235",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/235/high.jpg",
+        "localId": "235",
+        "name": "Spell Tag",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179027
+    },
+    {
+        "category": "Trainer",
+        "id": "sm8-236",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm8/236/high.jpg",
+        "localId": "236",
+        "name": "Wait and See Hammer",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm8",
+            "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.jpg",
+            "name": "Lost Thunder",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.jpg",
+            "releaseDate": "2018-11-02"
+        },
+        "tcgplayerId": 179068
+    }
+]

@@ -1,0 +1,1989 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "ex10-1",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/1/high.jpg",
+        "localId": "1",
+        "name": "Ampharos",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 83540
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-2",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/2/high.jpg",
+        "localId": "2",
+        "name": "Ariados",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 83616
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-3",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/3/high.jpg",
+        "localId": "3",
+        "name": "Bellossom",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 83799
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-4",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/4/high.jpg",
+        "localId": "4",
+        "name": "Feraligatr",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85417
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-5",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/5/high.jpg",
+        "localId": "5",
+        "name": "Flareon",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85494
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-6",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/6/high.jpg",
+        "localId": "6",
+        "name": "Forretress",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85548
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-7",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/7/high.jpg",
+        "localId": "7",
+        "name": "Houndoom",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 86206
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-8",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/8/high.jpg",
+        "localId": "8",
+        "name": "Jolteon",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 86341
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-9",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/9/high.jpg",
+        "localId": "9",
+        "name": "Meganium",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 87291
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-10",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/10/high.jpg",
+        "localId": "10",
+        "name": "Octillery",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 87831
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-11",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/11/high.jpg",
+        "localId": "11",
+        "name": "Poliwrath",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88277
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-12",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/12/high.jpg",
+        "localId": "12",
+        "name": "Porygon2",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88324
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-13",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/13/high.jpg",
+        "localId": "13",
+        "name": "Slowbro",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89305
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-14",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/14/high.jpg",
+        "localId": "14",
+        "name": "Slowking",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89314
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-15",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/15/high.jpg",
+        "localId": "15",
+        "name": "Sudowoodo",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89593
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-16",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/16/high.jpg",
+        "localId": "16",
+        "name": "Sunflora",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89614
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-17",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/17/high.jpg",
+        "localId": "17",
+        "name": "Typhlosion",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 90103
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-18",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/18/high.jpg",
+        "localId": "18",
+        "name": "Ursaring",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 90252
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-19",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/19/high.jpg",
+        "localId": "19",
+        "name": "Vaporeon",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 90282
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-20",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/20/high.jpg",
+        "localId": "20",
+        "name": "Chansey",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 84174
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-21",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/21/high.jpg",
+        "localId": "21",
+        "name": "Cleffa",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 84365
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-22",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/22/high.jpg",
+        "localId": "22",
+        "name": "Electabuzz",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85113
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-23",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/23/high.jpg",
+        "localId": "23",
+        "name": "Elekid",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85170
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-24",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/24/high.jpg",
+        "localId": "24",
+        "name": "Hitmonchan",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 86092
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-25",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/25/high.jpg",
+        "localId": "25",
+        "name": "Hitmonlee",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 86105
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-26",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/26/high.jpg",
+        "localId": "26",
+        "name": "Hitmontop",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 86114
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-27",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/27/high.jpg",
+        "localId": "27",
+        "name": "Ho-Oh",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 86122
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-28",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/28/high.jpg",
+        "localId": "28",
+        "name": "Jynx",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 86375
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-29",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/29/high.jpg",
+        "localId": "29",
+        "name": "Lugia",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 86906
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-30",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/30/high.jpg",
+        "localId": "30",
+        "name": "Murkrow",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 87651
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-31",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/31/high.jpg",
+        "localId": "31",
+        "name": "Smoochum",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89361
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-32",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/32/high.jpg",
+        "localId": "32",
+        "name": "Stantler",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89503
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-33",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/33/high.jpg",
+        "localId": "33",
+        "name": "Tyrogue",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 90129
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-34",
+        "illustrator": "Sachiko Adachi",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/34/high.jpg",
+        "localId": "34",
+        "name": "Aipom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 83488
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-35",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/35/high.jpg",
+        "localId": "35",
+        "name": "Bayleef",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 83746
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-36",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/36/high.jpg",
+        "localId": "36",
+        "name": "Clefable",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 84345
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-37",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/37/high.jpg",
+        "localId": "37",
+        "name": "Corsola",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 84440
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-38",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/38/high.jpg",
+        "localId": "38",
+        "name": "Croconaw",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 84498
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-39",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/39/high.jpg",
+        "localId": "39",
+        "name": "Granbull",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85863
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-40",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/40/high.jpg",
+        "localId": "40",
+        "name": "Lanturn",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 86605
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-41",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/41/high.jpg",
+        "localId": "41",
+        "name": "Magcargo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 87015
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-42",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/42/high.jpg",
+        "localId": "42",
+        "name": "Miltank",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 87463
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-43",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/43/high.jpg",
+        "localId": "43",
+        "name": "Noctowl",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 87792
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-44",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/44/high.jpg",
+        "localId": "44",
+        "name": "Quagsire",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88471
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-45",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/45/high.jpg",
+        "localId": "45",
+        "name": "Quilava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88484
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-46",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/46/high.jpg",
+        "localId": "46",
+        "name": "Scyther",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88999
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-47",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/47/high.jpg",
+        "localId": "47",
+        "name": "Shuckle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89190
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-48",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/48/high.jpg",
+        "localId": "48",
+        "name": "Smeargle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89354
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-49",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/49/high.jpg",
+        "localId": "49",
+        "name": "Xatu",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 90664
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-50",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/50/high.jpg",
+        "localId": "50",
+        "name": "Yanma",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 90684
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-51",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/51/high.jpg",
+        "localId": "51",
+        "name": "Chikorita",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 84277
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-52",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/52/high.jpg",
+        "localId": "52",
+        "name": "Chinchou",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 84305
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-53",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/53/high.jpg",
+        "localId": "53",
+        "name": "Clefairy",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 84355
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-54",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/54/high.jpg",
+        "localId": "54",
+        "name": "Cyndaquil",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 84550
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-55",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/55/high.jpg",
+        "localId": "55",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85081
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-56",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/56/high.jpg",
+        "localId": "56",
+        "name": "Flaaffy",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85478
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-57",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/57/high.jpg",
+        "localId": "57",
+        "name": "Gligar",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85765
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-58",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/58/high.jpg",
+        "localId": "58",
+        "name": "Gloom",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85783
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-59",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/59/high.jpg",
+        "localId": "59",
+        "name": "Hoothoot",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 86171
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-60",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/60/high.jpg",
+        "localId": "60",
+        "name": "Houndour",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 86227
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-61",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/61/high.jpg",
+        "localId": "61",
+        "name": "Larvitar",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 86640
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-62",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/62/high.jpg",
+        "localId": "62",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 87199
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-63",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/63/high.jpg",
+        "localId": "63",
+        "name": "Natu",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 87685
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-64",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/64/high.jpg",
+        "localId": "64",
+        "name": "Oddish",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 87842
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-65",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/65/high.jpg",
+        "localId": "65",
+        "name": "Onix",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 87881
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-66",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/66/high.jpg",
+        "localId": "66",
+        "name": "Pineco",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88127
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-67",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/67/high.jpg",
+        "localId": "67",
+        "name": "Poliwag",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88258
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-68",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/68/high.jpg",
+        "localId": "68",
+        "name": "Poliwhirl",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88266
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-69",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/69/high.jpg",
+        "localId": "69",
+        "name": "Porygon",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88309
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-70",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/70/high.jpg",
+        "localId": "70",
+        "name": "Pupitar",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88449
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-71",
+        "illustrator": "Sachiko Adachi",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/71/high.jpg",
+        "localId": "71",
+        "name": "Remoraid",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88696
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-72",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/72/high.jpg",
+        "localId": "72",
+        "name": "Slowpoke",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89329
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-73",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/73/high.jpg",
+        "localId": "73",
+        "name": "Slugma",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89344
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-74",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/74/high.jpg",
+        "localId": "74",
+        "name": "Snubbull",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89414
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-75",
+        "illustrator": "Sachiko Adachi",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/75/high.jpg",
+        "localId": "75",
+        "name": "Spinarak",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89456
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-76",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/76/high.jpg",
+        "localId": "76",
+        "name": "Sunkern",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89620
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-77",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/77/high.jpg",
+        "localId": "77",
+        "name": "Teddiursa",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89857
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-78",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/78/high.jpg",
+        "localId": "78",
+        "name": "Totodile",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89997
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-79",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/79/high.jpg",
+        "localId": "79",
+        "name": "Wooper",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 90635
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-80",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/80/high.jpg",
+        "localId": "80",
+        "name": "Curse Powder",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 84537
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-81",
+        "illustrator": "Zu-Ka",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/81/high.jpg",
+        "localId": "81",
+        "name": "Energy Recycle System",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85217
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-82",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/82/high.jpg",
+        "localId": "82",
+        "name": "Energy Removal 2",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85223
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-83",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/83/high.jpg",
+        "localId": "83",
+        "name": "Energy Root",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85235
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-84",
+        "illustrator": "Ken Ikuji",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/84/high.jpg",
+        "localId": "84",
+        "name": "Energy Switch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85255
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-85",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ex/ex10/85/high.jpg",
+        "localId": "85",
+        "name": "Fluffy Berry",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85520
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-86",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/86/high.jpg",
+        "localId": "86",
+        "name": "Mary's Request",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 87243
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-87",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/87/high.jpg",
+        "localId": "87",
+        "name": "Poké Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-88",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/88/high.jpg",
+        "localId": "88",
+        "name": "Pokémon Reversal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-89",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/89/high.jpg",
+        "localId": "89",
+        "name": "Professor Elm's Training Method",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88390
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-90",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/90/high.jpg",
+        "localId": "90",
+        "name": "Protective Orb",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88411
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-91",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/91/high.jpg",
+        "localId": "91",
+        "name": "Sitrus Berry",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89231
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-92",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/92/high.jpg",
+        "localId": "92",
+        "name": "Solid Rage",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89419
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-93",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/93/high.jpg",
+        "localId": "93",
+        "name": "Warp Point",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 90479
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-94",
+        "illustrator": "Kai Ishikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/94/high.jpg",
+        "localId": "94",
+        "name": "Energy Search",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85241
+    },
+    {
+        "category": "Trainer",
+        "id": "ex10-95",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/95/high.jpg",
+        "localId": "95",
+        "name": "Potion",
+        "rarity": "Common",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88337
+    },
+    {
+        "category": "Energy",
+        "id": "ex10-96",
+        "illustrator": "Milky Isobe",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/96/high.jpg",
+        "localId": "96",
+        "name": "Darkness Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 84685
+    },
+    {
+        "category": "Energy",
+        "id": "ex10-97",
+        "illustrator": "Milky Isobe",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/97/high.jpg",
+        "localId": "97",
+        "name": "Metal Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 87358
+    },
+    {
+        "category": "Energy",
+        "id": "ex10-98",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/98/high.jpg",
+        "localId": "98",
+        "name": "Boost Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 83939
+    },
+    {
+        "category": "Energy",
+        "id": "ex10-99",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/99/high.jpg",
+        "localId": "99",
+        "name": "Cyclone Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 84540
+    },
+    {
+        "category": "Energy",
+        "id": "ex10-100",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/100/high.jpg",
+        "localId": "100",
+        "name": "Warp Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 90473
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-101",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/101/high.jpg",
+        "localId": "101",
+        "name": "Blissey ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 83926
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-102",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/102/high.jpg",
+        "localId": "102",
+        "name": "Espeon ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85331
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-103",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/103/high.jpg",
+        "localId": "103",
+        "name": "Feraligatr ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85424
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-104",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/104/high.jpg",
+        "localId": "104",
+        "name": "Ho-Oh ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 86128
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-105",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/105/high.jpg",
+        "localId": "105",
+        "name": "Lugia ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 86912
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-106",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/106/high.jpg",
+        "localId": "106",
+        "name": "Meganium ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 87298
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-107",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/107/high.jpg",
+        "localId": "107",
+        "name": "Politoed ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88252
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-108",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/108/high.jpg",
+        "localId": "108",
+        "name": "Scizor ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88967
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-109",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/109/high.jpg",
+        "localId": "109",
+        "name": "Steelix ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89566
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-110",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/110/high.jpg",
+        "localId": "110",
+        "name": "Typhlosion ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 90112
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-111",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/111/high.jpg",
+        "localId": "111",
+        "name": "Tyranitar ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 90125
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-112",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/112/high.jpg",
+        "localId": "112",
+        "name": "Umbreon ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 90154
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-113",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/113/high.jpg",
+        "localId": "113",
+        "name": "Entei Star",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 85275
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-114",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/114/high.jpg",
+        "localId": "114",
+        "name": "Raikou Star",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88537
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-115",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/115/high.jpg",
+        "localId": "115",
+        "name": "Suicune Star",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 89608
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-116",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/116/high.jpg",
+        "localId": "116",
+        "name": "Rocket's Persian ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 88783
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex10-117",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex10/117/high.jpg",
+        "localId": "117",
+        "name": "Celebi ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex10",
+            "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.jpg",
+            "name": "Unseen Forces",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.jpg",
+            "releaseDate": "2005-08-22"
+        },
+        "tcgplayerId": 84150
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "fut2020-1",
+        "illustrator": "The Pokémon Company Art Team",
+        "image": "https://assets.tcgdex.net/en/swsh/fut2020/1/high.jpg",
+        "localId": "1",
+        "name": "Pikachu on the Ball",
+        "rarity": "None",
+        "set": {
+            "id": "fut2020",
+            "logo": "https://assets.tcgdex.net/en/swsh/fut2020/logo.jpg",
+            "name": "Pokémon Futsal 2020",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/fut2020/symbol.jpg",
+            "releaseDate": "2020-09-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "fut2020-2",
+        "illustrator": "The Pokémon Company Art Team",
+        "image": "https://assets.tcgdex.net/en/swsh/fut2020/2/high.jpg",
+        "localId": "2",
+        "name": "Eevee on the Ball",
+        "rarity": "None",
+        "set": {
+            "id": "fut2020",
+            "logo": "https://assets.tcgdex.net/en/swsh/fut2020/logo.jpg",
+            "name": "Pokémon Futsal 2020",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/fut2020/symbol.jpg",
+            "releaseDate": "2020-09-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "fut2020-3",
+        "illustrator": "The Pokémon Company Art Team",
+        "image": "https://assets.tcgdex.net/en/swsh/fut2020/3/high.jpg",
+        "localId": "3",
+        "name": "Grookey on the Ball",
+        "rarity": "None",
+        "set": {
+            "id": "fut2020",
+            "logo": "https://assets.tcgdex.net/en/swsh/fut2020/logo.jpg",
+            "name": "Pokémon Futsal 2020",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/fut2020/symbol.jpg",
+            "releaseDate": "2020-09-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "fut2020-4",
+        "illustrator": "The Pokémon Company Art Team",
+        "image": "https://assets.tcgdex.net/en/swsh/fut2020/4/high.jpg",
+        "localId": "4",
+        "name": "Scorbunny on the Ball",
+        "rarity": "None",
+        "set": {
+            "id": "fut2020",
+            "logo": "https://assets.tcgdex.net/en/swsh/fut2020/logo.jpg",
+            "name": "Pokémon Futsal 2020",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/fut2020/symbol.jpg",
+            "releaseDate": "2020-09-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "fut2020-5",
+        "illustrator": "The Pokémon Company Art Team",
+        "image": "https://assets.tcgdex.net/en/swsh/fut2020/5/high.jpg",
+        "localId": "5",
+        "name": "Sobble on the Ball",
+        "rarity": "None",
+        "set": {
+            "id": "fut2020",
+            "logo": "https://assets.tcgdex.net/en/swsh/fut2020/logo.jpg",
+            "name": "Pokémon Futsal 2020",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/fut2020/symbol.jpg",
+            "releaseDate": "2020-09-11"
+        }
+    }
+]

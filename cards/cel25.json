@@ -1,0 +1,841 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "cel25-1",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/1/high.jpg",
+        "localId": "1",
+        "name": "Ho-Oh",
+        "rarity": "Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250300
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-2",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/2/high.jpg",
+        "localId": "2",
+        "name": "Reshiram",
+        "rarity": "Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250301
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-2A",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "2A",
+        "name": "Blastoise",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-3",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/3/high.jpg",
+        "localId": "3",
+        "name": "Kyogre",
+        "rarity": "Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250298
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-4",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/4/high.jpg",
+        "localId": "4",
+        "name": "Palkia",
+        "rarity": "Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250302
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-4A",
+        "illustrator": "Mitsuhiro Arita",
+        "image": null,
+        "localId": "4A",
+        "name": "Charizard",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-5",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/5/high.jpg",
+        "localId": "5",
+        "name": "Pikachu",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250303
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-6",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/6/high.jpg",
+        "localId": "6",
+        "name": "Flying Pikachu V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250304
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-7",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/7/high.jpg",
+        "localId": "7",
+        "name": "Flying Pikachu VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250305
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-8",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/8/high.jpg",
+        "localId": "8",
+        "name": "Surfing Pikachu V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250306
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-8A",
+        "illustrator": "Kagemaru Himeno",
+        "image": null,
+        "localId": "8A",
+        "name": "Dark Gyarados",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-9",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/9/high.jpg",
+        "localId": "9",
+        "name": "Surfing Pikachu VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250307
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-9A",
+        "illustrator": "Kazuo Yazawa",
+        "image": null,
+        "localId": "9A",
+        "name": "Team Magma's Groudon",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-10",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/10/high.jpg",
+        "localId": "10",
+        "name": "Zekrom",
+        "rarity": "Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250308
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-11",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/11/high.jpg",
+        "localId": "11",
+        "name": "Mew",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250309
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-12",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/12/high.jpg",
+        "localId": "12",
+        "name": "Xerneas",
+        "rarity": "Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250310
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-13",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/13/high.jpg",
+        "localId": "13",
+        "name": "Cosmog",
+        "rarity": "Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250311
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-14",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/14/high.jpg",
+        "localId": "14",
+        "name": "Cosmoem",
+        "rarity": "Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250297
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-15",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/15/high.jpg",
+        "localId": "15",
+        "name": "Lunala",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250312
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-15A4",
+        "illustrator": "Midori Harada",
+        "image": null,
+        "localId": "15A4",
+        "name": "Claydol",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-15A1",
+        "illustrator": "Mitsuhiro Arita",
+        "image": null,
+        "localId": "15A1",
+        "name": "Venusaur",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-15A",
+        "illustrator": "Mitsuhiro Arita",
+        "image": null,
+        "localId": "15A",
+        "name": "Venusaur",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "cel25-15A2",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "15A2",
+        "name": "Here Comes Team Rocket!",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-15A3",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": null,
+        "localId": "15A3",
+        "name": "Rocket's Zapdos",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-16",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/16/high.jpg",
+        "localId": "16",
+        "name": "Zacian V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250313
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-17A",
+        "illustrator": "Masakazu Fukuda",
+        "image": null,
+        "localId": "17A",
+        "name": "Umbreon Star",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-17",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/17/high.jpg",
+        "localId": "17",
+        "name": "Groudon",
+        "rarity": "Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250314
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-18",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/18/high.jpg",
+        "localId": "18",
+        "name": "Zamazenta V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250299
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-19",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/19/high.jpg",
+        "localId": "19",
+        "name": "Yveltal",
+        "rarity": "Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250315
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-20",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/20/high.jpg",
+        "localId": "20",
+        "name": "Dialga",
+        "rarity": "Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250296
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-20A",
+        "illustrator": "Kagemaru Himeno",
+        "image": null,
+        "localId": "20A",
+        "name": "Cleffa",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-21",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/21/high.jpg",
+        "localId": "21",
+        "name": "Solgaleo",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250316
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-22",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/22/high.jpg",
+        "localId": "22",
+        "name": "Lugia",
+        "rarity": "Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250317
+    },
+    {
+        "category": "Trainer",
+        "id": "cel25-23",
+        "illustrator": "KIYOTAKA OSHIYAMA",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/23/high.jpg",
+        "localId": "23",
+        "name": "Professor's Research (Professor Oak)",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "cel25-24",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/swsh/cel25/24/high.jpg",
+        "localId": "24",
+        "name": "Professor's Research (Professor Oak)",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-24A",
+        "illustrator": "Kagemaru Himeno",
+        "image": null,
+        "localId": "24A",
+        "name": "_____'s Pikachu",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-25",
+        "illustrator": "Saki Hayashiro",
+        "image": null,
+        "localId": "25",
+        "name": "Mew",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        },
+        "tcgplayerId": 250295
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-54A",
+        "illustrator": "Shizurow",
+        "image": null,
+        "localId": "54A",
+        "name": "Mewtwo EX",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-60A",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "60A",
+        "name": "Tapu Lele GX",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-66A",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "66A",
+        "name": "Shining Magikarp",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "cel25-73A",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "73A",
+        "name": "Imposter Professor Oak",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-76A",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "76A",
+        "name": "M Rayquaza EX",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "cel25-86A",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "86A",
+        "name": "Rocket's Admin.",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-88A",
+        "illustrator": "Ryo Ueda",
+        "image": null,
+        "localId": "88A",
+        "name": "Mew ex",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-93A",
+        "illustrator": "Masahiko Ishii",
+        "image": null,
+        "localId": "93A",
+        "name": "Gardevoir ex",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-97A",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "97A",
+        "name": "Xerneas EX",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-107A",
+        "illustrator": "Kent Kanetsuna",
+        "image": null,
+        "localId": "107A",
+        "name": "Donphan",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-109A",
+        "illustrator": "Mitsuhiro Arita",
+        "image": null,
+        "localId": "109A",
+        "name": "Luxray GL LV.X",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-113A",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "113A",
+        "name": "Reshiram",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-114A",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "114A",
+        "name": "Zekrom",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "cel25-145A",
+        "illustrator": "Shizurow",
+        "image": null,
+        "localId": "145A",
+        "name": "Garchomp C LV.X",
+        "rarity": "Classic Collection",
+        "set": {
+            "id": "cel25",
+            "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo.jpg",
+            "name": "Celebrations",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol.jpg",
+            "releaseDate": "2021-10-08"
+        }
+    }
+]

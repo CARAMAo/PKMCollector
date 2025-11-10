@@ -1,0 +1,2126 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sm4-1",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/1/high.jpg",
+        "localId": "1",
+        "name": "Weedle",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149022
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-2",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/2/high.jpg",
+        "localId": "2",
+        "name": "Kakuna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149023
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-3",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/3/high.jpg",
+        "localId": "3",
+        "name": "Beedrill",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149024
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-4",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/4/high.jpg",
+        "localId": "4",
+        "name": "Exeggcute",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149025
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-5",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/5/high.jpg",
+        "localId": "5",
+        "name": "Cacnea",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149026
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-6",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/6/high.jpg",
+        "localId": "6",
+        "name": "Cacturne",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149027
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-7",
+        "illustrator": "OOYAMA",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/7/high.jpg",
+        "localId": "7",
+        "name": "Karrablast",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149028
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-8",
+        "illustrator": "OOYAMA",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/8/high.jpg",
+        "localId": "8",
+        "name": "Shelmet",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149029
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-9",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/9/high.jpg",
+        "localId": "9",
+        "name": "Accelgor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149030
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-10",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/10/high.jpg",
+        "localId": "10",
+        "name": "Skiddo",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149031
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-11",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/11/high.jpg",
+        "localId": "11",
+        "name": "Gogoat",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149032
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-12",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/12/high.jpg",
+        "localId": "12",
+        "name": "Alolan Marowak",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149033
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-13",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/13/high.jpg",
+        "localId": "13",
+        "name": "Numel",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149034
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-14",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/14/high.jpg",
+        "localId": "14",
+        "name": "Camerupt",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149035
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-15",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/15/high.jpg",
+        "localId": "15",
+        "name": "Staryu",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149036
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-16",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/16/high.jpg",
+        "localId": "16",
+        "name": "Starmie",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149037
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-17",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/17/high.jpg",
+        "localId": "17",
+        "name": "Magikarp",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149038
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-18",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/18/high.jpg",
+        "localId": "18",
+        "name": "Gyarados GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149039
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-19",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/19/high.jpg",
+        "localId": "19",
+        "name": "Swinub",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149040
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-20",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/20/high.jpg",
+        "localId": "20",
+        "name": "Piloswine",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149041
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-21",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/21/high.jpg",
+        "localId": "21",
+        "name": "Mamoswine",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149042
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-22",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/22/high.jpg",
+        "localId": "22",
+        "name": "Remoraid",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149043
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-23",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/23/high.jpg",
+        "localId": "23",
+        "name": "Octillery",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149044
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-24",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/24/high.jpg",
+        "localId": "24",
+        "name": "Corphish",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149045
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-25",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/25/high.jpg",
+        "localId": "25",
+        "name": "Crawdaunt",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149046
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-26",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/26/high.jpg",
+        "localId": "26",
+        "name": "Feebas",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149047
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-27",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/27/high.jpg",
+        "localId": "27",
+        "name": "Milotic",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149049
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-28",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/28/high.jpg",
+        "localId": "28",
+        "name": "Regice",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149050
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-29",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/29/high.jpg",
+        "localId": "29",
+        "name": "Shellos",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149051
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-30",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/30/high.jpg",
+        "localId": "30",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149053
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-31",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/31/high.jpg",
+        "localId": "31",
+        "name": "Alolan Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149054
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-32",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/32/high.jpg",
+        "localId": "32",
+        "name": "Alolan Geodude",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149055
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-33",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/33/high.jpg",
+        "localId": "33",
+        "name": "Alolan Graveler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149056
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-34",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/34/high.jpg",
+        "localId": "34",
+        "name": "Alolan Golem GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149057
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-35",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/35/high.jpg",
+        "localId": "35",
+        "name": "Emolga",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149058
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-36",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/36/high.jpg",
+        "localId": "36",
+        "name": "Gastly",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149059
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-37",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/37/high.jpg",
+        "localId": "37",
+        "name": "Haunter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149060
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-38",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/38/high.jpg",
+        "localId": "38",
+        "name": "Gengar",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149061
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-39",
+        "illustrator": "so-taro",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/39/high.jpg",
+        "localId": "39",
+        "name": "Misdreavus",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149062
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-40",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/40/high.jpg",
+        "localId": "40",
+        "name": "Mismagius",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149063
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-41",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/41/high.jpg",
+        "localId": "41",
+        "name": "Spoink",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149064
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-42",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/42/high.jpg",
+        "localId": "42",
+        "name": "Grumpig",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149065
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-43",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/43/high.jpg",
+        "localId": "43",
+        "name": "Chimecho",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149066
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-44",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/44/high.jpg",
+        "localId": "44",
+        "name": "Pumpkaboo",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149067
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-45",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/45/high.jpg",
+        "localId": "45",
+        "name": "Gourgeist",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149068
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-46",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/46/high.jpg",
+        "localId": "46",
+        "name": "Salandit",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149069
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-47",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/47/high.jpg",
+        "localId": "47",
+        "name": "Salazzle",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149070
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-48",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/48/high.jpg",
+        "localId": "48",
+        "name": "Oranguru",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149071
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-49",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/49/high.jpg",
+        "localId": "49",
+        "name": "Nihilego GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149072
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-50",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/50/high.jpg",
+        "localId": "50",
+        "name": "Mankey",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149073
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-51",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/51/high.jpg",
+        "localId": "51",
+        "name": "Primeape",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149074
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-52",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/52/high.jpg",
+        "localId": "52",
+        "name": "Cubone",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149075
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-53",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/53/high.jpg",
+        "localId": "53",
+        "name": "Regirock",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149076
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-54",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/54/high.jpg",
+        "localId": "54",
+        "name": "Gastrodon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149077
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-55",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/55/high.jpg",
+        "localId": "55",
+        "name": "Stufful",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149078
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-56",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/56/high.jpg",
+        "localId": "56",
+        "name": "Bewear",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149079
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-57",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/57/high.jpg",
+        "localId": "57",
+        "name": "Buzzwole GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149080
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-58",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/58/high.jpg",
+        "localId": "58",
+        "name": "Houndour",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149081
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-59",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/59/high.jpg",
+        "localId": "59",
+        "name": "Houndoom",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149082
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-60",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/60/high.jpg",
+        "localId": "60",
+        "name": "Deino",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149083
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-61",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/61/high.jpg",
+        "localId": "61",
+        "name": "Zweilous",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149084
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-62",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/62/high.jpg",
+        "localId": "62",
+        "name": "Hydreigon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149085
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-63a",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/63a/high.jpg",
+        "localId": "63a",
+        "name": "Guzzlord-GX",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-63",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/63/high.jpg",
+        "localId": "63",
+        "name": "Guzzlord GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149086
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-64",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/64/high.jpg",
+        "localId": "64",
+        "name": "Mawile",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149087
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-65",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/65/high.jpg",
+        "localId": "65",
+        "name": "Aron",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149088
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-66",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/66/high.jpg",
+        "localId": "66",
+        "name": "Lairon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149089
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-67",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/67/high.jpg",
+        "localId": "67",
+        "name": "Aggron",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149091
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-68",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/68/high.jpg",
+        "localId": "68",
+        "name": "Registeel",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149092
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-69",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/69/high.jpg",
+        "localId": "69",
+        "name": "Escavalier",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149093
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-70",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/70/high.jpg",
+        "localId": "70",
+        "name": "Kartana GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149094
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-71",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/71/high.jpg",
+        "localId": "71",
+        "name": "Jigglypuff",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149097
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-72",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/72/high.jpg",
+        "localId": "72",
+        "name": "Wigglytuff",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149098
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-73",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/73/high.jpg",
+        "localId": "73",
+        "name": "Xerneas",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149099
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-74",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/74/high.jpg",
+        "localId": "74",
+        "name": "Alolan Exeggutor GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149100
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-75",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/75/high.jpg",
+        "localId": "75",
+        "name": "Jangmo-o",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149101
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-76",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/76/high.jpg",
+        "localId": "76",
+        "name": "Hakamo-o",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149102
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-77",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/77/high.jpg",
+        "localId": "77",
+        "name": "Kommo-o",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149103
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-78",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/78/high.jpg",
+        "localId": "78",
+        "name": "Miltank",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149104
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-79",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/79/high.jpg",
+        "localId": "79",
+        "name": "Swablu",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149105
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-80",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/80/high.jpg",
+        "localId": "80",
+        "name": "Altaria",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149106
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-81",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/81/high.jpg",
+        "localId": "81",
+        "name": "Starly",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149107
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-82",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/82/high.jpg",
+        "localId": "82",
+        "name": "Staravia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149299
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-83",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/83/high.jpg",
+        "localId": "83",
+        "name": "Staraptor",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149108
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-84",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/84/high.jpg",
+        "localId": "84",
+        "name": "Regigigas",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149109
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-85",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/85/high.jpg",
+        "localId": "85",
+        "name": "Minccino",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149110
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-86",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/86/high.jpg",
+        "localId": "86",
+        "name": "Cinccino",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149111
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-87",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/87/high.jpg",
+        "localId": "87",
+        "name": "Bunnelby",
+        "rarity": "Common",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149112
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-88",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/88/high.jpg",
+        "localId": "88",
+        "name": "Diggersby",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149113
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-89",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/89/high.jpg",
+        "localId": "89",
+        "name": "Type: Null",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149114
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-90",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/90/high.jpg",
+        "localId": "90",
+        "name": "Silvally GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149115
+    },
+    {
+        "category": "Trainer",
+        "id": "sm4-91",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/91/high.jpg",
+        "localId": "91",
+        "name": "Counter Catcher",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149116
+    },
+    {
+        "category": "Trainer",
+        "id": "sm4-92",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/92/high.jpg",
+        "localId": "92",
+        "name": "Dashing Pouch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149117
+    },
+    {
+        "category": "Trainer",
+        "id": "sm4-93",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/93/high.jpg",
+        "localId": "93",
+        "name": "Devoured Field",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149118
+    },
+    {
+        "category": "Trainer",
+        "id": "sm4-94",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/94/high.jpg",
+        "localId": "94",
+        "name": "Fighting Memory",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149119
+    },
+    {
+        "category": "Trainer",
+        "id": "sm4-95",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/95/high.jpg",
+        "localId": "95",
+        "name": "Gladion",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149120
+    },
+    {
+        "category": "Trainer",
+        "id": "sm4-96",
+        "illustrator": "take",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/96/high.jpg",
+        "localId": "96",
+        "name": "Lusamine",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149121
+    },
+    {
+        "category": "Trainer",
+        "id": "sm4-97",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/97/high.jpg",
+        "localId": "97",
+        "name": "Peeking Red Card",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149122
+    },
+    {
+        "category": "Trainer",
+        "id": "sm4-98",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/98/high.jpg",
+        "localId": "98",
+        "name": "Psychic Memory",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149123
+    },
+    {
+        "category": "Trainer",
+        "id": "sm4-99",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/99/high.jpg",
+        "localId": "99",
+        "name": "Sea of Nothingness",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149124
+    },
+    {
+        "category": "Energy",
+        "id": "sm4-100",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm4/100/high.jpg",
+        "localId": "100",
+        "name": "Counter Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149125
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-101",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/101/high.jpg",
+        "localId": "101",
+        "name": "Gyarados GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149126
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-102",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/102/high.jpg",
+        "localId": "102",
+        "name": "Alolan Golem GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149128
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-103",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/103/high.jpg",
+        "localId": "103",
+        "name": "Nihilego GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149130
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-104",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/104/high.jpg",
+        "localId": "104",
+        "name": "Buzzwole GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149132
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-105",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/105/high.jpg",
+        "localId": "105",
+        "name": "Guzzlord GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149134
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-106",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/106/high.jpg",
+        "localId": "106",
+        "name": "Kartana GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149136
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-107",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/107/high.jpg",
+        "localId": "107",
+        "name": "Alolan Exeggutor GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149138
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-108",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/108/high.jpg",
+        "localId": "108",
+        "name": "Silvally GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149140
+    },
+    {
+        "category": "Trainer",
+        "id": "sm4-109",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/109/high.jpg",
+        "localId": "109",
+        "name": "Gladion",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149142
+    },
+    {
+        "category": "Trainer",
+        "id": "sm4-110",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/110/high.jpg",
+        "localId": "110",
+        "name": "Lusamine",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149143
+    },
+    {
+        "category": "Trainer",
+        "id": "sm4-111",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/111/high.jpg",
+        "localId": "111",
+        "name": "Olivia",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149144
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-112",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/112/high.jpg",
+        "localId": "112",
+        "name": "Gyarados GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149127
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-113",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/113/high.jpg",
+        "localId": "113",
+        "name": "Alolan Golem GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149129
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-114",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/114/high.jpg",
+        "localId": "114",
+        "name": "Nihilego GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149131
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-115",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/115/high.jpg",
+        "localId": "115",
+        "name": "Buzzwole GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149133
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-116",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/116/high.jpg",
+        "localId": "116",
+        "name": "Guzzlord GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149135
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-117",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/117/high.jpg",
+        "localId": "117",
+        "name": "Kartana GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149137
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-118",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/118/high.jpg",
+        "localId": "118",
+        "name": "Alolan Exeggutor GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149139
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm4-119",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/119/high.jpg",
+        "localId": "119",
+        "name": "Silvally GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149141
+    },
+    {
+        "category": "Trainer",
+        "id": "sm4-120",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/120/high.jpg",
+        "localId": "120",
+        "name": "Counter Catcher",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149145
+    },
+    {
+        "category": "Trainer",
+        "id": "sm4-121",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm4/121/high.jpg",
+        "localId": "121",
+        "name": "Wishful Baton",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149146
+    },
+    {
+        "category": "Energy",
+        "id": "sm4-122",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm4/122/high.jpg",
+        "localId": "122",
+        "name": "Counter Energy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149147
+    },
+    {
+        "category": "Energy",
+        "id": "sm4-123",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm4/123/high.jpg",
+        "localId": "123",
+        "name": "Warp Energy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149148
+    },
+    {
+        "category": "Energy",
+        "id": "sm4-124",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm4/124/high.jpg",
+        "localId": "124",
+        "name": "Water Energy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm4",
+            "logo": "https://assets.tcgdex.net/en/sm/sm4/logo.jpg",
+            "name": "Crimson Invasion",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm4/symbol.jpg",
+            "releaseDate": "2017-11-03"
+        },
+        "tcgplayerId": 149149
+    }
+]

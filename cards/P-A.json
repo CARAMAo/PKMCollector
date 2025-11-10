@@ -1,0 +1,1402 @@
+[
+    {
+        "category": "Trainer",
+        "id": "P-A-001",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/001/high.jpg",
+        "localId": "001",
+        "name": "Potion",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "P-A-002",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/002/high.jpg",
+        "localId": "002",
+        "name": "X Speed",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "P-A-003",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/003/high.jpg",
+        "localId": "003",
+        "name": "Hand Scope",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "P-A-004",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/004/high.jpg",
+        "localId": "004",
+        "name": "Pokédex",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "P-A-005",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/005/high.jpg",
+        "localId": "005",
+        "name": "Poké Ball",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "P-A-006",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/006/high.jpg",
+        "localId": "006",
+        "name": "Red Card",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "P-A-007",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/007/high.jpg",
+        "localId": "007",
+        "name": "Professor's Research",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "P-A-008",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/008/high.jpg",
+        "localId": "008",
+        "name": "Pokédex",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-009",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/009/high.jpg",
+        "localId": "009",
+        "name": "Pikachu",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-010",
+        "illustrator": "Krgc",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/010/high.jpg",
+        "localId": "010",
+        "name": "Mewtwo",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-011",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/011/high.jpg",
+        "localId": "011",
+        "name": "Chansey",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-012",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/012/high.jpg",
+        "localId": "012",
+        "name": "Meowth",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-013",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/013/high.jpg",
+        "localId": "013",
+        "name": "Butterfree",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-014",
+        "illustrator": "PLANETA CG Works",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/014/high.jpg",
+        "localId": "014",
+        "name": "Lapras ex",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-015",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/015/high.jpg",
+        "localId": "015",
+        "name": "Pikachu",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-016",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/016/high.jpg",
+        "localId": "016",
+        "name": "Clefairy",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-017",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/017/high.jpg",
+        "localId": "017",
+        "name": "Mankey",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-018",
+        "illustrator": "Kuroimori",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/018/high.jpg",
+        "localId": "018",
+        "name": "Venusaur",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-019",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/019/high.jpg",
+        "localId": "019",
+        "name": "Greninja",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-020",
+        "illustrator": "Mékayu",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/020/high.jpg",
+        "localId": "020",
+        "name": "Haunter",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-021",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/021/high.jpg",
+        "localId": "021",
+        "name": "Onix",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-022",
+        "illustrator": "Kurata So",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/022/high.jpg",
+        "localId": "022",
+        "name": "Jigglypuff",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-023",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/023/high.jpg",
+        "localId": "023",
+        "name": "Bulbasaur",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-024",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/024/high.jpg",
+        "localId": "024",
+        "name": "Magnemite",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-025",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/025/high.jpg",
+        "localId": "025",
+        "name": "Moltres ex",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-026",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/026/high.jpg",
+        "localId": "026",
+        "name": "Pikachu",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-027",
+        "illustrator": "Yoriyuki Ikegami",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/027/high.jpg",
+        "localId": "027",
+        "name": "Snivy",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-028",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/028/high.jpg",
+        "localId": "028",
+        "name": "Volcarona",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-029",
+        "illustrator": "danciao",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/029/high.jpg",
+        "localId": "029",
+        "name": "Blastoise",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-030",
+        "illustrator": "En Morikura",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/030/high.jpg",
+        "localId": "030",
+        "name": "Eevee",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-031",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/031/high.jpg",
+        "localId": "031",
+        "name": "Cinccino",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-032",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/032/high.jpg",
+        "localId": "032",
+        "name": "Charmander",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-033",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/033/high.jpg",
+        "localId": "033",
+        "name": "Squirtle",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-034",
+        "illustrator": "Kariya",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/034/high.jpg",
+        "localId": "034",
+        "name": "Piplup",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-035",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/035/high.jpg",
+        "localId": "035",
+        "name": "Turtwig",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-036",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/036/high.jpg",
+        "localId": "036",
+        "name": "Electivire",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-037",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/037/high.jpg",
+        "localId": "037",
+        "name": "Cresselia ex",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-038",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/038/high.jpg",
+        "localId": "038",
+        "name": "Misdreavus",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-039",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/039/high.jpg",
+        "localId": "039",
+        "name": "Skarmory",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-040",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/040/high.jpg",
+        "localId": "040",
+        "name": "Chimchar",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-041",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/041/high.jpg",
+        "localId": "041",
+        "name": "Togepi",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-042",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/042/high.jpg",
+        "localId": "042",
+        "name": "Darkrai ex",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-043",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/043/high.jpg",
+        "localId": "043",
+        "name": "Cherrim",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-044",
+        "illustrator": "Kazumasa Yasukuni",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/044/high.jpg",
+        "localId": "044",
+        "name": "Raichu",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-045",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/045/high.jpg",
+        "localId": "045",
+        "name": "Nosepass",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-046",
+        "illustrator": "Uninori",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/046/high.jpg",
+        "localId": "046",
+        "name": "Gible",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-047",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/047/high.jpg",
+        "localId": "047",
+        "name": "Staraptor",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-048",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/048/high.jpg",
+        "localId": "048",
+        "name": "Manaphy",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-049",
+        "illustrator": "okayamatakatoshi",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/049/high.jpg",
+        "localId": "049",
+        "name": "Snorlax",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-050",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/050/high.jpg",
+        "localId": "050",
+        "name": "Mewtwo ex",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-051",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/051/high.jpg",
+        "localId": "051",
+        "name": "Cyclizar",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-052",
+        "illustrator": "MINAMINAMI Take",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/052/high.jpg",
+        "localId": "052",
+        "name": "Sprigatito",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-053",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/053/high.jpg",
+        "localId": "053",
+        "name": "Floatzel",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-054",
+        "illustrator": "REND",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/054/high.jpg",
+        "localId": "054",
+        "name": "Pawmot",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-055",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/055/high.jpg",
+        "localId": "055",
+        "name": "Machamp",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-056",
+        "illustrator": "Krgc",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/056/high.jpg",
+        "localId": "056",
+        "name": "Ekans",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-057",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/057/high.jpg",
+        "localId": "057",
+        "name": "Bidoof",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-058",
+        "illustrator": "OOYAMA",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/058/high.jpg",
+        "localId": "058",
+        "name": "Pachirisu",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-059",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/059/high.jpg",
+        "localId": "059",
+        "name": "Riolu",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-060",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/060/high.jpg",
+        "localId": "060",
+        "name": "Exeggcute",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-061",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/061/high.jpg",
+        "localId": "061",
+        "name": "Froakie",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-062",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/062/high.jpg",
+        "localId": "062",
+        "name": "Farfetch'd",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-063",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/063/high.jpg",
+        "localId": "063",
+        "name": "Rayquaza",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-064",
+        "illustrator": "PLANETA CG Works",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/064/high.jpg",
+        "localId": "064",
+        "name": "Rayquaza ex",
+        "rarity": "Four Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-065",
+        "illustrator": "PLANETA CG Works",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/065/high.jpg",
+        "localId": "065",
+        "name": "Rayquaza ex",
+        "rarity": "Two Star",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-066",
+        "illustrator": "Amelicart",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/066/high.jpg",
+        "localId": "066",
+        "name": "Mimikyu",
+        "rarity": "One Star",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-067",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/067/high.jpg",
+        "localId": "067",
+        "name": "Cosmog",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-068",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/068/high.jpg",
+        "localId": "068",
+        "name": "Lycanroc",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-069",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/069/high.jpg",
+        "localId": "069",
+        "name": "Alolan Exeggutor",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-070",
+        "illustrator": "tono",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/070/high.jpg",
+        "localId": "070",
+        "name": "Alolan Ninetales",
+        "rarity": "One Star",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-071",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/071/high.jpg",
+        "localId": "071",
+        "name": "Crabrawler",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-072",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/072/high.jpg",
+        "localId": "072",
+        "name": "Alolan Grimer",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-073",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/tcgp/P-A/073/high.jpg",
+        "localId": "073",
+        "name": "Toucannon",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-074",
+        "illustrator": "GIDORA",
+        "image": null,
+        "localId": "074",
+        "name": "Zeraora",
+        "rarity": "One Star",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-075",
+        "illustrator": "Hasuno",
+        "image": null,
+        "localId": "075",
+        "name": "Kartana",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-076",
+        "illustrator": "Hasuno",
+        "image": null,
+        "localId": "076",
+        "name": "Blacephalon",
+        "rarity": "None",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-077",
+        "illustrator": "Shin Nagasawa",
+        "image": null,
+        "localId": "077",
+        "name": "Xurkitree",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-078",
+        "illustrator": "nagimiso",
+        "image": null,
+        "localId": "078",
+        "name": "Dawn Wings Necrozma",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-079",
+        "illustrator": "nagimiso",
+        "image": null,
+        "localId": "079",
+        "name": "Dusk Mane Necrozma",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-080",
+        "illustrator": "Shin Nagasawa",
+        "image": null,
+        "localId": "080",
+        "name": "Stakataka",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-081",
+        "illustrator": "PLANETA Tsuji",
+        "image": null,
+        "localId": "081",
+        "name": "Ultra Necrozma ex",
+        "rarity": "Four Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-082",
+        "illustrator": "Megumi Mizutani",
+        "image": null,
+        "localId": "082",
+        "name": "Poipole",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-083",
+        "illustrator": "Kanako Eo",
+        "image": null,
+        "localId": "083",
+        "name": "Stufful",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-084",
+        "illustrator": "PLANETA Tsuji",
+        "image": null,
+        "localId": "084",
+        "name": "Tapu Koko ex",
+        "rarity": "Four Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-085",
+        "illustrator": "OOYAMA",
+        "image": null,
+        "localId": "085",
+        "name": "Vanillite",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-086",
+        "illustrator": "Mizue",
+        "image": null,
+        "localId": "086",
+        "name": "Jolteon",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-087",
+        "illustrator": "Tika Matsuno",
+        "image": null,
+        "localId": "087",
+        "name": "Alcremie",
+        "rarity": "One Star",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-088",
+        "illustrator": "Shinya Komatsu",
+        "image": null,
+        "localId": "088",
+        "name": "Dragonair",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-089",
+        "illustrator": "MAHOU",
+        "image": null,
+        "localId": "089",
+        "name": "Audino",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-090",
+        "illustrator": "sowsow",
+        "image": null,
+        "localId": "090",
+        "name": "Togedemaru",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-091",
+        "illustrator": "HYOGONOSUKE",
+        "image": null,
+        "localId": "091",
+        "name": "Greedent",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-092",
+        "illustrator": "nisimono",
+        "image": null,
+        "localId": "092",
+        "name": "Eevee",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-093",
+        "illustrator": "Tika Matsuno",
+        "image": null,
+        "localId": "093",
+        "name": "Cleffa",
+        "rarity": "One Star",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-094",
+        "illustrator": "Taira Akitsu",
+        "image": null,
+        "localId": "094",
+        "name": "Horsea",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-095",
+        "illustrator": "Aya Kusube",
+        "image": null,
+        "localId": "095",
+        "name": "Chinchou",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-096",
+        "illustrator": "Kagemaru Himeno",
+        "image": null,
+        "localId": "096",
+        "name": "Houndoom",
+        "rarity": "One Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-097",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "097",
+        "name": "Kangaskhan",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-098",
+        "illustrator": "PLANETA CG Works",
+        "image": null,
+        "localId": "098",
+        "name": "Blissey ex",
+        "rarity": "Four Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-099",
+        "illustrator": "Shibuzoh.",
+        "image": null,
+        "localId": "099",
+        "name": "Marill",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "P-A-100",
+        "illustrator": "Satoshi Shirai",
+        "image": null,
+        "localId": "100",
+        "name": "Weavile",
+        "rarity": "Three Diamond",
+        "set": {
+            "id": "P-A",
+            "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo.jpg",
+            "name": "Promos-A"
+        }
+    }
+]

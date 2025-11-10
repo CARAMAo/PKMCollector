@@ -1,0 +1,1920 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "xy12-1",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/1/high.jpg",
+        "localId": "1",
+        "name": "Venusaur EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124014
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-2",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/2/high.jpg",
+        "localId": "2",
+        "name": "M Venusaur EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124015
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-3",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/3/high.jpg",
+        "localId": "3",
+        "name": "Caterpie",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124016
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-4",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/4/high.jpg",
+        "localId": "4",
+        "name": "Metapod",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124017
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-5",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/5/high.jpg",
+        "localId": "5",
+        "name": "Weedle",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124018
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-6",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/6/high.jpg",
+        "localId": "6",
+        "name": "Kakuna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124019
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-7",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/7/high.jpg",
+        "localId": "7",
+        "name": "Beedrill",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124020
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-8",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/8/high.jpg",
+        "localId": "8",
+        "name": "Tangela",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124021
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-9",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/9/high.jpg",
+        "localId": "9",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124022
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-10",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/10/high.jpg",
+        "localId": "10",
+        "name": "Charmeleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124023
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-11",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/11/high.jpg",
+        "localId": "11",
+        "name": "Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124026
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-12",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/12/high.jpg",
+        "localId": "12",
+        "name": "Charizard EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124024
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-13",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/13/high.jpg",
+        "localId": "13",
+        "name": "M Charizard EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124025
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-14",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/14/high.jpg",
+        "localId": "14",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124027
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-15",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/15/high.jpg",
+        "localId": "15",
+        "name": "Ninetales",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124028
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-16",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/16/high.jpg",
+        "localId": "16",
+        "name": "Ninetales BREAK",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124029
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-17",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/17/high.jpg",
+        "localId": "17",
+        "name": "Growlithe",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124030
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-18",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/18/high.jpg",
+        "localId": "18",
+        "name": "Arcanine",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124031
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-19",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/19/high.jpg",
+        "localId": "19",
+        "name": "Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124032
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-20",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/20/high.jpg",
+        "localId": "20",
+        "name": "Magmar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124033
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-21",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/21/high.jpg",
+        "localId": "21",
+        "name": "Blastoise EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124034
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-22",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/22/high.jpg",
+        "localId": "22",
+        "name": "M Blastoise EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124035
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-23",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/23/high.jpg",
+        "localId": "23",
+        "name": "Poliwag",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124036
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-24",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/24/high.jpg",
+        "localId": "24",
+        "name": "Poliwhirl",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124037
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-25",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/25/high.jpg",
+        "localId": "25",
+        "name": "Poliwrath",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124038
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-26",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/26/high.jpg",
+        "localId": "26",
+        "name": "Slowbro EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124039
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-27",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/27/high.jpg",
+        "localId": "27",
+        "name": "M Slowbro EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124040
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-28",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/28/high.jpg",
+        "localId": "28",
+        "name": "Seel",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124041
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-29",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/29/high.jpg",
+        "localId": "29",
+        "name": "Dewgong",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124042
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-30",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/30/high.jpg",
+        "localId": "30",
+        "name": "Staryu",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124043
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-31",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/31/high.jpg",
+        "localId": "31",
+        "name": "Starmie",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124044
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-32",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/32/high.jpg",
+        "localId": "32",
+        "name": "Starmie BREAK",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124045
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-33",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/33/high.jpg",
+        "localId": "33",
+        "name": "Magikarp",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124046
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-34",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/34/high.jpg",
+        "localId": "34",
+        "name": "Gyarados",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124047
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-35",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/35/high.jpg",
+        "localId": "35",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124048
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-36",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/36/high.jpg",
+        "localId": "36",
+        "name": "Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124049
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-37",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/37/high.jpg",
+        "localId": "37",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124050
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-38",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/38/high.jpg",
+        "localId": "38",
+        "name": "Magneton",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124051
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-39",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/39/high.jpg",
+        "localId": "39",
+        "name": "Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124052
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-40",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/40/high.jpg",
+        "localId": "40",
+        "name": "Electrode",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124053
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-41",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/41/high.jpg",
+        "localId": "41",
+        "name": "Electabuzz",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124054
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-42",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/42/high.jpg",
+        "localId": "42",
+        "name": "Zapdos",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124055
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-43",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/43/high.jpg",
+        "localId": "43",
+        "name": "Nidoran♂",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-44",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/44/high.jpg",
+        "localId": "44",
+        "name": "Nidorino",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124057
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-45",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/45/high.jpg",
+        "localId": "45",
+        "name": "Nidoking",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124058
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-46",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/46/high.jpg",
+        "localId": "46",
+        "name": "Nidoking BREAK",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124059
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-47",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/47/high.jpg",
+        "localId": "47",
+        "name": "Gastly",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124061
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-48",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/48/high.jpg",
+        "localId": "48",
+        "name": "Haunter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124060
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-49",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/49/high.jpg",
+        "localId": "49",
+        "name": "Drowzee",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124062
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-50",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/50/high.jpg",
+        "localId": "50",
+        "name": "Koffing",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124063
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-51",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/51/high.jpg",
+        "localId": "51",
+        "name": "Mewtwo",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124064
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-52",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/52/high.jpg",
+        "localId": "52",
+        "name": "Mewtwo EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124065
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-53",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/53/high.jpg",
+        "localId": "53",
+        "name": "Mew",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124066
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-54",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/54/high.jpg",
+        "localId": "54",
+        "name": "Sandshrew",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124067
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-55",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/55/high.jpg",
+        "localId": "55",
+        "name": "Diglett",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124068
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-56",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/56/high.jpg",
+        "localId": "56",
+        "name": "Dugtrio",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124069
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-57",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/57/high.jpg",
+        "localId": "57",
+        "name": "Machop",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124070
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-58",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/58/high.jpg",
+        "localId": "58",
+        "name": "Machoke",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124071
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-59",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/59/high.jpg",
+        "localId": "59",
+        "name": "Machamp",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124072
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-60",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/60/high.jpg",
+        "localId": "60",
+        "name": "Machamp BREAK",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124073
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-61",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/61/high.jpg",
+        "localId": "61",
+        "name": "Onix",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124074
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-62",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/62/high.jpg",
+        "localId": "62",
+        "name": "Hitmonchan",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124075
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-63",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/63/high.jpg",
+        "localId": "63",
+        "name": "Clefairy",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124076
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-64",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/64/high.jpg",
+        "localId": "64",
+        "name": "Pidgeot EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124077
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-65",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/65/high.jpg",
+        "localId": "65",
+        "name": "M Pidgeot EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124078
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-66",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/66/high.jpg",
+        "localId": "66",
+        "name": "Rattata",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124079
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-67",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/67/high.jpg",
+        "localId": "67",
+        "name": "Raticate",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124080
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-68",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/68/high.jpg",
+        "localId": "68",
+        "name": "Farfetch'd",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124081
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-69",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/69/high.jpg",
+        "localId": "69",
+        "name": "Doduo",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124082
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-70",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/70/high.jpg",
+        "localId": "70",
+        "name": "Chansey",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124083
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-71",
+        "illustrator": "Tomoaki Imakuni",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/71/high.jpg",
+        "localId": "71",
+        "name": "Porygon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124084
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-72",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/72/high.jpg",
+        "localId": "72",
+        "name": "Dragonite EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124085
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-73",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/73/high.jpg",
+        "localId": "73",
+        "name": "Blastoise Spirit Link",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124086
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-74",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/74/high.jpg",
+        "localId": "74",
+        "name": "Brock's Grit",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124087
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-75",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/75/high.jpg",
+        "localId": "75",
+        "name": "Charizard Spirit Link",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124088
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-76",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/76/high.jpg",
+        "localId": "76",
+        "name": "Devolution Spray",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124089
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-77",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/77/high.jpg",
+        "localId": "77",
+        "name": "Energy Retrieval",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124090
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-78",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/78/high.jpg",
+        "localId": "78",
+        "name": "Full Heal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124091
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-79",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/79/high.jpg",
+        "localId": "79",
+        "name": "Maintenance",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124092
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-80",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/80/high.jpg",
+        "localId": "80",
+        "name": "Misty's Determination",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124093
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-81",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/81/high.jpg",
+        "localId": "81",
+        "name": "Pidgeot Spirit Link",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124094
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-82",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/82/high.jpg",
+        "localId": "82",
+        "name": "Pokédex",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-83",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/83/high.jpg",
+        "localId": "83",
+        "name": "Potion",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124096
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-84",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/84/high.jpg",
+        "localId": "84",
+        "name": "Professor Oak's Hint",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124097
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-85",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/85/high.jpg",
+        "localId": "85",
+        "name": "Revive",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124098
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-86",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/86/high.jpg",
+        "localId": "86",
+        "name": "Slowbro Spirit Link",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124099
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-87",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/87/high.jpg",
+        "localId": "87",
+        "name": "Super Potion",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124100
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-88",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/88/high.jpg",
+        "localId": "88",
+        "name": "Switch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124101
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-89",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/89/high.jpg",
+        "localId": "89",
+        "name": "Venusaur Spirit Link",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124102
+    },
+    {
+        "category": "Energy",
+        "id": "xy12-90",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/90/high.jpg",
+        "localId": "90",
+        "name": "Double Colorless Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124103
+    },
+    {
+        "category": "Energy",
+        "id": "xy12-91",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/xy/xy12/91/high.jpg",
+        "localId": "91",
+        "name": "Grass Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124104
+    },
+    {
+        "category": "Energy",
+        "id": "xy12-92",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/xy/xy12/92/high.jpg",
+        "localId": "92",
+        "name": "Fire Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124105
+    },
+    {
+        "category": "Energy",
+        "id": "xy12-93",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/xy/xy12/93/high.jpg",
+        "localId": "93",
+        "name": "Water Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124106
+    },
+    {
+        "category": "Energy",
+        "id": "xy12-94",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/xy/xy12/94/high.jpg",
+        "localId": "94",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124107
+    },
+    {
+        "category": "Energy",
+        "id": "xy12-95",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/xy/xy12/95/high.jpg",
+        "localId": "95",
+        "name": "Psychic Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124108
+    },
+    {
+        "category": "Energy",
+        "id": "xy12-96",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/xy/xy12/96/high.jpg",
+        "localId": "96",
+        "name": "Fighting Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124109
+    },
+    {
+        "category": "Energy",
+        "id": "xy12-97",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/xy/xy12/97/high.jpg",
+        "localId": "97",
+        "name": "Darkness Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124110
+    },
+    {
+        "category": "Energy",
+        "id": "xy12-98",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/xy/xy12/98/high.jpg",
+        "localId": "98",
+        "name": "Metal Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124111
+    },
+    {
+        "category": "Energy",
+        "id": "xy12-99",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/xy/xy12/99/high.jpg",
+        "localId": "99",
+        "name": "Fairy Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124112
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-100",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/100/high.jpg",
+        "localId": "100",
+        "name": "M Venusaur EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124113
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-101",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/101/high.jpg",
+        "localId": "101",
+        "name": "M Charizard EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124114
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-102",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/102/high.jpg",
+        "localId": "102",
+        "name": "M Blastoise EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124115
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-103",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/103/high.jpg",
+        "localId": "103",
+        "name": "Mewtwo EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124116
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-104",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/104/high.jpg",
+        "localId": "104",
+        "name": "Pidgeot EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124117
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-105",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/105/high.jpg",
+        "localId": "105",
+        "name": "M Pidgeot EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124118
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-106",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/106/high.jpg",
+        "localId": "106",
+        "name": "Dragonite EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124119
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-107",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/107/high.jpg",
+        "localId": "107",
+        "name": "Brock's Grit",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124120
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-108",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/108/high.jpg",
+        "localId": "108",
+        "name": "Misty's Determination",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124121
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-109",
+        "illustrator": "Dr.Ooyama",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/109/high.jpg",
+        "localId": "109",
+        "name": "ナッシー[Exeggutor]",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-110",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/110/high.jpg",
+        "localId": "110",
+        "name": "Flying Pikachu",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124123
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-111",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/111/high.jpg",
+        "localId": "111",
+        "name": "Surfing Pikachu",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124124
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy12-112",
+        "illustrator": "Imakuni?",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/112/high.jpg",
+        "localId": "112",
+        "name": "Imakuni?'s Doduo",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124125
+    },
+    {
+        "category": "Trainer",
+        "id": "xy12-113",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy12/113/high.jpg",
+        "localId": "113",
+        "name": "Here Comes Team Rocket!",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "xy12",
+            "logo": "https://assets.tcgdex.net/en/xy/xy12/logo.jpg",
+            "name": "Evolutions",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy12/symbol.jpg",
+            "releaseDate": "2016-11-02"
+        },
+        "tcgplayerId": 124126
+    }
+]

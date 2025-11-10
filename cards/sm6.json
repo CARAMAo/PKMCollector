@@ -1,0 +1,2475 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sm6-1",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/1/high.jpg",
+        "localId": "1",
+        "name": "Exeggcute",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165648
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-2",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/2/high.jpg",
+        "localId": "2",
+        "name": "Alolan Exeggutor",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165649
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-3",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/3/high.jpg",
+        "localId": "3",
+        "name": "Snover",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165650
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-4",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/4/high.jpg",
+        "localId": "4",
+        "name": "Abomasnow",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165651
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-5",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/5/high.jpg",
+        "localId": "5",
+        "name": "Scatterbug",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165652
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-6",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/6/high.jpg",
+        "localId": "6",
+        "name": "Scatterbug",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165653
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-7",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/7/high.jpg",
+        "localId": "7",
+        "name": "Spewpa",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165654
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-8",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/8/high.jpg",
+        "localId": "8",
+        "name": "Vivillon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165655
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-9",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/9/high.jpg",
+        "localId": "9",
+        "name": "Skiddo",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165656
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-10",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/10/high.jpg",
+        "localId": "10",
+        "name": "Gogoat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165657
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-11",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/11/high.jpg",
+        "localId": "11",
+        "name": "Pheromosa",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165658
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-12",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/12/high.jpg",
+        "localId": "12",
+        "name": "Alolan Marowak",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165659
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-13",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/13/high.jpg",
+        "localId": "13",
+        "name": "Heatran",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165660
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-14",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/14/high.jpg",
+        "localId": "14",
+        "name": "Fennekin",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165661
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-15",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/15/high.jpg",
+        "localId": "15",
+        "name": "Fennekin",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165662
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-16",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/16/high.jpg",
+        "localId": "16",
+        "name": "Braixen",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165663
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-17",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/17/high.jpg",
+        "localId": "17",
+        "name": "Delphox",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165664
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-18",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/18/high.jpg",
+        "localId": "18",
+        "name": "Litleo",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165665
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-19",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/19/high.jpg",
+        "localId": "19",
+        "name": "Pyroar",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165666
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-20",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/20/high.jpg",
+        "localId": "20",
+        "name": "Palkia GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165667
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-21",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/21/high.jpg",
+        "localId": "21",
+        "name": "Froakie",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165670
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-22",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/22/high.jpg",
+        "localId": "22",
+        "name": "Froakie",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165671
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-23",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/23/high.jpg",
+        "localId": "23",
+        "name": "Frogadier",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165672
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-24",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/24/high.jpg",
+        "localId": "24",
+        "name": "Greninja GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165673
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-25",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/25/high.jpg",
+        "localId": "25",
+        "name": "Clauncher",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165676
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-26",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/26/high.jpg",
+        "localId": "26",
+        "name": "Clawitzer",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165677
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-27",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/27/high.jpg",
+        "localId": "27",
+        "name": "Amaura",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165678
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-28",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/28/high.jpg",
+        "localId": "28",
+        "name": "Aurorus",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165679
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-29",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/29/high.jpg",
+        "localId": "29",
+        "name": "Bergmite",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165680
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-30",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/30/high.jpg",
+        "localId": "30",
+        "name": "Avalugg",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165681
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-31",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/31/high.jpg",
+        "localId": "31",
+        "name": "Volcanion ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-32",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/32/high.jpg",
+        "localId": "32",
+        "name": "Dewpider",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165683
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-33",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/33/high.jpg",
+        "localId": "33",
+        "name": "Araquanid",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165684
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-34",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/34/high.jpg",
+        "localId": "34",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165685
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-35",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/35/high.jpg",
+        "localId": "35",
+        "name": "Magneton",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165686
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-36",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/36/high.jpg",
+        "localId": "36",
+        "name": "Magnezone",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165687
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-37",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/37/high.jpg",
+        "localId": "37",
+        "name": "Helioptile",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165688
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-38",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/38/high.jpg",
+        "localId": "38",
+        "name": "Heliolisk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165689
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-39",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/39/high.jpg",
+        "localId": "39",
+        "name": "Xurkitree",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165690
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-40",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/40/high.jpg",
+        "localId": "40",
+        "name": "Rotom",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165691
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-41",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/41/high.jpg",
+        "localId": "41",
+        "name": "Uxie",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165692
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-42",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/42/high.jpg",
+        "localId": "42",
+        "name": "Mesprit",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165693
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-43",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/43/high.jpg",
+        "localId": "43",
+        "name": "Azelf",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165694
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-44",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/44/high.jpg",
+        "localId": "44",
+        "name": "Espurr",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165695
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-45",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/45/high.jpg",
+        "localId": "45",
+        "name": "Meowstic",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165696
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-46",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/46/high.jpg",
+        "localId": "46",
+        "name": "Honedge",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165697
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-47",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/47/high.jpg",
+        "localId": "47",
+        "name": "Honedge",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165698
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-48",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/48/high.jpg",
+        "localId": "48",
+        "name": "Doublade",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165699
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-49",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/49/high.jpg",
+        "localId": "49",
+        "name": "Aegislash",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165700
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-50",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/50/high.jpg",
+        "localId": "50",
+        "name": "Inkay",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 166464
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-51",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/51/high.jpg",
+        "localId": "51",
+        "name": "Malamar",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165701
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-52",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/52/high.jpg",
+        "localId": "52",
+        "name": "Skrelp",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165702
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-53",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/53/high.jpg",
+        "localId": "53",
+        "name": "Dragalge",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165703
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-54",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/54/high.jpg",
+        "localId": "54",
+        "name": "Hoopa",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165704
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-55",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/55/high.jpg",
+        "localId": "55",
+        "name": "Poipole",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165705
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-56",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/56/high.jpg",
+        "localId": "56",
+        "name": "Naganadel GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165706
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-57",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/57/high.jpg",
+        "localId": "57",
+        "name": "Cubone",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165709
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-58",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/58/high.jpg",
+        "localId": "58",
+        "name": "Torterra",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165710
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-59",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/59/high.jpg",
+        "localId": "59",
+        "name": "Infernape",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165711
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-60",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/60/high.jpg",
+        "localId": "60",
+        "name": "Gible",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165712
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-61",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/61/high.jpg",
+        "localId": "61",
+        "name": "Gabite",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165713
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-62",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/62/high.jpg",
+        "localId": "62",
+        "name": "Garchomp",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165714
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-63",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/63/high.jpg",
+        "localId": "63",
+        "name": "Croagunk",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165715
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-64",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/64/high.jpg",
+        "localId": "64",
+        "name": "Toxicroak",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165716
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-65",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/65/high.jpg",
+        "localId": "65",
+        "name": "Pancham",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165717
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-66",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/66/high.jpg",
+        "localId": "66",
+        "name": "Binacle",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165718
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-67",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/67/high.jpg",
+        "localId": "67",
+        "name": "Barbaracle",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165719
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-68",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/68/high.jpg",
+        "localId": "68",
+        "name": "Tyrunt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165720
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-69",
+        "illustrator": "hatachu",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/69/high.jpg",
+        "localId": "69",
+        "name": "Tyrantrum",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165721
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-70",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/70/high.jpg",
+        "localId": "70",
+        "name": "Hawlucha",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165722
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-71",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/71/high.jpg",
+        "localId": "71",
+        "name": "Zygarde",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165723
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-72",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/72/high.jpg",
+        "localId": "72",
+        "name": "Zygarde",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165724
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-73",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/73/high.jpg",
+        "localId": "73",
+        "name": "Zygarde GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165725
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-74",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/74/high.jpg",
+        "localId": "74",
+        "name": "Diancie ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-75",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/75/high.jpg",
+        "localId": "75",
+        "name": "Rockruff",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165729
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-76",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/76/high.jpg",
+        "localId": "76",
+        "name": "Lycanroc",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165730
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-77",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/77/high.jpg",
+        "localId": "77",
+        "name": "Buzzwole",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165731
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-78",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/78/high.jpg",
+        "localId": "78",
+        "name": "Pangoro",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165732
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-79",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/79/high.jpg",
+        "localId": "79",
+        "name": "Yveltal GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165733
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-80",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/80/high.jpg",
+        "localId": "80",
+        "name": "Guzzlord",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165736
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-81",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/81/high.jpg",
+        "localId": "81",
+        "name": "Empoleon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165737
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-82",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "82",
+        "name": "Dialga GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165738
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-83",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/83/high.jpg",
+        "localId": "83",
+        "name": "Flabébé",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-84",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/84/high.jpg",
+        "localId": "84",
+        "name": "Flabébé",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-85",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/85/high.jpg",
+        "localId": "85",
+        "name": "Floette",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165743
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-86",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/86/high.jpg",
+        "localId": "86",
+        "name": "Florges",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165744
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-87",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/87/high.jpg",
+        "localId": "87",
+        "name": "Sylveon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165745
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-88",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/88/high.jpg",
+        "localId": "88",
+        "name": "Dedenne",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165746
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-89",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/89/high.jpg",
+        "localId": "89",
+        "name": "Klefki",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165747
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-90",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "90",
+        "name": "Xerneas GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165748
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-91",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/91/high.jpg",
+        "localId": "91",
+        "name": "Goomy",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165751
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-92",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/92/high.jpg",
+        "localId": "92",
+        "name": "Goomy",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165752
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-93",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/93/high.jpg",
+        "localId": "93",
+        "name": "Sliggoo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165753
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-94",
+        "illustrator": "hatachu",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/94/high.jpg",
+        "localId": "94",
+        "name": "Goodra",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165754
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-95",
+        "illustrator": "PLANETA Otani",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/95/high.jpg",
+        "localId": "95",
+        "name": "Ultra Necrozma GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165755
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-96",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/96/high.jpg",
+        "localId": "96",
+        "name": "Arceus ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-97",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/97/high.jpg",
+        "localId": "97",
+        "name": "Bunnelby",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165759
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-98",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/98/high.jpg",
+        "localId": "98",
+        "name": "Diggersby",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165760
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-99",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/99/high.jpg",
+        "localId": "99",
+        "name": "Furfrou",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165761
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-100",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/100/high.jpg",
+        "localId": "100",
+        "name": "Noibat",
+        "rarity": "Common",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165762
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-101",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/101/high.jpg",
+        "localId": "101",
+        "name": "Noivern",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165763
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-102",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/102/high.jpg",
+        "localId": "102",
+        "name": "Beast Ring",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165764
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-103",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/103/high.jpg",
+        "localId": "103",
+        "name": "Bonnie",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165767
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-104",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/104/high.jpg",
+        "localId": "104",
+        "name": "Crasher Wake",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165782
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-105",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/105/high.jpg",
+        "localId": "105",
+        "name": "Diantha",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165768
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-106",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/106/high.jpg",
+        "localId": "106",
+        "name": "Eneporter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165785
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-107",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/107/high.jpg",
+        "localId": "107",
+        "name": "Fossil Excavation Map",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165770
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-108",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/108/high.jpg",
+        "localId": "108",
+        "name": "Judge",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165771
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-109",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/109/high.jpg",
+        "localId": "109",
+        "name": "Lady",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165772
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-110",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/110/high.jpg",
+        "localId": "110",
+        "name": "Lysandre ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-111",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/111/high.jpg",
+        "localId": "111",
+        "name": "Lysandre Labs",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165774
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-112",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/112/high.jpg",
+        "localId": "112",
+        "name": "Metal Frying Pan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165786
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-113",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/113/high.jpg",
+        "localId": "113",
+        "name": "Mysterious Treasure",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165789
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-114",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/114/high.jpg",
+        "localId": "114",
+        "name": "Ultra Recon Squad",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165775
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-115",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/115/high.jpg",
+        "localId": "115",
+        "name": "Ultra Space",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165777
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-116",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/116/high.jpg",
+        "localId": "116",
+        "name": "Unidentified Fossil",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165778
+    },
+    {
+        "category": "Energy",
+        "id": "sm6-117",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm6/117/high.jpg",
+        "localId": "117",
+        "name": "Beast Energy ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sm6-118",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm6/118/high.jpg",
+        "localId": "118",
+        "name": "Unit Energy FightingDarknessFairy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-119",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/119/high.jpg",
+        "localId": "119",
+        "name": "Palkia GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165668
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-120",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/120/high.jpg",
+        "localId": "120",
+        "name": "Greninja GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165674
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-121",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/121/high.jpg",
+        "localId": "121",
+        "name": "Naganadel GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165707
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-122",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "122",
+        "name": "Lucario GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165780
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-123",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/123/high.jpg",
+        "localId": "123",
+        "name": "Zygarde GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165726
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-124",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/124/high.jpg",
+        "localId": "124",
+        "name": "Yveltal GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165734
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-125",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/125/high.jpg",
+        "localId": "125",
+        "name": "Dialga GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165739
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-126",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "126",
+        "name": "Xerneas GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165749
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-127",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/127/high.jpg",
+        "localId": "127",
+        "name": "Ultra Necrozma GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165756
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-128",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/128/high.jpg",
+        "localId": "128",
+        "name": "Bonnie",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165766
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-129",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/129/high.jpg",
+        "localId": "129",
+        "name": "Crasher Wake",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165783
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-130",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/130/high.jpg",
+        "localId": "130",
+        "name": "Diantha",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165769
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-131",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/131/high.jpg",
+        "localId": "131",
+        "name": "Ultra Recon Squad",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165776
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-132",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/132/high.jpg",
+        "localId": "132",
+        "name": "Palkia GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165669
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-133",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/133/high.jpg",
+        "localId": "133",
+        "name": "Greninja GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165675
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-134",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "134",
+        "name": "Naganadel GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165708
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-135",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/135/high.jpg",
+        "localId": "135",
+        "name": "Lucario GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165781
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-136",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/136/high.jpg",
+        "localId": "136",
+        "name": "Zygarde GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165727
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-137",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/137/high.jpg",
+        "localId": "137",
+        "name": "Yveltal GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165735
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-138",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/138/high.jpg",
+        "localId": "138",
+        "name": "Dialga GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165740
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-139",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/139/high.jpg",
+        "localId": "139",
+        "name": "Xerneas GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165750
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm6-140",
+        "illustrator": "PLANETA Igarashi",
+        "image": null,
+        "localId": "140",
+        "name": "Ultra Necrozma GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165757
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-141",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/141/high.jpg",
+        "localId": "141",
+        "name": "Beast Ring",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165765
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-142",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/142/high.jpg",
+        "localId": "142",
+        "name": "Eneporter",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165784
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-143",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/143/high.jpg",
+        "localId": "143",
+        "name": "Energy Recycler",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165792
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-144",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/144/high.jpg",
+        "localId": "144",
+        "name": "Metal Frying Pan",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165787
+    },
+    {
+        "category": "Trainer",
+        "id": "sm6-145",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sm/sm6/145/high.jpg",
+        "localId": "145",
+        "name": "Mysterious Treasure",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        },
+        "tcgplayerId": 165788
+    },
+    {
+        "category": "Energy",
+        "id": "sm6-146",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm6/146/high.jpg",
+        "localId": "146",
+        "name": "Unit Energy FightingDarknessFairy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm6",
+            "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.jpg",
+            "name": "Forbidden Light",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.jpg",
+            "releaseDate": "2018-05-04"
+        }
+    }
+]

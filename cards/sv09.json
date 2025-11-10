@@ -1,0 +1,3042 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sv09-001",
+        "illustrator": "Shimaris Yukichi",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/001/high.jpg",
+        "localId": "001",
+        "name": "Caterpie",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-002",
+        "illustrator": "OKUBO",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/002/high.jpg",
+        "localId": "002",
+        "name": "Metapod",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-003",
+        "illustrator": "satoma",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/003/high.jpg",
+        "localId": "003",
+        "name": "Butterfree",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-004",
+        "illustrator": "Ayako Ozaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/004/high.jpg",
+        "localId": "004",
+        "name": "Paras",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-005",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/005/high.jpg",
+        "localId": "005",
+        "name": "Parasect",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-006",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/006/high.jpg",
+        "localId": "006",
+        "name": "Petilil",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-007",
+        "illustrator": "Jiro Sasumo",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/007/high.jpg",
+        "localId": "007",
+        "name": "Lilligant",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-008",
+        "illustrator": "Dsuke",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/008/high.jpg",
+        "localId": "008",
+        "name": "Maractus",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-009",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/009/high.jpg",
+        "localId": "009",
+        "name": "Karrablast",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-010",
+        "illustrator": "Saboteri",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/010/high.jpg",
+        "localId": "010",
+        "name": "Foongus",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-011",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/011/high.jpg",
+        "localId": "011",
+        "name": "Amoonguss ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-012",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/012/high.jpg",
+        "localId": "012",
+        "name": "Shelmet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-013",
+        "illustrator": "Kazumasa Yasukuni",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/013/high.jpg",
+        "localId": "013",
+        "name": "Accelgor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-014",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/014/high.jpg",
+        "localId": "014",
+        "name": "Durant",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-015",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/015/high.jpg",
+        "localId": "015",
+        "name": "Virizion",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-016",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/016/high.jpg",
+        "localId": "016",
+        "name": "Sprigatito",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-017",
+        "illustrator": "Felicia Chen",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/017/high.jpg",
+        "localId": "017",
+        "name": "Floragato",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-018",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/018/high.jpg",
+        "localId": "018",
+        "name": "Meowscarada",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-019",
+        "illustrator": "Ayako Ozaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/019/high.jpg",
+        "localId": "019",
+        "name": "Nymble",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-020",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/020/high.jpg",
+        "localId": "020",
+        "name": "Magmar",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-021",
+        "illustrator": "Tonji Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/021/high.jpg",
+        "localId": "021",
+        "name": "Magmortar",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-022",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/022/high.jpg",
+        "localId": "022",
+        "name": "Torchic",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-023",
+        "illustrator": "Fujimoto Gold",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/023/high.jpg",
+        "localId": "023",
+        "name": "Combusken",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-024",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/024/high.jpg",
+        "localId": "024",
+        "name": "Blaziken ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-025",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/025/high.jpg",
+        "localId": "025",
+        "name": "Torkoal",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-026",
+        "illustrator": "Gemi",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/026/high.jpg",
+        "localId": "026",
+        "name": "N's Darumaka",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-027",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/027/high.jpg",
+        "localId": "027",
+        "name": "N's Darmanitan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-028",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/028/high.jpg",
+        "localId": "028",
+        "name": "Larvesta",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-029",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/029/high.jpg",
+        "localId": "029",
+        "name": "Volcarona",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-030",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/030/high.jpg",
+        "localId": "030",
+        "name": "Reshiram ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-031",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/031/high.jpg",
+        "localId": "031",
+        "name": "Volcanion ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-032",
+        "illustrator": "Takumi Wada",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/032/high.jpg",
+        "localId": "032",
+        "name": "Articuno",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-033",
+        "illustrator": "Minahamu",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/033/high.jpg",
+        "localId": "033",
+        "name": "Remoraid",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-034",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/034/high.jpg",
+        "localId": "034",
+        "name": "Octillery",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-035",
+        "illustrator": "Ayako Ozaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/035/high.jpg",
+        "localId": "035",
+        "name": "Lotad",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-036",
+        "illustrator": "Mousho",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/036/high.jpg",
+        "localId": "036",
+        "name": "Lombre",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-037",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/037/high.jpg",
+        "localId": "037",
+        "name": "Ludicolo",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-038",
+        "illustrator": "Mékayu",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/038/high.jpg",
+        "localId": "038",
+        "name": "Wingull",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-039",
+        "illustrator": "Nelnal",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/039/high.jpg",
+        "localId": "039",
+        "name": "Pelipper",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-040",
+        "illustrator": "Shinya Mizuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/040/high.jpg",
+        "localId": "040",
+        "name": "Wailmer",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-041",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/041/high.jpg",
+        "localId": "041",
+        "name": "Wailord",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-042",
+        "illustrator": "Takumi Wada",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/042/high.jpg",
+        "localId": "042",
+        "name": "Regice",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-043",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/043/high.jpg",
+        "localId": "043",
+        "name": "Veluza ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-044",
+        "illustrator": "svlt",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/044/high.jpg",
+        "localId": "044",
+        "name": "Alolan Geodude",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-045",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/045/high.jpg",
+        "localId": "045",
+        "name": "Alolan Graveler",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-046",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/046/high.jpg",
+        "localId": "046",
+        "name": "Alolan Golem",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-047",
+        "illustrator": "Kazumasa Yasukuni",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/047/high.jpg",
+        "localId": "047",
+        "name": "Iono's Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-048",
+        "illustrator": "GOTO minori",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/048/high.jpg",
+        "localId": "048",
+        "name": "Iono's Electrode",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-049",
+        "illustrator": "Iori Suzuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/049/high.jpg",
+        "localId": "049",
+        "name": "N's Joltik",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-050",
+        "illustrator": "Susumu Maeya",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/050/high.jpg",
+        "localId": "050",
+        "name": "Togedemaru",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-051",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/051/high.jpg",
+        "localId": "051",
+        "name": "Tapu Koko ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-052",
+        "illustrator": "kurumitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/052/high.jpg",
+        "localId": "052",
+        "name": "Iono's Tadbulb",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-053",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/053/high.jpg",
+        "localId": "053",
+        "name": "Iono's Bellibolt ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-054",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/054/high.jpg",
+        "localId": "054",
+        "name": "Iono's Wattrel",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-055",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/055/high.jpg",
+        "localId": "055",
+        "name": "Iono's Kilowattrel",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-056",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/056/high.jpg",
+        "localId": "056",
+        "name": "Lillie's Clefairy ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-057",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/057/high.jpg",
+        "localId": "057",
+        "name": "Alolan Marowak",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-058",
+        "illustrator": "GOTO minori",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/058/high.jpg",
+        "localId": "058",
+        "name": "Mr. Mime",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-059",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/059/high.jpg",
+        "localId": "059",
+        "name": "Shuppet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-060",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/060/high.jpg",
+        "localId": "060",
+        "name": "Banette",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-061",
+        "illustrator": "Izucch",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/061/high.jpg",
+        "localId": "061",
+        "name": "Beldum",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-062",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/062/high.jpg",
+        "localId": "062",
+        "name": "Metang",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-063",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/063/high.jpg",
+        "localId": "063",
+        "name": "Metagross",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-064",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/064/high.jpg",
+        "localId": "064",
+        "name": "N's Sigilyph",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-065",
+        "illustrator": "aspara",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/065/high.jpg",
+        "localId": "065",
+        "name": "Oricorio",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-066",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/066/high.jpg",
+        "localId": "066",
+        "name": "Lillie's Cutiefly",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-067",
+        "illustrator": "mashu",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/067/high.jpg",
+        "localId": "067",
+        "name": "Lillie's Ribombee",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-068",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/068/high.jpg",
+        "localId": "068",
+        "name": "Lillie's Comfey",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-069",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/069/high.jpg",
+        "localId": "069",
+        "name": "Mimikyu ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-070",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/070/high.jpg",
+        "localId": "070",
+        "name": "Dhelmise",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-071",
+        "illustrator": "Haru Akasaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/071/high.jpg",
+        "localId": "071",
+        "name": "Impidimp",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-072",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/072/high.jpg",
+        "localId": "072",
+        "name": "Morgrem",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-073",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/073/high.jpg",
+        "localId": "073",
+        "name": "Grimmsnarl",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-074",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/074/high.jpg",
+        "localId": "074",
+        "name": "Milcery",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-075",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/075/high.jpg",
+        "localId": "075",
+        "name": "Alcremie ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-076",
+        "illustrator": "Mugi Hamada",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/076/high.jpg",
+        "localId": "076",
+        "name": "Cubone",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-077",
+        "illustrator": "REND",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/077/high.jpg",
+        "localId": "077",
+        "name": "Swinub",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-078",
+        "illustrator": "Aliya Chen",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/078/high.jpg",
+        "localId": "078",
+        "name": "Piloswine",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-079",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/079/high.jpg",
+        "localId": "079",
+        "name": "Mamoswine ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-080",
+        "illustrator": "Dsuke",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/080/high.jpg",
+        "localId": "080",
+        "name": "Larvitar",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-081",
+        "illustrator": "Scav",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/081/high.jpg",
+        "localId": "081",
+        "name": "Pupitar",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-082",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/082/high.jpg",
+        "localId": "082",
+        "name": "Regirock",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-083",
+        "illustrator": "Yuriko Akase",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/083/high.jpg",
+        "localId": "083",
+        "name": "Pancham",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-084",
+        "illustrator": "Yoshimi Miyoshi",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/084/high.jpg",
+        "localId": "084",
+        "name": "Rockruff",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-085",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/085/high.jpg",
+        "localId": "085",
+        "name": "Lycanroc",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-086",
+        "illustrator": "aspara",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/086/high.jpg",
+        "localId": "086",
+        "name": "Hop's Silicobra",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-087",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/087/high.jpg",
+        "localId": "087",
+        "name": "Hop's Sandaconda",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-088",
+        "illustrator": "osare",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/088/high.jpg",
+        "localId": "088",
+        "name": "Toedscool",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-089",
+        "illustrator": "Masako Tomii",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/089/high.jpg",
+        "localId": "089",
+        "name": "Toedscruel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-090",
+        "illustrator": "Shinya Komatsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/090/high.jpg",
+        "localId": "090",
+        "name": "Klawf",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-091",
+        "illustrator": "Rond",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/091/high.jpg",
+        "localId": "091",
+        "name": "Koffing",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-092",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/092/high.jpg",
+        "localId": "092",
+        "name": "Weezing",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-093",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/093/high.jpg",
+        "localId": "093",
+        "name": "Paldean Wooper",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-094",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/094/high.jpg",
+        "localId": "094",
+        "name": "Paldean Clodsire ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-095",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/095/high.jpg",
+        "localId": "095",
+        "name": "Tyranitar",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-096",
+        "illustrator": "Keisin",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/096/high.jpg",
+        "localId": "096",
+        "name": "N's Purrloin",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-097",
+        "illustrator": "Jiro Sasumo",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/097/high.jpg",
+        "localId": "097",
+        "name": "N's Zorua",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-098",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/098/high.jpg",
+        "localId": "098",
+        "name": "N's Zoroark ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-099",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/099/high.jpg",
+        "localId": "099",
+        "name": "Pangoro",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-100",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/100/high.jpg",
+        "localId": "100",
+        "name": "Lokix",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-101",
+        "illustrator": "Gemi",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/101/high.jpg",
+        "localId": "101",
+        "name": "Bombirdier",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-102",
+        "illustrator": "Takumi Wada",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/102/high.jpg",
+        "localId": "102",
+        "name": "Escavalier",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-103",
+        "illustrator": "Saboteri",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/103/high.jpg",
+        "localId": "103",
+        "name": "N's Klink",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-104",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/104/high.jpg",
+        "localId": "104",
+        "name": "N's Klang",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-105",
+        "illustrator": "matazo",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/105/high.jpg",
+        "localId": "105",
+        "name": "N's Klinklang",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-106",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/106/high.jpg",
+        "localId": "106",
+        "name": "Galarian Stunfisk",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-107",
+        "illustrator": "rika",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/107/high.jpg",
+        "localId": "107",
+        "name": "Magearna",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-108",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/108/high.jpg",
+        "localId": "108",
+        "name": "Hop's Corviknight",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-109",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/109/high.jpg",
+        "localId": "109",
+        "name": "Cufant",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-110",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/110/high.jpg",
+        "localId": "110",
+        "name": "Copperajah",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-111",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/111/high.jpg",
+        "localId": "111",
+        "name": "Hop's Zacian ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-112",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/112/high.jpg",
+        "localId": "112",
+        "name": "Bagon",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-113",
+        "illustrator": "Julie Hang",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/113/high.jpg",
+        "localId": "113",
+        "name": "Shelgon",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-114",
+        "illustrator": "toriyufu",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/114/high.jpg",
+        "localId": "114",
+        "name": "Salamence ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-115",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/115/high.jpg",
+        "localId": "115",
+        "name": "Druddigon",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-116",
+        "illustrator": "rika",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/116/high.jpg",
+        "localId": "116",
+        "name": "N's Reshiram",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-117",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/117/high.jpg",
+        "localId": "117",
+        "name": "Hop's Snorlax",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-118",
+        "illustrator": "Taiga Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/118/high.jpg",
+        "localId": "118",
+        "name": "Sentret",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-119",
+        "illustrator": "Tomomi Ozaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/119/high.jpg",
+        "localId": "119",
+        "name": "Furret",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-120",
+        "illustrator": "Asako Ito",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/120/high.jpg",
+        "localId": "120",
+        "name": "Dunsparce",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-121",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/121/high.jpg",
+        "localId": "121",
+        "name": "Dudunsparce ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-122",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/122/high.jpg",
+        "localId": "122",
+        "name": "Kecleon",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-123",
+        "illustrator": "Atsuya Uki",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/123/high.jpg",
+        "localId": "123",
+        "name": "Tropius",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-124",
+        "illustrator": "Minahamu",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/124/high.jpg",
+        "localId": "124",
+        "name": "Audino",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-125",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/125/high.jpg",
+        "localId": "125",
+        "name": "Minccino",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-126",
+        "illustrator": "En Morikura",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/126/high.jpg",
+        "localId": "126",
+        "name": "Cinccino",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-127",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/127/high.jpg",
+        "localId": "127",
+        "name": "Noibat",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-128",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/128/high.jpg",
+        "localId": "128",
+        "name": "Noivern",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-129",
+        "illustrator": "Natsumi Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/129/high.jpg",
+        "localId": "129",
+        "name": "Komala",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-130",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/130/high.jpg",
+        "localId": "130",
+        "name": "Drampa",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-131",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/131/high.jpg",
+        "localId": "131",
+        "name": "Skwovet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-132",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/132/high.jpg",
+        "localId": "132",
+        "name": "Greedent",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-133",
+        "illustrator": "Shinya Mizuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/133/high.jpg",
+        "localId": "133",
+        "name": "Hop's Rookidee",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-134",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/134/high.jpg",
+        "localId": "134",
+        "name": "Hop's Corvisquire",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-135",
+        "illustrator": "Tomomi Ozaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/135/high.jpg",
+        "localId": "135",
+        "name": "Hop's Wooloo",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-136",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/136/high.jpg",
+        "localId": "136",
+        "name": "Hop's Dubwool",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-137",
+        "illustrator": "Tomomi Ozaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/137/high.jpg",
+        "localId": "137",
+        "name": "Cramorant",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-138",
+        "illustrator": "Saboteri",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/138/high.jpg",
+        "localId": "138",
+        "name": "Hop's Cramorant",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-139",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/139/high.jpg",
+        "localId": "139",
+        "name": "Lechonk",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-140",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/140/high.jpg",
+        "localId": "140",
+        "name": "Oinkologne",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-141",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/141/high.jpg",
+        "localId": "141",
+        "name": "Squawkabilly",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-142",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/142/high.jpg",
+        "localId": "142",
+        "name": "Billy & O'Nare",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-143",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/143/high.jpg",
+        "localId": "143",
+        "name": "Black Belt's Training",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-144",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/144/high.jpg",
+        "localId": "144",
+        "name": "Black Belt's Training",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-145",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/145/high.jpg",
+        "localId": "145",
+        "name": "Black Belt's Training",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-146",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/146/high.jpg",
+        "localId": "146",
+        "name": "Brock's Scouting",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-147",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/147/high.jpg",
+        "localId": "147",
+        "name": "Hop's Bag",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-148",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/148/high.jpg",
+        "localId": "148",
+        "name": "Hop's Choice Band",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-149",
+        "illustrator": "yuu",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/149/high.jpg",
+        "localId": "149",
+        "name": "Iris's Fighting Spirit",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-150",
+        "illustrator": "MARINA Chikazawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/150/high.jpg",
+        "localId": "150",
+        "name": "Levincia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-151",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/151/high.jpg",
+        "localId": "151",
+        "name": "Lillie's Pearl",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-152",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/152/high.jpg",
+        "localId": "152",
+        "name": "N's Castle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-153",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/153/high.jpg",
+        "localId": "153",
+        "name": "N's PP Up",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-154",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/154/high.jpg",
+        "localId": "154",
+        "name": "Postwick",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-155",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/155/high.jpg",
+        "localId": "155",
+        "name": "Professor's Research",
+        "rarity": "Common",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-156",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/156/high.jpg",
+        "localId": "156",
+        "name": "Redeemable Ticket",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-157",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/157/high.jpg",
+        "localId": "157",
+        "name": "Ruffian",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-158",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/158/high.jpg",
+        "localId": "158",
+        "name": "Super Potion",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sv09-159",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv09/159/high.jpg",
+        "localId": "159",
+        "name": "Spiky Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-160",
+        "illustrator": "Ounishi",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/160/high.jpg",
+        "localId": "160",
+        "name": "Maractus",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-161",
+        "illustrator": "Kuroimori",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/161/high.jpg",
+        "localId": "161",
+        "name": "Articuno",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-162",
+        "illustrator": "Katsunori Sato",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/162/high.jpg",
+        "localId": "162",
+        "name": "Wailord",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-163",
+        "illustrator": "Terada Tera",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/163/high.jpg",
+        "localId": "163",
+        "name": "Iono's Kilowattrel",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-164",
+        "illustrator": "saino misaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/164/high.jpg",
+        "localId": "164",
+        "name": "Lillie's Ribombee",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-165",
+        "illustrator": "Nakamura Ippan",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/165/high.jpg",
+        "localId": "165",
+        "name": "Swinub",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-166",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/166/high.jpg",
+        "localId": "166",
+        "name": "Lycanroc",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-167",
+        "illustrator": "Bun Toujo",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/167/high.jpg",
+        "localId": "167",
+        "name": "N's Reshiram",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-168",
+        "illustrator": "REND",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/168/high.jpg",
+        "localId": "168",
+        "name": "Furret",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-169",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/169/high.jpg",
+        "localId": "169",
+        "name": "Noibat",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-170",
+        "illustrator": "MINAMINAMI Take",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/170/high.jpg",
+        "localId": "170",
+        "name": "Hop's Wooloo",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-171",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/171/high.jpg",
+        "localId": "171",
+        "name": "Volcanion ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-172",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/172/high.jpg",
+        "localId": "172",
+        "name": "Iono's Bellibolt ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-173",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/173/high.jpg",
+        "localId": "173",
+        "name": "Lillie's Clefairy ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-174",
+        "illustrator": "N-DESIGN Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/174/high.jpg",
+        "localId": "174",
+        "name": "Mamoswine ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-175",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/175/high.jpg",
+        "localId": "175",
+        "name": "N's Zoroark ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-176",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/176/high.jpg",
+        "localId": "176",
+        "name": "Hop's Zacian ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-177",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/177/high.jpg",
+        "localId": "177",
+        "name": "Salamence ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-178",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/178/high.jpg",
+        "localId": "178",
+        "name": "Dudunsparce ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-179",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/179/high.jpg",
+        "localId": "179",
+        "name": "Brock's Scouting",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-180",
+        "illustrator": "yuu",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/180/high.jpg",
+        "localId": "180",
+        "name": "Iris's Fighting Spirit",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv09-181",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/181/high.jpg",
+        "localId": "181",
+        "name": "Ruffian",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-182",
+        "illustrator": "akagi",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/182/high.jpg",
+        "localId": "182",
+        "name": "Volcanion ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-183",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/183/high.jpg",
+        "localId": "183",
+        "name": "Iono's Bellibolt ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-184",
+        "illustrator": "Susumu Maeya",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/184/high.jpg",
+        "localId": "184",
+        "name": "Lillie's Clefairy ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-185",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/185/high.jpg",
+        "localId": "185",
+        "name": "N's Zoroark ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-186",
+        "illustrator": "DOM",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/186/high.jpg",
+        "localId": "186",
+        "name": "Hop's Zacian ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-187",
+        "illustrator": "Tsuyoshi Nagano",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/187/high.jpg",
+        "localId": "187",
+        "name": "Salamence ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-188",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/188/high.jpg",
+        "localId": "188",
+        "name": "Iono's Bellibolt ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv09-189",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv09/189/high.jpg",
+        "localId": "189",
+        "name": "N's Zoroark ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sv09-190",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv09/190/high.jpg",
+        "localId": "190",
+        "name": "Spiky Energy",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv09",
+            "logo": "https://assets.tcgdex.net/en/sv/sv09/logo.jpg",
+            "name": "Journey Together",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv09/symbol.jpg",
+            "releaseDate": "2025-03-28"
+        }
+    }
+]

@@ -1,0 +1,1168 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-1",
+        "illustrator": "tetsuya koizumi",
+        "image": null,
+        "localId": "1",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175263
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-2",
+        "illustrator": "kodama",
+        "image": null,
+        "localId": "2",
+        "name": "Charmeleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175269
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-3",
+        "illustrator": "Ryota Murayama",
+        "image": null,
+        "localId": "3",
+        "name": "Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175270
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-4",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "4",
+        "name": "Torchic",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175272
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-5",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "5",
+        "name": "Combusken",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175273
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-6",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "6",
+        "name": "Blaziken",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175274
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-7",
+        "illustrator": "Shin Nagasawa",
+        "image": null,
+        "localId": "7",
+        "name": "Victini \u25c7",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-8",
+        "illustrator": "Mitsuhiro Arita",
+        "image": null,
+        "localId": "8",
+        "name": "Darumaka",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175276
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-9",
+        "illustrator": "Masakazu Fukuda",
+        "image": null,
+        "localId": "9",
+        "name": "Darmanitan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175277
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-10",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "10",
+        "name": "Heatmor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175312
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-11",
+        "illustrator": "PLANETA Otani",
+        "image": null,
+        "localId": "11",
+        "name": "Reshiram GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175347
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-12",
+        "illustrator": "Ryota Murayama",
+        "image": null,
+        "localId": "12",
+        "name": "Litten",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175348
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-13",
+        "illustrator": "MAHOU",
+        "image": null,
+        "localId": "13",
+        "name": "Salandit",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175365
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-14",
+        "illustrator": "Naoki Saito",
+        "image": null,
+        "localId": "14",
+        "name": "Salazzle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175366
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-15",
+        "illustrator": "Yukiko Baba",
+        "image": null,
+        "localId": "15",
+        "name": "Horsea",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175369
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-16",
+        "illustrator": "Mizue",
+        "image": null,
+        "localId": "16",
+        "name": "Horsea",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175371
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-17",
+        "illustrator": "Yumi",
+        "image": null,
+        "localId": "17",
+        "name": "Seadra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175379
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-18",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "18",
+        "name": "Kingdra GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175380
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-19",
+        "illustrator": "Sekio",
+        "image": null,
+        "localId": "19",
+        "name": "Magikarp",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175381
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-20",
+        "illustrator": "kawayoo",
+        "image": null,
+        "localId": "20",
+        "name": "Gyarados",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175382
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-21",
+        "illustrator": "Saya Tsuruta",
+        "image": null,
+        "localId": "21",
+        "name": "Lapras",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175383
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-22",
+        "illustrator": "Hironobu Yoshida",
+        "image": null,
+        "localId": "22",
+        "name": "Totodile",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175384
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-23",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "23",
+        "name": "Croconaw",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175385
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-24",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "24",
+        "name": "Feraligatr",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175386
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-25",
+        "illustrator": "Shibuzoh.",
+        "image": null,
+        "localId": "25",
+        "name": "Wooper",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175387
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-26",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "26",
+        "name": "Quagsire",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175392
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-27",
+        "illustrator": "Kagemaru Himeno",
+        "image": null,
+        "localId": "27",
+        "name": "Corsola",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175400
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-28",
+        "illustrator": "Shin Nagasawa",
+        "image": null,
+        "localId": "28",
+        "name": "Feebas",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175403
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-29",
+        "illustrator": "hatachu",
+        "image": null,
+        "localId": "29",
+        "name": "Milotic",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175412
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-30",
+        "illustrator": "kawayoo",
+        "image": null,
+        "localId": "30",
+        "name": "Phione",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175416
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-31",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "31",
+        "name": "Wishiwashi",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175417
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-32",
+        "illustrator": "Naoyo Kimura",
+        "image": null,
+        "localId": "32",
+        "name": "Trapinch",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175425
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-33",
+        "illustrator": "Masakazu Fukuda",
+        "image": null,
+        "localId": "33",
+        "name": "Hydreigon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175431
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-34",
+        "illustrator": "Ayaka Yoshida",
+        "image": null,
+        "localId": "34",
+        "name": "Dratini",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175438
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-35",
+        "illustrator": "Anesaki Dynamic",
+        "image": null,
+        "localId": "35",
+        "name": "Dratini",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175439
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-36",
+        "illustrator": "sui",
+        "image": null,
+        "localId": "36",
+        "name": "Dragonair",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175441
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-37",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "37",
+        "name": "Dragonite GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175450
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-38",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "38",
+        "name": "Vibrava",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175451
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-39",
+        "illustrator": "Shigenori Negishi",
+        "image": null,
+        "localId": "39",
+        "name": "Flygon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175456
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-40",
+        "illustrator": "Kyoko Umemoto",
+        "image": null,
+        "localId": "40",
+        "name": "Altaria",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175459
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-41",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "41",
+        "name": "Altaria GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175467
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-42",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "42",
+        "name": "Bagon",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175468
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-43",
+        "illustrator": "Yuka Morii",
+        "image": null,
+        "localId": "43",
+        "name": "Shelgon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175469
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-44",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "44",
+        "name": "Salamence GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175472
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-45",
+        "illustrator": "Mitsuhiro Arita",
+        "image": null,
+        "localId": "45",
+        "name": "Druddigon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175473
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-46",
+        "illustrator": "Hasuno",
+        "image": null,
+        "localId": "46",
+        "name": "Zekrom",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175476
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-47",
+        "illustrator": "TOKIYA",
+        "image": null,
+        "localId": "47",
+        "name": "Kyurem",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175477
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-48",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "48",
+        "name": "White Kyurem GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175478
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-49",
+        "illustrator": "Misa Tsutsui",
+        "image": null,
+        "localId": "49",
+        "name": "Zygarde",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175479
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-50",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": null,
+        "localId": "50",
+        "name": "Turtonator",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175480
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-51",
+        "illustrator": "Sanosuke Sakuma",
+        "image": null,
+        "localId": "51",
+        "name": "Drampa",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175481
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-52",
+        "illustrator": "Yusuke Ohmura",
+        "image": null,
+        "localId": "52",
+        "name": "Jangmo-o",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175482
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-53",
+        "illustrator": "hatachu",
+        "image": null,
+        "localId": "53",
+        "name": "Hakamo-o",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175483
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-54",
+        "illustrator": "so-taro",
+        "image": null,
+        "localId": "54",
+        "name": "Kommo-o",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175484
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-55",
+        "illustrator": "Naoyo Kimura",
+        "image": null,
+        "localId": "55",
+        "name": "Kangaskhan",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175485
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-56",
+        "illustrator": "Yukiko Baba",
+        "image": null,
+        "localId": "56",
+        "name": "Swablu",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175486
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-57",
+        "illustrator": "Shibuzoh.",
+        "image": null,
+        "localId": "57",
+        "name": "Swablu",
+        "rarity": "Common",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175487
+    },
+    {
+        "category": "Trainer",
+        "id": "sm7.5-58",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "58",
+        "name": "Blaine\u2019s Last Stand",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm7.5-59",
+        "illustrator": "Toyste Beach",
+        "image": null,
+        "localId": "59",
+        "name": "Dragon Talon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175489
+    },
+    {
+        "category": "Trainer",
+        "id": "sm7.5-60",
+        "illustrator": "Eske Yoshinob",
+        "image": null,
+        "localId": "60",
+        "name": "Fiery Flint",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175490
+    },
+    {
+        "category": "Trainer",
+        "id": "sm7.5-61",
+        "illustrator": "kodama",
+        "image": null,
+        "localId": "61",
+        "name": "Lance \u25c7",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm7.5-62",
+        "illustrator": "Yoshinobu Saito",
+        "image": null,
+        "localId": "62",
+        "name": "Switch Raft",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175492
+    },
+    {
+        "category": "Trainer",
+        "id": "sm7.5-63",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "63",
+        "name": "Wela Volcano Park",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175493
+    },
+    {
+        "category": "Trainer",
+        "id": "sm7.5-64",
+        "illustrator": "Megumi Mizutani",
+        "image": null,
+        "localId": "64",
+        "name": "Zinnia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175494
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-65",
+        "illustrator": "PLANETA Igarashi",
+        "image": null,
+        "localId": "65",
+        "name": "Reshiram GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175495
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-66",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "66",
+        "name": "Kingdra GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175496
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-67",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "67",
+        "name": "Dragonite GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175497
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-68",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "68",
+        "name": "Altaria GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175498
+    },
+    {
+        "category": "Trainer",
+        "id": "sm7.5-69",
+        "illustrator": "Mitsuhiro Arita",
+        "image": null,
+        "localId": "69",
+        "name": "Blaine\u2019s Last Stand",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm7.5-70",
+        "illustrator": "Hideki Ishikawa",
+        "image": null,
+        "localId": "70",
+        "name": "Zinnia",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175500
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-71",
+        "illustrator": "PLANETA Igarashi",
+        "image": null,
+        "localId": "71",
+        "name": "Reshiram GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175501
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-72",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "72",
+        "name": "Altaria GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175502
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-73",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "73",
+        "name": "Salamence GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175503
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-74",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "74",
+        "name": "White Kyurem GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175504
+    },
+    {
+        "category": "Trainer",
+        "id": "sm7.5-75",
+        "illustrator": "Toyste Beach",
+        "image": null,
+        "localId": "75",
+        "name": "Dragon Talon",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175505
+    },
+    {
+        "category": "Trainer",
+        "id": "sm7.5-76",
+        "illustrator": "Eske Yoshinob",
+        "image": null,
+        "localId": "76",
+        "name": "Fiery Flint",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175506
+    },
+    {
+        "category": "Trainer",
+        "id": "sm7.5-77",
+        "illustrator": "Yoshinobu Saito",
+        "image": null,
+        "localId": "77",
+        "name": "Switch Raft",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175507
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm7.5-78",
+        "illustrator": "PLANETA Igarashi",
+        "image": null,
+        "localId": "78",
+        "name": "Ultra Necrozma GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm7.5",
+            "name": "Dragon Majesty",
+            "releaseDate": "2018-09-07"
+        },
+        "tcgplayerId": 175508
+    }
+]

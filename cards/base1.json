@@ -1,0 +1,1626 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "base1-1",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/1/high.jpg",
+        "localId": "1",
+        "name": "Alakazam",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42346
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-2",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/2/high.jpg",
+        "localId": "2",
+        "name": "Blastoise",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42360
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-3",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/3/high.jpg",
+        "localId": "3",
+        "name": "Chansey",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42371
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-4",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/4/high.jpg",
+        "localId": "4",
+        "name": "Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42382
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-5",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/5/high.jpg",
+        "localId": "5",
+        "name": "Clefairy",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42393
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-6",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/6/high.jpg",
+        "localId": "6",
+        "name": "Gyarados",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42404
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-7",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/7/high.jpg",
+        "localId": "7",
+        "name": "Hitmonchan",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42415
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-8",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/8/high.jpg",
+        "localId": "8",
+        "name": "Machamp",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-9",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/9/high.jpg",
+        "localId": "9",
+        "name": "Magneton",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42433
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-10",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/10/high.jpg",
+        "localId": "10",
+        "name": "Mewtwo",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42347
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-11",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/11/high.jpg",
+        "localId": "11",
+        "name": "Nidoking",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42351
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-12",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/12/high.jpg",
+        "localId": "12",
+        "name": "Ninetales",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42352
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-13",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/13/high.jpg",
+        "localId": "13",
+        "name": "Poliwrath",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42353
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-14",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/14/high.jpg",
+        "localId": "14",
+        "name": "Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42354
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-15",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/15/high.jpg",
+        "localId": "15",
+        "name": "Venusaur",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42355
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-16",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/16/high.jpg",
+        "localId": "16",
+        "name": "Zapdos",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42356
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-17",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/17/high.jpg",
+        "localId": "17",
+        "name": "Beedrill",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42357
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-18",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/18/high.jpg",
+        "localId": "18",
+        "name": "Dragonair",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42358
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-19",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/19/high.jpg",
+        "localId": "19",
+        "name": "Dugtrio",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42359
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-20",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/20/high.jpg",
+        "localId": "20",
+        "name": "Electabuzz",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42361
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-21",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/21/high.jpg",
+        "localId": "21",
+        "name": "Electrode",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42362
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-22",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/22/high.jpg",
+        "localId": "22",
+        "name": "Pidgeotto",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42363
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-23",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/23/high.jpg",
+        "localId": "23",
+        "name": "Arcanine",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42364
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-24",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/24/high.jpg",
+        "localId": "24",
+        "name": "Charmeleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42365
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-25",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/25/high.jpg",
+        "localId": "25",
+        "name": "Dewgong",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42366
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-26",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/26/high.jpg",
+        "localId": "26",
+        "name": "Dratini",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42367
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-27",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/27/high.jpg",
+        "localId": "27",
+        "name": "Farfetch'd",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42368
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-28",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/28/high.jpg",
+        "localId": "28",
+        "name": "Growlithe",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42369
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-29",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/29/high.jpg",
+        "localId": "29",
+        "name": "Haunter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42370
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-30",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/30/high.jpg",
+        "localId": "30",
+        "name": "Ivysaur",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42372
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-31",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/31/high.jpg",
+        "localId": "31",
+        "name": "Jynx",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42373
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-32",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/32/high.jpg",
+        "localId": "32",
+        "name": "Kadabra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42374
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-33",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/33/high.jpg",
+        "localId": "33",
+        "name": "Kakuna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42375
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-34",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/34/high.jpg",
+        "localId": "34",
+        "name": "Machoke",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42376
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-35",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/35/high.jpg",
+        "localId": "35",
+        "name": "Magikarp",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42377
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-36",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/36/high.jpg",
+        "localId": "36",
+        "name": "Magmar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42378
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-37",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/37/high.jpg",
+        "localId": "37",
+        "name": "Nidorino",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42379
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-38",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/38/high.jpg",
+        "localId": "38",
+        "name": "Poliwhirl",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42380
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-39",
+        "illustrator": "Tomoaki Imakuni",
+        "image": "https://assets.tcgdex.net/en/base/base1/39/high.jpg",
+        "localId": "39",
+        "name": "Porygon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42381
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-40",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/40/high.jpg",
+        "localId": "40",
+        "name": "Raticate",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42383
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-41",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/41/high.jpg",
+        "localId": "41",
+        "name": "Seel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42384
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-42",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/42/high.jpg",
+        "localId": "42",
+        "name": "Wartortle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42385
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-43",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/43/high.jpg",
+        "localId": "43",
+        "name": "Abra",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42386
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-44",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/44/high.jpg",
+        "localId": "44",
+        "name": "Bulbasaur",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42387
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-45",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/45/high.jpg",
+        "localId": "45",
+        "name": "Caterpie",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42388
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-46",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/46/high.jpg",
+        "localId": "46",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42389
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-47",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/47/high.jpg",
+        "localId": "47",
+        "name": "Diglett",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42390
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-48",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/48/high.jpg",
+        "localId": "48",
+        "name": "Doduo",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42391
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-49",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/49/high.jpg",
+        "localId": "49",
+        "name": "Drowzee",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42392
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-50",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/50/high.jpg",
+        "localId": "50",
+        "name": "Gastly",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42394
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-51",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/51/high.jpg",
+        "localId": "51",
+        "name": "Koffing",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42395
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-52",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/52/high.jpg",
+        "localId": "52",
+        "name": "Machop",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42396
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-53",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/53/high.jpg",
+        "localId": "53",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42397
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-54",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/54/high.jpg",
+        "localId": "54",
+        "name": "Metapod",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42398
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-55",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/55/high.jpg",
+        "localId": "55",
+        "name": "Nidoran♂",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-56",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/56/high.jpg",
+        "localId": "56",
+        "name": "Onix",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42400
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-57",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/57/high.jpg",
+        "localId": "57",
+        "name": "Pidgey",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42401
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-58",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/58/high.jpg",
+        "localId": "58",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42402
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-59",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/59/high.jpg",
+        "localId": "59",
+        "name": "Poliwag",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42403
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-60",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/60/high.jpg",
+        "localId": "60",
+        "name": "Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42405
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-61",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/61/high.jpg",
+        "localId": "61",
+        "name": "Rattata",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42406
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-62",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/62/high.jpg",
+        "localId": "62",
+        "name": "Sandshrew",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42407
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-63",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/63/high.jpg",
+        "localId": "63",
+        "name": "Squirtle",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42408
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-64",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/64/high.jpg",
+        "localId": "64",
+        "name": "Starmie",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42409
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-65",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/65/high.jpg",
+        "localId": "65",
+        "name": "Staryu",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42410
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-66",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/66/high.jpg",
+        "localId": "66",
+        "name": "Tangela",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42411
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-67",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/67/high.jpg",
+        "localId": "67",
+        "name": "Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42412
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-68",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/68/high.jpg",
+        "localId": "68",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42413
+    },
+    {
+        "category": "Pokemon",
+        "id": "base1-69",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base1/69/high.jpg",
+        "localId": "69",
+        "name": "Weedle",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42414
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-70",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/70/high.jpg",
+        "localId": "70",
+        "name": "Clefairy Doll",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42416
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-71",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/71/high.jpg",
+        "localId": "71",
+        "name": "Computer Search",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42417
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-72",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/72/high.jpg",
+        "localId": "72",
+        "name": "Devolution Spray",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42418
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-73",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/73/high.jpg",
+        "localId": "73",
+        "name": "Impostor Professor Oak",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-74",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/74/high.jpg",
+        "localId": "74",
+        "name": "Item Finder",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42420
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-75",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/75/high.jpg",
+        "localId": "75",
+        "name": "Lass",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42421
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-76",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/76/high.jpg",
+        "localId": "76",
+        "name": "Pokémon Breeder",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-77",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/77/high.jpg",
+        "localId": "77",
+        "name": "Pokémon Trader",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-78",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/78/high.jpg",
+        "localId": "78",
+        "name": "Scoop Up",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42423
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-79",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/79/high.jpg",
+        "localId": "79",
+        "name": "Super Energy Removal",
+        "rarity": "Rare",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42424
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-80",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/80/high.jpg",
+        "localId": "80",
+        "name": "Defender",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42426
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-81",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/81/high.jpg",
+        "localId": "81",
+        "name": "Energy Retrieval",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42427
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-82",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/82/high.jpg",
+        "localId": "82",
+        "name": "Full Heal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42428
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-83",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/83/high.jpg",
+        "localId": "83",
+        "name": "Maintenance",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42429
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-84",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/84/high.jpg",
+        "localId": "84",
+        "name": "PlusPower",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42430
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-85",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/85/high.jpg",
+        "localId": "85",
+        "name": "Pokémon Center",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-86",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/86/high.jpg",
+        "localId": "86",
+        "name": "Pokémon Flute",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-87",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/87/high.jpg",
+        "localId": "87",
+        "name": "Pokédex",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-88",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/88/high.jpg",
+        "localId": "88",
+        "name": "Professor Oak",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42431
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-89",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/89/high.jpg",
+        "localId": "89",
+        "name": "Revive",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42432
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-90",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/90/high.jpg",
+        "localId": "90",
+        "name": "Super Potion",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42434
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-91",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base1/91/high.jpg",
+        "localId": "91",
+        "name": "Bill",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42435
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-92",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/92/high.jpg",
+        "localId": "92",
+        "name": "Energy Removal",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42436
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-93",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/93/high.jpg",
+        "localId": "93",
+        "name": "Gust of Wind",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42437
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-94",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/94/high.jpg",
+        "localId": "94",
+        "name": "Potion",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42438
+    },
+    {
+        "category": "Trainer",
+        "id": "base1-95",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/95/high.jpg",
+        "localId": "95",
+        "name": "Switch",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42439
+    },
+    {
+        "category": "Energy",
+        "id": "base1-96",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/96/high.jpg",
+        "localId": "96",
+        "name": "Double Colorless Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42440
+    },
+    {
+        "category": "Energy",
+        "id": "base1-97",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/97/high.jpg",
+        "localId": "97",
+        "name": "Fighting Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42441
+    },
+    {
+        "category": "Energy",
+        "id": "base1-98",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/98/high.jpg",
+        "localId": "98",
+        "name": "Fire Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42442
+    },
+    {
+        "category": "Energy",
+        "id": "base1-99",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/99/high.jpg",
+        "localId": "99",
+        "name": "Grass Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42443
+    },
+    {
+        "category": "Energy",
+        "id": "base1-100",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/100/high.jpg",
+        "localId": "100",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42348
+    },
+    {
+        "category": "Energy",
+        "id": "base1-101",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/101/high.jpg",
+        "localId": "101",
+        "name": "Psychic Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42349
+    },
+    {
+        "category": "Energy",
+        "id": "base1-102",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base1/102/high.jpg",
+        "localId": "102",
+        "name": "Water Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "base1",
+            "logo": "https://assets.tcgdex.net/en/base/base1/logo.jpg",
+            "name": "Base Set",
+            "releaseDate": "1999-01-09"
+        },
+        "tcgplayerId": 42350
+    }
+]

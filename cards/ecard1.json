@@ -1,0 +1,2805 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "ecard1-1",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/1/high.jpg",
+        "localId": "1",
+        "name": "Alakazam",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 83497
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-2",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/2/high.jpg",
+        "localId": "2",
+        "name": "Ampharos",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 83538
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-3",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/3/high.jpg",
+        "localId": "3",
+        "name": "Arbok",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 83566
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-4",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/4/high.jpg",
+        "localId": "4",
+        "name": "Blastoise",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 83888
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-5",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/5/high.jpg",
+        "localId": "5",
+        "name": "Butterfree",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84059
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-6",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/6/high.jpg",
+        "localId": "6",
+        "name": "Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84183
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-7",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/7/high.jpg",
+        "localId": "7",
+        "name": "Clefable",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84342
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-8",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/8/high.jpg",
+        "localId": "8",
+        "name": "Cloyster",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84370
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-9",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/9/high.jpg",
+        "localId": "9",
+        "name": "Dragonite",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84910
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-10",
+        "illustrator": "Masako Yamashita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/10/high.jpg",
+        "localId": "10",
+        "name": "Dugtrio",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84996
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-11",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/11/high.jpg",
+        "localId": "11",
+        "name": "Fearow",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85392
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-12",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/12/high.jpg",
+        "localId": "12",
+        "name": "Feraligatr",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85414
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-13",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/13/high.jpg",
+        "localId": "13",
+        "name": "Gengar",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85671
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-14",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/14/high.jpg",
+        "localId": "14",
+        "name": "Golem",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85821
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-15",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/15/high.jpg",
+        "localId": "15",
+        "name": "Kingler",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86453
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-16",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/16/high.jpg",
+        "localId": "16",
+        "name": "Machamp",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86960
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-17",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/17/high.jpg",
+        "localId": "17",
+        "name": "Magby",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87000
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-18",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/18/high.jpg",
+        "localId": "18",
+        "name": "Meganium",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87288
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-19",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/19/high.jpg",
+        "localId": "19",
+        "name": "Mew",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87396
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-20",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/20/high.jpg",
+        "localId": "20",
+        "name": "Mewtwo",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87418
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-21",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/21/high.jpg",
+        "localId": "21",
+        "name": "Ninetales",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87765
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-22",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/22/high.jpg",
+        "localId": "22",
+        "name": "Pichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88013
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-23",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/23/high.jpg",
+        "localId": "23",
+        "name": "Pidgeot",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88027
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-24",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/24/high.jpg",
+        "localId": "24",
+        "name": "Poliwrath",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88271
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-25",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/25/high.jpg",
+        "localId": "25",
+        "name": "Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88501
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-26",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/26/high.jpg",
+        "localId": "26",
+        "name": "Rapidash",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88576
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-27",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/27/high.jpg",
+        "localId": "27",
+        "name": "Skarmory",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 89234
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-28",
+        "illustrator": "K.  Hoshiba",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/28/high.jpg",
+        "localId": "28",
+        "name": "Typhlosion",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90100
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-29",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/29/high.jpg",
+        "localId": "29",
+        "name": "Tyranitar",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90115
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-30",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/30/high.jpg",
+        "localId": "30",
+        "name": "Venusaur",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90314
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-31",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/31/high.jpg",
+        "localId": "31",
+        "name": "Vileplume",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90376
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-32",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/32/high.jpg",
+        "localId": "32",
+        "name": "Weezing",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90557
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-33",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/33/high.jpg",
+        "localId": "33",
+        "name": "Alakazam",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 83500
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-34",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/34/high.jpg",
+        "localId": "34",
+        "name": "Ampharos",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 83539
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-35",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/35/high.jpg",
+        "localId": "35",
+        "name": "Arbok",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 83569
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-36",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/36/high.jpg",
+        "localId": "36",
+        "name": "Blastoise",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 83889
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-37",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/37/high.jpg",
+        "localId": "37",
+        "name": "Blastoise",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 83890
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-38",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/38/high.jpg",
+        "localId": "38",
+        "name": "Butterfree",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84064
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-39",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/39/high.jpg",
+        "localId": "39",
+        "name": "Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84184
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-40",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/40/high.jpg",
+        "localId": "40",
+        "name": "Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84185
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-41",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/41/high.jpg",
+        "localId": "41",
+        "name": "Clefable",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84344
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-42",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/42/high.jpg",
+        "localId": "42",
+        "name": "Cloyster",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84372
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-43",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/43/high.jpg",
+        "localId": "43",
+        "name": "Dragonite",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84912
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-44",
+        "illustrator": "Masako Yamashita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/44/high.jpg",
+        "localId": "44",
+        "name": "Dugtrio",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84998
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-45",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/45/high.jpg",
+        "localId": "45",
+        "name": "Fearow",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85396
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-46",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/46/high.jpg",
+        "localId": "46",
+        "name": "Feraligatr",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85415
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-47",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/47/high.jpg",
+        "localId": "47",
+        "name": "Feraligatr",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85416
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-48",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/48/high.jpg",
+        "localId": "48",
+        "name": "Gengar",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85673
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-49",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/49/high.jpg",
+        "localId": "49",
+        "name": "Golem",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85824
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-50",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/50/high.jpg",
+        "localId": "50",
+        "name": "Kingler",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86455
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-51",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/51/high.jpg",
+        "localId": "51",
+        "name": "Machamp",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86962
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-52",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/52/high.jpg",
+        "localId": "52",
+        "name": "Magby",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87002
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-53",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/53/high.jpg",
+        "localId": "53",
+        "name": "Meganium",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87289
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-54",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/54/high.jpg",
+        "localId": "54",
+        "name": "Meganium",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87290
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-55",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/55/high.jpg",
+        "localId": "55",
+        "name": "Mew",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87398
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-56",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/56/high.jpg",
+        "localId": "56",
+        "name": "Mewtwo",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87420
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-57",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/57/high.jpg",
+        "localId": "57",
+        "name": "Ninetales",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87766
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-58",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/58/high.jpg",
+        "localId": "58",
+        "name": "Pichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88015
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-59",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/59/high.jpg",
+        "localId": "59",
+        "name": "Pidgeot",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88029
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-60",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/60/high.jpg",
+        "localId": "60",
+        "name": "Poliwrath",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88275
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-61",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/61/high.jpg",
+        "localId": "61",
+        "name": "Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88505
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-62",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/62/high.jpg",
+        "localId": "62",
+        "name": "Rapidash",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88580
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-63",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/63/high.jpg",
+        "localId": "63",
+        "name": "Skarmory",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 89235
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-64",
+        "illustrator": "Hiroaki Ito",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/64/high.jpg",
+        "localId": "64",
+        "name": "Typhlosion",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90101
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-65",
+        "illustrator": "K.  Hoshiba",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/65/high.jpg",
+        "localId": "65",
+        "name": "Typhlosion",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90102
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-66",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/66/high.jpg",
+        "localId": "66",
+        "name": "Tyranitar",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90118
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-67",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/67/high.jpg",
+        "localId": "67",
+        "name": "Venusaur",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90315
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-68",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/68/high.jpg",
+        "localId": "68",
+        "name": "Venusaur",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90316
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-69",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/69/high.jpg",
+        "localId": "69",
+        "name": "Vileplume",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90379
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-70",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/70/high.jpg",
+        "localId": "70",
+        "name": "Weezing",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90559
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-71",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/71/high.jpg",
+        "localId": "71",
+        "name": "Bayleef",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 83745
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-72",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/72/high.jpg",
+        "localId": "72",
+        "name": "Chansey",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84172
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-73",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/73/high.jpg",
+        "localId": "73",
+        "name": "Charmeleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84224
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-74",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/74/high.jpg",
+        "localId": "74",
+        "name": "Croconaw",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84497
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-75",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/75/high.jpg",
+        "localId": "75",
+        "name": "Dragonair",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84898
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-76",
+        "illustrator": "Hiroaki Ito",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/76/high.jpg",
+        "localId": "76",
+        "name": "Electabuzz",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85112
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-77",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/77/high.jpg",
+        "localId": "77",
+        "name": "Flaaffy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85475
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-78",
+        "illustrator": "Yuichi Sawayama",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/78/high.jpg",
+        "localId": "78",
+        "name": "Gloom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85781
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-79",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/79/high.jpg",
+        "localId": "79",
+        "name": "Graveler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85888
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-80",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/80/high.jpg",
+        "localId": "80",
+        "name": "Haunter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86024
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-81",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/81/high.jpg",
+        "localId": "81",
+        "name": "Hitmonlee",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86104
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-82",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/82/high.jpg",
+        "localId": "82",
+        "name": "Ivysaur",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86296
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-83",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/83/high.jpg",
+        "localId": "83",
+        "name": "Jynx",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86374
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-84",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/84/high.jpg",
+        "localId": "84",
+        "name": "Kadabra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86406
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-85",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/85/high.jpg",
+        "localId": "85",
+        "name": "Machoke",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86977
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-86",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/86/high.jpg",
+        "localId": "86",
+        "name": "Magmar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87044
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-87",
+        "illustrator": "Yuichi Sawayama",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/87/high.jpg",
+        "localId": "87",
+        "name": "Metapod",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87388
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-88",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/88/high.jpg",
+        "localId": "88",
+        "name": "Pidgeotto",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88039
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-89",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/89/high.jpg",
+        "localId": "89",
+        "name": "Poliwhirl",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88264
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-90",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/90/high.jpg",
+        "localId": "90",
+        "name": "Pupitar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88447
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-91",
+        "illustrator": "Asuka Iwashita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/91/high.jpg",
+        "localId": "91",
+        "name": "Quilava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88483
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-92",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/92/high.jpg",
+        "localId": "92",
+        "name": "Wartortle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90485
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-93",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/93/high.jpg",
+        "localId": "93",
+        "name": "Abra",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 83447
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-94",
+        "illustrator": "Sachi Matoba",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/94/high.jpg",
+        "localId": "94",
+        "name": "Bulbasaur",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84026
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-95",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/95/high.jpg",
+        "localId": "95",
+        "name": "Bulbasaur",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84027
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-96",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/96/high.jpg",
+        "localId": "96",
+        "name": "Caterpie",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84135
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-97",
+        "illustrator": "Masako Yamashita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/97/high.jpg",
+        "localId": "97",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84206
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-98",
+        "illustrator": "Yuichi Sawayama",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/98/high.jpg",
+        "localId": "98",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84207
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-99",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/99/high.jpg",
+        "localId": "99",
+        "name": "Chikorita",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84274
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-100",
+        "illustrator": "Motofumi Fujiwara",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/100/high.jpg",
+        "localId": "100",
+        "name": "Chikorita",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84275
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-101",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/101/high.jpg",
+        "localId": "101",
+        "name": "Clefairy",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84353
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-102",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/102/high.jpg",
+        "localId": "102",
+        "name": "Corsola",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84438
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-103",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/103/high.jpg",
+        "localId": "103",
+        "name": "Cubone",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84529
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-104",
+        "illustrator": "Sachi Matoba",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/104/high.jpg",
+        "localId": "104",
+        "name": "Cyndaquil",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84547
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-105",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/105/high.jpg",
+        "localId": "105",
+        "name": "Cyndaquil",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84548
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-106",
+        "illustrator": "Masako Yamashita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/106/high.jpg",
+        "localId": "106",
+        "name": "Diglett",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84820
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-107",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/107/high.jpg",
+        "localId": "107",
+        "name": "Dratini",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84931
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-108",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/108/high.jpg",
+        "localId": "108",
+        "name": "Ekans",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85101
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-109",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/109/high.jpg",
+        "localId": "109",
+        "name": "Gastly",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85649
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-110",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/110/high.jpg",
+        "localId": "110",
+        "name": "Geodude",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85686
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-111",
+        "illustrator": "Masako Yamashita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/111/high.jpg",
+        "localId": "111",
+        "name": "Goldeen",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85805
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-112",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/112/high.jpg",
+        "localId": "112",
+        "name": "Hoppip",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86179
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-113",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/113/high.jpg",
+        "localId": "113",
+        "name": "Houndour",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86223
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-114",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/114/high.jpg",
+        "localId": "114",
+        "name": "Koffing",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86492
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-115",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/115/high.jpg",
+        "localId": "115",
+        "name": "Krabby",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86523
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-116",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/116/high.jpg",
+        "localId": "116",
+        "name": "Larvitar",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86635
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-117",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/117/high.jpg",
+        "localId": "117",
+        "name": "Machop",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86991
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-118",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/118/high.jpg",
+        "localId": "118",
+        "name": "Magikarp",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87024
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-119",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/119/high.jpg",
+        "localId": "119",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87196
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-120",
+        "illustrator": "Satoshi Ohta",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/120/high.jpg",
+        "localId": "120",
+        "name": "Marill",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87215
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-121",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/121/high.jpg",
+        "localId": "121",
+        "name": "Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87315
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-122",
+        "illustrator": "Masako Yamashita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/122/high.jpg",
+        "localId": "122",
+        "name": "Oddish",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87840
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-123",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/123/high.jpg",
+        "localId": "123",
+        "name": "Pidgey",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88047
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-124",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/124/high.jpg",
+        "localId": "124",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88076
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-125",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/125/high.jpg",
+        "localId": "125",
+        "name": "Poliwag",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88256
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-126",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/126/high.jpg",
+        "localId": "126",
+        "name": "Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88284
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-127",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/127/high.jpg",
+        "localId": "127",
+        "name": "Qwilfish",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88491
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-128",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/128/high.jpg",
+        "localId": "128",
+        "name": "Rattata",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88614
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-129",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/129/high.jpg",
+        "localId": "129",
+        "name": "Shellder",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 89136
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-130",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/130/high.jpg",
+        "localId": "130",
+        "name": "Spearow",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 89438
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-131",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/131/high.jpg",
+        "localId": "131",
+        "name": "Squirtle",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 89486
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-132",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/132/high.jpg",
+        "localId": "132",
+        "name": "Squirtle",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 89487
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-133",
+        "illustrator": "Yuichi Sawayama",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/133/high.jpg",
+        "localId": "133",
+        "name": "Tauros",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 89760
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-134",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/134/high.jpg",
+        "localId": "134",
+        "name": "Totodile",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 89994
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-135",
+        "illustrator": "Aimi Tomita",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/135/high.jpg",
+        "localId": "135",
+        "name": "Totodile",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 89995
+    },
+    {
+        "category": "Pokemon",
+        "id": "ecard1-136",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/136/high.jpg",
+        "localId": "136",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90436
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-137",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/137/high.jpg",
+        "localId": "137",
+        "name": "Bill's Maintenance",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 83837
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-138",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/138/high.jpg",
+        "localId": "138",
+        "name": "Copycat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84423
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-139",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/139/high.jpg",
+        "localId": "139",
+        "name": "Dual Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84984
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-140",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/140/high.jpg",
+        "localId": "140",
+        "name": "Energy Removal 2",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85221
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-141",
+        "illustrator": "Hideyuki Nakajima",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/141/high.jpg",
+        "localId": "141",
+        "name": "Energy Restore",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85226
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-142",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/142/high.jpg",
+        "localId": "142",
+        "name": "Mary's Impulse",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87242
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-143",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/143/high.jpg",
+        "localId": "143",
+        "name": "Master Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87252
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-144",
+        "illustrator": "\"Big Mama\" Tagawa",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/144/high.jpg",
+        "localId": "144",
+        "name": "Multi Technical Machine 01",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87635
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-145",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/145/high.jpg",
+        "localId": "145",
+        "name": "Pokémon Nurse",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-146",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/146/high.jpg",
+        "localId": "146",
+        "name": "Pokémon Reversal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-147",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/147/high.jpg",
+        "localId": "147",
+        "name": "Power Charge",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88353
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-148",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/148/high.jpg",
+        "localId": "148",
+        "name": "Professor Elm's Training Method",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88389
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-149",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/149/high.jpg",
+        "localId": "149",
+        "name": "Professor Oak's Research",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88402
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-150",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/150/high.jpg",
+        "localId": "150",
+        "name": "Strength Charm",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 89577
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-151",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/151/high.jpg",
+        "localId": "151",
+        "name": "Super Scoop Up",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 89635
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-152",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/152/high.jpg",
+        "localId": "152",
+        "name": "Warp Point",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90477
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-153",
+        "illustrator": "Kai Ishikawa",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/153/high.jpg",
+        "localId": "153",
+        "name": "Energy Search",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85238
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-154",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/154/high.jpg",
+        "localId": "154",
+        "name": "Full Heal",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85582
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-155",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/155/high.jpg",
+        "localId": "155",
+        "name": "Moo-Moo Milk",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87575
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-156",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/156/high.jpg",
+        "localId": "156",
+        "name": "Potion",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88333
+    },
+    {
+        "category": "Trainer",
+        "id": "ecard1-157",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/157/high.jpg",
+        "localId": "157",
+        "name": "Switch",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 89711
+    },
+    {
+        "category": "Energy",
+        "id": "ecard1-158",
+        "illustrator": "Milky Isobe",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/158/high.jpg",
+        "localId": "158",
+        "name": "Darkness Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 84697
+    },
+    {
+        "category": "Energy",
+        "id": "ecard1-159",
+        "illustrator": "Milky Isobe",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/159/high.jpg",
+        "localId": "159",
+        "name": "Metal Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 87370
+    },
+    {
+        "category": "Energy",
+        "id": "ecard1-160",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/160/high.jpg",
+        "localId": "160",
+        "name": "Fighting Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85437
+    },
+    {
+        "category": "Energy",
+        "id": "ecard1-161",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/161/high.jpg",
+        "localId": "161",
+        "name": "Fire Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85456
+    },
+    {
+        "category": "Energy",
+        "id": "ecard1-162",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/162/high.jpg",
+        "localId": "162",
+        "name": "Grass Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 85873
+    },
+    {
+        "category": "Energy",
+        "id": "ecard1-163",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/163/high.jpg",
+        "localId": "163",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 86759
+    },
+    {
+        "category": "Energy",
+        "id": "ecard1-164",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/164/high.jpg",
+        "localId": "164",
+        "name": "Psychic Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 88417
+    },
+    {
+        "category": "Energy",
+        "id": "ecard1-165",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ecard/ecard1/165/high.jpg",
+        "localId": "165",
+        "name": "Water Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "ecard1",
+            "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.jpg",
+            "name": "Expedition Base Set",
+            "symbol": "https://assets.tcgdex.net/univ/ecard/ecard1/symbol.jpg",
+            "releaseDate": "2002-09-15"
+        },
+        "tcgplayerId": 90505
+    }
+]

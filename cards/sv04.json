@@ -1,0 +1,4258 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sv04-001",
+        "illustrator": "Yoriyuki Ikegami",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/001/high.jpg",
+        "localId": "001",
+        "name": "Surskit",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-002",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/002/high.jpg",
+        "localId": "002",
+        "name": "Masquerain",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-003",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/003/high.jpg",
+        "localId": "003",
+        "name": "Froslass ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-004",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/004/high.jpg",
+        "localId": "004",
+        "name": "Pansage",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-005",
+        "illustrator": "Kurata So",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/005/high.jpg",
+        "localId": "005",
+        "name": "Simisage",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-006",
+        "illustrator": "Scav",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/006/high.jpg",
+        "localId": "006",
+        "name": "Dwebble",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-007",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/007/high.jpg",
+        "localId": "007",
+        "name": "Crustle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-008",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/008/high.jpg",
+        "localId": "008",
+        "name": "Bounsweet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-009",
+        "illustrator": "Kariya",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/009/high.jpg",
+        "localId": "009",
+        "name": "Steenee",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-010",
+        "illustrator": "OKUBO",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/010/high.jpg",
+        "localId": "010",
+        "name": "Blipbug",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-011",
+        "illustrator": "Haru Akasaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/011/high.jpg",
+        "localId": "011",
+        "name": "Dottler",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-012",
+        "illustrator": "Oku",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/012/high.jpg",
+        "localId": "012",
+        "name": "Orbeetle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-013",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/013/high.jpg",
+        "localId": "013",
+        "name": "Nymble",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-014",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/014/high.jpg",
+        "localId": "014",
+        "name": "Nymble",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-015",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/015/high.jpg",
+        "localId": "015",
+        "name": "Toedscool",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-016",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/016/high.jpg",
+        "localId": "016",
+        "name": "Toedscool",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-017",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/017/high.jpg",
+        "localId": "017",
+        "name": "Toedscruel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-018",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/018/high.jpg",
+        "localId": "018",
+        "name": "Wo-Chien",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-019",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/019/high.jpg",
+        "localId": "019",
+        "name": "Magby",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-020",
+        "illustrator": "LINNE",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/020/high.jpg",
+        "localId": "020",
+        "name": "Pansear",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-021",
+        "illustrator": "Yuya Oka",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/021/high.jpg",
+        "localId": "021",
+        "name": "Simisear",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-022",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/022/high.jpg",
+        "localId": "022",
+        "name": "Volcanion",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-023",
+        "illustrator": "Gemi",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/023/high.jpg",
+        "localId": "023",
+        "name": "Fuecoco",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-024",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/024/high.jpg",
+        "localId": "024",
+        "name": "Crocalor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-025",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/025/high.jpg",
+        "localId": "025",
+        "name": "Charcadet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-026",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/026/high.jpg",
+        "localId": "026",
+        "name": "Charcadet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-027",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/027/high.jpg",
+        "localId": "027",
+        "name": "Armarouge ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-028",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/028/high.jpg",
+        "localId": "028",
+        "name": "Iron Moth",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-029",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/029/high.jpg",
+        "localId": "029",
+        "name": "Chi-Yu",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-030",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/030/high.jpg",
+        "localId": "030",
+        "name": "Horsea",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-031",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/031/high.jpg",
+        "localId": "031",
+        "name": "Seadra",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-032",
+        "illustrator": "Tonji Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/032/high.jpg",
+        "localId": "032",
+        "name": "Kingdra",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-033",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/033/high.jpg",
+        "localId": "033",
+        "name": "Remoraid",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-034",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/034/high.jpg",
+        "localId": "034",
+        "name": "Octillery",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-035",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/035/high.jpg",
+        "localId": "035",
+        "name": "Feebas",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-036",
+        "illustrator": "Atsuya Uki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/036/high.jpg",
+        "localId": "036",
+        "name": "Milotic",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-037",
+        "illustrator": "satoma",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/037/high.jpg",
+        "localId": "037",
+        "name": "Snorunt",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-038",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/038/high.jpg",
+        "localId": "038",
+        "name": "Garchomp ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-039",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/039/high.jpg",
+        "localId": "039",
+        "name": "Mantyke",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-040",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/040/high.jpg",
+        "localId": "040",
+        "name": "Palkia",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-041",
+        "illustrator": "Natsumi Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/041/high.jpg",
+        "localId": "041",
+        "name": "Panpour",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-042",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/042/high.jpg",
+        "localId": "042",
+        "name": "Simipour",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-043",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/043/high.jpg",
+        "localId": "043",
+        "name": "Vanillite",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-044",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/044/high.jpg",
+        "localId": "044",
+        "name": "Vanillish",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-045",
+        "illustrator": "Nelnal",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/045/high.jpg",
+        "localId": "045",
+        "name": "Vanilluxe",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-046",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/046/high.jpg",
+        "localId": "046",
+        "name": "Tsareena ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-047",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/047/high.jpg",
+        "localId": "047",
+        "name": "Wimpod",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-048",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/048/high.jpg",
+        "localId": "048",
+        "name": "Wimpod",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-049",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/049/high.jpg",
+        "localId": "049",
+        "name": "Golisopod",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-050",
+        "illustrator": "N-DESIGN Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/050/high.jpg",
+        "localId": "050",
+        "name": "Golisopod ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-051",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/051/high.jpg",
+        "localId": "051",
+        "name": "Wiglett",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-052",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/052/high.jpg",
+        "localId": "052",
+        "name": "Wiglett",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-053",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/053/high.jpg",
+        "localId": "053",
+        "name": "Wugtrio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-054",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/054/high.jpg",
+        "localId": "054",
+        "name": "Veluza",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-055",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/055/high.jpg",
+        "localId": "055",
+        "name": "Dondozo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-056",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/056/high.jpg",
+        "localId": "056",
+        "name": "Iron Bundle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-057",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/057/high.jpg",
+        "localId": "057",
+        "name": "Chien-Pao",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-058",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/058/high.jpg",
+        "localId": "058",
+        "name": "Mewtwo ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-059",
+        "illustrator": "aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/059/high.jpg",
+        "localId": "059",
+        "name": "Elekid",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-060",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/060/high.jpg",
+        "localId": "060",
+        "name": "Plusle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-061",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/061/high.jpg",
+        "localId": "061",
+        "name": "Minun",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-062",
+        "illustrator": "Shinji Kanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/062/high.jpg",
+        "localId": "062",
+        "name": "Blitzle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-063",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/063/high.jpg",
+        "localId": "063",
+        "name": "Zebstrika",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-064",
+        "illustrator": "Kedamahadaitai Yawarakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/064/high.jpg",
+        "localId": "064",
+        "name": "Joltik",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-065",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/065/high.jpg",
+        "localId": "065",
+        "name": "Galvantula",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-066",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/066/high.jpg",
+        "localId": "066",
+        "name": "Zekrom",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-067",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/067/high.jpg",
+        "localId": "067",
+        "name": "Oricorio",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-068",
+        "illustrator": "hncl",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/068/high.jpg",
+        "localId": "068",
+        "name": "Tapu Koko ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-069",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/069/high.jpg",
+        "localId": "069",
+        "name": "Toxel",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-070",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/070/high.jpg",
+        "localId": "070",
+        "name": "Iron Hands ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-071",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/071/high.jpg",
+        "localId": "071",
+        "name": "Natu",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-072",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/072/high.jpg",
+        "localId": "072",
+        "name": "Xatu",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-073",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/073/high.jpg",
+        "localId": "073",
+        "name": "Latios",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-074",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/074/high.jpg",
+        "localId": "074",
+        "name": "Deoxys",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-075",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/075/high.jpg",
+        "localId": "075",
+        "name": "Yamask",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-076",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/076/high.jpg",
+        "localId": "076",
+        "name": "Cofagrigus ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-077",
+        "illustrator": "saino misaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/077/high.jpg",
+        "localId": "077",
+        "name": "Pumpkaboo",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-078",
+        "illustrator": "nisimono",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/078/high.jpg",
+        "localId": "078",
+        "name": "Gourgeist",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-079",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/079/high.jpg",
+        "localId": "079",
+        "name": "Flittle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-080",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/080/high.jpg",
+        "localId": "080",
+        "name": "Flittle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-081",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/081/high.jpg",
+        "localId": "081",
+        "name": "Espathra",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-082",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/082/high.jpg",
+        "localId": "082",
+        "name": "Tinkatink",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-083",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/083/high.jpg",
+        "localId": "083",
+        "name": "Tinkatink",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-084",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/084/high.jpg",
+        "localId": "084",
+        "name": "Tinkatuff",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-085",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/085/high.jpg",
+        "localId": "085",
+        "name": "Tinkaton",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-086",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/086/high.jpg",
+        "localId": "086",
+        "name": "Scream Tail",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-087",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/087/high.jpg",
+        "localId": "087",
+        "name": "Gimmighoul",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-088",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/088/high.jpg",
+        "localId": "088",
+        "name": "Gimmighoul",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-089",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/089/high.jpg",
+        "localId": "089",
+        "name": "Iron Valiant ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-090",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/090/high.jpg",
+        "localId": "090",
+        "name": "Onix",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-091",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/091/high.jpg",
+        "localId": "091",
+        "name": "Gligar",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-092",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/092/high.jpg",
+        "localId": "092",
+        "name": "Gliscor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-093",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/093/high.jpg",
+        "localId": "093",
+        "name": "Groudon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-094",
+        "illustrator": "saino misaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/094/high.jpg",
+        "localId": "094",
+        "name": "Gible",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-095",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/095/high.jpg",
+        "localId": "095",
+        "name": "Gabite",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-096",
+        "illustrator": "Natsumi Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/096/high.jpg",
+        "localId": "096",
+        "name": "Mienfoo",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-097",
+        "illustrator": "Mousho",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/097/high.jpg",
+        "localId": "097",
+        "name": "Mienshao",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-098",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/098/high.jpg",
+        "localId": "098",
+        "name": "Hoopa ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-099",
+        "illustrator": "OKUBO",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/099/high.jpg",
+        "localId": "099",
+        "name": "Minior",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-100",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/100/high.jpg",
+        "localId": "100",
+        "name": "Toxtricity ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-101",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/101/high.jpg",
+        "localId": "101",
+        "name": "Nacli",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-102",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/102/high.jpg",
+        "localId": "102",
+        "name": "Nacli",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-103",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/103/high.jpg",
+        "localId": "103",
+        "name": "Naclstack",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-104",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/104/high.jpg",
+        "localId": "104",
+        "name": "Garganacl",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-105",
+        "illustrator": "Yuya Oka",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/105/high.jpg",
+        "localId": "105",
+        "name": "Klawf",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-106",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/106/high.jpg",
+        "localId": "106",
+        "name": "Flamigo",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-107",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/107/high.jpg",
+        "localId": "107",
+        "name": "Slither Wing",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-108",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/108/high.jpg",
+        "localId": "108",
+        "name": "Sandy Shocks ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-109",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/109/high.jpg",
+        "localId": "109",
+        "name": "Ting-Lu",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-110",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/110/high.jpg",
+        "localId": "110",
+        "name": "Zubat",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-111",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/111/high.jpg",
+        "localId": "111",
+        "name": "Golbat",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-112",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/112/high.jpg",
+        "localId": "112",
+        "name": "Crobat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-113",
+        "illustrator": "Shinji Kanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/113/high.jpg",
+        "localId": "113",
+        "name": "Absol",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-114",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/114/high.jpg",
+        "localId": "114",
+        "name": "Purrloin",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-115",
+        "illustrator": "Yoshioka",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/115/high.jpg",
+        "localId": "115",
+        "name": "Liepard",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-116",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/116/high.jpg",
+        "localId": "116",
+        "name": "Trubbish",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-117",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/117/high.jpg",
+        "localId": "117",
+        "name": "Garbodor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-118",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/118/high.jpg",
+        "localId": "118",
+        "name": "Yveltal",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-119",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/119/high.jpg",
+        "localId": "119",
+        "name": "Nickit",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-120",
+        "illustrator": "SIE NANAHARA",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/120/high.jpg",
+        "localId": "120",
+        "name": "Thievul",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-121",
+        "illustrator": "Cona Nitanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/121/high.jpg",
+        "localId": "121",
+        "name": "Morpeko",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-122",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/122/high.jpg",
+        "localId": "122",
+        "name": "Lokix",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-123",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/123/high.jpg",
+        "localId": "123",
+        "name": "Brute Bonnet",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-124",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/124/high.jpg",
+        "localId": "124",
+        "name": "Roaring Moon ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-125",
+        "illustrator": "Po-Suzuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/125/high.jpg",
+        "localId": "125",
+        "name": "Steelix",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-126",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/126/high.jpg",
+        "localId": "126",
+        "name": "Jirachi",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-127",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/127/high.jpg",
+        "localId": "127",
+        "name": "Ferroseed",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-128",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/128/high.jpg",
+        "localId": "128",
+        "name": "Ferrothorn",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-129",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/129/high.jpg",
+        "localId": "129",
+        "name": "Durant",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-130",
+        "illustrator": "aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/130/high.jpg",
+        "localId": "130",
+        "name": "Honedge",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-131",
+        "illustrator": "Nagomi Nijo",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/131/high.jpg",
+        "localId": "131",
+        "name": "Honedge",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-132",
+        "illustrator": "Bun Toujo",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/132/high.jpg",
+        "localId": "132",
+        "name": "Doublade",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-133",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/133/high.jpg",
+        "localId": "133",
+        "name": "Doublade",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-134",
+        "illustrator": "Jiro Sasumo",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/134/high.jpg",
+        "localId": "134",
+        "name": "Aegislash",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-135",
+        "illustrator": "toriyufu",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/135/high.jpg",
+        "localId": "135",
+        "name": "Aegislash ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-136",
+        "illustrator": "Tonji Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/136/high.jpg",
+        "localId": "136",
+        "name": "Zacian",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-137",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/137/high.jpg",
+        "localId": "137",
+        "name": "Skeledirge ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-138",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/138/high.jpg",
+        "localId": "138",
+        "name": "Orthworm",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-139",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/139/high.jpg",
+        "localId": "139",
+        "name": "Gholdengo ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-140",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/140/high.jpg",
+        "localId": "140",
+        "name": "Altaria ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-141",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/141/high.jpg",
+        "localId": "141",
+        "name": "Tatsugiri",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-142",
+        "illustrator": "Taiga Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/142/high.jpg",
+        "localId": "142",
+        "name": "Porygon",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-143",
+        "illustrator": "kurumitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/143/high.jpg",
+        "localId": "143",
+        "name": "Porygon2",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-144",
+        "illustrator": "hatachu",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/144/high.jpg",
+        "localId": "144",
+        "name": "Porygon-Z",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-145",
+        "illustrator": "aspara",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/145/high.jpg",
+        "localId": "145",
+        "name": "Aipom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-146",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/146/high.jpg",
+        "localId": "146",
+        "name": "Ambipom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-147",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/147/high.jpg",
+        "localId": "147",
+        "name": "Miltank",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-148",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/148/high.jpg",
+        "localId": "148",
+        "name": "Whismur",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-149",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/149/high.jpg",
+        "localId": "149",
+        "name": "Loudred",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-150",
+        "illustrator": "LINNE",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/150/high.jpg",
+        "localId": "150",
+        "name": "Exploud",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-151",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/151/high.jpg",
+        "localId": "151",
+        "name": "Spinda",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-152",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/152/high.jpg",
+        "localId": "152",
+        "name": "Swablu",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-153",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/153/high.jpg",
+        "localId": "153",
+        "name": "Tandemaus",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-154",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/154/high.jpg",
+        "localId": "154",
+        "name": "Tandemaus",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-155",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/155/high.jpg",
+        "localId": "155",
+        "name": "Maushold ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-156",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/156/high.jpg",
+        "localId": "156",
+        "name": "Bombirdier ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-157",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/157/high.jpg",
+        "localId": "157",
+        "name": "Cyclizar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-158",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/158/high.jpg",
+        "localId": "158",
+        "name": "Iron Jugulis",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-159",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/159/high.jpg",
+        "localId": "159",
+        "name": "Ancient Booster Energy Capsule",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-160",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/160/high.jpg",
+        "localId": "160",
+        "name": "Counter Catcher",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-161",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/161/high.jpg",
+        "localId": "161",
+        "name": "Cursed Duster",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-162",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/162/high.jpg",
+        "localId": "162",
+        "name": "Defiance Vest",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-163",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/163/high.jpg",
+        "localId": "163",
+        "name": "Earthen Vessel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-164",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/164/high.jpg",
+        "localId": "164",
+        "name": "Future Booster Energy Capsule",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-165",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/165/high.jpg",
+        "localId": "165",
+        "name": "Larry",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-166",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/166/high.jpg",
+        "localId": "166",
+        "name": "Luxurious Cape",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-167",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/167/high.jpg",
+        "localId": "167",
+        "name": "Mela",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-168",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/168/high.jpg",
+        "localId": "168",
+        "name": "Norman",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-169",
+        "illustrator": "Cona Nitanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/169/high.jpg",
+        "localId": "169",
+        "name": "Parasol Lady",
+        "rarity": "Common",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-170",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/170/high.jpg",
+        "localId": "170",
+        "name": "Professor Sada's Vitality",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-171",
+        "illustrator": "hncl",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/171/high.jpg",
+        "localId": "171",
+        "name": "Professor Turo's Scenario",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-172",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/172/high.jpg",
+        "localId": "172",
+        "name": "Rika",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-173",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/173/high.jpg",
+        "localId": "173",
+        "name": "Roark",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-174",
+        "illustrator": "yuu",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/174/high.jpg",
+        "localId": "174",
+        "name": "Shauntal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-175",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/175/high.jpg",
+        "localId": "175",
+        "name": "Snorlax Doll",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-176",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/176/high.jpg",
+        "localId": "176",
+        "name": "Technical Machine: Blindside",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-177",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/177/high.jpg",
+        "localId": "177",
+        "name": "Technical Machine: Devolution",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-178",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/178/high.jpg",
+        "localId": "178",
+        "name": "Technical Machine: Evolution",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-179",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/179/high.jpg",
+        "localId": "179",
+        "name": "Technical Machine: Turbo Energize",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-180",
+        "illustrator": "inose yukie",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/180/high.jpg",
+        "localId": "180",
+        "name": "Techno Radar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-181",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/181/high.jpg",
+        "localId": "181",
+        "name": "Tulip",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sv04-182",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv04/182/high.jpg",
+        "localId": "182",
+        "name": "Medical Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-183",
+        "illustrator": "OKUBO",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/183/high.jpg",
+        "localId": "183",
+        "name": "Crustle",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-184",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/184/high.jpg",
+        "localId": "184",
+        "name": "Dottler",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-185",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/185/high.jpg",
+        "localId": "185",
+        "name": "Toedscruel",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-186",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/186/high.jpg",
+        "localId": "186",
+        "name": "Magby",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-187",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/187/high.jpg",
+        "localId": "187",
+        "name": "Iron Moth",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-188",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/188/high.jpg",
+        "localId": "188",
+        "name": "Snorunt",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-189",
+        "illustrator": "rika",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/189/high.jpg",
+        "localId": "189",
+        "name": "Mantyke",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-190",
+        "illustrator": "Taiga Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/190/high.jpg",
+        "localId": "190",
+        "name": "Vanillish",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-191",
+        "illustrator": "Oku",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/191/high.jpg",
+        "localId": "191",
+        "name": "Wimpod",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-192",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/192/high.jpg",
+        "localId": "192",
+        "name": "Veluza",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-193",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/193/high.jpg",
+        "localId": "193",
+        "name": "Plusle",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-194",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/194/high.jpg",
+        "localId": "194",
+        "name": "Minun",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-195",
+        "illustrator": "matazo",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/195/high.jpg",
+        "localId": "195",
+        "name": "Blitzle",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-196",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/196/high.jpg",
+        "localId": "196",
+        "name": "Joltik",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-197",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/197/high.jpg",
+        "localId": "197",
+        "name": "Espathra",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-198",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/198/high.jpg",
+        "localId": "198",
+        "name": "Gimmighoul",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-199",
+        "illustrator": "Nurikabe",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/199/high.jpg",
+        "localId": "199",
+        "name": "Groudon",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-200",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/200/high.jpg",
+        "localId": "200",
+        "name": "Mienshao",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-201",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/201/high.jpg",
+        "localId": "201",
+        "name": "Minior",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-202",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/202/high.jpg",
+        "localId": "202",
+        "name": "Garganacl",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-203",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/203/high.jpg",
+        "localId": "203",
+        "name": "Slither Wing",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-204",
+        "illustrator": "Shinya Komatsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/204/high.jpg",
+        "localId": "204",
+        "name": "Garbodor",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-205",
+        "illustrator": "Masako Tomii",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/205/high.jpg",
+        "localId": "205",
+        "name": "Yveltal",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-206",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/206/high.jpg",
+        "localId": "206",
+        "name": "Morpeko",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-207",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/207/high.jpg",
+        "localId": "207",
+        "name": "Brute Bonnet",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-208",
+        "illustrator": "nisimono",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/208/high.jpg",
+        "localId": "208",
+        "name": "Steelix",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-209",
+        "illustrator": "Kurata So",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/209/high.jpg",
+        "localId": "209",
+        "name": "Ferrothorn",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-210",
+        "illustrator": "Takumi Wada",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/210/high.jpg",
+        "localId": "210",
+        "name": "Aegislash",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-211",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/211/high.jpg",
+        "localId": "211",
+        "name": "Aipom",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-212",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/212/high.jpg",
+        "localId": "212",
+        "name": "Loudred",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-213",
+        "illustrator": "Jiro Sasumo",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/213/high.jpg",
+        "localId": "213",
+        "name": "Swablu",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-214",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/214/high.jpg",
+        "localId": "214",
+        "name": "Porygon-Z",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-215",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/215/high.jpg",
+        "localId": "215",
+        "name": "Cyclizar",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-216",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/216/high.jpg",
+        "localId": "216",
+        "name": "Iron Jugulis",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-217",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/217/high.jpg",
+        "localId": "217",
+        "name": "Froslass ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-218",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/218/high.jpg",
+        "localId": "218",
+        "name": "Armarouge ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-219",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/219/high.jpg",
+        "localId": "219",
+        "name": "Garchomp ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-220",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/220/high.jpg",
+        "localId": "220",
+        "name": "Tsareena ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-221",
+        "illustrator": "N-DESIGN Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/221/high.jpg",
+        "localId": "221",
+        "name": "Golisopod ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-222",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/222/high.jpg",
+        "localId": "222",
+        "name": "Tapu Koko ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-223",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/223/high.jpg",
+        "localId": "223",
+        "name": "Iron Hands ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-224",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/224/high.jpg",
+        "localId": "224",
+        "name": "Cofagrigus ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-225",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/225/high.jpg",
+        "localId": "225",
+        "name": "Iron Valiant ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-226",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/226/high.jpg",
+        "localId": "226",
+        "name": "Hoopa ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-227",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/227/high.jpg",
+        "localId": "227",
+        "name": "Toxtricity ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-228",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/228/high.jpg",
+        "localId": "228",
+        "name": "Sandy Shocks ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-229",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/229/high.jpg",
+        "localId": "229",
+        "name": "Roaring Moon ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-230",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/230/high.jpg",
+        "localId": "230",
+        "name": "Aegislash ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-231",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/231/high.jpg",
+        "localId": "231",
+        "name": "Gholdengo ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-232",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/232/high.jpg",
+        "localId": "232",
+        "name": "Altaria ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-233",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/233/high.jpg",
+        "localId": "233",
+        "name": "Maushold ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-234",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/234/high.jpg",
+        "localId": "234",
+        "name": "Bombirdier ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-235",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/235/high.jpg",
+        "localId": "235",
+        "name": "Larry",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-236",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/236/high.jpg",
+        "localId": "236",
+        "name": "Mela",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-237",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/237/high.jpg",
+        "localId": "237",
+        "name": "Norman",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-238",
+        "illustrator": "Cona Nitanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/238/high.jpg",
+        "localId": "238",
+        "name": "Parasol Lady",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-239",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/239/high.jpg",
+        "localId": "239",
+        "name": "Professor Sada's Vitality",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-240",
+        "illustrator": "hncl",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/240/high.jpg",
+        "localId": "240",
+        "name": "Professor Turo's Scenario",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-241",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/241/high.jpg",
+        "localId": "241",
+        "name": "Rika",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-242",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/242/high.jpg",
+        "localId": "242",
+        "name": "Roark",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-243",
+        "illustrator": "En Morikura",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/243/high.jpg",
+        "localId": "243",
+        "name": "Shauntal",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-244",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/244/high.jpg",
+        "localId": "244",
+        "name": "Tulip",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-245",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/245/high.jpg",
+        "localId": "245",
+        "name": "Garchomp ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-246",
+        "illustrator": "Oku",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/246/high.jpg",
+        "localId": "246",
+        "name": "Golisopod ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-247",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/247/high.jpg",
+        "localId": "247",
+        "name": "Tapu Koko ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-248",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/248/high.jpg",
+        "localId": "248",
+        "name": "Iron Hands ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-249",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/249/high.jpg",
+        "localId": "249",
+        "name": "Iron Valiant ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-250",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/250/high.jpg",
+        "localId": "250",
+        "name": "Sandy Shocks ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-251",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/251/high.jpg",
+        "localId": "251",
+        "name": "Roaring Moon ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-252",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/252/high.jpg",
+        "localId": "252",
+        "name": "Gholdengo ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-253",
+        "illustrator": "Jiro Sasumo",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/253/high.jpg",
+        "localId": "253",
+        "name": "Altaria ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-254",
+        "illustrator": "rika",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/254/high.jpg",
+        "localId": "254",
+        "name": "Mela",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-255",
+        "illustrator": "En Morikura",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/255/high.jpg",
+        "localId": "255",
+        "name": "Parasol Lady",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-256",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/256/high.jpg",
+        "localId": "256",
+        "name": "Professor Sada's Vitality",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-257",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/257/high.jpg",
+        "localId": "257",
+        "name": "Professor Turo's Scenario",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-258",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/258/high.jpg",
+        "localId": "258",
+        "name": "Rika",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-259",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/259/high.jpg",
+        "localId": "259",
+        "name": "Tulip",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-260",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/260/high.jpg",
+        "localId": "260",
+        "name": "Garchomp ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-261",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/261/high.jpg",
+        "localId": "261",
+        "name": "Iron Valiant ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv04-262",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/262/high.jpg",
+        "localId": "262",
+        "name": "Roaring Moon ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-263",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/263/high.jpg",
+        "localId": "263",
+        "name": "Beach Court",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-264",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/264/high.jpg",
+        "localId": "264",
+        "name": "Counter Catcher",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv04-265",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv04/265/high.jpg",
+        "localId": "265",
+        "name": "Luxurious Cape",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sv04-266",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv04/266/high.jpg",
+        "localId": "266",
+        "name": "Reversal Energy",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv04",
+            "logo": "https://assets.tcgdex.net/en/sv/sv04/logo.jpg",
+            "name": "Paradox Rift",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv04/symbol.jpg",
+            "releaseDate": "2023-11-03"
+        }
+    }
+]

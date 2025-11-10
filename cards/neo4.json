@@ -1,0 +1,1921 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "neo4-1",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/1/high.jpg",
+        "localId": "1",
+        "name": "Dark Ampharos",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84561
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-2",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/neo/neo4/2/high.jpg",
+        "localId": "2",
+        "name": "Dark Crobat",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84576
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-3",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/3/high.jpg",
+        "localId": "3",
+        "name": "Dark Donphan",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84579
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-4",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/4/high.jpg",
+        "localId": "4",
+        "name": "Dark Espeon",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84592
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-5",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/5/high.jpg",
+        "localId": "5",
+        "name": "Dark Feraligatr",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84594
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-6",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/6/high.jpg",
+        "localId": "6",
+        "name": "Dark Gengar",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84599
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-7",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/7/high.jpg",
+        "localId": "7",
+        "name": "Dark Houndoom",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84610
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-8",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/neo/neo4/8/high.jpg",
+        "localId": "8",
+        "name": "Dark Porygon2",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84640
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-9",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/9/high.jpg",
+        "localId": "9",
+        "name": "Dark Scizor",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84652
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-10",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/10/high.jpg",
+        "localId": "10",
+        "name": "Dark Typhlosion",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84659
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-11",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/11/high.jpg",
+        "localId": "11",
+        "name": "Dark Tyranitar",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84660
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-12",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/12/high.jpg",
+        "localId": "12",
+        "name": "Light Arcanine",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86734
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-13",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/13/high.jpg",
+        "localId": "13",
+        "name": "Light Azumarill",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86735
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-14",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/14/high.jpg",
+        "localId": "14",
+        "name": "Light Dragonite",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86738
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-15",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/15/high.jpg",
+        "localId": "15",
+        "name": "Light Togetic",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86750
+    },
+    {
+        "category": "Energy",
+        "id": "neo4-16",
+        "illustrator": "Milky Isobe",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/16/high.jpg",
+        "localId": "16",
+        "name": "Miracle Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 87496
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-17",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/17/high.jpg",
+        "localId": "17",
+        "name": "Dark Ariados",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84566
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-18",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/18/high.jpg",
+        "localId": "18",
+        "name": "Dark Magcargo",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84622
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-19",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/19/high.jpg",
+        "localId": "19",
+        "name": "Dark Omastar",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84635
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-20",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/20/high.jpg",
+        "localId": "20",
+        "name": "Dark Slowking",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84656
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-21",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/21/high.jpg",
+        "localId": "21",
+        "name": "Dark Ursaring",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84663
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-22",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/22/high.jpg",
+        "localId": "22",
+        "name": "Light Dragonair",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86737
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-23",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/23/high.jpg",
+        "localId": "23",
+        "name": "Light Lanturn",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86742
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-24",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/24/high.jpg",
+        "localId": "24",
+        "name": "Light Ledian",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86743
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-25",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/25/high.jpg",
+        "localId": "25",
+        "name": "Light Machamp",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86744
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-26",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/26/high.jpg",
+        "localId": "26",
+        "name": "Light Piloswine",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86747
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-27",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/27/high.jpg",
+        "localId": "27",
+        "name": "Unown [G]",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 90209
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-28",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/28/high.jpg",
+        "localId": "28",
+        "name": "Unown [H]",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 90211
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-29",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/29/high.jpg",
+        "localId": "29",
+        "name": "Unown [W]",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 90240
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-30",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/30/high.jpg",
+        "localId": "30",
+        "name": "Unown [X]",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 90242
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-31",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/31/high.jpg",
+        "localId": "31",
+        "name": "Chansey",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84170
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-32",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/32/high.jpg",
+        "localId": "32",
+        "name": "Dark Croconaw",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84578
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-33",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/33/high.jpg",
+        "localId": "33",
+        "name": "Dark Exeggutor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-34",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/34/high.jpg",
+        "localId": "34",
+        "name": "Dark Flaaffy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84595
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-35",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/35/high.jpg",
+        "localId": "35",
+        "name": "Dark Forretress",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84598
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-36",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/36/high.jpg",
+        "localId": "36",
+        "name": "Dark Haunter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84609
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-37",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/37/high.jpg",
+        "localId": "37",
+        "name": "Dark Omanyte",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84634
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-38",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/38/high.jpg",
+        "localId": "38",
+        "name": "Dark Pupitar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84642
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-39",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/39/high.jpg",
+        "localId": "39",
+        "name": "Dark Quilava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84645
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-40",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/40/high.jpg",
+        "localId": "40",
+        "name": "Dark Wigglytuff",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84674
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-41",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/neo/neo4/41/high.jpg",
+        "localId": "41",
+        "name": "Heracross",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86060
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-42",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/42/high.jpg",
+        "localId": "42",
+        "name": "Hitmonlee",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86103
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-43",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/43/high.jpg",
+        "localId": "43",
+        "name": "Houndour",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86219
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-44",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/44/high.jpg",
+        "localId": "44",
+        "name": "Jigglypuff",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86311
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-45",
+        "illustrator": "Masako Yamashita",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/45/high.jpg",
+        "localId": "45",
+        "name": "Light Dewgong",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86736
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-46",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/46/high.jpg",
+        "localId": "46",
+        "name": "Light Flareon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86739
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-47",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/47/high.jpg",
+        "localId": "47",
+        "name": "Light Golduck",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86740
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-48",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/48/high.jpg",
+        "localId": "48",
+        "name": "Light Jolteon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86741
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-49",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/49/high.jpg",
+        "localId": "49",
+        "name": "Light Machoke",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86745
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-50",
+        "illustrator": "Masako Yamashita",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/50/high.jpg",
+        "localId": "50",
+        "name": "Light Ninetales",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86746
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-51",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/51/high.jpg",
+        "localId": "51",
+        "name": "Light Slowbro",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86748
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-52",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/52/high.jpg",
+        "localId": "52",
+        "name": "Light Vaporeon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86751
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-53",
+        "illustrator": "Masako Yamashita",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/53/high.jpg",
+        "localId": "53",
+        "name": "Light Venomoth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86752
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-54",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/54/high.jpg",
+        "localId": "54",
+        "name": "Light Wigglytuff",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86753
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-55",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/55/high.jpg",
+        "localId": "55",
+        "name": "Scyther",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 88995
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-56",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/56/high.jpg",
+        "localId": "56",
+        "name": "Togepi",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89930
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-57",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/57/high.jpg",
+        "localId": "57",
+        "name": "Unown [C]",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 90201
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-58",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/58/high.jpg",
+        "localId": "58",
+        "name": "Unown [P]",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 90227
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-59",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/59/high.jpg",
+        "localId": "59",
+        "name": "Unown [Q]",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 90229
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-60",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/60/high.jpg",
+        "localId": "60",
+        "name": "Unown [Z]",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 90246
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-61",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/61/high.jpg",
+        "localId": "61",
+        "name": "Cyndaquil",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84546
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-62",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/62/high.jpg",
+        "localId": "62",
+        "name": "Dark Octillery",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84632
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-63",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/63/high.jpg",
+        "localId": "63",
+        "name": "Dratini",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84929
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-64",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/64/high.jpg",
+        "localId": "64",
+        "name": "Exeggcute",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 85342
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-65",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/65/high.jpg",
+        "localId": "65",
+        "name": "Gastly",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 85647
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-66",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/66/high.jpg",
+        "localId": "66",
+        "name": "Girafarig",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 85728
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-67",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/67/high.jpg",
+        "localId": "67",
+        "name": "Gligar",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 85762
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-68",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/68/high.jpg",
+        "localId": "68",
+        "name": "Growlithe",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 85952
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-69",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/69/high.jpg",
+        "localId": "69",
+        "name": "Hitmonchan",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86090
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-70",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/70/high.jpg",
+        "localId": "70",
+        "name": "Larvitar",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86633
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-71",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/71/high.jpg",
+        "localId": "71",
+        "name": "Ledyba",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86700
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-72",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/72/high.jpg",
+        "localId": "72",
+        "name": "Light Sunflora",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86749
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-73",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/73/high.jpg",
+        "localId": "73",
+        "name": "Machop",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86988
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-74",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/74/high.jpg",
+        "localId": "74",
+        "name": "Mantine",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 87180
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-75",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/75/high.jpg",
+        "localId": "75",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 87194
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-76",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/76/high.jpg",
+        "localId": "76",
+        "name": "Phanpy",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 87997
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-77",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/77/high.jpg",
+        "localId": "77",
+        "name": "Pineco",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 88123
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-78",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/neo/neo4/78/high.jpg",
+        "localId": "78",
+        "name": "Porygon",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 88305
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-79",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/79/high.jpg",
+        "localId": "79",
+        "name": "Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 88433
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-80",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/neo/neo4/80/high.jpg",
+        "localId": "80",
+        "name": "Remoraid",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 88693
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-81",
+        "illustrator": "Masako Yamashita",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/81/high.jpg",
+        "localId": "81",
+        "name": "Seel",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89048
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-82",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/82/high.jpg",
+        "localId": "82",
+        "name": "Slugma",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89337
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-83",
+        "illustrator": "Etsuya Hattori",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/83/high.jpg",
+        "localId": "83",
+        "name": "Sunkern",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89618
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-84",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/84/high.jpg",
+        "localId": "84",
+        "name": "Swinub",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89699
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-85",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/85/high.jpg",
+        "localId": "85",
+        "name": "Totodile",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89993
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-86",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/86/high.jpg",
+        "localId": "86",
+        "name": "Unown [L]",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 90219
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-87",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/87/high.jpg",
+        "localId": "87",
+        "name": "Unown [S]",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 90232
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-88",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/88/high.jpg",
+        "localId": "88",
+        "name": "Unown [T]",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 90234
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-89",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/89/high.jpg",
+        "localId": "89",
+        "name": "Unown [V]",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 90238
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-90",
+        "illustrator": "Masako Yamashita",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/90/high.jpg",
+        "localId": "90",
+        "name": "Venonat",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 90305
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-91",
+        "illustrator": "Masako Yamashita",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/91/high.jpg",
+        "localId": "91",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 90433
+    },
+    {
+        "category": "Trainer",
+        "id": "neo4-92",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/92/high.jpg",
+        "localId": "92",
+        "name": "Broken Ground Gym",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 83990
+    },
+    {
+        "category": "Trainer",
+        "id": "neo4-93",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/93/high.jpg",
+        "localId": "93",
+        "name": "EXP.ALL",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 85367
+    },
+    {
+        "category": "Trainer",
+        "id": "neo4-94",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/94/high.jpg",
+        "localId": "94",
+        "name": "Impostor Professor Oak's Invention",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86272
+    },
+    {
+        "category": "Trainer",
+        "id": "neo4-95",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/neo/neo4/95/high.jpg",
+        "localId": "95",
+        "name": "Radio Tower",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 88497
+    },
+    {
+        "category": "Trainer",
+        "id": "neo4-96",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/96/high.jpg",
+        "localId": "96",
+        "name": "Thought Wave Machine (Rocket's Secret Machine)",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89898
+    },
+    {
+        "category": "Trainer",
+        "id": "neo4-97",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/97/high.jpg",
+        "localId": "97",
+        "name": "Counterattack Claws",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 84448
+    },
+    {
+        "category": "Trainer",
+        "id": "neo4-98",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/neo/neo4/98/high.jpg",
+        "localId": "98",
+        "name": "Energy Amplifier",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 85208
+    },
+    {
+        "category": "Trainer",
+        "id": "neo4-99",
+        "illustrator": "Hideki Kazama",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/99/high.jpg",
+        "localId": "99",
+        "name": "Energy Stadium",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 85251
+    },
+    {
+        "category": "Trainer",
+        "id": "neo4-100",
+        "illustrator": "Imakuni?",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/100/high.jpg",
+        "localId": "100",
+        "name": "Lucky Stadium",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86893
+    },
+    {
+        "category": "Trainer",
+        "id": "neo4-101",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/101/high.jpg",
+        "localId": "101",
+        "name": "Magnifier",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 87122
+    },
+    {
+        "category": "Trainer",
+        "id": "neo4-102",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/102/high.jpg",
+        "localId": "102",
+        "name": "Pokémon Personality Test",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "neo4-103",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/103/high.jpg",
+        "localId": "103",
+        "name": "Team Rocket's Evil Deeds",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89850
+    },
+    {
+        "category": "Trainer",
+        "id": "neo4-104",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/neo/neo4/104/high.jpg",
+        "localId": "104",
+        "name": "Heal Powder",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 86039
+    },
+    {
+        "category": "Trainer",
+        "id": "neo4-105",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/105/high.jpg",
+        "localId": "105",
+        "name": "Mail from Bill",
+        "rarity": "Common",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 87123
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-106",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/106/high.jpg",
+        "localId": "106",
+        "name": "Shining Celebi",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89162
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-107",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/107/high.jpg",
+        "localId": "107",
+        "name": "Shining Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89163
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-108",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/108/high.jpg",
+        "localId": "108",
+        "name": "Shining Kabutops",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89165
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-109",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/109/high.jpg",
+        "localId": "109",
+        "name": "Shining Mewtwo",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89167
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-110",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/110/high.jpg",
+        "localId": "110",
+        "name": "Shining Noctowl",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89168
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-111",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/111/high.jpg",
+        "localId": "111",
+        "name": "Shining Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89169
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-112",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/112/high.jpg",
+        "localId": "112",
+        "name": "Shining Steelix",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89170
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo4-113",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/neo/neo4/113/high.jpg",
+        "localId": "113",
+        "name": "Shining Tyranitar",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo4",
+            "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.jpg",
+            "name": "Neo Destiny",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.jpg",
+            "releaseDate": "2002-02-28"
+        },
+        "tcgplayerId": 89171
+    }
+]

@@ -1,0 +1,4171 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "swsh11-001",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/001/high.jpg",
+        "localId": "001",
+        "name": "Oddish",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283861
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-002",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/002/high.jpg",
+        "localId": "002",
+        "name": "Gloom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283862
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-003",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/003/high.jpg",
+        "localId": "003",
+        "name": "Vileplume",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283865
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-004",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/004/high.jpg",
+        "localId": "004",
+        "name": "Paras",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283866
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-005",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/005/high.jpg",
+        "localId": "005",
+        "name": "Parasect",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283868
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-006",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/006/high.jpg",
+        "localId": "006",
+        "name": "Wurmple",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283870
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-007",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/007/high.jpg",
+        "localId": "007",
+        "name": "Silcoon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283871
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-008",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/008/high.jpg",
+        "localId": "008",
+        "name": "Beautifly",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283872
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-009",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/009/high.jpg",
+        "localId": "009",
+        "name": "Cascoon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283873
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-010",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/010/high.jpg",
+        "localId": "010",
+        "name": "Dustox",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283874
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-011",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/011/high.jpg",
+        "localId": "011",
+        "name": "Seedot",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283875
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-012",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/012/high.jpg",
+        "localId": "012",
+        "name": "Nuzleaf",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283877
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-013",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/013/high.jpg",
+        "localId": "013",
+        "name": "Shiftry",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283879
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-014",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/014/high.jpg",
+        "localId": "014",
+        "name": "Roselia",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283881
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-015",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/015/high.jpg",
+        "localId": "015",
+        "name": "Roserade",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283882
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-016",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/016/high.jpg",
+        "localId": "016",
+        "name": "Phantump",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283883
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-017",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/017/high.jpg",
+        "localId": "017",
+        "name": "Trevenant",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283884
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-018",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/018/high.jpg",
+        "localId": "018",
+        "name": "Blipbug",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283885
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-019",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/019/high.jpg",
+        "localId": "019",
+        "name": "Dottler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283887
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-020",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/020/high.jpg",
+        "localId": "020",
+        "name": "Orbeetle",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283890
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-021",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/021/high.jpg",
+        "localId": "021",
+        "name": "Slugma",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283892
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-022",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/022/high.jpg",
+        "localId": "022",
+        "name": "Magcargo",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283893
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-023",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/023/high.jpg",
+        "localId": "023",
+        "name": "Torkoal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283894
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-024",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/024/high.jpg",
+        "localId": "024",
+        "name": "Litwick",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283895
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-025",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/025/high.jpg",
+        "localId": "025",
+        "name": "Lampent",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283896
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-026",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/026/high.jpg",
+        "localId": "026",
+        "name": "Chandelure",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283897
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-027",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/027/high.jpg",
+        "localId": "027",
+        "name": "Delphox V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283898
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-028",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/028/high.jpg",
+        "localId": "028",
+        "name": "Litleo",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283899
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-029",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/029/high.jpg",
+        "localId": "029",
+        "name": "Pyroar",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283901
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-030",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/030/high.jpg",
+        "localId": "030",
+        "name": "Poliwag",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283903
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-031",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/031/high.jpg",
+        "localId": "031",
+        "name": "Poliwhirl",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283904
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-032",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/032/high.jpg",
+        "localId": "032",
+        "name": "Politoed",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283905
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-033",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/033/high.jpg",
+        "localId": "033",
+        "name": "Seel",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283906
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-034",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/034/high.jpg",
+        "localId": "034",
+        "name": "Dewgong",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283908
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-035",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/035/high.jpg",
+        "localId": "035",
+        "name": "Horsea",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283909
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-036",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/036/high.jpg",
+        "localId": "036",
+        "name": "Seadra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283910
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-037",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/037/high.jpg",
+        "localId": "037",
+        "name": "Kingdra",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283911
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-038",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/038/high.jpg",
+        "localId": "038",
+        "name": "Luvdisc",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283912
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-039",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/039/high.jpg",
+        "localId": "039",
+        "name": "Shellos",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283913
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-040",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/040/high.jpg",
+        "localId": "040",
+        "name": "Finneon",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283914
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-041",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/041/high.jpg",
+        "localId": "041",
+        "name": "Lumineon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283915
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-042",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/042/high.jpg",
+        "localId": "042",
+        "name": "Snover",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283916
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-043",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/043/high.jpg",
+        "localId": "043",
+        "name": "Abomasnow",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283917
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-044",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/044/high.jpg",
+        "localId": "044",
+        "name": "Hisuian Basculin",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283918
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-045",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/045/high.jpg",
+        "localId": "045",
+        "name": "Hisuian Basculegion",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283919
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-046",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/046/high.jpg",
+        "localId": "046",
+        "name": "Ducklett",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283920
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-047",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/047/high.jpg",
+        "localId": "047",
+        "name": "Swanna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283921
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-048",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/048/high.jpg",
+        "localId": "048",
+        "name": "Kyurem V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283922
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-049",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/049/high.jpg",
+        "localId": "049",
+        "name": "Kyurem VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283923
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-050",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/050/high.jpg",
+        "localId": "050",
+        "name": "Cramorant",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283924
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-051",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/051/high.jpg",
+        "localId": "051",
+        "name": "Glastrier",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283925
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-052",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/052/high.jpg",
+        "localId": "052",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283926
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-053",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/053/high.jpg",
+        "localId": "053",
+        "name": "Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283927
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-054",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/054/high.jpg",
+        "localId": "054",
+        "name": "Electrike",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283928
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-055",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/055/high.jpg",
+        "localId": "055",
+        "name": "Manectric",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283929
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-056",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/056/high.jpg",
+        "localId": "056",
+        "name": "Magnezone V",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283930
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-057",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/057/high.jpg",
+        "localId": "057",
+        "name": "Magnezone VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283931
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-058",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/058/high.jpg",
+        "localId": "058",
+        "name": "Rotom V",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283932
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-059",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/059/high.jpg",
+        "localId": "059",
+        "name": "Tynamo",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283933
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-060",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/060/high.jpg",
+        "localId": "060",
+        "name": "Eelektrik",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283934
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-061",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/061/high.jpg",
+        "localId": "061",
+        "name": "Eelektross",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283935
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-062",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/062/high.jpg",
+        "localId": "062",
+        "name": "Clefairy",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283936
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-063",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/063/high.jpg",
+        "localId": "063",
+        "name": "Clefable",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283937
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-064",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/064/high.jpg",
+        "localId": "064",
+        "name": "Gastly",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283938
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-065",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/065/high.jpg",
+        "localId": "065",
+        "name": "Haunter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283939
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-066",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/066/high.jpg",
+        "localId": "066",
+        "name": "Gengar",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283941
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-067",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/067/high.jpg",
+        "localId": "067",
+        "name": "Mr. Mime",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283942
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-068",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/068/high.jpg",
+        "localId": "068",
+        "name": "Jynx",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283943
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-069",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/069/high.jpg",
+        "localId": "069",
+        "name": "Radiant Gardevoir",
+        "rarity": "Radiant Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283945
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-070",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/070/high.jpg",
+        "localId": "070",
+        "name": "Sableye",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283946
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-071",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/071/high.jpg",
+        "localId": "071",
+        "name": "Mawile",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283948
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-072",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/072/high.jpg",
+        "localId": "072",
+        "name": "Shuppet",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283949
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-073",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/073/high.jpg",
+        "localId": "073",
+        "name": "Banette",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283951
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-074",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/074/high.jpg",
+        "localId": "074",
+        "name": "Cresselia",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283953
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-075",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/075/high.jpg",
+        "localId": "075",
+        "name": "Hisuian Zorua",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283954
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-076",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/076/high.jpg",
+        "localId": "076",
+        "name": "Hisuian Zoroark",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283957
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-077",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/077/high.jpg",
+        "localId": "077",
+        "name": "Inkay",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283958
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-078",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/078/high.jpg",
+        "localId": "078",
+        "name": "Malamar",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283959
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-079",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/079/high.jpg",
+        "localId": "079",
+        "name": "Comfey",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283960
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-080",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/080/high.jpg",
+        "localId": "080",
+        "name": "Mimikyu",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283961
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-081",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/081/high.jpg",
+        "localId": "081",
+        "name": "Spectrier",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283963
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-082",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/082/high.jpg",
+        "localId": "082",
+        "name": "Enamorus V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283964
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-083",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/083/high.jpg",
+        "localId": "083",
+        "name": "Hisuian Growlithe",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283967
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-084",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/084/high.jpg",
+        "localId": "084",
+        "name": "Hisuian Arcanine",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283968
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-085",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/085/high.jpg",
+        "localId": "085",
+        "name": "Poliwrath",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283970
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-086",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/086/high.jpg",
+        "localId": "086",
+        "name": "Machop",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283971
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-087",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/087/high.jpg",
+        "localId": "087",
+        "name": "Machoke",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283973
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-088",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/088/high.jpg",
+        "localId": "088",
+        "name": "Machamp",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283974
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-089",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/089/high.jpg",
+        "localId": "089",
+        "name": "Rhyhorn",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283976
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-090",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/090/high.jpg",
+        "localId": "090",
+        "name": "Rhydon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283978
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-091",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/091/high.jpg",
+        "localId": "091",
+        "name": "Rhyperior",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283979
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-092",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/092/high.jpg",
+        "localId": "092",
+        "name": "Aerodactyl V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283980
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-093",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/093/high.jpg",
+        "localId": "093",
+        "name": "Aerodactyl VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 282255
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-094",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/094/high.jpg",
+        "localId": "094",
+        "name": "Sudowoodo",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283982
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-095",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/095/high.jpg",
+        "localId": "095",
+        "name": "Gligar",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283983
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-096",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/096/high.jpg",
+        "localId": "096",
+        "name": "Gliscor",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283985
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-097",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/097/high.jpg",
+        "localId": "097",
+        "name": "Makuhita",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283987
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-098",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/098/high.jpg",
+        "localId": "098",
+        "name": "Hariyama",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283988
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-099",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/099/high.jpg",
+        "localId": "099",
+        "name": "Meditite",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283992
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-100",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/100/high.jpg",
+        "localId": "100",
+        "name": "Medicham",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283993
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-101",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/101/high.jpg",
+        "localId": "101",
+        "name": "Relicanth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283994
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-102",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/102/high.jpg",
+        "localId": "102",
+        "name": "Gastrodon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283995
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-103",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/103/high.jpg",
+        "localId": "103",
+        "name": "Mienfoo",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283997
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-104",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/104/high.jpg",
+        "localId": "104",
+        "name": "Mienshao",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283998
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-105",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/105/high.jpg",
+        "localId": "105",
+        "name": "Landorus",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 283999
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-106",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/106/high.jpg",
+        "localId": "106",
+        "name": "Binacle",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284001
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-107",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/107/high.jpg",
+        "localId": "107",
+        "name": "Barbaracle",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284002
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-108",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/108/high.jpg",
+        "localId": "108",
+        "name": "Carbink",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284003
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-109",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/109/high.jpg",
+        "localId": "109",
+        "name": "Rockruff",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284004
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-110",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/110/high.jpg",
+        "localId": "110",
+        "name": "Falinks",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284005
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-111",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/111/high.jpg",
+        "localId": "111",
+        "name": "Stonjourner",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284006
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-112",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/112/high.jpg",
+        "localId": "112",
+        "name": "Spinarak",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284007
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-113",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/113/high.jpg",
+        "localId": "113",
+        "name": "Ariados",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284009
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-114",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/114/high.jpg",
+        "localId": "114",
+        "name": "Murkrow",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284011
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-115",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/115/high.jpg",
+        "localId": "115",
+        "name": "Honchkrow",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284013
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-116",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/116/high.jpg",
+        "localId": "116",
+        "name": "Seviper",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284015
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-117",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/117/high.jpg",
+        "localId": "117",
+        "name": "Spiritomb",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284017
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-118",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/118/high.jpg",
+        "localId": "118",
+        "name": "Drapion V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284018
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-119",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/119/high.jpg",
+        "localId": "119",
+        "name": "Drapion VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284021
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-120",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/120/high.jpg",
+        "localId": "120",
+        "name": "Darkrai",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284025
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-121",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/121/high.jpg",
+        "localId": "121",
+        "name": "Inkay",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284029
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-122",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/122/high.jpg",
+        "localId": "122",
+        "name": "Hoopa",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284030
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-123",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/123/high.jpg",
+        "localId": "123",
+        "name": "Radiant Hisuian Sneasler",
+        "rarity": "Radiant Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284031
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-124",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/124/high.jpg",
+        "localId": "124",
+        "name": "Radiant Steelix",
+        "rarity": "Radiant Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284032
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-125",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/125/high.jpg",
+        "localId": "125",
+        "name": "Bronzor",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284041
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-126",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/126/high.jpg",
+        "localId": "126",
+        "name": "Bronzong",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284042
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-127",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/127/high.jpg",
+        "localId": "127",
+        "name": "Galarian Stunfisk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284044
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-128",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/128/high.jpg",
+        "localId": "128",
+        "name": "Magearna",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284045
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-129",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/129/high.jpg",
+        "localId": "129",
+        "name": "Galarian Perrserker V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284047
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-130",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/130/high.jpg",
+        "localId": "130",
+        "name": "Giratina V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284050
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-131",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/131/high.jpg",
+        "localId": "131",
+        "name": "Giratina VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284051
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-132",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/132/high.jpg",
+        "localId": "132",
+        "name": "Goomy",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284053
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-133",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/133/high.jpg",
+        "localId": "133",
+        "name": "Hisuian Sliggoo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284054
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-134",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/134/high.jpg",
+        "localId": "134",
+        "name": "Hisuian Goodra",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284055
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-135",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/135/high.jpg",
+        "localId": "135",
+        "name": "Hisuian Goodra V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284058
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-136",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/136/high.jpg",
+        "localId": "136",
+        "name": "Hisuian Goodra VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284059
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-137",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/137/high.jpg",
+        "localId": "137",
+        "name": "Pidgeot V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284060
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-138",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/138/high.jpg",
+        "localId": "138",
+        "name": "Lickitung",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284061
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-139",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/139/high.jpg",
+        "localId": "139",
+        "name": "Lickilicky",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284062
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-140",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/140/high.jpg",
+        "localId": "140",
+        "name": "Porygon",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284063
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-141",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/141/high.jpg",
+        "localId": "141",
+        "name": "Porygon2",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284064
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-142",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/142/high.jpg",
+        "localId": "142",
+        "name": "Porygon-Z",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284066
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-143",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/143/high.jpg",
+        "localId": "143",
+        "name": "Snorlax",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284068
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-144",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/144/high.jpg",
+        "localId": "144",
+        "name": "Aipom",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284070
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-145",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/145/high.jpg",
+        "localId": "145",
+        "name": "Ambipom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284071
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-146",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/146/high.jpg",
+        "localId": "146",
+        "name": "Hisuian Zoroark V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284074
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-147",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/147/high.jpg",
+        "localId": "147",
+        "name": "Hisuian Zoroark VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 282256
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-148",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/148/high.jpg",
+        "localId": "148",
+        "name": "Bouffalant",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284075
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-149",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/149/high.jpg",
+        "localId": "149",
+        "name": "Komala",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284077
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-150",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/150/high.jpg",
+        "localId": "150",
+        "name": "Skwovet",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284078
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-151",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/151/high.jpg",
+        "localId": "151",
+        "name": "Greedent",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284079
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-152",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/152/high.jpg",
+        "localId": "152",
+        "name": "Arc Phone",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284082
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-153",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/153/high.jpg",
+        "localId": "153",
+        "name": "Arezu",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284083
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-154",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/154/high.jpg",
+        "localId": "154",
+        "name": "Box of Disaster",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284084
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-155",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/155/high.jpg",
+        "localId": "155",
+        "name": "Colress's Experiment",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284085
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-156",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/156/high.jpg",
+        "localId": "156",
+        "name": "Damage Pump",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284087
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-157",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/157/high.jpg",
+        "localId": "157",
+        "name": "Fantina",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284088
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-158",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/158/high.jpg",
+        "localId": "158",
+        "name": "Iscan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284089
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-159",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/159/high.jpg",
+        "localId": "159",
+        "name": "Lady",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284090
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-160",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/160/high.jpg",
+        "localId": "160",
+        "name": "Lake Acuity",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284092
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-161",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/161/high.jpg",
+        "localId": "161",
+        "name": "Lost City",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284093
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-162",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/162/high.jpg",
+        "localId": "162",
+        "name": "Lost Vacuum",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284094
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-163",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/163/high.jpg",
+        "localId": "163",
+        "name": "Mirage Gate",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 282257
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-164",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/164/high.jpg",
+        "localId": "164",
+        "name": "Miss Fortune Sisters",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284096
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-165",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/165/high.jpg",
+        "localId": "165",
+        "name": "Panic Mask",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284097
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-166",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/166/high.jpg",
+        "localId": "166",
+        "name": "Riley",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284099
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-167",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/167/high.jpg",
+        "localId": "167",
+        "name": "Thorton",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284100
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-168",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/168/high.jpg",
+        "localId": "168",
+        "name": "Tool Box",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284101
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-169",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/169/high.jpg",
+        "localId": "169",
+        "name": "Volo",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284104
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-170",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/170/high.jpg",
+        "localId": "170",
+        "name": "Windup Arm",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284106
+    },
+    {
+        "category": "Energy",
+        "id": "swsh11-171",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/171/high.jpg",
+        "localId": "171",
+        "name": "Gift Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284108
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-172",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/172/high.jpg",
+        "localId": "172",
+        "name": "Hisuian Electrode V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284110
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-173",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/173/high.jpg",
+        "localId": "173",
+        "name": "Delphox V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284115
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-174",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/174/high.jpg",
+        "localId": "174",
+        "name": "Kyurem V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284116
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-175",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/175/high.jpg",
+        "localId": "175",
+        "name": "Magnezone V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284117
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-176",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/176/high.jpg",
+        "localId": "176",
+        "name": "Rotom V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284120
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-177",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/177/high.jpg",
+        "localId": "177",
+        "name": "Rotom V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284119
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-178",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/178/high.jpg",
+        "localId": "178",
+        "name": "Enamorus V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284131
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-179",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/179/high.jpg",
+        "localId": "179",
+        "name": "Aerodactyl V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284123
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-180",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/180/high.jpg",
+        "localId": "180",
+        "name": "Aerodactyl V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284122
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-181",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/181/high.jpg",
+        "localId": "181",
+        "name": "Gallade V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284124
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-182",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/182/high.jpg",
+        "localId": "182",
+        "name": "Drapion V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284127
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-183",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/183/high.jpg",
+        "localId": "183",
+        "name": "Galarian Perrserker V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284134
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-184",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/184/high.jpg",
+        "localId": "184",
+        "name": "Galarian Perrserker V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284135
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-185",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/185/high.jpg",
+        "localId": "185",
+        "name": "Giratina V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284136
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-186",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/186/high.jpg",
+        "localId": "186",
+        "name": "Giratina V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284137
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-187",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/187/high.jpg",
+        "localId": "187",
+        "name": "Hisuian Goodra V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284138
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-188",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/188/high.jpg",
+        "localId": "188",
+        "name": "Pidgeot V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284139
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-189",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/189/high.jpg",
+        "localId": "189",
+        "name": "Arezu",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284141
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-190",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/190/high.jpg",
+        "localId": "190",
+        "name": "Colress's Experiment",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284142
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-191",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/191/high.jpg",
+        "localId": "191",
+        "name": "Fantina",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284144
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-192",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/192/high.jpg",
+        "localId": "192",
+        "name": "Iscan",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284145
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-193",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/193/high.jpg",
+        "localId": "193",
+        "name": "Lady",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284146
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-194",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/194/high.jpg",
+        "localId": "194",
+        "name": "Miss Fortune Sisters",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284147
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-195",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/195/high.jpg",
+        "localId": "195",
+        "name": "Thorton",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284148
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-196",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/196/high.jpg",
+        "localId": "196",
+        "name": "Volo",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284150
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-197",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/197/high.jpg",
+        "localId": "197",
+        "name": "Kyurem VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284152
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-198",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/198/high.jpg",
+        "localId": "198",
+        "name": "Magnezone VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284153
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-199",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/199/high.jpg",
+        "localId": "199",
+        "name": "Aerodactyl VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284154
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-200",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/200/high.jpg",
+        "localId": "200",
+        "name": "Drapion VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284155
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-201",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/201/high.jpg",
+        "localId": "201",
+        "name": "Giratina VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284156
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-202",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/202/high.jpg",
+        "localId": "202",
+        "name": "Hisuian Goodra VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284157
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-203",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/203/high.jpg",
+        "localId": "203",
+        "name": "Hisuian Zoroark VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284158
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-204",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/204/high.jpg",
+        "localId": "204",
+        "name": "Arezu",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284159
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-205",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/205/high.jpg",
+        "localId": "205",
+        "name": "Colress's Experiment",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284160
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-206",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/206/high.jpg",
+        "localId": "206",
+        "name": "Fantina",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284161
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-207",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/207/high.jpg",
+        "localId": "207",
+        "name": "Iscan",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284162
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-208",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/208/high.jpg",
+        "localId": "208",
+        "name": "Lady",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284163
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-209",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/209/high.jpg",
+        "localId": "209",
+        "name": "Miss Fortune Sisters",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284164
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-210",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/210/high.jpg",
+        "localId": "210",
+        "name": "Thorton",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284165
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-211",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/211/high.jpg",
+        "localId": "211",
+        "name": "Volo",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284166
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-212",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/212/high.jpg",
+        "localId": "212",
+        "name": "Giratina VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284167
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-213",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/213/high.jpg",
+        "localId": "213",
+        "name": "Hisuian Zoroark VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284168
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-214",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/214/high.jpg",
+        "localId": "214",
+        "name": "Box of Disaster",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284169
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-215",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/215/high.jpg",
+        "localId": "215",
+        "name": "Collapsed Stadium",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284170
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-216",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/216/high.jpg",
+        "localId": "216",
+        "name": "Dark Patch",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284171
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-217",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/217/high.jpg",
+        "localId": "217",
+        "name": "Lost Vacuum",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        },
+        "tcgplayerId": 284172
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG01",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG01/high.jpg",
+        "localId": "TG01",
+        "name": "Parasect",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG02",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG02/high.jpg",
+        "localId": "TG02",
+        "name": "Roserade",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG03",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG03/high.jpg",
+        "localId": "TG03",
+        "name": "Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG04",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG04/high.jpg",
+        "localId": "TG04",
+        "name": "Chandelure",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG05",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG05/high.jpg",
+        "localId": "TG05",
+        "name": "Pikachu",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG06",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG06/high.jpg",
+        "localId": "TG06",
+        "name": "Gengar",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG07",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG07/high.jpg",
+        "localId": "TG07",
+        "name": "Banette",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG08",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG08/high.jpg",
+        "localId": "TG08",
+        "name": "Hisuian Arcanine",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG09",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG09/high.jpg",
+        "localId": "TG09",
+        "name": "Spiritomb",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG10",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG10/high.jpg",
+        "localId": "TG10",
+        "name": "Snorlax",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG11",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG11/high.jpg",
+        "localId": "TG11",
+        "name": "Castform",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG12",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG12/high.jpg",
+        "localId": "TG12",
+        "name": "Orbeetle V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG13",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG13/high.jpg",
+        "localId": "TG13",
+        "name": "Orbeetle VMAX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG14",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG14/high.jpg",
+        "localId": "TG14",
+        "name": "Centiskorch V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG15",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG15/high.jpg",
+        "localId": "TG15",
+        "name": "Centiskorch VMAX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG16",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG16/high.jpg",
+        "localId": "TG16",
+        "name": "Pikachu V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG17",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG17/high.jpg",
+        "localId": "TG17",
+        "name": "Pikachu VMAX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG18",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG18/high.jpg",
+        "localId": "TG18",
+        "name": "Enamorus V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG19",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG19/high.jpg",
+        "localId": "TG19",
+        "name": "Gallade V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG20",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG20/high.jpg",
+        "localId": "TG20",
+        "name": "Crobat V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG21",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG21/high.jpg",
+        "localId": "TG21",
+        "name": "Eternatus V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG22",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG22/high.jpg",
+        "localId": "TG22",
+        "name": "Eternatus VMAX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-TG23",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG23/high.jpg",
+        "localId": "TG23",
+        "name": "Adventurer's Discovery",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-TG24",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG24/high.jpg",
+        "localId": "TG24",
+        "name": "Boss's Orders",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-TG25",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG25/high.jpg",
+        "localId": "TG25",
+        "name": "Cook",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-TG26",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG26/high.jpg",
+        "localId": "TG26",
+        "name": "Kabu",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-TG27",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG27/high.jpg",
+        "localId": "TG27",
+        "name": "Nessa",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh11-TG28",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG28/high.jpg",
+        "localId": "TG28",
+        "name": "Opal",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG29",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG29/high.jpg",
+        "localId": "TG29",
+        "name": "Pikachu VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh11-TG30",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG30/high.jpg",
+        "localId": "TG30",
+        "name": "Mew VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh11",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo.jpg",
+            "name": "Lost Origin",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh11/symbol.jpg",
+            "releaseDate": "2022-09-09"
+        }
+    }
+]

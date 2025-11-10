@@ -1,0 +1,2205 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "dp1-1",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/1/high.jpg",
+        "localId": "1",
+        "name": "Dialga",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84798
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-2",
+        "illustrator": "Takabon",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/2/high.jpg",
+        "localId": "2",
+        "name": "Dusknoir",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85036
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-3",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/3/high.jpg",
+        "localId": "3",
+        "name": "Electivire",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85121
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-4",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/4/high.jpg",
+        "localId": "4",
+        "name": "Empoleon",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85197
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-5",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/5/high.jpg",
+        "localId": "5",
+        "name": "Infernape",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86274
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-6",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/6/high.jpg",
+        "localId": "6",
+        "name": "Lucario",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86873
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-7",
+        "illustrator": "Mikiko Takeda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/7/high.jpg",
+        "localId": "7",
+        "name": "Luxray",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86946
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-8",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/8/high.jpg",
+        "localId": "8",
+        "name": "Magnezone",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87113
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-9",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/9/high.jpg",
+        "localId": "9",
+        "name": "Manaphy",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87143
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-10",
+        "illustrator": "Mikiko Takeda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/10/high.jpg",
+        "localId": "10",
+        "name": "Mismagius",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87514
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-11",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/11/high.jpg",
+        "localId": "11",
+        "name": "Palkia",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87906
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-12",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/12/high.jpg",
+        "localId": "12",
+        "name": "Rhyperior",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88745
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-13",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/13/high.jpg",
+        "localId": "13",
+        "name": "Roserade",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88826
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-14",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/14/high.jpg",
+        "localId": "14",
+        "name": "Shiftry",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89157
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-15",
+        "illustrator": "Hiroaki Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/15/high.jpg",
+        "localId": "15",
+        "name": "Skuntank",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89279
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-16",
+        "illustrator": "Masahiko Ishii",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/16/high.jpg",
+        "localId": "16",
+        "name": "Staraptor",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89508
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-17",
+        "illustrator": "Masahiko Ishii",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/17/high.jpg",
+        "localId": "17",
+        "name": "Torterra",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89983
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-18",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/18/high.jpg",
+        "localId": "18",
+        "name": "Azumarill",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 83684
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-19",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/19/high.jpg",
+        "localId": "19",
+        "name": "Beautifly",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 83758
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-20",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/20/high.jpg",
+        "localId": "20",
+        "name": "Bibarel",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 83817
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-21",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/21/high.jpg",
+        "localId": "21",
+        "name": "Carnivine",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84099
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-22",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/22/high.jpg",
+        "localId": "22",
+        "name": "Clefable",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84347
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-23",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/23/high.jpg",
+        "localId": "23",
+        "name": "Drapion",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84922
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-24",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/24/high.jpg",
+        "localId": "24",
+        "name": "Drifblim",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84943
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-25",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/25/high.jpg",
+        "localId": "25",
+        "name": "Dustox",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85057
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-26",
+        "illustrator": "Masahiko Ishii",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/26/high.jpg",
+        "localId": "26",
+        "name": "Floatzel",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85511
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-27",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/27/high.jpg",
+        "localId": "27",
+        "name": "Gengar",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85675
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-28",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/28/high.jpg",
+        "localId": "28",
+        "name": "Heracross",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86064
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-29",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/29/high.jpg",
+        "localId": "29",
+        "name": "Hippowdon",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86083
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-30",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/30/high.jpg",
+        "localId": "30",
+        "name": "Lopunny",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86823
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-31",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/31/high.jpg",
+        "localId": "31",
+        "name": "Machamp",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86965
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-32",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/32/high.jpg",
+        "localId": "32",
+        "name": "Medicham",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87275
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-33",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/33/high.jpg",
+        "localId": "33",
+        "name": "Munchlax",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87637
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-34",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/34/high.jpg",
+        "localId": "34",
+        "name": "Noctowl",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87793
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-35",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/35/high.jpg",
+        "localId": "35",
+        "name": "Pachirisu",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87897
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-36",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/36/high.jpg",
+        "localId": "36",
+        "name": "Purugly",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88464
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-37",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/37/high.jpg",
+        "localId": "37",
+        "name": "Snorlax",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89389
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-38",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/38/high.jpg",
+        "localId": "38",
+        "name": "Steelix",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89561
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-39",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/39/high.jpg",
+        "localId": "39",
+        "name": "Vespiquen",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 90327
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-40",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/40/high.jpg",
+        "localId": "40",
+        "name": "Weavile",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 90531
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-41",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/41/high.jpg",
+        "localId": "41",
+        "name": "Wobbuffet",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 90620
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-42",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/42/high.jpg",
+        "localId": "42",
+        "name": "Wynaut",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 90657
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-43",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/43/high.jpg",
+        "localId": "43",
+        "name": "Budew",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84010
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-44",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/44/high.jpg",
+        "localId": "44",
+        "name": "Cascoon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84121
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-45",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/45/high.jpg",
+        "localId": "45",
+        "name": "Cherrim",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84251
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-46",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/46/high.jpg",
+        "localId": "46",
+        "name": "Drifloon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84953
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-47",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/47/high.jpg",
+        "localId": "47",
+        "name": "Dusclops",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85028
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-48",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/48/high.jpg",
+        "localId": "48",
+        "name": "Elekid",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85171
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-49",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/49/high.jpg",
+        "localId": "49",
+        "name": "Grotle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85916
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-50",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/50/high.jpg",
+        "localId": "50",
+        "name": "Haunter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86027
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-51",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/51/high.jpg",
+        "localId": "51",
+        "name": "Hippopotas",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86078
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-52",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/52/high.jpg",
+        "localId": "52",
+        "name": "Luxio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86939
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-53",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/53/high.jpg",
+        "localId": "53",
+        "name": "Machoke",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86981
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-54",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/54/high.jpg",
+        "localId": "54",
+        "name": "Magneton",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87107
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-55",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/55/high.jpg",
+        "localId": "55",
+        "name": "Mantyke",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87186
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-56",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/56/high.jpg",
+        "localId": "56",
+        "name": "Monferno",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87570
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-57",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/57/high.jpg",
+        "localId": "57",
+        "name": "Nuzleaf",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87825
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-58",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/58/high.jpg",
+        "localId": "58",
+        "name": "Prinplup",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88368
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-59",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/59/high.jpg",
+        "localId": "59",
+        "name": "Rapidash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88583
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-60",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/60/high.jpg",
+        "localId": "60",
+        "name": "Rhydon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88734
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-61",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/61/high.jpg",
+        "localId": "61",
+        "name": "Riolu",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88751
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-62",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/62/high.jpg",
+        "localId": "62",
+        "name": "Seaking",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89026
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-63",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/63/high.jpg",
+        "localId": "63",
+        "name": "Silcoon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89212
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-64",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/64/high.jpg",
+        "localId": "64",
+        "name": "Staravia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89513
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-65",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/65/high.jpg",
+        "localId": "65",
+        "name": "Unown A",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-66",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/66/high.jpg",
+        "localId": "66",
+        "name": "Unown B",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-67",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/67/high.jpg",
+        "localId": "67",
+        "name": "Unown C",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-68",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/68/high.jpg",
+        "localId": "68",
+        "name": "Unown D",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-69",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/69/high.jpg",
+        "localId": "69",
+        "name": "Azurill",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 83690
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-70",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/70/high.jpg",
+        "localId": "70",
+        "name": "Bidoof",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 83824
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-71",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/71/high.jpg",
+        "localId": "71",
+        "name": "Bonsly",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 83936
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-72",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/72/high.jpg",
+        "localId": "72",
+        "name": "Buizel",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84015
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-73",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/73/high.jpg",
+        "localId": "73",
+        "name": "Buneary",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84037
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-74",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/74/high.jpg",
+        "localId": "74",
+        "name": "Chatot",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84239
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-75",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/75/high.jpg",
+        "localId": "75",
+        "name": "Cherubi",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84259
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-76",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/76/high.jpg",
+        "localId": "76",
+        "name": "Chimchar",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84282
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-77",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/77/high.jpg",
+        "localId": "77",
+        "name": "Clefairy",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84356
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-78",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/78/high.jpg",
+        "localId": "78",
+        "name": "Cleffa",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84366
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-79",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/79/high.jpg",
+        "localId": "79",
+        "name": "Combee",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84392
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-80",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/80/high.jpg",
+        "localId": "80",
+        "name": "Duskull",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85050
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-81",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/81/high.jpg",
+        "localId": "81",
+        "name": "Electabuzz",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85114
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-82",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/82/high.jpg",
+        "localId": "82",
+        "name": "Gastly",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85652
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-83",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/83/high.jpg",
+        "localId": "83",
+        "name": "Glameow",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85758
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-84",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/84/high.jpg",
+        "localId": "84",
+        "name": "Goldeen",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85807
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-85",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/85/high.jpg",
+        "localId": "85",
+        "name": "Hoothoot",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86172
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-86",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/86/high.jpg",
+        "localId": "86",
+        "name": "Machop",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86995
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-87",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/87/high.jpg",
+        "localId": "87",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87081
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-88",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/88/high.jpg",
+        "localId": "88",
+        "name": "Marill",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87218
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-89",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/89/high.jpg",
+        "localId": "89",
+        "name": "Meditite",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87284
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-90",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/90/high.jpg",
+        "localId": "90",
+        "name": "Mime Jr.",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87469
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-91",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/91/high.jpg",
+        "localId": "91",
+        "name": "Misdreavus",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87506
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-92",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/92/high.jpg",
+        "localId": "92",
+        "name": "Onix",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87882
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-93",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/93/high.jpg",
+        "localId": "93",
+        "name": "Piplup",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88142
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-94",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/94/high.jpg",
+        "localId": "94",
+        "name": "Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88287
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-95",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/95/high.jpg",
+        "localId": "95",
+        "name": "Rhyhorn",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88742
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-96",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/96/high.jpg",
+        "localId": "96",
+        "name": "Roselia",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88819
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-97",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/97/high.jpg",
+        "localId": "97",
+        "name": "Seedot",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89043
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-98",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/98/high.jpg",
+        "localId": "98",
+        "name": "Shinx",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89172
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-99",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/99/high.jpg",
+        "localId": "99",
+        "name": "Skorupi",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89273
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-100",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/100/high.jpg",
+        "localId": "100",
+        "name": "Sneasel",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89369
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-101",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/101/high.jpg",
+        "localId": "101",
+        "name": "Starly",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89520
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-102",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/102/high.jpg",
+        "localId": "102",
+        "name": "Stunky",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89584
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-103",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/103/high.jpg",
+        "localId": "103",
+        "name": "Turtwig",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 90071
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-104",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/104/high.jpg",
+        "localId": "104",
+        "name": "Wurmple",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 90651
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-105",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/105/high.jpg",
+        "localId": "105",
+        "name": "Double Full Heal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84890
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-106",
+        "illustrator": "Hideyuki Nakajima",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/106/high.jpg",
+        "localId": "106",
+        "name": "Energy Restore",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85227
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-107",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/107/high.jpg",
+        "localId": "107",
+        "name": "Energy Switch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85257
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-108",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/108/high.jpg",
+        "localId": "108",
+        "name": "Night Pokémon Center",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-109",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/109/high.jpg",
+        "localId": "109",
+        "name": "PlusPower",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88176
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-110",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/110/high.jpg",
+        "localId": "110",
+        "name": "Poké Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-111",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/111/high.jpg",
+        "localId": "111",
+        "name": "Pokédex HANDY910is",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-112",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/112/high.jpg",
+        "localId": "112",
+        "name": "Professor Rowan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88407
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-113",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/113/high.jpg",
+        "localId": "113",
+        "name": "Rival",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88764
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-114",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/114/high.jpg",
+        "localId": "114",
+        "name": "Speed Stadium",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89443
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-115",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/115/high.jpg",
+        "localId": "115",
+        "name": "Super Scoop Up",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89638
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-116",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/116/high.jpg",
+        "localId": "116",
+        "name": "Warp Point",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 90481
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-117",
+        "illustrator": "Kai Ishikawa",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/117/high.jpg",
+        "localId": "117",
+        "name": "Energy Search",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85245
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-118",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/118/high.jpg",
+        "localId": "118",
+        "name": "Potion",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88342
+    },
+    {
+        "category": "Trainer",
+        "id": "dp1-119",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/119/high.jpg",
+        "localId": "119",
+        "name": "Switch",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89715
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-120",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/120/high.jpg",
+        "localId": "120",
+        "name": "Empoleon",
+        "rarity": "Rare Holo LV.X",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85206
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-121",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/121/high.jpg",
+        "localId": "121",
+        "name": "Infernape",
+        "rarity": "Rare Holo LV.X",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86281
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp1-122",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dp1/122/high.jpg",
+        "localId": "122",
+        "name": "Torterra",
+        "rarity": "Rare Holo LV.X",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 89989
+    },
+    {
+        "category": "Energy",
+        "id": "dp1-123",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/dp/dp1/123/high.jpg",
+        "localId": "123",
+        "name": "Grass Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85878
+    },
+    {
+        "category": "Energy",
+        "id": "dp1-124",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/dp/dp1/124/high.jpg",
+        "localId": "124",
+        "name": "Fire Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85463
+    },
+    {
+        "category": "Energy",
+        "id": "dp1-125",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/dp/dp1/125/high.jpg",
+        "localId": "125",
+        "name": "Water Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 90510
+    },
+    {
+        "category": "Energy",
+        "id": "dp1-126",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/dp/dp1/126/high.jpg",
+        "localId": "126",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 86767
+    },
+    {
+        "category": "Energy",
+        "id": "dp1-127",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/dp/dp1/127/high.jpg",
+        "localId": "127",
+        "name": "Psychic Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 88423
+    },
+    {
+        "category": "Energy",
+        "id": "dp1-128",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/dp/dp1/128/high.jpg",
+        "localId": "128",
+        "name": "Fighting Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 85442
+    },
+    {
+        "category": "Energy",
+        "id": "dp1-129",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/dp/dp1/129/high.jpg",
+        "localId": "129",
+        "name": "Darkness Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 84676
+    },
+    {
+        "category": "Energy",
+        "id": "dp1-130",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/dp/dp1/130/high.jpg",
+        "localId": "130",
+        "name": "Metal Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "dp1",
+            "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.jpg",
+            "name": "Diamond & Pearl",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        },
+        "tcgplayerId": 87349
+    }
+]

@@ -1,0 +1,3963 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "swsh6-1",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/1/high.jpg",
+        "localId": "1",
+        "name": "Weedle",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241648
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-2",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/2/high.jpg",
+        "localId": "2",
+        "name": "Kakuna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241649
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-3",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/3/high.jpg",
+        "localId": "3",
+        "name": "Beedrill",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241650
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-4",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/4/high.jpg",
+        "localId": "4",
+        "name": "Ledyba",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241651
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-5",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/5/high.jpg",
+        "localId": "5",
+        "name": "Ledian",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241652
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-6",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/6/high.jpg",
+        "localId": "6",
+        "name": "Heracross",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241653
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-7",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/7/high.jpg",
+        "localId": "7",
+        "name": "Celebi V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241654
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-8",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/8/high.jpg",
+        "localId": "8",
+        "name": "Celebi VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241656
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-9",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/9/high.jpg",
+        "localId": "9",
+        "name": "Snover",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241658
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-10",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/10/high.jpg",
+        "localId": "10",
+        "name": "Abomasnow",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241659
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-11",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/11/high.jpg",
+        "localId": "11",
+        "name": "Deerling",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241660
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-12",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/12/high.jpg",
+        "localId": "12",
+        "name": "Sawsbuck",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241661
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-13",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/13/high.jpg",
+        "localId": "13",
+        "name": "Bounsweet",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241662
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-14",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/14/high.jpg",
+        "localId": "14",
+        "name": "Steenee",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241663
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-15",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/15/high.jpg",
+        "localId": "15",
+        "name": "Tsareena",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241664
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-16",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/16/high.jpg",
+        "localId": "16",
+        "name": "Grookey",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241665
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-17",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/17/high.jpg",
+        "localId": "17",
+        "name": "Thwackey",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241666
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-18",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/18/high.jpg",
+        "localId": "18",
+        "name": "Rillaboom",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241667
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-19",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/19/high.jpg",
+        "localId": "19",
+        "name": "Zarude",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241668
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-20",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/20/high.jpg",
+        "localId": "20",
+        "name": "Blaziken V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241669
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-21",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/21/high.jpg",
+        "localId": "21",
+        "name": "Blaziken VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241671
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-22",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/22/high.jpg",
+        "localId": "22",
+        "name": "Castform Sunny Form",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241674
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-23",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/23/high.jpg",
+        "localId": "23",
+        "name": "Larvesta",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241675
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-24",
+        "illustrator": "Mika Pikazo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/24/high.jpg",
+        "localId": "24",
+        "name": "Volcarona",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241676
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-25",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/25/high.jpg",
+        "localId": "25",
+        "name": "Volcanion V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241677
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-26",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/26/high.jpg",
+        "localId": "26",
+        "name": "Scorbunny",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241679
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-27",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/27/high.jpg",
+        "localId": "27",
+        "name": "Raboot",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241680
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-28",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/28/high.jpg",
+        "localId": "28",
+        "name": "Cinderace",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241681
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-29",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/29/high.jpg",
+        "localId": "29",
+        "name": "Lapras",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241682
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-30",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/30/high.jpg",
+        "localId": "30",
+        "name": "Sneasel",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241683
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-31",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/31/high.jpg",
+        "localId": "31",
+        "name": "Weavile",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241684
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-32",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/32/high.jpg",
+        "localId": "32",
+        "name": "Delibird",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241685
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-33",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/33/high.jpg",
+        "localId": "33",
+        "name": "Castform Rainy Form",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241686
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-34",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/34/high.jpg",
+        "localId": "34",
+        "name": "Castform Snowy Form",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241687
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-35",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/35/high.jpg",
+        "localId": "35",
+        "name": "Snorunt",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241688
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-36",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/36/high.jpg",
+        "localId": "36",
+        "name": "Froslass",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241689
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-37",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/37/high.jpg",
+        "localId": "37",
+        "name": "Spheal",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241690
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-38",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/38/high.jpg",
+        "localId": "38",
+        "name": "Sealeo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241691
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-39",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/39/high.jpg",
+        "localId": "39",
+        "name": "Walrein",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241692
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-40",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/40/high.jpg",
+        "localId": "40",
+        "name": "Tapu Fini",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241693
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-41",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/41/high.jpg",
+        "localId": "41",
+        "name": "Sobble",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241694
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-42",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/42/high.jpg",
+        "localId": "42",
+        "name": "Drizzile",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241695
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-43",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/43/high.jpg",
+        "localId": "43",
+        "name": "Inteleon",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241696
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-44",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/44/high.jpg",
+        "localId": "44",
+        "name": "Rapid Strike Urshifu",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241697
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-45",
+        "illustrator": "D.A.G Inc.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/45/high.jpg",
+        "localId": "45",
+        "name": "Ice Rider Calyrex V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241698
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-46",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/46/high.jpg",
+        "localId": "46",
+        "name": "Ice Rider Calyrex VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241701
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-47",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/47/high.jpg",
+        "localId": "47",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241704
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-48",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/48/high.jpg",
+        "localId": "48",
+        "name": "Flaaffy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241705
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-49",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/49/high.jpg",
+        "localId": "49",
+        "name": "Ampharos",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241706
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-50",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/50/high.jpg",
+        "localId": "50",
+        "name": "Blitzle",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241707
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-51",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/51/high.jpg",
+        "localId": "51",
+        "name": "Zebstrika",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241708
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-52",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/52/high.jpg",
+        "localId": "52",
+        "name": "Thundurus",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241709
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-53",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/53/high.jpg",
+        "localId": "53",
+        "name": "Zeraora V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241710
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-54",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/54/high.jpg",
+        "localId": "54",
+        "name": "Galarian Slowpoke",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241713
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-55",
+        "illustrator": "Motofumi Fujiwara",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/55/high.jpg",
+        "localId": "55",
+        "name": "Gastly",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241714
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-56",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/56/high.jpg",
+        "localId": "56",
+        "name": "Haunter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241715
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-57",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/57/high.jpg",
+        "localId": "57",
+        "name": "Gengar",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241716
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-58",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/58/high.jpg",
+        "localId": "58",
+        "name": "Galarian Articuno V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241717
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-59",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/59/high.jpg",
+        "localId": "59",
+        "name": "Ralts",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241720
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-60",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/60/high.jpg",
+        "localId": "60",
+        "name": "Kirlia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241721
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-61",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/61/high.jpg",
+        "localId": "61",
+        "name": "Gardevoir",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241722
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-62",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/62/high.jpg",
+        "localId": "62",
+        "name": "Shuppet",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241723
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-63",
+        "illustrator": "Megumi Higuchi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/63/high.jpg",
+        "localId": "63",
+        "name": "Banette",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241724
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-64",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/64/high.jpg",
+        "localId": "64",
+        "name": "Cresselia",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241725
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-65",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/65/high.jpg",
+        "localId": "65",
+        "name": "Golett",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241726
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-66",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/66/high.jpg",
+        "localId": "66",
+        "name": "Golurk",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241727
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-67",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/67/high.jpg",
+        "localId": "67",
+        "name": "Swirlix",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241728
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-68",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/68/high.jpg",
+        "localId": "68",
+        "name": "Slurpuff",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241729
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-69",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/69/high.jpg",
+        "localId": "69",
+        "name": "Inkay",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241730
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-70",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/70/high.jpg",
+        "localId": "70",
+        "name": "Malamar",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241731
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-71",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/71/high.jpg",
+        "localId": "71",
+        "name": "Hatenna",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241732
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-72",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/72/high.jpg",
+        "localId": "72",
+        "name": "Hattrem",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241733
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-73",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/73/high.jpg",
+        "localId": "73",
+        "name": "Hatterene",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241734
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-74",
+        "illustrator": "D.A.G Inc.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/74/high.jpg",
+        "localId": "74",
+        "name": "Shadow Rider Calyrex V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241735
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-75",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/75/high.jpg",
+        "localId": "75",
+        "name": "Shadow Rider Calyrex VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241738
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-76",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/76/high.jpg",
+        "localId": "76",
+        "name": "Diglett",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241741
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-77",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/77/high.jpg",
+        "localId": "77",
+        "name": "Dugtrio",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241742
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-78",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/78/high.jpg",
+        "localId": "78",
+        "name": "Galarian Farfetch'd",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241743
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-79",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/79/high.jpg",
+        "localId": "79",
+        "name": "Galarian Sirfetch'd",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241744
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-80",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/80/high.jpg",
+        "localId": "80",
+        "name": "Galarian Zapdos V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241745
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-81",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/81/high.jpg",
+        "localId": "81",
+        "name": "Gallade",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241748
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-82",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/82/high.jpg",
+        "localId": "82",
+        "name": "Galarian Yamask",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241749
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-83",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/83/high.jpg",
+        "localId": "83",
+        "name": "Galarian Runerigus",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241750
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-84",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/84/high.jpg",
+        "localId": "84",
+        "name": "Crabrawler",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241751
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-85",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/85/high.jpg",
+        "localId": "85",
+        "name": "Crabominable",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241752
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-86",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/86/high.jpg",
+        "localId": "86",
+        "name": "Rockruff",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241753
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-87",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/87/high.jpg",
+        "localId": "87",
+        "name": "Lycanroc",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241754
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-88",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/88/high.jpg",
+        "localId": "88",
+        "name": "Passimian",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241755
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-89",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/89/high.jpg",
+        "localId": "89",
+        "name": "Sandaconda V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241756
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-90",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/90/high.jpg",
+        "localId": "90",
+        "name": "Sandaconda VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241758
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-91",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/91/high.jpg",
+        "localId": "91",
+        "name": "Clobbopus",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241760
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-92",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/92/high.jpg",
+        "localId": "92",
+        "name": "Grapploct",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241761
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-93",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/93/high.jpg",
+        "localId": "93",
+        "name": "Kubfu",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241762
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-94",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/94/high.jpg",
+        "localId": "94",
+        "name": "Koffing",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241763
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-95",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/95/high.jpg",
+        "localId": "95",
+        "name": "Weezing",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241764
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-96",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/96/high.jpg",
+        "localId": "96",
+        "name": "Galarian Weezing",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241765
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-97",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/97/high.jpg",
+        "localId": "97",
+        "name": "Galarian Moltres V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241766
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-98",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/98/high.jpg",
+        "localId": "98",
+        "name": "Galarian Slowking",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241769
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-99",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/99/high.jpg",
+        "localId": "99",
+        "name": "Galarian Slowking V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241770
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-100",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/100/high.jpg",
+        "localId": "100",
+        "name": "Galarian Slowking VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241773
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-101",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/101/high.jpg",
+        "localId": "101",
+        "name": "Qwilfish",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241775
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-102",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/102/high.jpg",
+        "localId": "102",
+        "name": "Seviper",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241776
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-103",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/103/high.jpg",
+        "localId": "103",
+        "name": "Spiritomb",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241777
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-104",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/104/high.jpg",
+        "localId": "104",
+        "name": "Liepard V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241778
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-105",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/105/high.jpg",
+        "localId": "105",
+        "name": "Venipede",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241780
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-106",
+        "illustrator": "hatachu",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/106/high.jpg",
+        "localId": "106",
+        "name": "Whirlipede",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241781
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-107",
+        "illustrator": "Megumi Higuchi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/107/high.jpg",
+        "localId": "107",
+        "name": "Scolipede",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241782
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-108",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/108/high.jpg",
+        "localId": "108",
+        "name": "Single Strike Urshifu",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241783
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-109",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/109/high.jpg",
+        "localId": "109",
+        "name": "Aron",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241784
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-110",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/110/high.jpg",
+        "localId": "110",
+        "name": "Lairon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241785
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-111",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/111/high.jpg",
+        "localId": "111",
+        "name": "Aggron",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241786
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-112",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/112/high.jpg",
+        "localId": "112",
+        "name": "Metagross V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241787
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-113",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/113/high.jpg",
+        "localId": "113",
+        "name": "Metagross VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241789
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-114",
+        "illustrator": "Kazuma Koda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/114/high.jpg",
+        "localId": "114",
+        "name": "Cobalion",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241791
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-115",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/115/high.jpg",
+        "localId": "115",
+        "name": "Tauros",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241792
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-116",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/116/high.jpg",
+        "localId": "116",
+        "name": "Porygon",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241793
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-117",
+        "illustrator": "Nagomi Nijo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/117/high.jpg",
+        "localId": "117",
+        "name": "Porygon2",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241794
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-118",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/118/high.jpg",
+        "localId": "118",
+        "name": "Porygon-Z",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241795
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-119",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/119/high.jpg",
+        "localId": "119",
+        "name": "Blissey V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241796
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-120",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/120/high.jpg",
+        "localId": "120",
+        "name": "Zangoose",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241799
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-121",
+        "illustrator": "Asako Ito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/121/high.jpg",
+        "localId": "121",
+        "name": "Castform",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241800
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-122",
+        "illustrator": "KIYOTAKA OSHIYAMA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/122/high.jpg",
+        "localId": "122",
+        "name": "Kecleon",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241801
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-123",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/123/high.jpg",
+        "localId": "123",
+        "name": "Shaymin",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241802
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-124",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/124/high.jpg",
+        "localId": "124",
+        "name": "Tornadus V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241803
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-125",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/125/high.jpg",
+        "localId": "125",
+        "name": "Tornadus VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241806
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-126",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/126/high.jpg",
+        "localId": "126",
+        "name": "Furfrou",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241808
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-127",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/127/high.jpg",
+        "localId": "127",
+        "name": "Skwovet",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241809
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-128",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/128/high.jpg",
+        "localId": "128",
+        "name": "Greedent",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241810
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-129",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/129/high.jpg",
+        "localId": "129",
+        "name": "Agatha",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241811
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-130",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/130/high.jpg",
+        "localId": "130",
+        "name": "Avery",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241814
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-131",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/131/high.jpg",
+        "localId": "131",
+        "name": "Brawly",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241817
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-132",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/132/high.jpg",
+        "localId": "132",
+        "name": "Caitlin",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241820
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-133",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/133/high.jpg",
+        "localId": "133",
+        "name": "Crushing Gloves",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241823
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-134",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/134/high.jpg",
+        "localId": "134",
+        "name": "Doctor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241824
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-135",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/135/high.jpg",
+        "localId": "135",
+        "name": "Dyna Tree Hill",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241827
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-136",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/136/high.jpg",
+        "localId": "136",
+        "name": "Echoing Horn",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241828
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-137",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/137/high.jpg",
+        "localId": "137",
+        "name": "Expedition Uniform",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241830
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-138",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/138/high.jpg",
+        "localId": "138",
+        "name": "Fire-Resistant Gloves",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241831
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-139",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/139/high.jpg",
+        "localId": "139",
+        "name": "Flannery",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241832
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-140",
+        "illustrator": "sadaji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/140/high.jpg",
+        "localId": "140",
+        "name": "Fog Crystal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241835
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-141",
+        "illustrator": "inose yukie",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/141/high.jpg",
+        "localId": "141",
+        "name": "Galarian Chestplate",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241837
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-142",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/142/high.jpg",
+        "localId": "142",
+        "name": "Honey",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241838
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-143",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/143/high.jpg",
+        "localId": "143",
+        "name": "Justified Gloves",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241840
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-144",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/144/high.jpg",
+        "localId": "144",
+        "name": "Karen's Conviction",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241841
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-145",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/145/high.jpg",
+        "localId": "145",
+        "name": "Klara",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241844
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-146",
+        "illustrator": "take",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/146/high.jpg",
+        "localId": "146",
+        "name": "Melony",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241847
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-147",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/147/high.jpg",
+        "localId": "147",
+        "name": "Old Cemetery",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241850
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-148",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/148/high.jpg",
+        "localId": "148",
+        "name": "Path to the Peak",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241851
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-149",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/149/high.jpg",
+        "localId": "149",
+        "name": "Peonia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241852
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-150",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/150/high.jpg",
+        "localId": "150",
+        "name": "Peony",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241855
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-151",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/151/high.jpg",
+        "localId": "151",
+        "name": "Rapid Strike Scroll of the Skies",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241858
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-152",
+        "illustrator": "sadaji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/152/high.jpg",
+        "localId": "152",
+        "name": "Rugged Helmet",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241859
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-153",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/153/high.jpg",
+        "localId": "153",
+        "name": "Siebold",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241861
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-154",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/154/high.jpg",
+        "localId": "154",
+        "name": "Single Strike Scroll of Piercing",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241864
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-155",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/155/high.jpg",
+        "localId": "155",
+        "name": "Weeding Gloves",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241865
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-156",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/156/high.jpg",
+        "localId": "156",
+        "name": "Welcoming Lantern",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241866
+    },
+    {
+        "category": "Energy",
+        "id": "swsh6-157",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/157/high.jpg",
+        "localId": "157",
+        "name": "Impact Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241868
+    },
+    {
+        "category": "Energy",
+        "id": "swsh6-158",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/158/high.jpg",
+        "localId": "158",
+        "name": "Lucky Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241869
+    },
+    {
+        "category": "Energy",
+        "id": "swsh6-159",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/159/high.jpg",
+        "localId": "159",
+        "name": "Spiral Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241870
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-160",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/160/high.jpg",
+        "localId": "160",
+        "name": "Celebi V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241655
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-161",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/161/high.jpg",
+        "localId": "161",
+        "name": "Blaziken V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241670
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-162",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/162/high.jpg",
+        "localId": "162",
+        "name": "Volcanion V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241678
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-163",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/163/high.jpg",
+        "localId": "163",
+        "name": "Ice Rider Calyrex V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241699
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-164",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/164/high.jpg",
+        "localId": "164",
+        "name": "Ice Rider Calyrex V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241700
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-165",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/165/high.jpg",
+        "localId": "165",
+        "name": "Zeraora V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241711
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-166",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/166/high.jpg",
+        "localId": "166",
+        "name": "Zeraora V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241712
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-167",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/167/high.jpg",
+        "localId": "167",
+        "name": "Galarian Rapidash V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241871
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-168",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/168/high.jpg",
+        "localId": "168",
+        "name": "Galarian Rapidash V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241872
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-169",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/169/high.jpg",
+        "localId": "169",
+        "name": "Galarian Articuno V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241718
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-170",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/170/high.jpg",
+        "localId": "170",
+        "name": "Galarian Articuno V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241719
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-171",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/171/high.jpg",
+        "localId": "171",
+        "name": "Shadow Rider Calyrex V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241736
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-172",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/172/high.jpg",
+        "localId": "172",
+        "name": "Shadow Rider Calyrex V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241737
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-173",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/173/high.jpg",
+        "localId": "173",
+        "name": "Galarian Zapdos V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241746
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-174",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/174/high.jpg",
+        "localId": "174",
+        "name": "Galarian Zapdos V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241747
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-175",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/175/high.jpg",
+        "localId": "175",
+        "name": "Sandaconda V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241757
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-176",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/176/high.jpg",
+        "localId": "176",
+        "name": "Galarian Moltres V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241767
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-177",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/177/high.jpg",
+        "localId": "177",
+        "name": "Galarian Moltres V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241768
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-178",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/178/high.jpg",
+        "localId": "178",
+        "name": "Galarian Slowking V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241771
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-179",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/179/high.jpg",
+        "localId": "179",
+        "name": "Galarian Slowking V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241772
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-180",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/180/high.jpg",
+        "localId": "180",
+        "name": "Liepard V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241779
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-181",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/181/high.jpg",
+        "localId": "181",
+        "name": "Metagross V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241788
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-182",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/182/high.jpg",
+        "localId": "182",
+        "name": "Blissey V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241797
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-183",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/183/high.jpg",
+        "localId": "183",
+        "name": "Blissey V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241798
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-184",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/184/high.jpg",
+        "localId": "184",
+        "name": "Tornadus V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241804
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-185",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/185/high.jpg",
+        "localId": "185",
+        "name": "Tornadus V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241805
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-186",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/186/high.jpg",
+        "localId": "186",
+        "name": "Agatha",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241812
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-187",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/187/high.jpg",
+        "localId": "187",
+        "name": "Avery",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241815
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-188",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/188/high.jpg",
+        "localId": "188",
+        "name": "Brawly",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241818
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-189",
+        "illustrator": "En Morikura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/189/high.jpg",
+        "localId": "189",
+        "name": "Caitlin",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241821
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-190",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/190/high.jpg",
+        "localId": "190",
+        "name": "Doctor",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241825
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-191",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/191/high.jpg",
+        "localId": "191",
+        "name": "Flannery",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241833
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-192",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/192/high.jpg",
+        "localId": "192",
+        "name": "Honey",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241839
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-193",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/193/high.jpg",
+        "localId": "193",
+        "name": "Karen's Conviction",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241842
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-194",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/194/high.jpg",
+        "localId": "194",
+        "name": "Klara",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241845
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-195",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/195/high.jpg",
+        "localId": "195",
+        "name": "Melony",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241848
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-196",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/196/high.jpg",
+        "localId": "196",
+        "name": "Peonia",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241853
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-197",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/197/high.jpg",
+        "localId": "197",
+        "name": "Peony",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241856
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-198",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/198/high.jpg",
+        "localId": "198",
+        "name": "Siebold",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241862
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-199",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/199/high.jpg",
+        "localId": "199",
+        "name": "Celebi VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241657
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-200",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/200/high.jpg",
+        "localId": "200",
+        "name": "Blaziken VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241672
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-201",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/201/high.jpg",
+        "localId": "201",
+        "name": "Blaziken VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241673
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-202",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/202/high.jpg",
+        "localId": "202",
+        "name": "Ice Rider Calyrex VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241702
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-203",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/203/high.jpg",
+        "localId": "203",
+        "name": "Ice Rider Calyrex VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241703
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-204",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/204/high.jpg",
+        "localId": "204",
+        "name": "Shadow Rider Calyrex VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241739
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-205",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/205/high.jpg",
+        "localId": "205",
+        "name": "Shadow Rider Calyrex VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241740
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-206",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/206/high.jpg",
+        "localId": "206",
+        "name": "Sandaconda VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241759
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-207",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/207/high.jpg",
+        "localId": "207",
+        "name": "Galarian Slowking VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241774
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-208",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/208/high.jpg",
+        "localId": "208",
+        "name": "Metagross VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241790
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-209",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/209/high.jpg",
+        "localId": "209",
+        "name": "Tornadus VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241807
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-210",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/210/high.jpg",
+        "localId": "210",
+        "name": "Agatha",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241813
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-211",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/211/high.jpg",
+        "localId": "211",
+        "name": "Avery",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241816
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-212",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/212/high.jpg",
+        "localId": "212",
+        "name": "Brawly",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241819
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-213",
+        "illustrator": "En Morikura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/213/high.jpg",
+        "localId": "213",
+        "name": "Caitlin",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241822
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-214",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/214/high.jpg",
+        "localId": "214",
+        "name": "Doctor",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241826
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-215",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/215/high.jpg",
+        "localId": "215",
+        "name": "Flannery",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241834
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-216",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/216/high.jpg",
+        "localId": "216",
+        "name": "Karen's Conviction",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241843
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-217",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/217/high.jpg",
+        "localId": "217",
+        "name": "Klara",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241846
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-218",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/218/high.jpg",
+        "localId": "218",
+        "name": "Melony",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241849
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-219",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/219/high.jpg",
+        "localId": "219",
+        "name": "Peonia",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241854
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-220",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/220/high.jpg",
+        "localId": "220",
+        "name": "Peony",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241857
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-221",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/221/high.jpg",
+        "localId": "221",
+        "name": "Siebold",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241863
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-222",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/222/high.jpg",
+        "localId": "222",
+        "name": "Electrode",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241873
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-223",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/223/high.jpg",
+        "localId": "223",
+        "name": "Bronzong",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241874
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh6-224",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/224/high.jpg",
+        "localId": "224",
+        "name": "Snorlax",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241875
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-225",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/225/high.jpg",
+        "localId": "225",
+        "name": "Echoing Horn",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241829
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-226",
+        "illustrator": "sadaji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/226/high.jpg",
+        "localId": "226",
+        "name": "Fan of Waves",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241876
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-227",
+        "illustrator": "sadaji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/227/high.jpg",
+        "localId": "227",
+        "name": "Fog Crystal",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241836
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-228",
+        "illustrator": "sadaji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/228/high.jpg",
+        "localId": "228",
+        "name": "Rugged Helmet",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241860
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-229",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/229/high.jpg",
+        "localId": "229",
+        "name": "Urn of Vitality",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241877
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh6-230",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/230/high.jpg",
+        "localId": "230",
+        "name": "Welcoming Lantern",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241867
+    },
+    {
+        "category": "Energy",
+        "id": "swsh6-231",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/231/high.jpg",
+        "localId": "231",
+        "name": "Water Energy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241878
+    },
+    {
+        "category": "Energy",
+        "id": "swsh6-232",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/232/high.jpg",
+        "localId": "232",
+        "name": "Psychic Energy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241879
+    },
+    {
+        "category": "Energy",
+        "id": "swsh6-233",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh6/233/high.jpg",
+        "localId": "233",
+        "name": "Fighting Energy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh6",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo.jpg",
+            "name": "Chilling Reign",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh6/symbol.jpg",
+            "releaseDate": "2021-06-18"
+        },
+        "tcgplayerId": 241880
+    }
+]

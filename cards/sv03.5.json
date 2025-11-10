@@ -1,0 +1,3314 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-001",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/001/high.jpg",
+        "localId": "001",
+        "name": "Bulbasaur",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-002",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/002/high.jpg",
+        "localId": "002",
+        "name": "Ivysaur",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-003",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/003/high.jpg",
+        "localId": "003",
+        "name": "Venusaur ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-004",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/004/high.jpg",
+        "localId": "004",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-005",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/005/high.jpg",
+        "localId": "005",
+        "name": "Charmeleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-006",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/006/high.jpg",
+        "localId": "006",
+        "name": "Charizard ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-007",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/007/high.jpg",
+        "localId": "007",
+        "name": "Squirtle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-008",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/008/high.jpg",
+        "localId": "008",
+        "name": "Wartortle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-009",
+        "illustrator": "PLANETA Yamashita",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/009/high.jpg",
+        "localId": "009",
+        "name": "Blastoise ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-010",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/010/high.jpg",
+        "localId": "010",
+        "name": "Caterpie",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-011",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/011/high.jpg",
+        "localId": "011",
+        "name": "Metapod",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-012",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/012/high.jpg",
+        "localId": "012",
+        "name": "Butterfree",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-013",
+        "illustrator": "nisimono",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/013/high.jpg",
+        "localId": "013",
+        "name": "Weedle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-014",
+        "illustrator": "nisimono",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/014/high.jpg",
+        "localId": "014",
+        "name": "Kakuna",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-015",
+        "illustrator": "nisimono",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/015/high.jpg",
+        "localId": "015",
+        "name": "Beedrill",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-016",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/016/high.jpg",
+        "localId": "016",
+        "name": "Pidgey",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-017",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/017/high.jpg",
+        "localId": "017",
+        "name": "Pidgeotto",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-018",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/018/high.jpg",
+        "localId": "018",
+        "name": "Pidgeot",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-019",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/019/high.jpg",
+        "localId": "019",
+        "name": "Rattata",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-020",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/020/high.jpg",
+        "localId": "020",
+        "name": "Raticate",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-021",
+        "illustrator": "Gemi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/021/high.jpg",
+        "localId": "021",
+        "name": "Spearow",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-022",
+        "illustrator": "Gemi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/022/high.jpg",
+        "localId": "022",
+        "name": "Fearow",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-023",
+        "illustrator": "Kedamahadaitai Yawarakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/023/high.jpg",
+        "localId": "023",
+        "name": "Ekans",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-024",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/024/high.jpg",
+        "localId": "024",
+        "name": "Arbok ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-025",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/025/high.jpg",
+        "localId": "025",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-026",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/026/high.jpg",
+        "localId": "026",
+        "name": "Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-027",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/027/high.jpg",
+        "localId": "027",
+        "name": "Sandshrew",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-028",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/028/high.jpg",
+        "localId": "028",
+        "name": "Sandslash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-029",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/029/high.jpg",
+        "localId": "029",
+        "name": "Nidoran♀",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-030",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/030/high.jpg",
+        "localId": "030",
+        "name": "Nidorina",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-031",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/031/high.jpg",
+        "localId": "031",
+        "name": "Nidoqueen",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-032",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/032/high.jpg",
+        "localId": "032",
+        "name": "Nidoran♂",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-033",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/033/high.jpg",
+        "localId": "033",
+        "name": "Nidorino",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-034",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/034/high.jpg",
+        "localId": "034",
+        "name": "Nidoking",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-035",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/035/high.jpg",
+        "localId": "035",
+        "name": "Clefairy",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-036",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/036/high.jpg",
+        "localId": "036",
+        "name": "Clefable",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-037",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/037/high.jpg",
+        "localId": "037",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-038",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/038/high.jpg",
+        "localId": "038",
+        "name": "Ninetales ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-039",
+        "illustrator": "saino misaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/039/high.jpg",
+        "localId": "039",
+        "name": "Jigglypuff",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-040",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/040/high.jpg",
+        "localId": "040",
+        "name": "Wigglytuff ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-041",
+        "illustrator": "Scav",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/041/high.jpg",
+        "localId": "041",
+        "name": "Zubat",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-042",
+        "illustrator": "Scav",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/042/high.jpg",
+        "localId": "042",
+        "name": "Golbat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-043",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/043/high.jpg",
+        "localId": "043",
+        "name": "Oddish",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-044",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/044/high.jpg",
+        "localId": "044",
+        "name": "Gloom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-045",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/045/high.jpg",
+        "localId": "045",
+        "name": "Vileplume",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-046",
+        "illustrator": "Yoriyuki Ikegami",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/046/high.jpg",
+        "localId": "046",
+        "name": "Paras",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-047",
+        "illustrator": "Yoriyuki Ikegami",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/047/high.jpg",
+        "localId": "047",
+        "name": "Parasect",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-048",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/048/high.jpg",
+        "localId": "048",
+        "name": "Venonat",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-049",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/049/high.jpg",
+        "localId": "049",
+        "name": "Venomoth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-050",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/050/high.jpg",
+        "localId": "050",
+        "name": "Diglett",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-051",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/051/high.jpg",
+        "localId": "051",
+        "name": "Dugtrio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-052",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/052/high.jpg",
+        "localId": "052",
+        "name": "Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-053",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/053/high.jpg",
+        "localId": "053",
+        "name": "Persian",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-054",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/054/high.jpg",
+        "localId": "054",
+        "name": "Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-055",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/055/high.jpg",
+        "localId": "055",
+        "name": "Golduck",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-056",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/056/high.jpg",
+        "localId": "056",
+        "name": "Mankey",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-057",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/057/high.jpg",
+        "localId": "057",
+        "name": "Primeape",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-058",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/058/high.jpg",
+        "localId": "058",
+        "name": "Growlithe",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-059",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/059/high.jpg",
+        "localId": "059",
+        "name": "Arcanine",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-060",
+        "illustrator": "Kurata So",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/060/high.jpg",
+        "localId": "060",
+        "name": "Poliwag",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-061",
+        "illustrator": "Kurata So",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/061/high.jpg",
+        "localId": "061",
+        "name": "Poliwhirl",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-062",
+        "illustrator": "Kurata So",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/062/high.jpg",
+        "localId": "062",
+        "name": "Poliwrath",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-063",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/063/high.jpg",
+        "localId": "063",
+        "name": "Abra",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-064",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/064/high.jpg",
+        "localId": "064",
+        "name": "Kadabra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-065",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/065/high.jpg",
+        "localId": "065",
+        "name": "Alakazam ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-066",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/066/high.jpg",
+        "localId": "066",
+        "name": "Machop",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-067",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/067/high.jpg",
+        "localId": "067",
+        "name": "Machoke",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-068",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/068/high.jpg",
+        "localId": "068",
+        "name": "Machamp",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-069",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/069/high.jpg",
+        "localId": "069",
+        "name": "Bellsprout",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-070",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/070/high.jpg",
+        "localId": "070",
+        "name": "Weepinbell",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-071",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/071/high.jpg",
+        "localId": "071",
+        "name": "Victreebel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-072",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/072/high.jpg",
+        "localId": "072",
+        "name": "Tentacool",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-073",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/073/high.jpg",
+        "localId": "073",
+        "name": "Tentacruel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-074",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/074/high.jpg",
+        "localId": "074",
+        "name": "Geodude",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-075",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/075/high.jpg",
+        "localId": "075",
+        "name": "Graveler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-076",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/076/high.jpg",
+        "localId": "076",
+        "name": "Golem ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-077",
+        "illustrator": "Nurikabe",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/077/high.jpg",
+        "localId": "077",
+        "name": "Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-078",
+        "illustrator": "Nurikabe",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/078/high.jpg",
+        "localId": "078",
+        "name": "Rapidash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-079",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/079/high.jpg",
+        "localId": "079",
+        "name": "Slowpoke",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-080",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/080/high.jpg",
+        "localId": "080",
+        "name": "Slowbro",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-081",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/081/high.jpg",
+        "localId": "081",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-082",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/082/high.jpg",
+        "localId": "082",
+        "name": "Magneton",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-083",
+        "illustrator": "KG-2000",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/083/high.jpg",
+        "localId": "083",
+        "name": "Farfetch'd",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-084",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/084/high.jpg",
+        "localId": "084",
+        "name": "Doduo",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-085",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/085/high.jpg",
+        "localId": "085",
+        "name": "Dodrio",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-086",
+        "illustrator": "aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/086/high.jpg",
+        "localId": "086",
+        "name": "Seel",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-087",
+        "illustrator": "aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/087/high.jpg",
+        "localId": "087",
+        "name": "Dewgong",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-088",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/088/high.jpg",
+        "localId": "088",
+        "name": "Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-089",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/089/high.jpg",
+        "localId": "089",
+        "name": "Muk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-090",
+        "illustrator": "Nelnal",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/090/high.jpg",
+        "localId": "090",
+        "name": "Shellder",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-091",
+        "illustrator": "Nelnal",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/091/high.jpg",
+        "localId": "091",
+        "name": "Cloyster",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-092",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/092/high.jpg",
+        "localId": "092",
+        "name": "Gastly",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-093",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/093/high.jpg",
+        "localId": "093",
+        "name": "Haunter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-094",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/094/high.jpg",
+        "localId": "094",
+        "name": "Gengar",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-095",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/095/high.jpg",
+        "localId": "095",
+        "name": "Onix",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-096",
+        "illustrator": "Mousho",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/096/high.jpg",
+        "localId": "096",
+        "name": "Drowzee",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-097",
+        "illustrator": "Mousho",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/097/high.jpg",
+        "localId": "097",
+        "name": "Hypno",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-098",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/098/high.jpg",
+        "localId": "098",
+        "name": "Krabby",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-099",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/099/high.jpg",
+        "localId": "099",
+        "name": "Kingler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-100",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/100/high.jpg",
+        "localId": "100",
+        "name": "Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-101",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/101/high.jpg",
+        "localId": "101",
+        "name": "Electrode",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-102",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/102/high.jpg",
+        "localId": "102",
+        "name": "Exeggcute",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-103",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/103/high.jpg",
+        "localId": "103",
+        "name": "Exeggutor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-104",
+        "illustrator": "Shinya Komatsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/104/high.jpg",
+        "localId": "104",
+        "name": "Cubone",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-105",
+        "illustrator": "Shinya Komatsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/105/high.jpg",
+        "localId": "105",
+        "name": "Marowak",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-106",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/106/high.jpg",
+        "localId": "106",
+        "name": "Hitmonlee",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-107",
+        "illustrator": "DOM",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/107/high.jpg",
+        "localId": "107",
+        "name": "Hitmonchan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-108",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/108/high.jpg",
+        "localId": "108",
+        "name": "Lickitung",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-109",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/109/high.jpg",
+        "localId": "109",
+        "name": "Koffing",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-110",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/110/high.jpg",
+        "localId": "110",
+        "name": "Weezing",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-111",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/111/high.jpg",
+        "localId": "111",
+        "name": "Rhyhorn",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-112",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/112/high.jpg",
+        "localId": "112",
+        "name": "Rhydon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-113",
+        "illustrator": "Taiga Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/113/high.jpg",
+        "localId": "113",
+        "name": "Chansey",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-114",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/114/high.jpg",
+        "localId": "114",
+        "name": "Tangela",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-115",
+        "illustrator": "N-DESIGN Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/115/high.jpg",
+        "localId": "115",
+        "name": "Kangaskhan ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-116",
+        "illustrator": "aspara",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/116/high.jpg",
+        "localId": "116",
+        "name": "Horsea",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-117",
+        "illustrator": "aspara",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/117/high.jpg",
+        "localId": "117",
+        "name": "Seadra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-118",
+        "illustrator": "SIE NANAHARA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/118/high.jpg",
+        "localId": "118",
+        "name": "Goldeen",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-119",
+        "illustrator": "SIE NANAHARA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/119/high.jpg",
+        "localId": "119",
+        "name": "Seaking",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-120",
+        "illustrator": "Arai Kiriko",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/120/high.jpg",
+        "localId": "120",
+        "name": "Staryu",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-121",
+        "illustrator": "Arai Kiriko",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/121/high.jpg",
+        "localId": "121",
+        "name": "Starmie",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-122",
+        "illustrator": "OOYAMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/122/high.jpg",
+        "localId": "122",
+        "name": "Mr. Mime",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-123",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/123/high.jpg",
+        "localId": "123",
+        "name": "Scyther",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-124",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/124/high.jpg",
+        "localId": "124",
+        "name": "Jynx ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-125",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/125/high.jpg",
+        "localId": "125",
+        "name": "Electabuzz",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-126",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/126/high.jpg",
+        "localId": "126",
+        "name": "Magmar",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-127",
+        "illustrator": "Yuya Oka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/127/high.jpg",
+        "localId": "127",
+        "name": "Pinsir",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-128",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/128/high.jpg",
+        "localId": "128",
+        "name": "Tauros",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-129",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/129/high.jpg",
+        "localId": "129",
+        "name": "Magikarp",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-130",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/130/high.jpg",
+        "localId": "130",
+        "name": "Gyarados",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-131",
+        "illustrator": "LINNE",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/131/high.jpg",
+        "localId": "131",
+        "name": "Lapras",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-132",
+        "illustrator": "KIYOTAKA OSHIYAMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/132/high.jpg",
+        "localId": "132",
+        "name": "Ditto",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-133",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/133/high.jpg",
+        "localId": "133",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-134",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/134/high.jpg",
+        "localId": "134",
+        "name": "Vaporeon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-135",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/135/high.jpg",
+        "localId": "135",
+        "name": "Jolteon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-136",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/136/high.jpg",
+        "localId": "136",
+        "name": "Flareon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-137",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/137/high.jpg",
+        "localId": "137",
+        "name": "Porygon",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-138",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/138/high.jpg",
+        "localId": "138",
+        "name": "Omanyte",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-139",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/139/high.jpg",
+        "localId": "139",
+        "name": "Omastar",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-140",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/140/high.jpg",
+        "localId": "140",
+        "name": "Kabuto",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-141",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/141/high.jpg",
+        "localId": "141",
+        "name": "Kabutops",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-142",
+        "illustrator": "Shinji Kanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/142/high.jpg",
+        "localId": "142",
+        "name": "Aerodactyl",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-143",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/143/high.jpg",
+        "localId": "143",
+        "name": "Snorlax",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-144",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/144/high.jpg",
+        "localId": "144",
+        "name": "Articuno",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-145",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/145/high.jpg",
+        "localId": "145",
+        "name": "Zapdos ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-146",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/146/high.jpg",
+        "localId": "146",
+        "name": "Moltres",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-147",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/147/high.jpg",
+        "localId": "147",
+        "name": "Dratini",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-148",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/148/high.jpg",
+        "localId": "148",
+        "name": "Dragonair",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-149",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/149/high.jpg",
+        "localId": "149",
+        "name": "Dragonite",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-150",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/150/high.jpg",
+        "localId": "150",
+        "name": "Mewtwo",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-151",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/151/high.jpg",
+        "localId": "151",
+        "name": "Mew ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-152",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/152/high.jpg",
+        "localId": "152",
+        "name": "Antique Dome Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-153",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/153/high.jpg",
+        "localId": "153",
+        "name": "Antique Helix Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-154",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/154/high.jpg",
+        "localId": "154",
+        "name": "Antique Old Amber",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-155",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/155/high.jpg",
+        "localId": "155",
+        "name": "Big Air Balloon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-156",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/156/high.jpg",
+        "localId": "156",
+        "name": "Bill's Transfer",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-157",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/157/high.jpg",
+        "localId": "157",
+        "name": "Cycling Road",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-158",
+        "illustrator": "Tomomi Kaneko",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/158/high.jpg",
+        "localId": "158",
+        "name": "Daisy's Help",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-159",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/159/high.jpg",
+        "localId": "159",
+        "name": "Energy Sticker",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-160",
+        "illustrator": "saino misaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/160/high.jpg",
+        "localId": "160",
+        "name": "Erika's Invitation",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-161",
+        "illustrator": "hncl",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/161/high.jpg",
+        "localId": "161",
+        "name": "Giovanni's Charisma",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-162",
+        "illustrator": "inose yukie",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/162/high.jpg",
+        "localId": "162",
+        "name": "Grabber",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-163",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/163/high.jpg",
+        "localId": "163",
+        "name": "Leftovers",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-164",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/164/high.jpg",
+        "localId": "164",
+        "name": "Protective Goggles",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-165",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/165/high.jpg",
+        "localId": "165",
+        "name": "Rigid Band",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-166",
+        "illustrator": "Yoriyuki Ikegami",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/166/high.jpg",
+        "localId": "166",
+        "name": "Bulbasaur",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-167",
+        "illustrator": "Yoriyuki Ikegami",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/167/high.jpg",
+        "localId": "167",
+        "name": "Ivysaur",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-168",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/168/high.jpg",
+        "localId": "168",
+        "name": "Charmander",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-169",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/169/high.jpg",
+        "localId": "169",
+        "name": "Charmeleon",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-170",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/170/high.jpg",
+        "localId": "170",
+        "name": "Squirtle",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-171",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/171/high.jpg",
+        "localId": "171",
+        "name": "Wartortle",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-172",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/172/high.jpg",
+        "localId": "172",
+        "name": "Caterpie",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-173",
+        "illustrator": "Hiroyuki Yamamoto",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/173/high.jpg",
+        "localId": "173",
+        "name": "Pikachu",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-174",
+        "illustrator": "Misaki Hashimoto",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/174/high.jpg",
+        "localId": "174",
+        "name": "Nidoking",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-175",
+        "illustrator": "Whisker",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/175/high.jpg",
+        "localId": "175",
+        "name": "Psyduck",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-176",
+        "illustrator": "Gemi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/176/high.jpg",
+        "localId": "176",
+        "name": "Poliwhirl",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-177",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/177/high.jpg",
+        "localId": "177",
+        "name": "Machoke",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-178",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/178/high.jpg",
+        "localId": "178",
+        "name": "Tangela",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-179",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/179/high.jpg",
+        "localId": "179",
+        "name": "Mr. Mime",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-180",
+        "illustrator": "Yano Keiji",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/180/high.jpg",
+        "localId": "180",
+        "name": "Omanyte",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-181",
+        "illustrator": "rika",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/181/high.jpg",
+        "localId": "181",
+        "name": "Dragonair",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-182",
+        "illustrator": "PLANETA Yamashita",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/182/high.jpg",
+        "localId": "182",
+        "name": "Venusaur ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-183",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/183/high.jpg",
+        "localId": "183",
+        "name": "Charizard ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-184",
+        "illustrator": "PLANETA Yamashita",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/184/high.jpg",
+        "localId": "184",
+        "name": "Blastoise ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-185",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/185/high.jpg",
+        "localId": "185",
+        "name": "Arbok ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-186",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/186/high.jpg",
+        "localId": "186",
+        "name": "Ninetales ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-187",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/187/high.jpg",
+        "localId": "187",
+        "name": "Wigglytuff ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-188",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/188/high.jpg",
+        "localId": "188",
+        "name": "Alakazam ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-189",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/189/high.jpg",
+        "localId": "189",
+        "name": "Golem ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-190",
+        "illustrator": "N-DESIGN Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/190/high.jpg",
+        "localId": "190",
+        "name": "Kangaskhan ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-191",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/191/high.jpg",
+        "localId": "191",
+        "name": "Jynx ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-192",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/192/high.jpg",
+        "localId": "192",
+        "name": "Zapdos ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-193",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/193/high.jpg",
+        "localId": "193",
+        "name": "Mew ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-194",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/194/high.jpg",
+        "localId": "194",
+        "name": "Bill's Transfer",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-195",
+        "illustrator": "Fumie Kittaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/195/high.jpg",
+        "localId": "195",
+        "name": "Daisy's Help",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-196",
+        "illustrator": "saino misaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/196/high.jpg",
+        "localId": "196",
+        "name": "Erika's Invitation",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-197",
+        "illustrator": "hncl",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/197/high.jpg",
+        "localId": "197",
+        "name": "Giovanni's Charisma",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-198",
+        "illustrator": "Yoriyuki Ikegami",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/198/high.jpg",
+        "localId": "198",
+        "name": "Venusaur ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-199",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/199/high.jpg",
+        "localId": "199",
+        "name": "Charizard ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-200",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/200/high.jpg",
+        "localId": "200",
+        "name": "Blastoise ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-201",
+        "illustrator": "Shinya Komatsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/201/high.jpg",
+        "localId": "201",
+        "name": "Alakazam ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-202",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/202/high.jpg",
+        "localId": "202",
+        "name": "Zapdos ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-203",
+        "illustrator": "Cona Nitanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/203/high.jpg",
+        "localId": "203",
+        "name": "Erika's Invitation",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-204",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/204/high.jpg",
+        "localId": "204",
+        "name": "Giovanni's Charisma",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03.5-205",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/205/high.jpg",
+        "localId": "205",
+        "name": "Mew ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03.5-206",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/206/high.jpg",
+        "localId": "206",
+        "name": "Switch",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sv03.5-207",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv03.5/207/high.jpg",
+        "localId": "207",
+        "name": "Basic Psychic Energy",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv03.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.jpg",
+            "name": "151",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.jpg",
+            "releaseDate": "2023-09-22"
+        }
+    }
+]

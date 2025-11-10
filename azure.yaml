@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/azure-dev/main/schemas/v1.0/azure.yaml.json
+
+name: functions-quickstart-python-azd-cosmosdb
+# metadata:
+#   template: functions-quickstart-python-azd-cosmosdb@1.0.1
+services:
+  api:
+    project: ./functions
+    language: python
+    host: function
+hooks:
+    postdeploy:
+      windows:
+        shell: pwsh
+        run: ./scripts/post-up.ps1
+        interactive: true
+        continueOnError: false
+      posix:
+        shell: sh
+        run: ./scripts/post-up.sh
+        interactive: true
+        continueOnError: false
+# hooks:
+#   postprovision:
+#     windows:
+#       shell: pwsh
+#       run: .\infra\scripts\setuplocalenvironment.ps1
+#       interactive: true
+#       continueOnError: false
+#     posix:
+#       shell: sh
+#       run: ./infra/scripts/setuplocalenvironment.sh
+#       interactive: true
+#       continueOnError: false

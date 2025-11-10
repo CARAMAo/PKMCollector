@@ -1,0 +1,2105 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "dp2-1",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/1/high.jpg",
+        "localId": "1",
+        "name": "Aggron",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83478
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-2",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/2/high.jpg",
+        "localId": "2",
+        "name": "Alakazam",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83501
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-3",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/3/high.jpg",
+        "localId": "3",
+        "name": "Ambipom",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83526
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-4",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/4/high.jpg",
+        "localId": "4",
+        "name": "Azelf",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83674
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-5",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/5/high.jpg",
+        "localId": "5",
+        "name": "Blissey",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83921
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-6",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/6/high.jpg",
+        "localId": "6",
+        "name": "Bronzong",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83992
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-7",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/7/high.jpg",
+        "localId": "7",
+        "name": "Celebi",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84146
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-8",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/8/high.jpg",
+        "localId": "8",
+        "name": "Feraligatr",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85418
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-9",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/9/high.jpg",
+        "localId": "9",
+        "name": "Garchomp",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85621
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-10",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/10/high.jpg",
+        "localId": "10",
+        "name": "Honchkrow",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 86159
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-11",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/11/high.jpg",
+        "localId": "11",
+        "name": "Lumineon",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 86921
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-12",
+        "illustrator": "Hiroaki Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/12/high.jpg",
+        "localId": "12",
+        "name": "Magmortar",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87055
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-13",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/13/high.jpg",
+        "localId": "13",
+        "name": "Meganium",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87292
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-14",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/14/high.jpg",
+        "localId": "14",
+        "name": "Mesprit",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87331
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-15",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/15/high.jpg",
+        "localId": "15",
+        "name": "Raichu",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 88510
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-16",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/16/high.jpg",
+        "localId": "16",
+        "name": "Typhlosion",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 90105
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-17",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/17/high.jpg",
+        "localId": "17",
+        "name": "Tyranitar",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 90119
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-18",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/18/high.jpg",
+        "localId": "18",
+        "name": "Uxie",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 90259
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-19",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/19/high.jpg",
+        "localId": "19",
+        "name": "Abomasnow",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83440
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-20",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/20/high.jpg",
+        "localId": "20",
+        "name": "Ariados",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83617
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-21",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/21/high.jpg",
+        "localId": "21",
+        "name": "Bastiodon",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 93321
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-22",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/22/high.jpg",
+        "localId": "22",
+        "name": "Chimecho",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84295
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-23",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/23/high.jpg",
+        "localId": "23",
+        "name": "Crobat",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84487
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-24",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/24/high.jpg",
+        "localId": "24",
+        "name": "Exeggutor",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85360
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-25",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/25/high.jpg",
+        "localId": "25",
+        "name": "Glalie",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85755
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-26",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/26/high.jpg",
+        "localId": "26",
+        "name": "Gyarados",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85993
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-27",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/27/high.jpg",
+        "localId": "27",
+        "name": "Kricketune",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 86532
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-28",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/28/high.jpg",
+        "localId": "28",
+        "name": "Manectric",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87160
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-29",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/29/high.jpg",
+        "localId": "29",
+        "name": "Mantine",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87183
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-30",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/30/high.jpg",
+        "localId": "30",
+        "name": "Mr. Mime",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87592
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-31",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/31/high.jpg",
+        "localId": "31",
+        "name": "Nidoqueen",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87708
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-32",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/32/high.jpg",
+        "localId": "32",
+        "name": "Ninetales",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87772
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-33",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/33/high.jpg",
+        "localId": "33",
+        "name": "Rampardos",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 88569
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-34",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/34/high.jpg",
+        "localId": "34",
+        "name": "Slaking",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89291
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-35",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/35/high.jpg",
+        "localId": "35",
+        "name": "Sudowoodo",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89594
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-36",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/36/high.jpg",
+        "localId": "36",
+        "name": "Toxicroak",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 90007
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-37",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/37/high.jpg",
+        "localId": "37",
+        "name": "Unown I",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-38",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/38/high.jpg",
+        "localId": "38",
+        "name": "Ursaring",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 90253
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-39",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/39/high.jpg",
+        "localId": "39",
+        "name": "Walrein",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 90467
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-40",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/40/high.jpg",
+        "localId": "40",
+        "name": "Whiscash",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 90577
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-41",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/41/high.jpg",
+        "localId": "41",
+        "name": "Bayleef",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83747
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-42",
+        "illustrator": "Emi Yoshida",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/42/high.jpg",
+        "localId": "42",
+        "name": "Chingling",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84313
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-43",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/43/high.jpg",
+        "localId": "43",
+        "name": "Cranidos",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84458
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-44",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/44/high.jpg",
+        "localId": "44",
+        "name": "Croconaw",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84499
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-45",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/45/high.jpg",
+        "localId": "45",
+        "name": "Dewgong",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84790
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-46",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/46/high.jpg",
+        "localId": "46",
+        "name": "Dodrio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84852
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-47",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/47/high.jpg",
+        "localId": "47",
+        "name": "Dunsparce",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85010
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-48",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/48/high.jpg",
+        "localId": "48",
+        "name": "Gabite",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85597
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-49",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/49/high.jpg",
+        "localId": "49",
+        "name": "Girafarig",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85731
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-50",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/50/high.jpg",
+        "localId": "50",
+        "name": "Golbat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85796
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-51",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/51/high.jpg",
+        "localId": "51",
+        "name": "Graveler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85892
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-52",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/52/high.jpg",
+        "localId": "52",
+        "name": "Happiny",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 86006
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-53",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/53/high.jpg",
+        "localId": "53",
+        "name": "Lairon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 86580
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-54",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/54/high.jpg",
+        "localId": "54",
+        "name": "Magmar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87047
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-55",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/55/high.jpg",
+        "localId": "55",
+        "name": "Masquerain",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87248
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-56",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/56/high.jpg",
+        "localId": "56",
+        "name": "Nidorina",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87736
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-57",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/57/high.jpg",
+        "localId": "57",
+        "name": "Octillery",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87832
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-58",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/58/high.jpg",
+        "localId": "58",
+        "name": "Parasect",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87958
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-59",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/59/high.jpg",
+        "localId": "59",
+        "name": "Pupitar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 88451
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-60",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/60/high.jpg",
+        "localId": "60",
+        "name": "Quilava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 88485
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-61",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/61/high.jpg",
+        "localId": "61",
+        "name": "Sandslash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 88932
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-62",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/62/high.jpg",
+        "localId": "62",
+        "name": "Sealeo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89032
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-63",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/63/high.jpg",
+        "localId": "63",
+        "name": "Shieldon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89149
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-64",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/64/high.jpg",
+        "localId": "64",
+        "name": "Tropius",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 90059
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-65",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/65/high.jpg",
+        "localId": "65",
+        "name": "Unown E",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-66",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/66/high.jpg",
+        "localId": "66",
+        "name": "Unown M",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-67",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/67/high.jpg",
+        "localId": "67",
+        "name": "Unown T",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-68",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/68/high.jpg",
+        "localId": "68",
+        "name": "Vigoroth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 90370
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-69",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/69/high.jpg",
+        "localId": "69",
+        "name": "Abra",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83448
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-70",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/70/high.jpg",
+        "localId": "70",
+        "name": "Aipom",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83489
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-71",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/71/high.jpg",
+        "localId": "71",
+        "name": "Aron",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83636
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-72",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/72/high.jpg",
+        "localId": "72",
+        "name": "Barboach",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83729
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-73",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/73/high.jpg",
+        "localId": "73",
+        "name": "Bidoof",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83825
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-74",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/74/high.jpg",
+        "localId": "74",
+        "name": "Bronzor",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84001
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-75",
+        "illustrator": "Kenkichi Toyama",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/75/high.jpg",
+        "localId": "75",
+        "name": "Buizel",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84016
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-76",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/76/high.jpg",
+        "localId": "76",
+        "name": "Chansey",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84175
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-77",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/77/high.jpg",
+        "localId": "77",
+        "name": "Chikorita",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84278
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-78",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/78/high.jpg",
+        "localId": "78",
+        "name": "Croagunk",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84473
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-79",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/79/high.jpg",
+        "localId": "79",
+        "name": "Cyndaquil",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84551
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-80",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/80/high.jpg",
+        "localId": "80",
+        "name": "Doduo",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84863
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-81",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/81/high.jpg",
+        "localId": "81",
+        "name": "Electrike",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85139
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-82",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/82/high.jpg",
+        "localId": "82",
+        "name": "Exeggcute",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85347
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-83",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/83/high.jpg",
+        "localId": "83",
+        "name": "Finneon",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85449
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-84",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/84/high.jpg",
+        "localId": "84",
+        "name": "Geodude",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85690
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-85",
+        "illustrator": "Hiroki Fuchino",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/85/high.jpg",
+        "localId": "85",
+        "name": "Gible",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85698
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-86",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/86/high.jpg",
+        "localId": "86",
+        "name": "Kricketot",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 86527
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-87",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/87/high.jpg",
+        "localId": "87",
+        "name": "Larvitar",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 86642
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-88",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/88/high.jpg",
+        "localId": "88",
+        "name": "Magby",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87005
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-89",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/89/high.jpg",
+        "localId": "89",
+        "name": "Magikarp",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87029
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-90",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/90/high.jpg",
+        "localId": "90",
+        "name": "Murkrow",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87652
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-91",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/91/high.jpg",
+        "localId": "91",
+        "name": "Nidoran♀",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-92",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/92/high.jpg",
+        "localId": "92",
+        "name": "Paras",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87951
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-93",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/93/high.jpg",
+        "localId": "93",
+        "name": "Pichu",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 88018
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-94",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/94/high.jpg",
+        "localId": "94",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 88086
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-95",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/95/high.jpg",
+        "localId": "95",
+        "name": "Remoraid",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 88697
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-96",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/96/high.jpg",
+        "localId": "96",
+        "name": "Sandshrew",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 88924
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-97",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/97/high.jpg",
+        "localId": "97",
+        "name": "Seel",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89053
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-98",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/98/high.jpg",
+        "localId": "98",
+        "name": "Shinx",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89173
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-99",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/99/high.jpg",
+        "localId": "99",
+        "name": "Slakoth",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89298
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-100",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/100/high.jpg",
+        "localId": "100",
+        "name": "Snorunt",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89402
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-101",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/101/high.jpg",
+        "localId": "101",
+        "name": "Snover",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89405
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-102",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/102/high.jpg",
+        "localId": "102",
+        "name": "Spheal",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89448
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-103",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/103/high.jpg",
+        "localId": "103",
+        "name": "Spinarak",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89457
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-104",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/104/high.jpg",
+        "localId": "104",
+        "name": "Surskit",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89650
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-105",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/105/high.jpg",
+        "localId": "105",
+        "name": "Teddiursa",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89858
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-106",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/106/high.jpg",
+        "localId": "106",
+        "name": "Totodile",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89998
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-107",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/107/high.jpg",
+        "localId": "107",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 90441
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-108",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/108/high.jpg",
+        "localId": "108",
+        "name": "Zubat",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 90774
+    },
+    {
+        "category": "Trainer",
+        "id": "dp2-109",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/109/high.jpg",
+        "localId": "109",
+        "name": "Bebe's Search",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83761
+    },
+    {
+        "category": "Trainer",
+        "id": "dp2-110",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/110/high.jpg",
+        "localId": "110",
+        "name": "Dusk Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85033
+    },
+    {
+        "category": "Trainer",
+        "id": "dp2-111",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/111/high.jpg",
+        "localId": "111",
+        "name": "Fossil Excavator",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85556
+    },
+    {
+        "category": "Trainer",
+        "id": "dp2-112",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/112/high.jpg",
+        "localId": "112",
+        "name": "Lake Boundary",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 86586
+    },
+    {
+        "category": "Trainer",
+        "id": "dp2-113",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/113/high.jpg",
+        "localId": "113",
+        "name": "Night Maintenance",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87750
+    },
+    {
+        "category": "Trainer",
+        "id": "dp2-114",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/114/high.jpg",
+        "localId": "114",
+        "name": "Quick Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 88477
+    },
+    {
+        "category": "Trainer",
+        "id": "dp2-115",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/115/high.jpg",
+        "localId": "115",
+        "name": "Team Galactic's Wager",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89811
+    },
+    {
+        "category": "Trainer",
+        "id": "dp2-116",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/116/high.jpg",
+        "localId": "116",
+        "name": "Armor Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 83625
+    },
+    {
+        "category": "Trainer",
+        "id": "dp2-117",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/117/high.jpg",
+        "localId": "117",
+        "name": "Skull Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89277
+    },
+    {
+        "category": "Energy",
+        "id": "dp2-118",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/118/high.jpg",
+        "localId": "118",
+        "name": "Multi Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87634
+    },
+    {
+        "category": "Energy",
+        "id": "dp2-119",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/119/high.jpg",
+        "localId": "119",
+        "name": "Darkness Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 84689
+    },
+    {
+        "category": "Energy",
+        "id": "dp2-120",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/120/high.jpg",
+        "localId": "120",
+        "name": "Metal Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87362
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-121",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/121/high.jpg",
+        "localId": "121",
+        "name": "Electivire",
+        "rarity": "Rare Holo LV.X",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 85127
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-122",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/122/high.jpg",
+        "localId": "122",
+        "name": "Lucario",
+        "rarity": "Rare Holo LV.X",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 86889
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp2-123",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/123/high.jpg",
+        "localId": "123",
+        "name": "Magmortar",
+        "rarity": "Rare Holo LV.X",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 87063
+    },
+    {
+        "category": "Trainer",
+        "id": "dp2-124",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dp2/124/high.jpg",
+        "localId": "124",
+        "name": "Time-Space Distortion",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp2",
+            "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.jpg",
+            "name": "Mysterious Treasures",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.jpg",
+            "releaseDate": "2007-08-01"
+        },
+        "tcgplayerId": 89920
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "tk-dp-m-1",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "1",
+        "name": "Buizel",
+        "rarity": "None",
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol.jpg",
+            "releaseDate": "2007-09-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-dp-m-2",
+        "illustrator": "Masahiko Ishii",
+        "image": null,
+        "localId": "2",
+        "name": "Floatzel",
+        "rarity": "None",
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol.jpg",
+            "releaseDate": "2007-09-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-dp-m-3",
+        "illustrator": "Atsuko Nishida",
+        "image": null,
+        "localId": "3",
+        "name": "Goldeen",
+        "rarity": "None",
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol.jpg",
+            "releaseDate": "2007-09-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-dp-m-4",
+        "illustrator": "Daisuke Ito",
+        "image": null,
+        "localId": "4",
+        "name": "Manaphy",
+        "rarity": "None",
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol.jpg",
+            "releaseDate": "2007-09-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-dp-m-5",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "5",
+        "name": "Piplup",
+        "rarity": "None",
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol.jpg",
+            "releaseDate": "2007-09-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-dp-m-6",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "6",
+        "name": "Prinplup",
+        "rarity": "None",
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol.jpg",
+            "releaseDate": "2007-09-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-dp-m-7",
+        "illustrator": "Atsuko Nishida",
+        "image": null,
+        "localId": "7",
+        "name": "Seaking",
+        "rarity": "None",
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol.jpg",
+            "releaseDate": "2007-09-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-dp-m-8",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "8",
+        "name": "Totodile",
+        "rarity": "None",
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol.jpg",
+            "releaseDate": "2007-09-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "tk-dp-m-9",
+        "illustrator": "Ryo Ueda",
+        "image": null,
+        "localId": "9",
+        "name": "Dusk Ball",
+        "rarity": "None",
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol.jpg",
+            "releaseDate": "2007-09-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "tk-dp-m-10",
+        "illustrator": "Kai Ishikawa",
+        "image": null,
+        "localId": "10",
+        "name": "Energy Search",
+        "rarity": "None",
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol.jpg",
+            "releaseDate": "2007-09-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "tk-dp-m-11",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": null,
+        "localId": "11",
+        "name": "Potion",
+        "rarity": "None",
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol.jpg",
+            "releaseDate": "2007-09-01"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "tk-dp-m-12",
+        "illustrator": "",
+        "image": null,
+        "localId": "12",
+        "name": "Water Energy",
+        "rarity": "None",
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol.jpg",
+            "releaseDate": "2007-09-01"
+        }
+    }
+]

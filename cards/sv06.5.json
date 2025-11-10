@@ -1,0 +1,1586 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-001",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/001/high.jpg",
+        "localId": "001",
+        "name": "Joltik",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-002",
+        "illustrator": "mashu",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/002/high.jpg",
+        "localId": "002",
+        "name": "Galvantula",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-003",
+        "illustrator": "Yoshimi Miyoshi",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/003/high.jpg",
+        "localId": "003",
+        "name": "Rowlet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-004",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/004/high.jpg",
+        "localId": "004",
+        "name": "Dartrix",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-005",
+        "illustrator": "DOM",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/005/high.jpg",
+        "localId": "005",
+        "name": "Decidueye",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-006",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/006/high.jpg",
+        "localId": "006",
+        "name": "Tapu Bulu",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-007",
+        "illustrator": "REND",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/007/high.jpg",
+        "localId": "007",
+        "name": "Houndour",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-008",
+        "illustrator": "burari",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/008/high.jpg",
+        "localId": "008",
+        "name": "Houndoom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-009",
+        "illustrator": "Shinji Kanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/009/high.jpg",
+        "localId": "009",
+        "name": "Iron Moth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-010",
+        "illustrator": "Shimaris Yukichi",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/010/high.jpg",
+        "localId": "010",
+        "name": "Horsea",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-011",
+        "illustrator": "Yuya Oka",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/011/high.jpg",
+        "localId": "011",
+        "name": "Seadra",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-012",
+        "illustrator": "toriyufu",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/012/high.jpg",
+        "localId": "012",
+        "name": "Kingdra ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-013",
+        "illustrator": "Krgc",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/013/high.jpg",
+        "localId": "013",
+        "name": "Sneasel",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-014",
+        "illustrator": "aspara",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/014/high.jpg",
+        "localId": "014",
+        "name": "Weavile",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-015",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/015/high.jpg",
+        "localId": "015",
+        "name": "Revavroom ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-016",
+        "illustrator": "OKUBO",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/016/high.jpg",
+        "localId": "016",
+        "name": "Drowzee",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-017",
+        "illustrator": "Masako Tomii",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/017/high.jpg",
+        "localId": "017",
+        "name": "Hypno",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-018",
+        "illustrator": "IKEDA Saki",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/018/high.jpg",
+        "localId": "018",
+        "name": "Duskull",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-019",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/019/high.jpg",
+        "localId": "019",
+        "name": "Dusclops",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-020",
+        "illustrator": "danciao",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/020/high.jpg",
+        "localId": "020",
+        "name": "Dusknoir",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-021",
+        "illustrator": "matazo",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/021/high.jpg",
+        "localId": "021",
+        "name": "Cresselia",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-022",
+        "illustrator": "Kuroimori",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/022/high.jpg",
+        "localId": "022",
+        "name": "Sylveon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-023",
+        "illustrator": "Aliya Chen",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/023/high.jpg",
+        "localId": "023",
+        "name": "Croagunk",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-024",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/024/high.jpg",
+        "localId": "024",
+        "name": "Toxicroak",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-025",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/025/high.jpg",
+        "localId": "025",
+        "name": "Bloodmoon Ursaluna",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-026",
+        "illustrator": "Shinji Kanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/026/high.jpg",
+        "localId": "026",
+        "name": "Slither Wing",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-027",
+        "illustrator": "osare",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/027/high.jpg",
+        "localId": "027",
+        "name": "Zubat",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-028",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/028/high.jpg",
+        "localId": "028",
+        "name": "Golbat",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-029",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/029/high.jpg",
+        "localId": "029",
+        "name": "Crobat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-030",
+        "illustrator": "rika",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/030/high.jpg",
+        "localId": "030",
+        "name": "Absol",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-031",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/031/high.jpg",
+        "localId": "031",
+        "name": "Zorua",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-032",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/032/high.jpg",
+        "localId": "032",
+        "name": "Zoroark",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-033",
+        "illustrator": "Mori Yuu",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/033/high.jpg",
+        "localId": "033",
+        "name": "Inkay",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-034",
+        "illustrator": "akagi",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/034/high.jpg",
+        "localId": "034",
+        "name": "Malamar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-035",
+        "illustrator": "SIE NANAHARA",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/035/high.jpg",
+        "localId": "035",
+        "name": "Yveltal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-036",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/036/high.jpg",
+        "localId": "036",
+        "name": "Okidogi ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-037",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/037/high.jpg",
+        "localId": "037",
+        "name": "Munkidori ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-038",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/038/high.jpg",
+        "localId": "038",
+        "name": "Fezandipiti ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-039",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/039/high.jpg",
+        "localId": "039",
+        "name": "Pecharunt ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-040",
+        "illustrator": "Kazumasa Yasukuni",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/040/high.jpg",
+        "localId": "040",
+        "name": "Genesect",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-041",
+        "illustrator": "Shinya Mizuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/041/high.jpg",
+        "localId": "041",
+        "name": "Cufant",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-042",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/042/high.jpg",
+        "localId": "042",
+        "name": "Copperajah",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-043",
+        "illustrator": "HAGIYA Kaoru",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/043/high.jpg",
+        "localId": "043",
+        "name": "Varoom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-044",
+        "illustrator": "Orca",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/044/high.jpg",
+        "localId": "044",
+        "name": "Axew",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-045",
+        "illustrator": "Uninori",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/045/high.jpg",
+        "localId": "045",
+        "name": "Fraxure",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-046",
+        "illustrator": "Tsuyoshi Nagano",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/046/high.jpg",
+        "localId": "046",
+        "name": "Haxorus",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-047",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/047/high.jpg",
+        "localId": "047",
+        "name": "Kyurem",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-048",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/048/high.jpg",
+        "localId": "048",
+        "name": "Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-049",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/049/high.jpg",
+        "localId": "049",
+        "name": "Persian",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-050",
+        "illustrator": "Susumu Maeya",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/050/high.jpg",
+        "localId": "050",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-051",
+        "illustrator": "Shinya Komatsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/051/high.jpg",
+        "localId": "051",
+        "name": "Furfrou",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-052",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/052/high.jpg",
+        "localId": "052",
+        "name": "Stufful",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-053",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/053/high.jpg",
+        "localId": "053",
+        "name": "Bewear",
+        "rarity": "Common",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-054",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/054/high.jpg",
+        "localId": "054",
+        "name": "Academy at Night",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-055",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/055/high.jpg",
+        "localId": "055",
+        "name": "Binding Mochi",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-056",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/056/high.jpg",
+        "localId": "056",
+        "name": "Cassiopeia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-057",
+        "illustrator": "hncl",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/057/high.jpg",
+        "localId": "057",
+        "name": "Colress's Tenacity",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-058",
+        "illustrator": "inose yukie",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/058/high.jpg",
+        "localId": "058",
+        "name": "Dangerous Laser",
+        "rarity": "ACE SPEC Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-059",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/059/high.jpg",
+        "localId": "059",
+        "name": "Janine's Secret Art",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-060",
+        "illustrator": "imoniii",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/060/high.jpg",
+        "localId": "060",
+        "name": "Neutralization Zone",
+        "rarity": "ACE SPEC Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-061",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/061/high.jpg",
+        "localId": "061",
+        "name": "Night Stretcher",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-062",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/062/high.jpg",
+        "localId": "062",
+        "name": "Poké Vital A",
+        "rarity": "ACE SPEC Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-063",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/063/high.jpg",
+        "localId": "063",
+        "name": "Powerglass",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-064",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/064/high.jpg",
+        "localId": "064",
+        "name": "Xerosic's Machinations",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-065",
+        "illustrator": "IKEDA Saki",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/065/high.jpg",
+        "localId": "065",
+        "name": "Tapu Bulu",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-066",
+        "illustrator": "Taiga Kasai",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/066/high.jpg",
+        "localId": "066",
+        "name": "Houndoom",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-067",
+        "illustrator": "Shinya Komatsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/067/high.jpg",
+        "localId": "067",
+        "name": "Horsea",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-068",
+        "illustrator": "James Turner",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/068/high.jpg",
+        "localId": "068",
+        "name": "Duskull",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-069",
+        "illustrator": "James Turner",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/069/high.jpg",
+        "localId": "069",
+        "name": "Dusclops",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-070",
+        "illustrator": "James Turner",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/070/high.jpg",
+        "localId": "070",
+        "name": "Dusknoir",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-071",
+        "illustrator": "satoma",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/071/high.jpg",
+        "localId": "071",
+        "name": "Cresselia",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-072",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/072/high.jpg",
+        "localId": "072",
+        "name": "Munkidori",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-073",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/073/high.jpg",
+        "localId": "073",
+        "name": "Fezandipiti",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-074",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/074/high.jpg",
+        "localId": "074",
+        "name": "Okidogi",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-075",
+        "illustrator": "REND",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/075/high.jpg",
+        "localId": "075",
+        "name": "Zorua",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-076",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/076/high.jpg",
+        "localId": "076",
+        "name": "Cufant",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-077",
+        "illustrator": "MINAMINAMI Take",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/077/high.jpg",
+        "localId": "077",
+        "name": "Fraxure",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-078",
+        "illustrator": "Whisker",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/078/high.jpg",
+        "localId": "078",
+        "name": "Persian",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-079",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/079/high.jpg",
+        "localId": "079",
+        "name": "Bewear",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-080",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/080/high.jpg",
+        "localId": "080",
+        "name": "Kingdra ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-081",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/081/high.jpg",
+        "localId": "081",
+        "name": "Revavroom ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-082",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/082/high.jpg",
+        "localId": "082",
+        "name": "Okidogi ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-083",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/083/high.jpg",
+        "localId": "083",
+        "name": "Munkidori ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-084",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/084/high.jpg",
+        "localId": "084",
+        "name": "Fezandipiti ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-085",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/085/high.jpg",
+        "localId": "085",
+        "name": "Pecharunt ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-086",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/086/high.jpg",
+        "localId": "086",
+        "name": "Cassiopeia",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-087",
+        "illustrator": "hncl",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/087/high.jpg",
+        "localId": "087",
+        "name": "Colress's Tenacity",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-088",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/088/high.jpg",
+        "localId": "088",
+        "name": "Janine's Secret Art",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-089",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/089/high.jpg",
+        "localId": "089",
+        "name": "Xerosic's Machinations",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-090",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/090/high.jpg",
+        "localId": "090",
+        "name": "Okidogi ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-091",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/091/high.jpg",
+        "localId": "091",
+        "name": "Munkidori ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-092",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/092/high.jpg",
+        "localId": "092",
+        "name": "Fezandipiti ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-093",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/093/high.jpg",
+        "localId": "093",
+        "name": "Pecharunt ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-094",
+        "illustrator": "burari",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/094/high.jpg",
+        "localId": "094",
+        "name": "Cassiopeia",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv06.5-095",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/095/high.jpg",
+        "localId": "095",
+        "name": "Pecharunt ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-096",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/096/high.jpg",
+        "localId": "096",
+        "name": "Earthen Vessel",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv06.5-097",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/097/high.jpg",
+        "localId": "097",
+        "name": "Powerglass",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sv06.5-098",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/098/high.jpg",
+        "localId": "098",
+        "name": "Basic Darkness Energy",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sv06.5-099",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv06.5/099/high.jpg",
+        "localId": "099",
+        "name": "Basic Metal Energy",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv06.5",
+            "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.jpg",
+            "name": "Shrouded Fable",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.jpg",
+            "releaseDate": "2024-08-02"
+        }
+    }
+]

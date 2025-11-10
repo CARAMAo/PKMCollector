@@ -1,0 +1,2931 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sm5-1",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/1/high.jpg",
+        "localId": "1",
+        "name": "Exeggcute",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157618
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-2",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/2/high.jpg",
+        "localId": "2",
+        "name": "Yanma",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157619
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-3",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/3/high.jpg",
+        "localId": "3",
+        "name": "Yanmega",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157620
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-4",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/4/high.jpg",
+        "localId": "4",
+        "name": "Roselia",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157621
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-5",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/5/high.jpg",
+        "localId": "5",
+        "name": "Roserade",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157622
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-6",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/6/high.jpg",
+        "localId": "6",
+        "name": "Turtwig",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157623
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-7",
+        "illustrator": "OOYAMA",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/7/high.jpg",
+        "localId": "7",
+        "name": "Turtwig",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157624
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-8",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/8/high.jpg",
+        "localId": "8",
+        "name": "Grotle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157625
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-9",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/9/high.jpg",
+        "localId": "9",
+        "name": "Torterra",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157626
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-10",
+        "illustrator": "Asako Ito",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/10/high.jpg",
+        "localId": "10",
+        "name": "Cherubi",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157627
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-11",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/11/high.jpg",
+        "localId": "11",
+        "name": "Cherrim",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157628
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-12",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/12/high.jpg",
+        "localId": "12",
+        "name": "Carnivine",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157629
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-13",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/13/high.jpg",
+        "localId": "13",
+        "name": "Leafeon GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157630
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-14",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/14/high.jpg",
+        "localId": "14",
+        "name": "Mow Rotom",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157631
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-15",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/15/high.jpg",
+        "localId": "15",
+        "name": "Shaymin",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157632
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-16",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/16/high.jpg",
+        "localId": "16",
+        "name": "Dewpider",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157633
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-17",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/17/high.jpg",
+        "localId": "17",
+        "name": "Araquanid",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157634
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-18",
+        "illustrator": "Yumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/18/high.jpg",
+        "localId": "18",
+        "name": "Magmar",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157635
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-19",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/19/high.jpg",
+        "localId": "19",
+        "name": "Magmortar",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157636
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-20",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/20/high.jpg",
+        "localId": "20",
+        "name": "Chimchar",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157637
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-21",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/21/high.jpg",
+        "localId": "21",
+        "name": "Chimchar",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157638
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-22",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/22/high.jpg",
+        "localId": "22",
+        "name": "Monferno",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157639
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-23",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/23/high.jpg",
+        "localId": "23",
+        "name": "Infernape",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157640
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-24",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/24/high.jpg",
+        "localId": "24",
+        "name": "Heat Rotom",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157641
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-25",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/25/high.jpg",
+        "localId": "25",
+        "name": "Salandit",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157642
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-26",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/26/high.jpg",
+        "localId": "26",
+        "name": "Salazzle",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157643
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-27",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/27/high.jpg",
+        "localId": "27",
+        "name": "Turtonator",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157644
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-28",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/28/high.jpg",
+        "localId": "28",
+        "name": "Alolan Sandshrew",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157645
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-29",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/29/high.jpg",
+        "localId": "29",
+        "name": "Alolan Sandslash",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157646
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-30",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/30/high.jpg",
+        "localId": "30",
+        "name": "Alolan Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157647
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-31",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/31/high.jpg",
+        "localId": "31",
+        "name": "Piplup",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157648
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-32",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/32/high.jpg",
+        "localId": "32",
+        "name": "Piplup",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157649
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-33",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/33/high.jpg",
+        "localId": "33",
+        "name": "Prinplup",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157650
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-34",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/34/high.jpg",
+        "localId": "34",
+        "name": "Empoleon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157651
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-35",
+        "illustrator": "so-taro",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/35/high.jpg",
+        "localId": "35",
+        "name": "Buizel",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157652
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-36",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/36/high.jpg",
+        "localId": "36",
+        "name": "Floatzel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157653
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-37",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/37/high.jpg",
+        "localId": "37",
+        "name": "Snover",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157654
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-38",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/38/high.jpg",
+        "localId": "38",
+        "name": "Abomasnow",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157655
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-39",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/39/high.jpg",
+        "localId": "39",
+        "name": "Glaceon GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157656
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-40",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/40/high.jpg",
+        "localId": "40",
+        "name": "Wash Rotom",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157657
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-41",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/41/high.jpg",
+        "localId": "41",
+        "name": "Frost Rotom",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157658
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-42",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/42/high.jpg",
+        "localId": "42",
+        "name": "Manaphy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157659
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-43",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/43/high.jpg",
+        "localId": "43",
+        "name": "Electabuzz",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157660
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-44",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/44/high.jpg",
+        "localId": "44",
+        "name": "Electivire",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157661
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-45",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/45/high.jpg",
+        "localId": "45",
+        "name": "Shinx",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157662
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-46",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/46/high.jpg",
+        "localId": "46",
+        "name": "Shinx",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157663
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-47",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/47/high.jpg",
+        "localId": "47",
+        "name": "Luxio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157664
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-48",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/48/high.jpg",
+        "localId": "48",
+        "name": "Luxray",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157665
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-49",
+        "illustrator": "OOYAMA",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/49/high.jpg",
+        "localId": "49",
+        "name": "Pachirisu",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157666
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-50",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/50/high.jpg",
+        "localId": "50",
+        "name": "Rotom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157667
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-51",
+        "illustrator": "Asako Ito",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/51/high.jpg",
+        "localId": "51",
+        "name": "Drifloon",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157668
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-52",
+        "illustrator": "Yumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/52/high.jpg",
+        "localId": "52",
+        "name": "Drifblim",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157669
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-53",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/53/high.jpg",
+        "localId": "53",
+        "name": "Spiritomb",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157670
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-54",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/54/high.jpg",
+        "localId": "54",
+        "name": "Skorupi",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157671
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-55",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/55/high.jpg",
+        "localId": "55",
+        "name": "Drapion",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157672
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-56",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/56/high.jpg",
+        "localId": "56",
+        "name": "Croagunk",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157673
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-57",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/57/high.jpg",
+        "localId": "57",
+        "name": "Toxicroak",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157674
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-58",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/58/high.jpg",
+        "localId": "58",
+        "name": "Giratina ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-59",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/59/high.jpg",
+        "localId": "59",
+        "name": "Cresselia",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157676
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-60",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/60/high.jpg",
+        "localId": "60",
+        "name": "Cosmog",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157677
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-61",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/61/high.jpg",
+        "localId": "61",
+        "name": "Cosmoem",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157678
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-62",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/62/high.jpg",
+        "localId": "62",
+        "name": "Lunala ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-63",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/63/high.jpg",
+        "localId": "63",
+        "name": "Dawn Wings Necrozma GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157680
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-64",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/64/high.jpg",
+        "localId": "64",
+        "name": "Cranidos",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157681
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-65",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/65/high.jpg",
+        "localId": "65",
+        "name": "Rampardos",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157682
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-66",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/66/high.jpg",
+        "localId": "66",
+        "name": "Riolu",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157683
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-67",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/67/high.jpg",
+        "localId": "67",
+        "name": "Lucario",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157684
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-68",
+        "illustrator": "Yumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/68/high.jpg",
+        "localId": "68",
+        "name": "Hippopotas",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157685
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-69",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/69/high.jpg",
+        "localId": "69",
+        "name": "Hippowdon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157686
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-70",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/70/high.jpg",
+        "localId": "70",
+        "name": "Passimian",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157687
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-71",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/71/high.jpg",
+        "localId": "71",
+        "name": "Murkrow",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157688
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-72",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/72/high.jpg",
+        "localId": "72",
+        "name": "Honchkrow",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157689
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-73",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/73/high.jpg",
+        "localId": "73",
+        "name": "Sneasel",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157690
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-74",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/74/high.jpg",
+        "localId": "74",
+        "name": "Weavile",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157691
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-75",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/75/high.jpg",
+        "localId": "75",
+        "name": "Stunky",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157692
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-76",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/76/high.jpg",
+        "localId": "76",
+        "name": "Skuntank",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157693
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-77",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/77/high.jpg",
+        "localId": "77",
+        "name": "Darkrai ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-78",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/78/high.jpg",
+        "localId": "78",
+        "name": "Alolan Diglett",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157695
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-79",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/79/high.jpg",
+        "localId": "79",
+        "name": "Alolan Dugtrio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157696
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-80",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/80/high.jpg",
+        "localId": "80",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157697
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-81",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/81/high.jpg",
+        "localId": "81",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157698
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-82",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/82/high.jpg",
+        "localId": "82",
+        "name": "Magneton",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157699
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-83",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/83/high.jpg",
+        "localId": "83",
+        "name": "Magnezone",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157700
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-84",
+        "illustrator": "so-taro",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/84/high.jpg",
+        "localId": "84",
+        "name": "Shieldon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157701
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-85",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/85/high.jpg",
+        "localId": "85",
+        "name": "Bastiodon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157702
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-86",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/86/high.jpg",
+        "localId": "86",
+        "name": "Bronzor",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157703
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-87",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/87/high.jpg",
+        "localId": "87",
+        "name": "Bronzong",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157704
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-88",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/88/high.jpg",
+        "localId": "88",
+        "name": "Heatran",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157705
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-89",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/89/high.jpg",
+        "localId": "89",
+        "name": "Solgaleo ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-90",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/90/high.jpg",
+        "localId": "90",
+        "name": "Dusk Mane Necrozma GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157707
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-91",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/91/high.jpg",
+        "localId": "91",
+        "name": "Magearna",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157708
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-92",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/92/high.jpg",
+        "localId": "92",
+        "name": "Morelull",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157709
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-93",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/93/high.jpg",
+        "localId": "93",
+        "name": "Shiinotic",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157710
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-94",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/94/high.jpg",
+        "localId": "94",
+        "name": "Tapu Lele",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157711
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-95",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/95/high.jpg",
+        "localId": "95",
+        "name": "Alolan Exeggutor",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157712
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-96",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/96/high.jpg",
+        "localId": "96",
+        "name": "Gible",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157713
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-97",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/97/high.jpg",
+        "localId": "97",
+        "name": "Gible",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157714
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-98",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/98/high.jpg",
+        "localId": "98",
+        "name": "Gabite",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157715
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-99",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/99/high.jpg",
+        "localId": "99",
+        "name": "Garchomp",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157716
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-100",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/100/high.jpg",
+        "localId": "100",
+        "name": "Dialga GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157717
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-101",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/101/high.jpg",
+        "localId": "101",
+        "name": "Palkia GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157718
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-102",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/102/high.jpg",
+        "localId": "102",
+        "name": "Lickitung",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157719
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-103",
+        "illustrator": "Yumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/103/high.jpg",
+        "localId": "103",
+        "name": "Lickilicky",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157720
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-104",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/104/high.jpg",
+        "localId": "104",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157721
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-105",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/105/high.jpg",
+        "localId": "105",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157722
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-106",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/106/high.jpg",
+        "localId": "106",
+        "name": "Buneary",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157723
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-107",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/107/high.jpg",
+        "localId": "107",
+        "name": "Lopunny",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157724
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-108",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/108/high.jpg",
+        "localId": "108",
+        "name": "Glameow",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157725
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-109",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/109/high.jpg",
+        "localId": "109",
+        "name": "Purugly",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157726
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-110",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/110/high.jpg",
+        "localId": "110",
+        "name": "Fan Rotom",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157727
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-111",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/111/high.jpg",
+        "localId": "111",
+        "name": "Shaymin",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157728
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-112",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/112/high.jpg",
+        "localId": "112",
+        "name": "Yungoos",
+        "rarity": "Common",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157729
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-113",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/113/high.jpg",
+        "localId": "113",
+        "name": "Gumshoos",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157730
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-114",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/114/high.jpg",
+        "localId": "114",
+        "name": "Oranguru",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157731
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-115",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/115/high.jpg",
+        "localId": "115",
+        "name": "Type: Null",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157732
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-116",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/116/high.jpg",
+        "localId": "116",
+        "name": "Silvally GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157733
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-117",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/117/high.jpg",
+        "localId": "117",
+        "name": "Drampa",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157734
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-118",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/118/high.jpg",
+        "localId": "118",
+        "name": "Ancient Crystal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157735
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-119",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/119/high.jpg",
+        "localId": "119",
+        "name": "Cynthia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157736
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-120",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/120/high.jpg",
+        "localId": "120",
+        "name": "Cyrus ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-121",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/121/high.jpg",
+        "localId": "121",
+        "name": "Electric Memory",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157738
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-122",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/122/high.jpg",
+        "localId": "122",
+        "name": "Escape Board",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157739
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-123",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/123/high.jpg",
+        "localId": "123",
+        "name": "Fire Memory",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157740
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-124",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/124/high.jpg",
+        "localId": "124",
+        "name": "Gardenia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157741
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-125",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/125/high.jpg",
+        "localId": "125",
+        "name": "Lillie",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157742
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-126",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/126/high.jpg",
+        "localId": "126",
+        "name": "Looker",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157743
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-127",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/127/high.jpg",
+        "localId": "127",
+        "name": "Looker Whistle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157744
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-128",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/128/high.jpg",
+        "localId": "128",
+        "name": "Mars",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157745
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-129",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/129/high.jpg",
+        "localId": "129",
+        "name": "Missing Clover",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157746
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-130",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/130/high.jpg",
+        "localId": "130",
+        "name": "Mt. Coronet",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 158187
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-131",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/131/high.jpg",
+        "localId": "131",
+        "name": "Order Pad",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157747
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-132",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/132/high.jpg",
+        "localId": "132",
+        "name": "Pal Pad",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157748
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-133",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/133/high.jpg",
+        "localId": "133",
+        "name": "Pokémon Fan Club",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-134",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/134/high.jpg",
+        "localId": "134",
+        "name": "Unidentified Fossil",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157750
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-135",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/135/high.jpg",
+        "localId": "135",
+        "name": "Volkner",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157751
+    },
+    {
+        "category": "Energy",
+        "id": "sm5-136",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm5/136/high.jpg",
+        "localId": "136",
+        "name": "Super Boost Energy ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sm5-137",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm5/137/high.jpg",
+        "localId": "137",
+        "name": "Unit Energy GrassFireWater",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sm5-138",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm5/138/high.jpg",
+        "localId": "138",
+        "name": "Unit Energy LightningPsychicMetal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-139",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/139/high.jpg",
+        "localId": "139",
+        "name": "Leafeon GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157755
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-140",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/140/high.jpg",
+        "localId": "140",
+        "name": "Pheromosa GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157756
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-141",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/141/high.jpg",
+        "localId": "141",
+        "name": "Glaceon GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157757
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-142",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/142/high.jpg",
+        "localId": "142",
+        "name": "Xurkitree GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157758
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-143",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/143/high.jpg",
+        "localId": "143",
+        "name": "Dawn Wings Necrozma GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157759
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-144",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/144/high.jpg",
+        "localId": "144",
+        "name": "Celesteela GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157760
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-145",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/145/high.jpg",
+        "localId": "145",
+        "name": "Dusk Mane Necrozma GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157761
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-146",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/146/high.jpg",
+        "localId": "146",
+        "name": "Dialga GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157762
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-147",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/147/high.jpg",
+        "localId": "147",
+        "name": "Palkia GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157763
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-148",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/148/high.jpg",
+        "localId": "148",
+        "name": "Cynthia",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157764
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-149",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/149/high.jpg",
+        "localId": "149",
+        "name": "Gardenia",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157765
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-150",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/150/high.jpg",
+        "localId": "150",
+        "name": "Lana",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157766
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-151",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/151/high.jpg",
+        "localId": "151",
+        "name": "Lillie",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157767
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-152",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/152/high.jpg",
+        "localId": "152",
+        "name": "Looker",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157768
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-153",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/153/high.jpg",
+        "localId": "153",
+        "name": "Lusamine",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157769
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-154",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/154/high.jpg",
+        "localId": "154",
+        "name": "Mars",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157770
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-155",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/155/high.jpg",
+        "localId": "155",
+        "name": "Pokémon Fan Club",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-156",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/156/high.jpg",
+        "localId": "156",
+        "name": "Volkner",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157772
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-157",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/157/high.jpg",
+        "localId": "157",
+        "name": "Leafeon GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157773
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-158",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/158/high.jpg",
+        "localId": "158",
+        "name": "Pheromosa GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157774
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-159",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/159/high.jpg",
+        "localId": "159",
+        "name": "Glaceon GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157775
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-160",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/160/high.jpg",
+        "localId": "160",
+        "name": "Xurkitree GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157776
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-161",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/161/high.jpg",
+        "localId": "161",
+        "name": "Dawn Wings Necrozma GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157777
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-162",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/162/high.jpg",
+        "localId": "162",
+        "name": "Celesteela GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157778
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-163",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/163/high.jpg",
+        "localId": "163",
+        "name": "Dusk Mane Necrozma GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157779
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-164",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/164/high.jpg",
+        "localId": "164",
+        "name": "Dialga GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157780
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-165",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/165/high.jpg",
+        "localId": "165",
+        "name": "Palkia GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157781
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-166",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/166/high.jpg",
+        "localId": "166",
+        "name": "Crushing Hammer",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157782
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-167",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/167/high.jpg",
+        "localId": "167",
+        "name": "Escape Board",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157783
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-168",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/168/high.jpg",
+        "localId": "168",
+        "name": "Missing Clover",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157784
+    },
+    {
+        "category": "Trainer",
+        "id": "sm5-169",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/169/high.jpg",
+        "localId": "169",
+        "name": "Peeking Red Card",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157785
+    },
+    {
+        "category": "Energy",
+        "id": "sm5-170",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm5/170/high.jpg",
+        "localId": "170",
+        "name": "Unit Energy GrassFireWater",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sm5-171",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm5/171/high.jpg",
+        "localId": "171",
+        "name": "Unit Energy LightningPsychicMetal",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-172",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/172/high.jpg",
+        "localId": "172",
+        "name": "Lunala GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157788
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm5-173",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm5/173/high.jpg",
+        "localId": "173",
+        "name": "Solgaleo GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm5",
+            "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.jpg",
+            "name": "Ultra Prism",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.jpg",
+            "releaseDate": "2018-02-02"
+        },
+        "tcgplayerId": 157789
+    }
+]

@@ -1,0 +1,1838 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "ex16-1",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/1/high.jpg",
+        "localId": "1",
+        "name": "Aggron",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 83477
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-2",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/2/high.jpg",
+        "localId": "2",
+        "name": "Altaria",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 83515
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-3",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/3/high.jpg",
+        "localId": "3",
+        "name": "Armaldo",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 83620
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-4",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/4/high.jpg",
+        "localId": "4",
+        "name": "Banette",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 83721
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-5",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/5/high.jpg",
+        "localId": "5",
+        "name": "Blaziken",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 83908
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-6",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/6/high.jpg",
+        "localId": "6",
+        "name": "Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84188
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-7",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/7/high.jpg",
+        "localId": "7",
+        "name": "Cradily",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84453
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-8",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/8/high.jpg",
+        "localId": "8",
+        "name": "Delcatty",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84739
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-9",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/9/high.jpg",
+        "localId": "9",
+        "name": "Gardevoir",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 85634
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-10",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/10/high.jpg",
+        "localId": "10",
+        "name": "Kabutops",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 86398
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-11",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/11/high.jpg",
+        "localId": "11",
+        "name": "Machamp",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 86964
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-12",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/12/high.jpg",
+        "localId": "12",
+        "name": "Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 88509
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-13",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/13/high.jpg",
+        "localId": "13",
+        "name": "Slaking",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89290
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-14",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/14/high.jpg",
+        "localId": "14",
+        "name": "Dusclops",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 85027
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-15",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/15/high.jpg",
+        "localId": "15",
+        "name": "Lanturn",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 86607
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-16",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/16/high.jpg",
+        "localId": "16",
+        "name": "Magneton",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87106
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-17",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/17/high.jpg",
+        "localId": "17",
+        "name": "Mawile",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87260
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-18",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/18/high.jpg",
+        "localId": "18",
+        "name": "Mightyena",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87446
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-19",
+        "illustrator": "Tomoaki Imakuni",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/19/high.jpg",
+        "localId": "19",
+        "name": "Ninetales",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87771
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-20",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/20/high.jpg",
+        "localId": "20",
+        "name": "Omastar",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87869
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-21",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/21/high.jpg",
+        "localId": "21",
+        "name": "Pichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 88017
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-22",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/22/high.jpg",
+        "localId": "22",
+        "name": "Sableye",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 88851
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-23",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/23/high.jpg",
+        "localId": "23",
+        "name": "Seviper",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89085
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-24",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/24/high.jpg",
+        "localId": "24",
+        "name": "Wobbuffet",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 90619
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-25",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/25/high.jpg",
+        "localId": "25",
+        "name": "Zangoose",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 90705
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-26",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/26/high.jpg",
+        "localId": "26",
+        "name": "Anorith",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 83560
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-27",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/27/high.jpg",
+        "localId": "27",
+        "name": "Cacturne",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84079
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-28",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/28/high.jpg",
+        "localId": "28",
+        "name": "Charmeleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84230
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-29",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/29/high.jpg",
+        "localId": "29",
+        "name": "Combusken",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84410
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-30",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/30/high.jpg",
+        "localId": "30",
+        "name": "Glalie",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 85754
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-31",
+        "illustrator": "Sachiko Adachi",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/31/high.jpg",
+        "localId": "31",
+        "name": "Kirlia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 86465
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-32",
+        "illustrator": "Sachiko Adachi",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/32/high.jpg",
+        "localId": "32",
+        "name": "Lairon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 86579
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-33",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/33/high.jpg",
+        "localId": "33",
+        "name": "Machoke",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 86980
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-34",
+        "illustrator": "Tomoaki Imakuni",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/34/high.jpg",
+        "localId": "34",
+        "name": "Medicham",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87274
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-35",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/35/high.jpg",
+        "localId": "35",
+        "name": "Metang",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87377
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-36",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/36/high.jpg",
+        "localId": "36",
+        "name": "Nuzleaf",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87824
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-37",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/37/high.jpg",
+        "localId": "37",
+        "name": "Sealeo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89031
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-38",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/38/high.jpg",
+        "localId": "38",
+        "name": "Sharpedo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89098
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-39",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/39/high.jpg",
+        "localId": "39",
+        "name": "Shelgon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89126
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-40",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/40/high.jpg",
+        "localId": "40",
+        "name": "Vibrava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 90336
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-41",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/41/high.jpg",
+        "localId": "41",
+        "name": "Vigoroth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 90369
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-42",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/42/high.jpg",
+        "localId": "42",
+        "name": "Aron",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 83635
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-43",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/43/high.jpg",
+        "localId": "43",
+        "name": "Bagon",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 83696
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-44",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/44/high.jpg",
+        "localId": "44",
+        "name": "Baltoy",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 83715
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-45",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/45/high.jpg",
+        "localId": "45",
+        "name": "Beldum",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 83787
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-46",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/46/high.jpg",
+        "localId": "46",
+        "name": "Cacnea",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84074
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-47",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/47/high.jpg",
+        "localId": "47",
+        "name": "Carvanha",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84113
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-48",
+        "illustrator": "Sachiko Adachi",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/48/high.jpg",
+        "localId": "48",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84214
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-49",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/49/high.jpg",
+        "localId": "49",
+        "name": "Chinchou",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84307
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-50",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/50/high.jpg",
+        "localId": "50",
+        "name": "Duskull",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 85049
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-51",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/51/high.jpg",
+        "localId": "51",
+        "name": "Kabuto",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 86385
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-52",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/52/high.jpg",
+        "localId": "52",
+        "name": "Lileep",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 86788
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-53",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/53/high.jpg",
+        "localId": "53",
+        "name": "Machop",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 86994
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-54",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/54/high.jpg",
+        "localId": "54",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87080
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-55",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/55/high.jpg",
+        "localId": "55",
+        "name": "Meditite",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87283
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-56",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/56/high.jpg",
+        "localId": "56",
+        "name": "Omanyte",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87859
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-57",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/57/high.jpg",
+        "localId": "57",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 88084
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-58",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/58/high.jpg",
+        "localId": "58",
+        "name": "Poochyena",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 88299
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-59",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/59/high.jpg",
+        "localId": "59",
+        "name": "Ralts",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 88560
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-60",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/60/high.jpg",
+        "localId": "60",
+        "name": "Seedot",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89042
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-61",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/61/high.jpg",
+        "localId": "61",
+        "name": "Shuppet",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89199
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-62",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/62/high.jpg",
+        "localId": "62",
+        "name": "Skitty",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89266
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-63",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/63/high.jpg",
+        "localId": "63",
+        "name": "Slakoth",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89297
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-64",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/64/high.jpg",
+        "localId": "64",
+        "name": "Snorunt",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89401
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-65",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/65/high.jpg",
+        "localId": "65",
+        "name": "Spheal",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89447
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-66",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/66/high.jpg",
+        "localId": "66",
+        "name": "Swablu",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89656
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-67",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/67/high.jpg",
+        "localId": "67",
+        "name": "Torchic",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89959
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-68",
+        "illustrator": "Sachiko Adachi",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/68/high.jpg",
+        "localId": "68",
+        "name": "Trapinch",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 90022
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-69",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/69/high.jpg",
+        "localId": "69",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 90440
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-70",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/70/high.jpg",
+        "localId": "70",
+        "name": "Wynaut",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 90656
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-71",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/71/high.jpg",
+        "localId": "71",
+        "name": "Battle Frontier",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 83741
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-72",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/72/high.jpg",
+        "localId": "72",
+        "name": "Drake's Stadium",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84921
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-73",
+        "illustrator": "Zu-Ka",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/73/high.jpg",
+        "localId": "73",
+        "name": "Energy Recycle System",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 85218
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-74",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/74/high.jpg",
+        "localId": "74",
+        "name": "Energy Removal 2",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 85224
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-75",
+        "illustrator": "Ken Ikuji",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/75/high.jpg",
+        "localId": "75",
+        "name": "Energy Switch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 85256
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-76",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/76/high.jpg",
+        "localId": "76",
+        "name": "Glacia's Stadium",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 85751
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-77",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/77/high.jpg",
+        "localId": "77",
+        "name": "Great Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 85897
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-78",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/78/high.jpg",
+        "localId": "78",
+        "name": "Master Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87255
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-79",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/79/high.jpg",
+        "localId": "79",
+        "name": "Phoebe's Stadium",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 88010
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-80",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/80/high.jpg",
+        "localId": "80",
+        "name": "Professor Birch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 88383
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-81",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/81/high.jpg",
+        "localId": "81",
+        "name": "Scott",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 88976
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-82",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/82/high.jpg",
+        "localId": "82",
+        "name": "Sidney's Stadium",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89203
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-83",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/83/high.jpg",
+        "localId": "83",
+        "name": "Steven's Advice",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89568
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-84",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/84/high.jpg",
+        "localId": "84",
+        "name": "Claw Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84331
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-85",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/85/high.jpg",
+        "localId": "85",
+        "name": "Mysterious Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87665
+    },
+    {
+        "category": "Trainer",
+        "id": "ex16-86",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/86/high.jpg",
+        "localId": "86",
+        "name": "Root Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 88813
+    },
+    {
+        "category": "Energy",
+        "id": "ex16-87",
+        "illustrator": "Milky Isobe",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/87/high.jpg",
+        "localId": "87",
+        "name": "Darkness Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84688
+    },
+    {
+        "category": "Energy",
+        "id": "ex16-88",
+        "illustrator": "Milky Isobe",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/88/high.jpg",
+        "localId": "88",
+        "name": "Metal Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87361
+    },
+    {
+        "category": "Energy",
+        "id": "ex16-89",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/89/high.jpg",
+        "localId": "89",
+        "name": "Multi Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87633
+    },
+    {
+        "category": "Energy",
+        "id": "ex16-90",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/90/high.jpg",
+        "localId": "90",
+        "name": "Cyclone Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84541
+    },
+    {
+        "category": "Energy",
+        "id": "ex16-91",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/91/high.jpg",
+        "localId": "91",
+        "name": "Warp Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 90474
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-92",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/92/high.jpg",
+        "localId": "92",
+        "name": "Absol ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 83456
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-93",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/93/high.jpg",
+        "localId": "93",
+        "name": "Claydol ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 84340
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-94",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/94/high.jpg",
+        "localId": "94",
+        "name": "Flygon ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 85531
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-95",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/95/high.jpg",
+        "localId": "95",
+        "name": "Metagross ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 87347
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-96",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/96/high.jpg",
+        "localId": "96",
+        "name": "Salamence ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 88904
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-97",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/97/high.jpg",
+        "localId": "97",
+        "name": "Shiftry ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89161
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-98",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/98/high.jpg",
+        "localId": "98",
+        "name": "Skarmory ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 89247
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-99",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/99/high.jpg",
+        "localId": "99",
+        "name": "Walrein ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 90471
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-100",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/100/high.jpg",
+        "localId": "100",
+        "name": "Flareon Star",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 85503
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-101",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/101/high.jpg",
+        "localId": "101",
+        "name": "Jolteon Star",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 86351
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex16-102",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex16/102/high.jpg",
+        "localId": "102",
+        "name": "Vaporeon Star",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 90292
+    },
+    {
+        "category": "Energy",
+        "id": "ex16-103",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ex/ex16/103/high.jpg",
+        "localId": "103",
+        "name": "Grass Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 85877
+    },
+    {
+        "category": "Energy",
+        "id": "ex16-104",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ex/ex16/104/high.jpg",
+        "localId": "104",
+        "name": "Fire Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 85462
+    },
+    {
+        "category": "Energy",
+        "id": "ex16-105",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ex/ex16/105/high.jpg",
+        "localId": "105",
+        "name": "Water Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 90509
+    },
+    {
+        "category": "Energy",
+        "id": "ex16-106",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ex/ex16/106/high.jpg",
+        "localId": "106",
+        "name": "Lightning Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 86766
+    },
+    {
+        "category": "Energy",
+        "id": "ex16-107",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ex/ex16/107/high.jpg",
+        "localId": "107",
+        "name": "Psychic Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 88422
+    },
+    {
+        "category": "Energy",
+        "id": "ex16-108",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ex/ex16/108/high.jpg",
+        "localId": "108",
+        "name": "Fighting Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex16",
+            "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.jpg",
+            "name": "Power Keepers",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.jpg",
+            "releaseDate": "2007-02-17"
+        },
+        "tcgplayerId": 85441
+    }
+]

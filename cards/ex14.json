@@ -1,0 +1,1688 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "ex14-1",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/1/high.jpg",
+        "localId": "1",
+        "name": "Banette",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 83720
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-2",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/2/high.jpg",
+        "localId": "2",
+        "name": "Blastoise δ",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-3",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/3/high.jpg",
+        "localId": "3",
+        "name": "Camerupt",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84092
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-4",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/4/high.jpg",
+        "localId": "4",
+        "name": "Charizard δ",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-5",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/5/high.jpg",
+        "localId": "5",
+        "name": "Dugtrio",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 85001
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-6",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/6/high.jpg",
+        "localId": "6",
+        "name": "Ludicolo δ",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-7",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/7/high.jpg",
+        "localId": "7",
+        "name": "Luvdisc",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 86935
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-8",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/8/high.jpg",
+        "localId": "8",
+        "name": "Manectric",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 87159
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-9",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/9/high.jpg",
+        "localId": "9",
+        "name": "Mawile",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 87259
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-10",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/10/high.jpg",
+        "localId": "10",
+        "name": "Sableye",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 88850
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-11",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/11/high.jpg",
+        "localId": "11",
+        "name": "Swalot",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 89672
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-12",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/12/high.jpg",
+        "localId": "12",
+        "name": "Tauros",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 89763
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-13",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/13/high.jpg",
+        "localId": "13",
+        "name": "Wigglytuff",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 90597
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-14",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/14/high.jpg",
+        "localId": "14",
+        "name": "Blastoise",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 83892
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-15",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/15/high.jpg",
+        "localId": "15",
+        "name": "Cacturne δ",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-16",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/16/high.jpg",
+        "localId": "16",
+        "name": "Combusken",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84407
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-17",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/17/high.jpg",
+        "localId": "17",
+        "name": "Dusclops",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 85026
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-18",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/18/high.jpg",
+        "localId": "18",
+        "name": "Fearow δ",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-19",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/19/high.jpg",
+        "localId": "19",
+        "name": "Grovyle δ",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-20",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/20/high.jpg",
+        "localId": "20",
+        "name": "Grumpig",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 85969
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-21",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/21/high.jpg",
+        "localId": "21",
+        "name": "Igglybuff",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 86261
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-22",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/22/high.jpg",
+        "localId": "22",
+        "name": "Kingler δ",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-23",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/23/high.jpg",
+        "localId": "23",
+        "name": "Loudred",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 86842
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-24",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/24/high.jpg",
+        "localId": "24",
+        "name": "Marshtomp",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 87237
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-25",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/25/high.jpg",
+        "localId": "25",
+        "name": "Medicham",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 87273
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-26",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/26/high.jpg",
+        "localId": "26",
+        "name": "Pelipper δ",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-27",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/27/high.jpg",
+        "localId": "27",
+        "name": "Swampert",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 89679
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-28",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/28/high.jpg",
+        "localId": "28",
+        "name": "Venusaur",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 90318
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-29",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/29/high.jpg",
+        "localId": "29",
+        "name": "Charmeleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84229
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-30",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/30/high.jpg",
+        "localId": "30",
+        "name": "Charmeleon δ",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-31",
+        "illustrator": "Sachiko Adachi",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/31/high.jpg",
+        "localId": "31",
+        "name": "Combusken",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84408
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-32",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/32/high.jpg",
+        "localId": "32",
+        "name": "Grovyle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 85939
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-33",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/33/high.jpg",
+        "localId": "33",
+        "name": "Gulpin",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 85976
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-34",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/34/high.jpg",
+        "localId": "34",
+        "name": "Ivysaur",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 86300
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-35",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/35/high.jpg",
+        "localId": "35",
+        "name": "Ivysaur",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 86301
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-36",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/36/high.jpg",
+        "localId": "36",
+        "name": "Lairon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 86578
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-37",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/37/high.jpg",
+        "localId": "37",
+        "name": "Lombre",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 86818
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-38",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/38/high.jpg",
+        "localId": "38",
+        "name": "Marshtomp",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 87238
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-39",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/39/high.jpg",
+        "localId": "39",
+        "name": "Nuzleaf",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 87823
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-40",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/40/high.jpg",
+        "localId": "40",
+        "name": "Shuppet",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 89198
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-41",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/41/high.jpg",
+        "localId": "41",
+        "name": "Skitty",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 89265
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-42",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/42/high.jpg",
+        "localId": "42",
+        "name": "Wartortle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 90487
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-43",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/43/high.jpg",
+        "localId": "43",
+        "name": "Wartortle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 90488
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-44",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/44/high.jpg",
+        "localId": "44",
+        "name": "Aron",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 83634
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-45",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/45/high.jpg",
+        "localId": "45",
+        "name": "Bulbasaur",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84032
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-46",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/46/high.jpg",
+        "localId": "46",
+        "name": "Bulbasaur",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84033
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-47",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/47/high.jpg",
+        "localId": "47",
+        "name": "Cacnea",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84073
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-48",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/48/high.jpg",
+        "localId": "48",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84213
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-49",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/49/high.jpg",
+        "localId": "49",
+        "name": "Charmander δ",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-50",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/50/high.jpg",
+        "localId": "50",
+        "name": "Diglett",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84822
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-51",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/51/high.jpg",
+        "localId": "51",
+        "name": "Duskull",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 85048
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-52",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/52/high.jpg",
+        "localId": "52",
+        "name": "Electrike",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 85138
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-53",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/53/high.jpg",
+        "localId": "53",
+        "name": "Jigglypuff",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 86317
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-54",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/54/high.jpg",
+        "localId": "54",
+        "name": "Krabby",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 86525
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-55",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/55/high.jpg",
+        "localId": "55",
+        "name": "Lotad",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 86835
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-56",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/56/high.jpg",
+        "localId": "56",
+        "name": "Meditite",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 87282
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-57",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/57/high.jpg",
+        "localId": "57",
+        "name": "Mudkip",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 87611
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-58",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/58/high.jpg",
+        "localId": "58",
+        "name": "Mudkip",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 87612
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-59",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/59/high.jpg",
+        "localId": "59",
+        "name": "Numel",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 87813
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-60",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/60/high.jpg",
+        "localId": "60",
+        "name": "Seedot",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 89041
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-61",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/61/high.jpg",
+        "localId": "61",
+        "name": "Spearow",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 89440
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-62",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/62/high.jpg",
+        "localId": "62",
+        "name": "Spoink",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 89476
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-63",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/63/high.jpg",
+        "localId": "63",
+        "name": "Squirtle",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 89491
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-64",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/64/high.jpg",
+        "localId": "64",
+        "name": "Squirtle",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 89492
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-65",
+        "illustrator": "Sachiko Adachi",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/65/high.jpg",
+        "localId": "65",
+        "name": "Torchic",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 89957
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-66",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/66/high.jpg",
+        "localId": "66",
+        "name": "Torchic",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 89958
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-67",
+        "illustrator": "Sachiko Adachi",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/67/high.jpg",
+        "localId": "67",
+        "name": "Treecko",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 90038
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-68",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/68/high.jpg",
+        "localId": "68",
+        "name": "Treecko δ",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-69",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/69/high.jpg",
+        "localId": "69",
+        "name": "Whismur",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 90582
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-70",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/70/high.jpg",
+        "localId": "70",
+        "name": "Wingull",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 90608
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-71",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/71/high.jpg",
+        "localId": "71",
+        "name": "Bill's Maintenance",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 83839
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-72",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/72/high.jpg",
+        "localId": "72",
+        "name": "Castaway",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84125
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-73",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/73/high.jpg",
+        "localId": "73",
+        "name": "Celio's Network",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84156
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-74",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/74/high.jpg",
+        "localId": "74",
+        "name": "Cessation Crystal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84158
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-75",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/75/high.jpg",
+        "localId": "75",
+        "name": "Crystal Beach",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84516
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-76",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/76/high.jpg",
+        "localId": "76",
+        "name": "Crystal Shard",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84521
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-77",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/77/high.jpg",
+        "localId": "77",
+        "name": "Double Full Heal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84889
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-78",
+        "illustrator": "\"Big Mama\" Tagawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/78/high.jpg",
+        "localId": "78",
+        "name": "Dual Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84987
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-79",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/79/high.jpg",
+        "localId": "79",
+        "name": "Holon Circle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 86135
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-80",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/80/high.jpg",
+        "localId": "80",
+        "name": "Memory Berry",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 87308
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-81",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/81/high.jpg",
+        "localId": "81",
+        "name": "Mysterious Shard",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 87669
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-82",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/82/high.jpg",
+        "localId": "82",
+        "name": "Poké Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-83",
+        "illustrator": "Katsura Tabata",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/83/high.jpg",
+        "localId": "83",
+        "name": "PokéNav",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-84",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/84/high.jpg",
+        "localId": "84",
+        "name": "Warp Point",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 90480
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-85",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/85/high.jpg",
+        "localId": "85",
+        "name": "Windstorm",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 90604
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-86",
+        "illustrator": "Kai Ishikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/86/high.jpg",
+        "localId": "86",
+        "name": "Energy Search",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 85244
+    },
+    {
+        "category": "Trainer",
+        "id": "ex14-87",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/87/high.jpg",
+        "localId": "87",
+        "name": "Potion",
+        "rarity": "Common",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 88341
+    },
+    {
+        "category": "Energy",
+        "id": "ex14-88",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/88/high.jpg",
+        "localId": "88",
+        "name": "Double Rainbow Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84893
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-89",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/89/high.jpg",
+        "localId": "89",
+        "name": "Aggron ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 83484
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-90",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/90/high.jpg",
+        "localId": "90",
+        "name": "Blaziken ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 83913
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-91",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/91/high.jpg",
+        "localId": "91",
+        "name": "Delcatty ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84744
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-92",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/92/high.jpg",
+        "localId": "92",
+        "name": "Exploud ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 85375
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-93",
+        "illustrator": "Takabon",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/93/high.jpg",
+        "localId": "93",
+        "name": "Groudon ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 85930
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-94",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/94/high.jpg",
+        "localId": "94",
+        "name": "Jirachi ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 86332
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-95",
+        "illustrator": "Yasuki Watanabe",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/95/high.jpg",
+        "localId": "95",
+        "name": "Kyogre ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 86557
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-96",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/96/high.jpg",
+        "localId": "96",
+        "name": "Sceptile ex δ",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-97",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/97/high.jpg",
+        "localId": "97",
+        "name": "Shiftry ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 89160
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-98",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/98/high.jpg",
+        "localId": "98",
+        "name": "Swampert ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 89683
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-99",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/99/high.jpg",
+        "localId": "99",
+        "name": "Alakazam Star",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 83502
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex14-100",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex14/100/high.jpg",
+        "localId": "100",
+        "name": "Celebi Star",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex14",
+            "logo": "https://assets.tcgdex.net/en/ex/ex14/logo.jpg",
+            "name": "Crystal Guardians",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex14/symbol.jpg",
+            "releaseDate": "2006-08-30"
+        },
+        "tcgplayerId": 84149
+    }
+]

@@ -1,0 +1,280 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "pop5-1",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/1/high.jpg",
+        "localId": "1",
+        "name": "Ho-Oh",
+        "rarity": "Rare",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        },
+        "tcgplayerId": 86123
+    },
+    {
+        "category": "Pokemon",
+        "id": "pop5-2",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/2/high.jpg",
+        "localId": "2",
+        "name": "Lugia",
+        "rarity": "Rare",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        },
+        "tcgplayerId": 86907
+    },
+    {
+        "category": "Pokemon",
+        "id": "pop5-3",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/3/high.jpg",
+        "localId": "3",
+        "name": "Mew δ",
+        "rarity": "Rare",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "pop5-4",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/4/high.jpg",
+        "localId": "4",
+        "name": "Double Rainbow Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        },
+        "tcgplayerId": 84894
+    },
+    {
+        "category": "Pokemon",
+        "id": "pop5-5",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/5/high.jpg",
+        "localId": "5",
+        "name": "Charmeleon δ",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "pop5-6",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/6/high.jpg",
+        "localId": "6",
+        "name": "Bill’s Maintenance",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "pop5-7",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/7/high.jpg",
+        "localId": "7",
+        "name": "Rare Candy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        },
+        "tcgplayerId": 88592
+    },
+    {
+        "category": "Energy",
+        "id": "pop5-8",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/8/high.jpg",
+        "localId": "8",
+        "name": "Boost Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        },
+        "tcgplayerId": 83941
+    },
+    {
+        "category": "Energy",
+        "id": "pop5-9",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/9/high.jpg",
+        "localId": "9",
+        "name": "δ Rainbow Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "pop5-10",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/10/high.jpg",
+        "localId": "10",
+        "name": "Charmander δ",
+        "rarity": "Common",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "pop5-11",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/11/high.jpg",
+        "localId": "11",
+        "name": "Meowth δ",
+        "rarity": "Common",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "pop5-12",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/12/high.jpg",
+        "localId": "12",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        },
+        "tcgplayerId": 88085
+    },
+    {
+        "category": "Pokemon",
+        "id": "pop5-13",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/13/high.jpg",
+        "localId": "13",
+        "name": "Pikachu δ",
+        "rarity": "Common",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "pop5-14",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/14/high.jpg",
+        "localId": "14",
+        "name": "Pelipper δ",
+        "rarity": "Common",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "pop5-15",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/15/high.jpg",
+        "localId": "15",
+        "name": "Zangoose δ",
+        "rarity": "Common",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "pop5-16",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/16/high.jpg",
+        "localId": "16",
+        "name": "Espeon ★",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "pop5-17",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/pop/pop5/17/high.jpg",
+        "localId": "17",
+        "name": "Umbreon ★",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "pop5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.jpg",
+            "name": "POP Series 5",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.jpg",
+            "releaseDate": "2007-03-01"
+        }
+    }
+]

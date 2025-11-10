@@ -1,0 +1,2244 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "gym2-1",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/1/high.jpg",
+        "localId": "1",
+        "name": "Blaine's Arcanine",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83860
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-2",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/2/high.jpg",
+        "localId": "2",
+        "name": "Blaine's Charizard",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83861
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-3",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/3/high.jpg",
+        "localId": "3",
+        "name": "Brock's Ninetales",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83973
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-4",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/4/high.jpg",
+        "localId": "4",
+        "name": "Erika's Venusaur",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85307
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-5",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/5/high.jpg",
+        "localId": "5",
+        "name": "Giovanni's Gyarados",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85710
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-6",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/6/high.jpg",
+        "localId": "6",
+        "name": "Giovanni's Machamp",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85712
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-7",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/7/high.jpg",
+        "localId": "7",
+        "name": "Giovanni's Nidoking",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85718
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-8",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/8/high.jpg",
+        "localId": "8",
+        "name": "Giovanni's Persian",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85724
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-9",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/9/high.jpg",
+        "localId": "9",
+        "name": "Koga's Beedrill",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86505
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-10",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/10/high.jpg",
+        "localId": "10",
+        "name": "Koga's Ditto",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86506
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-11",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/11/high.jpg",
+        "localId": "11",
+        "name": "Lt. Surge's Raichu",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86861
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-12",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/12/high.jpg",
+        "localId": "12",
+        "name": "Misty's Golduck",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 87530
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-13",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/13/high.jpg",
+        "localId": "13",
+        "name": "Misty's Gyarados",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 87531
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-14",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/14/high.jpg",
+        "localId": "14",
+        "name": "Rocket's Mewtwo",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88777
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-15",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/15/high.jpg",
+        "localId": "15",
+        "name": "Rocket's Zapdos",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88800
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-16",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/16/high.jpg",
+        "localId": "16",
+        "name": "Sabrina's Alakazam",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88866
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-17",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/17/high.jpg",
+        "localId": "17",
+        "name": "Blaine",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83858
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-18",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/18/high.jpg",
+        "localId": "18",
+        "name": "Giovanni",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85708
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-19",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/19/high.jpg",
+        "localId": "19",
+        "name": "Koga",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86502
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-20",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/20/high.jpg",
+        "localId": "20",
+        "name": "Sabrina",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88860
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-21",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/21/high.jpg",
+        "localId": "21",
+        "name": "Blaine's Ninetales",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83876
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-22",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/22/high.jpg",
+        "localId": "22",
+        "name": "Brock's Dugtrio",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83962
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-23",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/23/high.jpg",
+        "localId": "23",
+        "name": "Giovanni's Nidoqueen",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85719
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-24",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/24/high.jpg",
+        "localId": "24",
+        "name": "Giovanni's Pinsir",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85725
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-25",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/25/high.jpg",
+        "localId": "25",
+        "name": "Koga's Arbok",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86504
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-26",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/26/high.jpg",
+        "localId": "26",
+        "name": "Koga's Muk",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86513
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-27",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/27/high.jpg",
+        "localId": "27",
+        "name": "Koga's Pidgeotto",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86515
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-28",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/28/high.jpg",
+        "localId": "28",
+        "name": "Lt. Surge's Jolteon",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86855
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-29",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/29/high.jpg",
+        "localId": "29",
+        "name": "Sabrina's Gengar",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88875
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-30",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/30/high.jpg",
+        "localId": "30",
+        "name": "Sabrina's Golduck",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88876
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-31",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/31/high.jpg",
+        "localId": "31",
+        "name": "Blaine's Charmeleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83864
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-32",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/32/high.jpg",
+        "localId": "32",
+        "name": "Blaine's Dodrio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83865
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-33",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/33/high.jpg",
+        "localId": "33",
+        "name": "Blaine's Rapidash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83882
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-34",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/34/high.jpg",
+        "localId": "34",
+        "name": "Brock's Graveler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83968
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-35",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/35/high.jpg",
+        "localId": "35",
+        "name": "Brock's Primeape",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83976
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-36",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/36/high.jpg",
+        "localId": "36",
+        "name": "Brock's Sandslash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83984
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-37",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/37/high.jpg",
+        "localId": "37",
+        "name": "Brock's Vulpix",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83986
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-38",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/38/high.jpg",
+        "localId": "38",
+        "name": "Erika's Bellsprout",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85283
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-39",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/39/high.jpg",
+        "localId": "39",
+        "name": "Erika's Bulbasaur",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85286
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-40",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/40/high.jpg",
+        "localId": "40",
+        "name": "Erika's Clefairy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85289
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-41",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/41/high.jpg",
+        "localId": "41",
+        "name": "Erika's Ivysaur",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85297
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-42",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/42/high.jpg",
+        "localId": "42",
+        "name": "Giovanni's Machoke",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85713
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-43",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/43/high.jpg",
+        "localId": "43",
+        "name": "Giovanni's Meowth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85716
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-44",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/44/high.jpg",
+        "localId": "44",
+        "name": "Giovanni's Nidorina",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85722
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-45",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/45/high.jpg",
+        "localId": "45",
+        "name": "Giovanni's Nidorino",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85723
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-46",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/46/high.jpg",
+        "localId": "46",
+        "name": "Koga's Golbat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86508
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-47",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/47/high.jpg",
+        "localId": "47",
+        "name": "Koga's Kakuna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86510
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-48",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/48/high.jpg",
+        "localId": "48",
+        "name": "Koga's Koffing",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86511
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-49",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/49/high.jpg",
+        "localId": "49",
+        "name": "Koga's Pidgey",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86516
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-50",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/50/high.jpg",
+        "localId": "50",
+        "name": "Koga's Weezing",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86520
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-51",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/51/high.jpg",
+        "localId": "51",
+        "name": "Lt. Surge's Eevee",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86850
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-52",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/52/high.jpg",
+        "localId": "52",
+        "name": "Lt. Surge's Electrode",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86853
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-53",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/53/high.jpg",
+        "localId": "53",
+        "name": "Lt. Surge's Raticate",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86864
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-54",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/54/high.jpg",
+        "localId": "54",
+        "name": "Misty's Dewgong",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 87526
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-55",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/55/high.jpg",
+        "localId": "55",
+        "name": "Sabrina's Haunter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88877
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-56",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/56/high.jpg",
+        "localId": "56",
+        "name": "Sabrina's Hypno",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88879
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-57",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/57/high.jpg",
+        "localId": "57",
+        "name": "Sabrina's Jynx",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88880
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-58",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/58/high.jpg",
+        "localId": "58",
+        "name": "Sabrina's Kadabra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88882
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-59",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/59/high.jpg",
+        "localId": "59",
+        "name": "Sabrina's Mr. Mime",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88883
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-60",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/60/high.jpg",
+        "localId": "60",
+        "name": "Blaine's Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83863
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-61",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/61/high.jpg",
+        "localId": "61",
+        "name": "Blaine's Doduo",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83866
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-62",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/62/high.jpg",
+        "localId": "62",
+        "name": "Blaine's Growlithe",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83870
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-63",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/63/high.jpg",
+        "localId": "63",
+        "name": "Blaine's Mankey",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83874
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-64",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/64/high.jpg",
+        "localId": "64",
+        "name": "Blaine's Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83878
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-65",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/65/high.jpg",
+        "localId": "65",
+        "name": "Blaine's Rhyhorn",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83883
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-66",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/66/high.jpg",
+        "localId": "66",
+        "name": "Blaine's Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83886
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-67",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/67/high.jpg",
+        "localId": "67",
+        "name": "Brock's Diglett",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83961
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-68",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/68/high.jpg",
+        "localId": "68",
+        "name": "Brock's Geodude",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83965
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-69",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/69/high.jpg",
+        "localId": "69",
+        "name": "Erika's Jigglypuff",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85298
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-70",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/70/high.jpg",
+        "localId": "70",
+        "name": "Erika's Oddish",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85302
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-71",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/71/high.jpg",
+        "localId": "71",
+        "name": "Erika's Paras",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85304
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-72",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/72/high.jpg",
+        "localId": "72",
+        "name": "Giovanni's Machop",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85714
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-73",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/73/high.jpg",
+        "localId": "73",
+        "name": "Giovanni's Magikarp",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85715
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-74",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/74/high.jpg",
+        "localId": "74",
+        "name": "Giovanni's Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85717
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-75",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/75/high.jpg",
+        "localId": "75",
+        "name": "Giovanni's Nidoran♀",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-76",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/76/high.jpg",
+        "localId": "76",
+        "name": "Giovanni's Nidoran♂",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-77",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/77/high.jpg",
+        "localId": "77",
+        "name": "Koga's Ekans",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86507
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-78",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/78/high.jpg",
+        "localId": "78",
+        "name": "Koga's Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86509
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-79",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/79/high.jpg",
+        "localId": "79",
+        "name": "Koga's Koffing",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86512
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-80",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/80/high.jpg",
+        "localId": "80",
+        "name": "Koga's Pidgey",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86517
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-81",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/81/high.jpg",
+        "localId": "81",
+        "name": "Koga's Tangela",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86518
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-82",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/82/high.jpg",
+        "localId": "82",
+        "name": "Koga's Weedle",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86519
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-83",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/83/high.jpg",
+        "localId": "83",
+        "name": "Koga's Zubat",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86521
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-84",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/84/high.jpg",
+        "localId": "84",
+        "name": "Lt. Surge's Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86860
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-85",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/85/high.jpg",
+        "localId": "85",
+        "name": "Lt. Surge's Rattata",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86866
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-86",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/86/high.jpg",
+        "localId": "86",
+        "name": "Lt. Surge's Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86872
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-87",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/87/high.jpg",
+        "localId": "87",
+        "name": "Misty's Horsea",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 87533
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-88",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/88/high.jpg",
+        "localId": "88",
+        "name": "Misty's Magikarp",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 87534
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-89",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/89/high.jpg",
+        "localId": "89",
+        "name": "Misty's Poliwag",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 87536
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-90",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/90/high.jpg",
+        "localId": "90",
+        "name": "Misty's Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 87540
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-91",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/91/high.jpg",
+        "localId": "91",
+        "name": "Misty's Seel",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 87544
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-92",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/92/high.jpg",
+        "localId": "92",
+        "name": "Misty's Staryu",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 87548
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-93",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/93/high.jpg",
+        "localId": "93",
+        "name": "Sabrina's Abra",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88864
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-94",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/94/high.jpg",
+        "localId": "94",
+        "name": "Sabrina's Abra",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88865
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-95",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/95/high.jpg",
+        "localId": "95",
+        "name": "Sabrina's Drowzee",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88868
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-96",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/96/high.jpg",
+        "localId": "96",
+        "name": "Sabrina's Gastly",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88871
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-97",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/97/high.jpg",
+        "localId": "97",
+        "name": "Sabrina's Gastly",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88872
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-98",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/98/high.jpg",
+        "localId": "98",
+        "name": "Sabrina's Porygon",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88885
+    },
+    {
+        "category": "Pokemon",
+        "id": "gym2-99",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/99/high.jpg",
+        "localId": "99",
+        "name": "Sabrina's Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88887
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-100",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/100/high.jpg",
+        "localId": "100",
+        "name": "Blaine",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83859
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-101",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/101/high.jpg",
+        "localId": "101",
+        "name": "Brock's Protection",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83977
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-102",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/102/high.jpg",
+        "localId": "102",
+        "name": "Chaos Gym",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 84181
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-103",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/103/high.jpg",
+        "localId": "103",
+        "name": "Erika's Kindness",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85299
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-104",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/104/high.jpg",
+        "localId": "104",
+        "name": "Giovanni",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85709
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-105",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/105/high.jpg",
+        "localId": "105",
+        "name": "Giovanni's Last Resort",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85711
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-106",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/106/high.jpg",
+        "localId": "106",
+        "name": "Koga",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86503
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-107",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/107/high.jpg",
+        "localId": "107",
+        "name": "Lt. Surge's Secret Plan",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86867
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-108",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/108/high.jpg",
+        "localId": "108",
+        "name": "Misty's Wish",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 87553
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-109",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/109/high.jpg",
+        "localId": "109",
+        "name": "Resistance Gym",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88717
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-110",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/110/high.jpg",
+        "localId": "110",
+        "name": "Sabrina",
+        "rarity": "Rare",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88861
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-111",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/111/high.jpg",
+        "localId": "111",
+        "name": "Blaine's Quiz #2",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83880
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-112",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/112/high.jpg",
+        "localId": "112",
+        "name": "Blaine's Quiz #3",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 83881
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-113",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/113/high.jpg",
+        "localId": "113",
+        "name": "Cinnabar City Gym",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 84322
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-114",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/114/high.jpg",
+        "localId": "114",
+        "name": "Fuchsia City Gym",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85578
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-115",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/115/high.jpg",
+        "localId": "115",
+        "name": "Koga's Ninja Trick",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86514
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-116",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/116/high.jpg",
+        "localId": "116",
+        "name": "Master Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 87251
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-117",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/117/high.jpg",
+        "localId": "117",
+        "name": "Max Revive",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 87268
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-118",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/118/high.jpg",
+        "localId": "118",
+        "name": "Misty's Tears",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 87549
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-119",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/119/high.jpg",
+        "localId": "119",
+        "name": "Rocket's Minefield Gym",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88779
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-120",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/120/high.jpg",
+        "localId": "120",
+        "name": "Rocket's Secret Experiment",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88790
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-121",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/121/high.jpg",
+        "localId": "121",
+        "name": "Sabrina's Psychic Control",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88886
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-122",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/122/high.jpg",
+        "localId": "122",
+        "name": "Saffron City Gym",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88892
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-123",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/123/high.jpg",
+        "localId": "123",
+        "name": "Viridian City Gym",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 90386
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-124",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/124/high.jpg",
+        "localId": "124",
+        "name": "Fervor",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85430
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-125",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/125/high.jpg",
+        "localId": "125",
+        "name": "Transparent Walls",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 90017
+    },
+    {
+        "category": "Trainer",
+        "id": "gym2-126",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/126/high.jpg",
+        "localId": "126",
+        "name": "Warp Point",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 90476
+    },
+    {
+        "category": "Energy",
+        "id": "gym2-127",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/127/high.jpg",
+        "localId": "127",
+        "name": "Fighting Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85436
+    },
+    {
+        "category": "Energy",
+        "id": "gym2-128",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/128/high.jpg",
+        "localId": "128",
+        "name": "Fire Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85455
+    },
+    {
+        "category": "Energy",
+        "id": "gym2-129",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/129/high.jpg",
+        "localId": "129",
+        "name": "Grass Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 85872
+    },
+    {
+        "category": "Energy",
+        "id": "gym2-130",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/130/high.jpg",
+        "localId": "130",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 86758
+    },
+    {
+        "category": "Energy",
+        "id": "gym2-131",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/131/high.jpg",
+        "localId": "131",
+        "name": "Psychic Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 88416
+    },
+    {
+        "category": "Energy",
+        "id": "gym2-132",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/gym/gym2/132/high.jpg",
+        "localId": "132",
+        "name": "Water Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "gym2",
+            "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.jpg",
+            "name": "Gym Challenge",
+            "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.jpg",
+            "releaseDate": "2000-10-16"
+        },
+        "tcgplayerId": 90504
+    }
+]

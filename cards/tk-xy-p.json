@@ -1,0 +1,482 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-1",
+        "illustrator": null,
+        "image": null,
+        "localId": "1",
+        "name": "Glameow",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118798
+    },
+    {
+        "category": "Energy",
+        "id": "tk-xy-p-2",
+        "illustrator": null,
+        "image": null,
+        "localId": "2",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118800
+    },
+    {
+        "category": "Energy",
+        "id": "tk-xy-p-3",
+        "illustrator": null,
+        "image": null,
+        "localId": "3",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118801
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-4",
+        "illustrator": null,
+        "image": null,
+        "localId": "4",
+        "name": "Electivire",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118810
+    },
+    {
+        "category": "Energy",
+        "id": "tk-xy-p-5",
+        "illustrator": null,
+        "image": null,
+        "localId": "5",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118802
+    },
+    {
+        "category": "Energy",
+        "id": "tk-xy-p-6",
+        "illustrator": null,
+        "image": null,
+        "localId": "6",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118803
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-7",
+        "illustrator": "Atsuko Nishida",
+        "image": null,
+        "localId": "7",
+        "name": "Taillow",
+        "rarity": "None",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118812
+    },
+    {
+        "category": "Energy",
+        "id": "tk-xy-p-8",
+        "illustrator": null,
+        "image": null,
+        "localId": "8",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118804
+    },
+    {
+        "category": "Energy",
+        "id": "tk-xy-p-9",
+        "illustrator": null,
+        "image": null,
+        "localId": "9",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118805
+    },
+    {
+        "category": "Energy",
+        "id": "tk-xy-p-10",
+        "illustrator": null,
+        "image": null,
+        "localId": "10",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118806
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-11",
+        "illustrator": "Akira Komayama",
+        "image": null,
+        "localId": "11",
+        "name": "Electrike",
+        "rarity": "None",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118813
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-12",
+        "illustrator": null,
+        "image": null,
+        "localId": "12",
+        "name": "Blitzle",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118815
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-13",
+        "illustrator": "match",
+        "image": null,
+        "localId": "13",
+        "name": "Manectric",
+        "rarity": "None",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118817
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-14",
+        "illustrator": "Yoshinobu Saito",
+        "image": null,
+        "localId": "14",
+        "name": "Pikachu Libre",
+        "rarity": "None",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118819
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-15",
+        "illustrator": null,
+        "image": null,
+        "localId": "15",
+        "name": "Electabuzz",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118821
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-16",
+        "illustrator": "Kanako Eo",
+        "image": null,
+        "localId": "16",
+        "name": "Fletchling",
+        "rarity": "None",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118823
+    },
+    {
+        "category": "Energy",
+        "id": "tk-xy-p-17",
+        "illustrator": null,
+        "image": null,
+        "localId": "17",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118807
+    },
+    {
+        "category": "Energy",
+        "id": "tk-xy-p-18",
+        "illustrator": null,
+        "image": null,
+        "localId": "18",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118808
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-19",
+        "illustrator": null,
+        "image": null,
+        "localId": "19",
+        "name": "Purugly",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118824
+    },
+    {
+        "category": "Trainer",
+        "id": "tk-xy-p-20",
+        "illustrator": null,
+        "image": null,
+        "localId": "20",
+        "name": "Tierno",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118826
+    },
+    {
+        "category": "Trainer",
+        "id": "tk-xy-p-21",
+        "illustrator": null,
+        "image": null,
+        "localId": "21",
+        "name": "Potion",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118827
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-22",
+        "illustrator": "match",
+        "image": null,
+        "localId": "22",
+        "name": "Manectric",
+        "rarity": "None",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118818
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-23",
+        "illustrator": null,
+        "image": null,
+        "localId": "23",
+        "name": "Electabuzz",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118822
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-24",
+        "illustrator": null,
+        "image": null,
+        "localId": "24",
+        "name": "Purugly",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118825
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-25",
+        "illustrator": null,
+        "image": null,
+        "localId": "25",
+        "name": "Electivire",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118811
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-26",
+        "illustrator": null,
+        "image": null,
+        "localId": "26",
+        "name": "Blitzle",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118816
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-27",
+        "illustrator": null,
+        "image": null,
+        "localId": "27",
+        "name": "Glameow",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118799
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-28",
+        "illustrator": "Akira Komayama",
+        "image": null,
+        "localId": "28",
+        "name": "Electrike",
+        "rarity": "None",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118814
+    },
+    {
+        "category": "Energy",
+        "id": "tk-xy-p-29",
+        "illustrator": null,
+        "image": null,
+        "localId": "29",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118809
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-xy-p-30",
+        "illustrator": "Yoshinobu Saito",
+        "image": null,
+        "localId": "30",
+        "name": "Pikachu Libre",
+        "rarity": "None",
+        "set": {
+            "id": "tk-xy-p",
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.jpg",
+            "releaseDate": "2016-04-27"
+        },
+        "tcgplayerId": 118820
+    }
+]

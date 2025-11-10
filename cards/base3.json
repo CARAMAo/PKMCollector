@@ -1,0 +1,1056 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "base3-1",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/1/high.jpg",
+        "localId": "1",
+        "name": "Aerodactyl",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44418
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-2",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/2/high.jpg",
+        "localId": "2",
+        "name": "Articuno",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106518
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-3",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base3/3/high.jpg",
+        "localId": "3",
+        "name": "Ditto",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106519
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-4",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/4/high.jpg",
+        "localId": "4",
+        "name": "Dragonite",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106520
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-5",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base3/5/high.jpg",
+        "localId": "5",
+        "name": "Gengar",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106521
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-6",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/6/high.jpg",
+        "localId": "6",
+        "name": "Haunter",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106522
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-7",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/7/high.jpg",
+        "localId": "7",
+        "name": "Hitmonlee",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106523
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-8",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/8/high.jpg",
+        "localId": "8",
+        "name": "Hypno",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106524
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-9",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/9/high.jpg",
+        "localId": "9",
+        "name": "Kabutops",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106525
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-10",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/10/high.jpg",
+        "localId": "10",
+        "name": "Lapras",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44419
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-11",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/11/high.jpg",
+        "localId": "11",
+        "name": "Magneton",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44420
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-12",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/12/high.jpg",
+        "localId": "12",
+        "name": "Moltres",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44421
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-13",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/13/high.jpg",
+        "localId": "13",
+        "name": "Muk",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44422
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-14",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/14/high.jpg",
+        "localId": "14",
+        "name": "Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44423
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-15",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/15/high.jpg",
+        "localId": "15",
+        "name": "Zapdos",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44424
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-16",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/16/high.jpg",
+        "localId": "16",
+        "name": "Aerodactyl",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106526
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-17",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/17/high.jpg",
+        "localId": "17",
+        "name": "Articuno",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44425
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-18",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base3/18/high.jpg",
+        "localId": "18",
+        "name": "Ditto",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44426
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-19",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/19/high.jpg",
+        "localId": "19",
+        "name": "Dragonite",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44427
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-20",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base3/20/high.jpg",
+        "localId": "20",
+        "name": "Gengar",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44428
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-21",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/21/high.jpg",
+        "localId": "21",
+        "name": "Haunter",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44429
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-22",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/22/high.jpg",
+        "localId": "22",
+        "name": "Hitmonlee",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44430
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-23",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/23/high.jpg",
+        "localId": "23",
+        "name": "Hypno",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44431
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-24",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/24/high.jpg",
+        "localId": "24",
+        "name": "Kabutops",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44432
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-25",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/25/high.jpg",
+        "localId": "25",
+        "name": "Lapras",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106527
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-26",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/26/high.jpg",
+        "localId": "26",
+        "name": "Magneton",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106528
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-27",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/27/high.jpg",
+        "localId": "27",
+        "name": "Moltres",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106529
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-28",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/28/high.jpg",
+        "localId": "28",
+        "name": "Muk",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106530
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-29",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/29/high.jpg",
+        "localId": "29",
+        "name": "Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106531
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-30",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/30/high.jpg",
+        "localId": "30",
+        "name": "Zapdos",
+        "rarity": "Rare",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 106532
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-31",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/31/high.jpg",
+        "localId": "31",
+        "name": "Arbok",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44433
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-32",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/32/high.jpg",
+        "localId": "32",
+        "name": "Cloyster",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44434
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-33",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/33/high.jpg",
+        "localId": "33",
+        "name": "Gastly",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44435
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-34",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/34/high.jpg",
+        "localId": "34",
+        "name": "Golbat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44436
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-35",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/35/high.jpg",
+        "localId": "35",
+        "name": "Golduck",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44437
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-36",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/36/high.jpg",
+        "localId": "36",
+        "name": "Golem",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44438
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-37",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/37/high.jpg",
+        "localId": "37",
+        "name": "Graveler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44439
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-38",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/38/high.jpg",
+        "localId": "38",
+        "name": "Kingler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44440
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-39",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/39/high.jpg",
+        "localId": "39",
+        "name": "Magmar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44441
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-40",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/40/high.jpg",
+        "localId": "40",
+        "name": "Omastar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44442
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-41",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/41/high.jpg",
+        "localId": "41",
+        "name": "Sandslash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44443
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-42",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/42/high.jpg",
+        "localId": "42",
+        "name": "Seadra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44444
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-43",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/43/high.jpg",
+        "localId": "43",
+        "name": "Slowbro",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44445
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-44",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/44/high.jpg",
+        "localId": "44",
+        "name": "Tentacruel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44446
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-45",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/45/high.jpg",
+        "localId": "45",
+        "name": "Weezing",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44447
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-46",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/46/high.jpg",
+        "localId": "46",
+        "name": "Ekans",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44448
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-47",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/47/high.jpg",
+        "localId": "47",
+        "name": "Geodude",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44449
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-48",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/48/high.jpg",
+        "localId": "48",
+        "name": "Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44450
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-49",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/49/high.jpg",
+        "localId": "49",
+        "name": "Horsea",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44451
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-50",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/50/high.jpg",
+        "localId": "50",
+        "name": "Kabuto",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44452
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-51",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/51/high.jpg",
+        "localId": "51",
+        "name": "Krabby",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44453
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-52",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/52/high.jpg",
+        "localId": "52",
+        "name": "Omanyte",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44454
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-53",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/53/high.jpg",
+        "localId": "53",
+        "name": "Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44455
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-54",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base3/54/high.jpg",
+        "localId": "54",
+        "name": "Shellder",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44456
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-55",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/base/base3/55/high.jpg",
+        "localId": "55",
+        "name": "Slowpoke",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44457
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-56",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/56/high.jpg",
+        "localId": "56",
+        "name": "Tentacool",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44458
+    },
+    {
+        "category": "Pokemon",
+        "id": "base3-57",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base3/57/high.jpg",
+        "localId": "57",
+        "name": "Zubat",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44459
+    },
+    {
+        "category": "Trainer",
+        "id": "base3-58",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base3/58/high.jpg",
+        "localId": "58",
+        "name": "Mr. Fuji",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44460
+    },
+    {
+        "category": "Trainer",
+        "id": "base3-59",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base3/59/high.jpg",
+        "localId": "59",
+        "name": "Energy Search",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44461
+    },
+    {
+        "category": "Trainer",
+        "id": "base3-60",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base3/60/high.jpg",
+        "localId": "60",
+        "name": "Gambler",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44462
+    },
+    {
+        "category": "Trainer",
+        "id": "base3-61",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base3/61/high.jpg",
+        "localId": "61",
+        "name": "Recycle",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44463
+    },
+    {
+        "category": "Trainer",
+        "id": "base3-62",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base3/62/high.jpg",
+        "localId": "62",
+        "name": "Mysterious Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "base3",
+            "logo": "https://assets.tcgdex.net/en/base/base3/logo.jpg",
+            "name": "Fossil",
+            "symbol": "https://assets.tcgdex.net/univ/base/base3/symbol.jpg",
+            "releaseDate": "1999-10-10"
+        },
+        "tcgplayerId": 44464
+    }
+]

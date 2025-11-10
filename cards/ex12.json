@@ -1,0 +1,1582 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "ex12-1",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/1/high.jpg",
+        "localId": "1",
+        "name": "Aerodactyl",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 83468
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-2",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/2/high.jpg",
+        "localId": "2",
+        "name": "Aggron",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 83476
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-3",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/3/high.jpg",
+        "localId": "3",
+        "name": "Cradily",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 84452
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-4",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/4/high.jpg",
+        "localId": "4",
+        "name": "Delcatty",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 84738
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-5",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/5/high.jpg",
+        "localId": "5",
+        "name": "Gengar",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85674
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-6",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/6/high.jpg",
+        "localId": "6",
+        "name": "Golem",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85827
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-7",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/7/high.jpg",
+        "localId": "7",
+        "name": "Kabutops",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 86397
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-8",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/8/high.jpg",
+        "localId": "8",
+        "name": "Lapras",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 86617
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-9",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/9/high.jpg",
+        "localId": "9",
+        "name": "Machamp",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 86963
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-10",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/10/high.jpg",
+        "localId": "10",
+        "name": "Mew",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 87399
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-11",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/11/high.jpg",
+        "localId": "11",
+        "name": "Muk",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 87622
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-12",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/12/high.jpg",
+        "localId": "12",
+        "name": "Shiftry",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 89156
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-13",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/13/high.jpg",
+        "localId": "13",
+        "name": "Victreebel",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 90363
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-14",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/14/high.jpg",
+        "localId": "14",
+        "name": "Wailord",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 90458
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-15",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/15/high.jpg",
+        "localId": "15",
+        "name": "Absol",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 83451
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-16",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/16/high.jpg",
+        "localId": "16",
+        "name": "Girafarig",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85730
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-17",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/17/high.jpg",
+        "localId": "17",
+        "name": "Gorebyss",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85843
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-18",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/18/high.jpg",
+        "localId": "18",
+        "name": "Huntail",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 86237
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-19",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/19/high.jpg",
+        "localId": "19",
+        "name": "Lanturn",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 86606
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-20",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/20/high.jpg",
+        "localId": "20",
+        "name": "Lunatone",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 86925
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-21",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/21/high.jpg",
+        "localId": "21",
+        "name": "Magmar",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 87046
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-22",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/22/high.jpg",
+        "localId": "22",
+        "name": "Magneton",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 87105
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-23",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/23/high.jpg",
+        "localId": "23",
+        "name": "Omastar",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 87868
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-24",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/24/high.jpg",
+        "localId": "24",
+        "name": "Pinsir",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 88136
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-25",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/25/high.jpg",
+        "localId": "25",
+        "name": "Solrock",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 89427
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-26",
+        "illustrator": "Motofumi Fujiwara",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/26/high.jpg",
+        "localId": "26",
+        "name": "Spinda",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 89460
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-27",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/27/high.jpg",
+        "localId": "27",
+        "name": "Torkoal",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 89968
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-28",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/28/high.jpg",
+        "localId": "28",
+        "name": "Wobbuffet",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 90616
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-29",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/29/high.jpg",
+        "localId": "29",
+        "name": "Anorith",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 83559
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-30",
+        "illustrator": "Sachiko Adachi",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/30/high.jpg",
+        "localId": "30",
+        "name": "Cascoon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 84120
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-31",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/31/high.jpg",
+        "localId": "31",
+        "name": "Dunsparce",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85009
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-32",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/32/high.jpg",
+        "localId": "32",
+        "name": "Electrode",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85155
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-33",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/33/high.jpg",
+        "localId": "33",
+        "name": "Furret",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85592
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-34",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/34/high.jpg",
+        "localId": "34",
+        "name": "Graveler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85891
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-35",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/35/high.jpg",
+        "localId": "35",
+        "name": "Haunter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 86026
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-36",
+        "illustrator": "Takao Unno",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/36/high.jpg",
+        "localId": "36",
+        "name": "Kabuto",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 86384
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-37",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/37/high.jpg",
+        "localId": "37",
+        "name": "Kecleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 86429
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-38",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/38/high.jpg",
+        "localId": "38",
+        "name": "Lairon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 86576
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-39",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/39/high.jpg",
+        "localId": "39",
+        "name": "Machoke",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 86979
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-40",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/40/high.jpg",
+        "localId": "40",
+        "name": "Misdreavus",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 87505
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-41",
+        "illustrator": "Katsura Tabata",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/41/high.jpg",
+        "localId": "41",
+        "name": "Nuzleaf",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 87822
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-42",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/42/high.jpg",
+        "localId": "42",
+        "name": "Roselia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 88818
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-43",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/43/high.jpg",
+        "localId": "43",
+        "name": "Sealeo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 89030
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-44",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/44/high.jpg",
+        "localId": "44",
+        "name": "Tangela",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 89743
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-45",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/45/high.jpg",
+        "localId": "45",
+        "name": "Tentacruel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 89876
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-46",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/46/high.jpg",
+        "localId": "46",
+        "name": "Vibrava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 90335
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-47",
+        "illustrator": "Katsura Tabata",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/47/high.jpg",
+        "localId": "47",
+        "name": "Weepinbell",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 90553
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-48",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/48/high.jpg",
+        "localId": "48",
+        "name": "Aron",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 83632
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-49",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/49/high.jpg",
+        "localId": "49",
+        "name": "Bellsprout",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 83808
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-50",
+        "illustrator": "Sachiko Adachi",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/50/high.jpg",
+        "localId": "50",
+        "name": "Chinchou",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 84306
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-51",
+        "illustrator": "Sachiko Adachi",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/51/high.jpg",
+        "localId": "51",
+        "name": "Clamperl",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 84324
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-52",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/52/high.jpg",
+        "localId": "52",
+        "name": "Gastly",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85651
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-53",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/53/high.jpg",
+        "localId": "53",
+        "name": "Geodude",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85689
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-54",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/54/high.jpg",
+        "localId": "54",
+        "name": "Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85910
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-55",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/55/high.jpg",
+        "localId": "55",
+        "name": "Growlithe",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85955
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-56",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/56/high.jpg",
+        "localId": "56",
+        "name": "Lileep",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 86787
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-57",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/57/high.jpg",
+        "localId": "57",
+        "name": "Machop",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 86993
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-58",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/58/high.jpg",
+        "localId": "58",
+        "name": "Magby",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 87004
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-59",
+        "illustrator": "Hiroki Fuchino",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/59/high.jpg",
+        "localId": "59",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 87079
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-60",
+        "illustrator": "Kenkichi Toyama",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/60/high.jpg",
+        "localId": "60",
+        "name": "Omanyte",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 87858
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-61",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/61/high.jpg",
+        "localId": "61",
+        "name": "Seedot",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 89040
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-62",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/62/high.jpg",
+        "localId": "62",
+        "name": "Sentret",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 89065
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-63",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/63/high.jpg",
+        "localId": "63",
+        "name": "Shuppet",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 89197
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-64",
+        "illustrator": "Satoshi Ohta",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/64/high.jpg",
+        "localId": "64",
+        "name": "Skitty",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 89264
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-65",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/65/high.jpg",
+        "localId": "65",
+        "name": "Spheal",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 89446
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-66",
+        "illustrator": "Tomoaki Imakuni",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/66/high.jpg",
+        "localId": "66",
+        "name": "Tentacool",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 89867
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-67",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/67/high.jpg",
+        "localId": "67",
+        "name": "Trapinch",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 90021
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-68",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/68/high.jpg",
+        "localId": "68",
+        "name": "Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 90417
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-69",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/69/high.jpg",
+        "localId": "69",
+        "name": "Wailmer",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 90452
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-70",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/70/high.jpg",
+        "localId": "70",
+        "name": "Wurmple",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 90650
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-71",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/71/high.jpg",
+        "localId": "71",
+        "name": "Wynaut",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 90655
+    },
+    {
+        "category": "Trainer",
+        "id": "ex12-72",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/72/high.jpg",
+        "localId": "72",
+        "name": "Cursed Stone",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 84538
+    },
+    {
+        "category": "Trainer",
+        "id": "ex12-73",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/73/high.jpg",
+        "localId": "73",
+        "name": "Fieldworker",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85431
+    },
+    {
+        "category": "Trainer",
+        "id": "ex12-74",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/74/high.jpg",
+        "localId": "74",
+        "name": "Full Flame",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85579
+    },
+    {
+        "category": "Trainer",
+        "id": "ex12-75",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/75/high.jpg",
+        "localId": "75",
+        "name": "Giant Stump",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85697
+    },
+    {
+        "category": "Trainer",
+        "id": "ex12-76",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/76/high.jpg",
+        "localId": "76",
+        "name": "Power Tree",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 88355
+    },
+    {
+        "category": "Trainer",
+        "id": "ex12-77",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/77/high.jpg",
+        "localId": "77",
+        "name": "Strange Cave",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 89574
+    },
+    {
+        "category": "Trainer",
+        "id": "ex12-78",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/78/high.jpg",
+        "localId": "78",
+        "name": "Claw Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 84329
+    },
+    {
+        "category": "Trainer",
+        "id": "ex12-79",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/79/high.jpg",
+        "localId": "79",
+        "name": "Mysterious Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 87663
+    },
+    {
+        "category": "Trainer",
+        "id": "ex12-80",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/80/high.jpg",
+        "localId": "80",
+        "name": "Root Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 88811
+    },
+    {
+        "category": "Energy",
+        "id": "ex12-81",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/81/high.jpg",
+        "localId": "81",
+        "name": "Rainbow Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 88546
+    },
+    {
+        "category": "Energy",
+        "id": "ex12-82",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/82/high.jpg",
+        "localId": "82",
+        "name": "React Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 88649
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-83",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/83/high.jpg",
+        "localId": "83",
+        "name": "Arcanine ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 83590
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-84",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/84/high.jpg",
+        "localId": "84",
+        "name": "Armaldo ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 83624
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-85",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/85/high.jpg",
+        "localId": "85",
+        "name": "Banette ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 83725
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-86",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/86/high.jpg",
+        "localId": "86",
+        "name": "Dustox ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85060
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-87",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/87/high.jpg",
+        "localId": "87",
+        "name": "Flygon ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 85530
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-88",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/88/high.jpg",
+        "localId": "88",
+        "name": "Mew ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 87409
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-89",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/89/high.jpg",
+        "localId": "89",
+        "name": "Walrein ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 90470
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-90",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/90/high.jpg",
+        "localId": "90",
+        "name": "Regice Star",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 88658
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-91",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/91/high.jpg",
+        "localId": "91",
+        "name": "Regirock Star",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 88673
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-92",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/92/high.jpg",
+        "localId": "92",
+        "name": "Registeel Star",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        },
+        "tcgplayerId": 88678
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex12-93",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex12/93/high.jpg",
+        "localId": "93",
+        "name": "Pikachu δ",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex12",
+            "logo": "https://assets.tcgdex.net/en/ex/ex12/logo.jpg",
+            "name": "Legend Maker",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex12/symbol.jpg",
+            "releaseDate": "2006-02-13"
+        }
+    }
+]

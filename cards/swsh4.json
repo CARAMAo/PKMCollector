@@ -1,0 +1,3452 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "swsh4-1",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/1/high.jpg",
+        "localId": "1",
+        "name": "Weedle",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226360
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-2",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/2/high.jpg",
+        "localId": "2",
+        "name": "Kakuna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226361
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-3",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/3/high.jpg",
+        "localId": "3",
+        "name": "Beedrill",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226362
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-4",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/4/high.jpg",
+        "localId": "4",
+        "name": "Exeggcute",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226364
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-5",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/5/high.jpg",
+        "localId": "5",
+        "name": "Exeggutor",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226365
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-6",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/6/high.jpg",
+        "localId": "6",
+        "name": "Yanma",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226366
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-7",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/7/high.jpg",
+        "localId": "7",
+        "name": "Yanmega",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226368
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-8",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/8/high.jpg",
+        "localId": "8",
+        "name": "Pineco",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226370
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-9",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/9/high.jpg",
+        "localId": "9",
+        "name": "Celebi",
+        "rarity": "Amazing Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226371
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-10",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/10/high.jpg",
+        "localId": "10",
+        "name": "Seedot",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226372
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-11",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/11/high.jpg",
+        "localId": "11",
+        "name": "Nuzleaf",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226373
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-12",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/12/high.jpg",
+        "localId": "12",
+        "name": "Shiftry",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226374
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-13",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/13/high.jpg",
+        "localId": "13",
+        "name": "Nincada",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226376
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-14",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/14/high.jpg",
+        "localId": "14",
+        "name": "Ninjask",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226378
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-15",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/15/high.jpg",
+        "localId": "15",
+        "name": "Shaymin",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226379
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-16",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/16/high.jpg",
+        "localId": "16",
+        "name": "Genesect",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226380
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-17",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/17/high.jpg",
+        "localId": "17",
+        "name": "Skiddo",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226381
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-18",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/18/high.jpg",
+        "localId": "18",
+        "name": "Gogoat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226382
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-19",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/19/high.jpg",
+        "localId": "19",
+        "name": "Dhelmise",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226383
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-20",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/20/high.jpg",
+        "localId": "20",
+        "name": "Orbeetle V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226384
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-21",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/21/high.jpg",
+        "localId": "21",
+        "name": "Orbeetle VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226386
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-22",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/22/high.jpg",
+        "localId": "22",
+        "name": "Zarude V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226388
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-23",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/23/high.jpg",
+        "localId": "23",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226392
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-24",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/24/high.jpg",
+        "localId": "24",
+        "name": "Charmeleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226394
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-25",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/25/high.jpg",
+        "localId": "25",
+        "name": "Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226395
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-26",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/26/high.jpg",
+        "localId": "26",
+        "name": "Flareon",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226396
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-27",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/27/high.jpg",
+        "localId": "27",
+        "name": "Slugma",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226398
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-28",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/28/high.jpg",
+        "localId": "28",
+        "name": "Magcargo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226399
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-29",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/29/high.jpg",
+        "localId": "29",
+        "name": "Talonflame V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226401
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-30",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/30/high.jpg",
+        "localId": "30",
+        "name": "Vaporeon",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226405
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-31",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/31/high.jpg",
+        "localId": "31",
+        "name": "Wailmer",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226409
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-32",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/32/high.jpg",
+        "localId": "32",
+        "name": "Wailord",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226411
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-33",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/33/high.jpg",
+        "localId": "33",
+        "name": "Oshawott",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226412
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-34",
+        "illustrator": "Megumi Higuchi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/34/high.jpg",
+        "localId": "34",
+        "name": "Dewott",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226413
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-35",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/35/high.jpg",
+        "localId": "35",
+        "name": "Samurott",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226415
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-36",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/36/high.jpg",
+        "localId": "36",
+        "name": "Galarian Darmanitan V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226416
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-37",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/37/high.jpg",
+        "localId": "37",
+        "name": "Galarian Darmanitan VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226419
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-38",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/38/high.jpg",
+        "localId": "38",
+        "name": "Chewtle",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226423
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-39",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/39/high.jpg",
+        "localId": "39",
+        "name": "Drednaw",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226424
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-40",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/40/high.jpg",
+        "localId": "40",
+        "name": "Cramorant",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226425
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-41",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/41/high.jpg",
+        "localId": "41",
+        "name": "Arrokuda",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226426
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-42",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/42/high.jpg",
+        "localId": "42",
+        "name": "Barraskewda",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226427
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-43",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/43/high.jpg",
+        "localId": "43",
+        "name": "Pikachu V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226430
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-44",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/44/high.jpg",
+        "localId": "44",
+        "name": "Pikachu VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226432
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-45",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/45/high.jpg",
+        "localId": "45",
+        "name": "Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226435
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-46",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/46/high.jpg",
+        "localId": "46",
+        "name": "Electrode",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226437
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-47",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/47/high.jpg",
+        "localId": "47",
+        "name": "Jolteon",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226438
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-48",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/48/high.jpg",
+        "localId": "48",
+        "name": "Zapdos",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226439
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-49",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/49/high.jpg",
+        "localId": "49",
+        "name": "Ampharos V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226441
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-50",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/50/high.jpg",
+        "localId": "50",
+        "name": "Raikou",
+        "rarity": "Amazing Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226445
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-51",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/51/high.jpg",
+        "localId": "51",
+        "name": "Electrike",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226447
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-52",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/52/high.jpg",
+        "localId": "52",
+        "name": "Manectric",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226448
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-53",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/53/high.jpg",
+        "localId": "53",
+        "name": "Blitzle",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226449
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-54",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/54/high.jpg",
+        "localId": "54",
+        "name": "Zebstrika",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226451
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-55",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/55/high.jpg",
+        "localId": "55",
+        "name": "Joltik",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226452
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-56",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/56/high.jpg",
+        "localId": "56",
+        "name": "Galvantula",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226453
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-57",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/57/high.jpg",
+        "localId": "57",
+        "name": "Tynamo",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226455
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-58",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/58/high.jpg",
+        "localId": "58",
+        "name": "Eelektrik",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226456
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-59",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/59/high.jpg",
+        "localId": "59",
+        "name": "Eelektross",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226457
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-60",
+        "illustrator": "hatachu",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/60/high.jpg",
+        "localId": "60",
+        "name": "Zekrom",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226458
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-61",
+        "illustrator": "so-taro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/61/high.jpg",
+        "localId": "61",
+        "name": "Zeraora",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226459
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-62",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/62/high.jpg",
+        "localId": "62",
+        "name": "Pincurchin",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226460
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-63",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/63/high.jpg",
+        "localId": "63",
+        "name": "Clefairy",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226461
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-64",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/64/high.jpg",
+        "localId": "64",
+        "name": "Clefable",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226468
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-65",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/65/high.jpg",
+        "localId": "65",
+        "name": "Girafarig",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226469
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-66",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/66/high.jpg",
+        "localId": "66",
+        "name": "Shedinja",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226470
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-67",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/67/high.jpg",
+        "localId": "67",
+        "name": "Shuppet",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226471
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-68",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/68/high.jpg",
+        "localId": "68",
+        "name": "Banette",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226472
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-69",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/69/high.jpg",
+        "localId": "69",
+        "name": "Duskull",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226473
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-70",
+        "illustrator": "Kazuma Koda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/70/high.jpg",
+        "localId": "70",
+        "name": "Dusclops",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226476
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-71",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/71/high.jpg",
+        "localId": "71",
+        "name": "Dusknoir",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226478
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-72",
+        "illustrator": "Asako Ito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/72/high.jpg",
+        "localId": "72",
+        "name": "Chimecho",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226480
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-73",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/73/high.jpg",
+        "localId": "73",
+        "name": "Woobat",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226481
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-74",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/74/high.jpg",
+        "localId": "74",
+        "name": "Swoobat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226482
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-75",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/75/high.jpg",
+        "localId": "75",
+        "name": "Cottonee",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226483
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-76",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/76/high.jpg",
+        "localId": "76",
+        "name": "Whimsicott",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226484
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-77",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/77/high.jpg",
+        "localId": "77",
+        "name": "Dedenne",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226485
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-78",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/78/high.jpg",
+        "localId": "78",
+        "name": "Xerneas",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226486
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-79",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/79/high.jpg",
+        "localId": "79",
+        "name": "Diancie",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226487
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-80",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/80/high.jpg",
+        "localId": "80",
+        "name": "Milcery",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226488
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-81",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/81/high.jpg",
+        "localId": "81",
+        "name": "Alcremie",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226489
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-82",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/82/high.jpg",
+        "localId": "82",
+        "name": "Zacian",
+        "rarity": "Amazing Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226490
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-83",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/83/high.jpg",
+        "localId": "83",
+        "name": "Wooper",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226491
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-84",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/84/high.jpg",
+        "localId": "84",
+        "name": "Quagsire",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226492
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-85",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/85/high.jpg",
+        "localId": "85",
+        "name": "Shuckle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226516
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-86",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/86/high.jpg",
+        "localId": "86",
+        "name": "Phanpy",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226517
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-87",
+        "illustrator": "Hasegawa Saki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/87/high.jpg",
+        "localId": "87",
+        "name": "Donphan",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226519
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-88",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/88/high.jpg",
+        "localId": "88",
+        "name": "Hitmontop",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226521
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-89",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/89/high.jpg",
+        "localId": "89",
+        "name": "Regirock",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226522
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-90",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/90/high.jpg",
+        "localId": "90",
+        "name": "Riolu",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226526
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-91",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/91/high.jpg",
+        "localId": "91",
+        "name": "Drilbur",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226527
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-92",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/92/high.jpg",
+        "localId": "92",
+        "name": "Terrakion",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226531
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-93",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/93/high.jpg",
+        "localId": "93",
+        "name": "Zygarde",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226532
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-94",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/94/high.jpg",
+        "localId": "94",
+        "name": "Rockruff",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226534
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-95",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/95/high.jpg",
+        "localId": "95",
+        "name": "Lycanroc",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226537
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-96",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/96/high.jpg",
+        "localId": "96",
+        "name": "Mudbray",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226538
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-97",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/97/high.jpg",
+        "localId": "97",
+        "name": "Mudsdale",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226540
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-98",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/98/high.jpg",
+        "localId": "98",
+        "name": "Coalossal V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226548
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-99",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/99/high.jpg",
+        "localId": "99",
+        "name": "Coalossal VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226551
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-100",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/100/high.jpg",
+        "localId": "100",
+        "name": "Clobbopus",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226552
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-101",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/101/high.jpg",
+        "localId": "101",
+        "name": "Grapploct",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226553
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-102",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/102/high.jpg",
+        "localId": "102",
+        "name": "Zamazenta",
+        "rarity": "Amazing Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226554
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-103",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/103/high.jpg",
+        "localId": "103",
+        "name": "Poochyena",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226555
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-104",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/104/high.jpg",
+        "localId": "104",
+        "name": "Mightyena",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226556
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-105",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/105/high.jpg",
+        "localId": "105",
+        "name": "Sableye",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226557
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-106",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/106/high.jpg",
+        "localId": "106",
+        "name": "Drapion V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226558
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-107",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/107/high.jpg",
+        "localId": "107",
+        "name": "Sandile",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226560
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-108",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/108/high.jpg",
+        "localId": "108",
+        "name": "Krokorok",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226561
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-109",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/109/high.jpg",
+        "localId": "109",
+        "name": "Krookodile",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226562
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-110",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/110/high.jpg",
+        "localId": "110",
+        "name": "Trubbish",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226563
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-111",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/111/high.jpg",
+        "localId": "111",
+        "name": "Garbodor",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226564
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-112",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/112/high.jpg",
+        "localId": "112",
+        "name": "Galarian Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226565
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-113",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/113/high.jpg",
+        "localId": "113",
+        "name": "Galarian Perrserker",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226566
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-114",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/114/high.jpg",
+        "localId": "114",
+        "name": "Forretress",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226567
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-115",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/115/high.jpg",
+        "localId": "115",
+        "name": "Steelix V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226568
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-116",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/116/high.jpg",
+        "localId": "116",
+        "name": "Beldum",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226570
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-117",
+        "illustrator": "Kazuma Koda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/117/high.jpg",
+        "localId": "117",
+        "name": "Metang",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226571
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-118",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/118/high.jpg",
+        "localId": "118",
+        "name": "Metagross",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226572
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-119",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/119/high.jpg",
+        "localId": "119",
+        "name": "Jirachi",
+        "rarity": "Amazing Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226573
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-120",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/120/high.jpg",
+        "localId": "120",
+        "name": "Lucario",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226574
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-121",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/121/high.jpg",
+        "localId": "121",
+        "name": "Dialga",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226575
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-122",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/122/high.jpg",
+        "localId": "122",
+        "name": "Excadrill",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226576
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-123",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/123/high.jpg",
+        "localId": "123",
+        "name": "Ferroseed",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226577
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-124",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/124/high.jpg",
+        "localId": "124",
+        "name": "Ferrothorn",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226578
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-125",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/125/high.jpg",
+        "localId": "125",
+        "name": "Galarian Stunfisk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226579
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-126",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/126/high.jpg",
+        "localId": "126",
+        "name": "Aegislash V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226580
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-127",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/127/high.jpg",
+        "localId": "127",
+        "name": "Aegislash VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226582
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-128",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/128/high.jpg",
+        "localId": "128",
+        "name": "Magearna",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226584
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-129",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/129/high.jpg",
+        "localId": "129",
+        "name": "Duraludon",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226585
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-130",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/130/high.jpg",
+        "localId": "130",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226586
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-131",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/131/high.jpg",
+        "localId": "131",
+        "name": "Snorlax",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226587
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-132",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/132/high.jpg",
+        "localId": "132",
+        "name": "Lugia",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226588
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-133",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/133/high.jpg",
+        "localId": "133",
+        "name": "Taillow",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226589
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-134",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/134/high.jpg",
+        "localId": "134",
+        "name": "Swellow",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226590
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-135",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/135/high.jpg",
+        "localId": "135",
+        "name": "Whismur",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226591
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-136",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/136/high.jpg",
+        "localId": "136",
+        "name": "Loudred",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226592
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-137",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/137/high.jpg",
+        "localId": "137",
+        "name": "Exploud",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226593
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-138",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/138/high.jpg",
+        "localId": "138",
+        "name": "Rayquaza",
+        "rarity": "Amazing Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226594
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-139",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/139/high.jpg",
+        "localId": "139",
+        "name": "Chatot",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226595
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-140",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/140/high.jpg",
+        "localId": "140",
+        "name": "Togekiss V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226596
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-141",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/141/high.jpg",
+        "localId": "141",
+        "name": "Togekiss VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226598
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-142",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/142/high.jpg",
+        "localId": "142",
+        "name": "Tornadus",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226600
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-143",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/143/high.jpg",
+        "localId": "143",
+        "name": "Pikipek",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226601
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-144",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/144/high.jpg",
+        "localId": "144",
+        "name": "Trumbeak",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226602
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-145",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/145/high.jpg",
+        "localId": "145",
+        "name": "Toucannon",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226603
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-146",
+        "illustrator": "take",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/146/high.jpg",
+        "localId": "146",
+        "name": "Allister",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226493
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-147",
+        "illustrator": "take",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/147/high.jpg",
+        "localId": "147",
+        "name": "Bea",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226498
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-148",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/148/high.jpg",
+        "localId": "148",
+        "name": "Beauty",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226499
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-149",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/149/high.jpg",
+        "localId": "149",
+        "name": "Cara Liss",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226502
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-150",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/150/high.jpg",
+        "localId": "150",
+        "name": "Circhester Bath",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226503
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-151",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/151/high.jpg",
+        "localId": "151",
+        "name": "Drone Rotom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226504
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-152",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/152/high.jpg",
+        "localId": "152",
+        "name": "Hero's Medal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226505
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-153",
+        "illustrator": "Emi Ando",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/153/high.jpg",
+        "localId": "153",
+        "name": "League Staff",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226507
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-154",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/154/high.jpg",
+        "localId": "154",
+        "name": "Leon",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226508
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-155",
+        "illustrator": "sadaji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/155/high.jpg",
+        "localId": "155",
+        "name": "Memory Capsule",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226514
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-156",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/156/high.jpg",
+        "localId": "156",
+        "name": "Moomoo Cheese",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226515
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-157",
+        "illustrator": "take",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/157/high.jpg",
+        "localId": "157",
+        "name": "Nessa",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226518
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-158",
+        "illustrator": "take",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/158/high.jpg",
+        "localId": "158",
+        "name": "Opal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226530
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-159",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/159/high.jpg",
+        "localId": "159",
+        "name": "Rocky Helmet",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226533
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-160",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/160/high.jpg",
+        "localId": "160",
+        "name": "Telescopic Sight",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226535
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-161",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/161/high.jpg",
+        "localId": "161",
+        "name": "Wyndon Stadium",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226539
+    },
+    {
+        "category": "Energy",
+        "id": "swsh4-162",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/162/high.jpg",
+        "localId": "162",
+        "name": "Aromatic Grass Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226541
+    },
+    {
+        "category": "Energy",
+        "id": "swsh4-163",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/163/high.jpg",
+        "localId": "163",
+        "name": "Coating Metal Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226542
+    },
+    {
+        "category": "Energy",
+        "id": "swsh4-164",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/164/high.jpg",
+        "localId": "164",
+        "name": "Stone Fighting Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226543
+    },
+    {
+        "category": "Energy",
+        "id": "swsh4-165",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/165/high.jpg",
+        "localId": "165",
+        "name": "Wash Water Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226544
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-166",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/166/high.jpg",
+        "localId": "166",
+        "name": "Orbeetle V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226385
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-167",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/167/high.jpg",
+        "localId": "167",
+        "name": "Zarude V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226389
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-168",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/168/high.jpg",
+        "localId": "168",
+        "name": "Talonflame V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226403
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-169",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/169/high.jpg",
+        "localId": "169",
+        "name": "Galarian Darmanitan V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226418
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-170",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/170/high.jpg",
+        "localId": "170",
+        "name": "Pikachu V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226431
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-171",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/171/high.jpg",
+        "localId": "171",
+        "name": "Ampharos V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226443
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-172",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/172/high.jpg",
+        "localId": "172",
+        "name": "Alakazam V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226606
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-173",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/173/high.jpg",
+        "localId": "173",
+        "name": "Coalossal V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226549
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-174",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/174/high.jpg",
+        "localId": "174",
+        "name": "Galarian Sirfetch'd V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226607
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-175",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/175/high.jpg",
+        "localId": "175",
+        "name": "Drapion V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226559
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-176",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/176/high.jpg",
+        "localId": "176",
+        "name": "Steelix V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226569
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-177",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/177/high.jpg",
+        "localId": "177",
+        "name": "Aegislash V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226581
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-178",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/178/high.jpg",
+        "localId": "178",
+        "name": "Togekiss V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226597
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-179",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/179/high.jpg",
+        "localId": "179",
+        "name": "Allister",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226494
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-180",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/180/high.jpg",
+        "localId": "180",
+        "name": "Bea",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226497
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-181",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/181/high.jpg",
+        "localId": "181",
+        "name": "Beauty",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226500
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-182",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/182/high.jpg",
+        "localId": "182",
+        "name": "Leon",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226509
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-183",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/183/high.jpg",
+        "localId": "183",
+        "name": "Nessa",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226524
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-184",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/184/high.jpg",
+        "localId": "184",
+        "name": "Opal",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226529
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-185",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/185/high.jpg",
+        "localId": "185",
+        "name": "Pokémon Center Lady",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-186",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/186/high.jpg",
+        "localId": "186",
+        "name": "Orbeetle VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226387
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-187",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/187/high.jpg",
+        "localId": "187",
+        "name": "Galarian Darmanitan VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226420
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-188",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/188/high.jpg",
+        "localId": "188",
+        "name": "Pikachu VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226434
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-189",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/189/high.jpg",
+        "localId": "189",
+        "name": "Coalossal VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226550
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-190",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/190/high.jpg",
+        "localId": "190",
+        "name": "Aegislash VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226583
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-191",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/191/high.jpg",
+        "localId": "191",
+        "name": "Togekiss VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226599
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-192",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/192/high.jpg",
+        "localId": "192",
+        "name": "Allister",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226495
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-193",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/193/high.jpg",
+        "localId": "193",
+        "name": "Bea",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226496
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-194",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/194/high.jpg",
+        "localId": "194",
+        "name": "Beauty",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226501
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-195",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/195/high.jpg",
+        "localId": "195",
+        "name": "Leon",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226510
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-196",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/196/high.jpg",
+        "localId": "196",
+        "name": "Nessa",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226525
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-197",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/197/high.jpg",
+        "localId": "197",
+        "name": "Opal",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226528
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-198",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/198/high.jpg",
+        "localId": "198",
+        "name": "Galarian Obstagoon",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226604
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh4-199",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/199/high.jpg",
+        "localId": "199",
+        "name": "Oranguru",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226605
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-200",
+        "illustrator": "inose yukie",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/200/high.jpg",
+        "localId": "200",
+        "name": "Cape of Toughness",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226546
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-201",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/201/high.jpg",
+        "localId": "201",
+        "name": "Hero's Medal",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226506
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-202",
+        "illustrator": "sadaji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/202/high.jpg",
+        "localId": "202",
+        "name": "Memory Capsule",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226513
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh4-203",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh4/203/high.jpg",
+        "localId": "203",
+        "name": "Telescopic Sight",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh4",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.jpg",
+            "name": "Vivid Voltage",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.jpg",
+            "releaseDate": "2020-11-13"
+        },
+        "tcgplayerId": 226536
+    }
+]

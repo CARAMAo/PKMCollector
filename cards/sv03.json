@@ -1,0 +1,3682 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sv03-001",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/001/high.jpg",
+        "localId": "001",
+        "name": "Oddish",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-002",
+        "illustrator": "Haru Akasaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/002/high.jpg",
+        "localId": "002",
+        "name": "Gloom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-003",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/003/high.jpg",
+        "localId": "003",
+        "name": "Bellossom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-004",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/004/high.jpg",
+        "localId": "004",
+        "name": "Scyther",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-005",
+        "illustrator": "Kurata So",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/005/high.jpg",
+        "localId": "005",
+        "name": "Shuckle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-006",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/006/high.jpg",
+        "localId": "006",
+        "name": "Surskit",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-007",
+        "illustrator": "Haru Akasaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/007/high.jpg",
+        "localId": "007",
+        "name": "Masquerain",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-008",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/008/high.jpg",
+        "localId": "008",
+        "name": "Combee",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-009",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/009/high.jpg",
+        "localId": "009",
+        "name": "Foongus",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-010",
+        "illustrator": "Nobuhiro Imagawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/010/high.jpg",
+        "localId": "010",
+        "name": "Amoonguss",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-011",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/011/high.jpg",
+        "localId": "011",
+        "name": "Phantump",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-012",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/012/high.jpg",
+        "localId": "012",
+        "name": "Trevenant",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-013",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/013/high.jpg",
+        "localId": "013",
+        "name": "Rowlet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-014",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/014/high.jpg",
+        "localId": "014",
+        "name": "Dartrix",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-015",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/015/high.jpg",
+        "localId": "015",
+        "name": "Decidueye ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-016",
+        "illustrator": "Kurata So",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/016/high.jpg",
+        "localId": "016",
+        "name": "Bounsweet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-017",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/017/high.jpg",
+        "localId": "017",
+        "name": "Steenee",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-018",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/018/high.jpg",
+        "localId": "018",
+        "name": "Tsareena",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-019",
+        "illustrator": "Masako Tomii",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/019/high.jpg",
+        "localId": "019",
+        "name": "Smoliv",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-020",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/020/high.jpg",
+        "localId": "020",
+        "name": "Dolliv",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-021",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/021/high.jpg",
+        "localId": "021",
+        "name": "Arboliva",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-022",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/022/high.jpg",
+        "localId": "022",
+        "name": "Toedscruel ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-023",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/023/high.jpg",
+        "localId": "023",
+        "name": "Capsakid",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-024",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/024/high.jpg",
+        "localId": "024",
+        "name": "Capsakid",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-025",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/025/high.jpg",
+        "localId": "025",
+        "name": "Scovillain",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-026",
+        "illustrator": "DOM",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/026/high.jpg",
+        "localId": "026",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-027",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/027/high.jpg",
+        "localId": "027",
+        "name": "Charmeleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-028",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/028/high.jpg",
+        "localId": "028",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-029",
+        "illustrator": "Yoshioka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/029/high.jpg",
+        "localId": "029",
+        "name": "Ninetales",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-030",
+        "illustrator": "toriyufu",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/030/high.jpg",
+        "localId": "030",
+        "name": "Entei",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-031",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/031/high.jpg",
+        "localId": "031",
+        "name": "Numel",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-032",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/032/high.jpg",
+        "localId": "032",
+        "name": "Camerupt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-033",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/033/high.jpg",
+        "localId": "033",
+        "name": "Victini ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-034",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/034/high.jpg",
+        "localId": "034",
+        "name": "Darumaka",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-035",
+        "illustrator": "Yuya Oka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/035/high.jpg",
+        "localId": "035",
+        "name": "Darmanitan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-036",
+        "illustrator": "Nagomi Nijo",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/036/high.jpg",
+        "localId": "036",
+        "name": "Litwick",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-037",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/037/high.jpg",
+        "localId": "037",
+        "name": "Lampent",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-038",
+        "illustrator": "Haru Akasaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/038/high.jpg",
+        "localId": "038",
+        "name": "Chandelure",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-039",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/039/high.jpg",
+        "localId": "039",
+        "name": "Heatmor",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-040",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/040/high.jpg",
+        "localId": "040",
+        "name": "Larvesta",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-041",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/041/high.jpg",
+        "localId": "041",
+        "name": "Volcarona",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-042",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/042/high.jpg",
+        "localId": "042",
+        "name": "Eiscue ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-043",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/043/high.jpg",
+        "localId": "043",
+        "name": "Charcadet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-044",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/044/high.jpg",
+        "localId": "044",
+        "name": "Armarouge",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-045",
+        "illustrator": "matazo",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/045/high.jpg",
+        "localId": "045",
+        "name": "Lapras",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-046",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/046/high.jpg",
+        "localId": "046",
+        "name": "Carvanha",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-047",
+        "illustrator": "Tonji Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/047/high.jpg",
+        "localId": "047",
+        "name": "Sharpedo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-048",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/048/high.jpg",
+        "localId": "048",
+        "name": "Buizel",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-049",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/049/high.jpg",
+        "localId": "049",
+        "name": "Floatzel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-050",
+        "illustrator": "OKUBO",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/050/high.jpg",
+        "localId": "050",
+        "name": "Tympole",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-051",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/051/high.jpg",
+        "localId": "051",
+        "name": "Palpitoad",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-052",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/052/high.jpg",
+        "localId": "052",
+        "name": "Seismitoad",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-053",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/053/high.jpg",
+        "localId": "053",
+        "name": "Cubchoo",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-054",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/054/high.jpg",
+        "localId": "054",
+        "name": "Beartic",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-055",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/055/high.jpg",
+        "localId": "055",
+        "name": "Cryogonal",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-056",
+        "illustrator": "Atsuya Uki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/056/high.jpg",
+        "localId": "056",
+        "name": "Froakie",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-057",
+        "illustrator": "Tonji Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/057/high.jpg",
+        "localId": "057",
+        "name": "Frogadier",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-058",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/058/high.jpg",
+        "localId": "058",
+        "name": "Wiglett",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-059",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/059/high.jpg",
+        "localId": "059",
+        "name": "Wugtrio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-060",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/060/high.jpg",
+        "localId": "060",
+        "name": "Finizen",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-061",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/061/high.jpg",
+        "localId": "061",
+        "name": "Finizen",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-062",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/062/high.jpg",
+        "localId": "062",
+        "name": "Palafin",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-063",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/063/high.jpg",
+        "localId": "063",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-064",
+        "illustrator": "kurumitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/064/high.jpg",
+        "localId": "064",
+        "name": "Magneton",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-065",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/065/high.jpg",
+        "localId": "065",
+        "name": "Magnezone",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-066",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/066/high.jpg",
+        "localId": "066",
+        "name": "Tyranitar ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-067",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/067/high.jpg",
+        "localId": "067",
+        "name": "Tynamo",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-068",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/068/high.jpg",
+        "localId": "068",
+        "name": "Eelektrik",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-069",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/069/high.jpg",
+        "localId": "069",
+        "name": "Eelektross",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-070",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/070/high.jpg",
+        "localId": "070",
+        "name": "Thundurus",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-071",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/071/high.jpg",
+        "localId": "071",
+        "name": "Toxel",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-072",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/072/high.jpg",
+        "localId": "072",
+        "name": "Toxtricity",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-073",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/073/high.jpg",
+        "localId": "073",
+        "name": "Pawmot ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-074",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/074/high.jpg",
+        "localId": "074",
+        "name": "Tadbulb",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-075",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/075/high.jpg",
+        "localId": "075",
+        "name": "Tadbulb",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-076",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/076/high.jpg",
+        "localId": "076",
+        "name": "Tadbulb",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-077",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/077/high.jpg",
+        "localId": "077",
+        "name": "Bellibolt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-078",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/078/high.jpg",
+        "localId": "078",
+        "name": "Bellibolt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-079",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/079/high.jpg",
+        "localId": "079",
+        "name": "Miraidon ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-080",
+        "illustrator": "kurumitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/080/high.jpg",
+        "localId": "080",
+        "name": "Cleffa",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-081",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/081/high.jpg",
+        "localId": "081",
+        "name": "Clefairy",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-082",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/082/high.jpg",
+        "localId": "082",
+        "name": "Clefable ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-083",
+        "illustrator": "Natsumi Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/083/high.jpg",
+        "localId": "083",
+        "name": "Togepi",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-084",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/084/high.jpg",
+        "localId": "084",
+        "name": "Togetic",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-085",
+        "illustrator": "Cona Nitanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/085/high.jpg",
+        "localId": "085",
+        "name": "Togekiss",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-086",
+        "illustrator": "Cona Nitanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/086/high.jpg",
+        "localId": "086",
+        "name": "Espeon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-087",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/087/high.jpg",
+        "localId": "087",
+        "name": "Snubbull",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-088",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/088/high.jpg",
+        "localId": "088",
+        "name": "Granbull",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-089",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/089/high.jpg",
+        "localId": "089",
+        "name": "Mawile",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-090",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/090/high.jpg",
+        "localId": "090",
+        "name": "Spoink",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-091",
+        "illustrator": "Scav",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/091/high.jpg",
+        "localId": "091",
+        "name": "Grumpig",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-092",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/092/high.jpg",
+        "localId": "092",
+        "name": "Lunatone",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-093",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/093/high.jpg",
+        "localId": "093",
+        "name": "Solrock",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-094",
+        "illustrator": "Scav",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/094/high.jpg",
+        "localId": "094",
+        "name": "Baltoy",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-095",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/095/high.jpg",
+        "localId": "095",
+        "name": "Claydol",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-096",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/096/high.jpg",
+        "localId": "096",
+        "name": "Vespiquen ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-097",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/097/high.jpg",
+        "localId": "097",
+        "name": "Sinistea",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-098",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/098/high.jpg",
+        "localId": "098",
+        "name": "Polteageist",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-099",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/099/high.jpg",
+        "localId": "099",
+        "name": "Greavard",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-100",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/100/high.jpg",
+        "localId": "100",
+        "name": "Greavard",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-101",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/101/high.jpg",
+        "localId": "101",
+        "name": "Houndstone",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-102",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/102/high.jpg",
+        "localId": "102",
+        "name": "Houndstone ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-103",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/103/high.jpg",
+        "localId": "103",
+        "name": "Diglett",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-104",
+        "illustrator": "Nelnal",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/104/high.jpg",
+        "localId": "104",
+        "name": "Dugtrio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-105",
+        "illustrator": "KYUPIYAMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/105/high.jpg",
+        "localId": "105",
+        "name": "Larvitar",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-106",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/106/high.jpg",
+        "localId": "106",
+        "name": "Pupitar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-107",
+        "illustrator": "Nobuhiro Imagawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/107/high.jpg",
+        "localId": "107",
+        "name": "Nosepass",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-108",
+        "illustrator": "Scav",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/108/high.jpg",
+        "localId": "108",
+        "name": "Barboach",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-109",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/109/high.jpg",
+        "localId": "109",
+        "name": "Whiscash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-110",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/110/high.jpg",
+        "localId": "110",
+        "name": "Bonsly",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-111",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/111/high.jpg",
+        "localId": "111",
+        "name": "Drilbur",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-112",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/112/high.jpg",
+        "localId": "112",
+        "name": "Stunfisk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-113",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/113/high.jpg",
+        "localId": "113",
+        "name": "Diggersby",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-114",
+        "illustrator": "Nagomi Nijo",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/114/high.jpg",
+        "localId": "114",
+        "name": "Crabrawler",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-115",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/115/high.jpg",
+        "localId": "115",
+        "name": "Crabominable",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-116",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/116/high.jpg",
+        "localId": "116",
+        "name": "Rockruff",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-117",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/117/high.jpg",
+        "localId": "117",
+        "name": "Lycanroc",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-118",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/118/high.jpg",
+        "localId": "118",
+        "name": "Toedscool",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-119",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/119/high.jpg",
+        "localId": "119",
+        "name": "Toedscruel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-120",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/120/high.jpg",
+        "localId": "120",
+        "name": "Klawf ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-121",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/121/high.jpg",
+        "localId": "121",
+        "name": "Glimmet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-122",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/122/high.jpg",
+        "localId": "122",
+        "name": "Glimmet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-123",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/123/high.jpg",
+        "localId": "123",
+        "name": "Glimmora ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-124",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/124/high.jpg",
+        "localId": "124",
+        "name": "Koraidon ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-125",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/125/high.jpg",
+        "localId": "125",
+        "name": "Charizard ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-126",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/126/high.jpg",
+        "localId": "126",
+        "name": "Paldean Wooper",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-127",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/127/high.jpg",
+        "localId": "127",
+        "name": "Paldean Wooper",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-128",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/128/high.jpg",
+        "localId": "128",
+        "name": "Paldean Clodsire",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-129",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/129/high.jpg",
+        "localId": "129",
+        "name": "Paldean Clodsire",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-130",
+        "illustrator": "rika",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/130/high.jpg",
+        "localId": "130",
+        "name": "Umbreon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-131",
+        "illustrator": "Scav",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/131/high.jpg",
+        "localId": "131",
+        "name": "Houndour",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-132",
+        "illustrator": "Kurata So",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/132/high.jpg",
+        "localId": "132",
+        "name": "Houndour",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-133",
+        "illustrator": "Haru Akasaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/133/high.jpg",
+        "localId": "133",
+        "name": "Houndoom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-134",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/134/high.jpg",
+        "localId": "134",
+        "name": "Houndoom ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-135",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/135/high.jpg",
+        "localId": "135",
+        "name": "Absol ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-136",
+        "illustrator": "Bun Toujo",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/136/high.jpg",
+        "localId": "136",
+        "name": "Darkrai",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-137",
+        "illustrator": "Kedamahadaitai Yawarakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/137/high.jpg",
+        "localId": "137",
+        "name": "Inkay",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-138",
+        "illustrator": "Nelnal",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/138/high.jpg",
+        "localId": "138",
+        "name": "Malamar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-139",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/139/high.jpg",
+        "localId": "139",
+        "name": "Salandit",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-140",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/140/high.jpg",
+        "localId": "140",
+        "name": "Salazzle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-141",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/141/high.jpg",
+        "localId": "141",
+        "name": "Scizor",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-142",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/142/high.jpg",
+        "localId": "142",
+        "name": "Skarmory",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-143",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/143/high.jpg",
+        "localId": "143",
+        "name": "Mawile",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-144",
+        "illustrator": "Shinji Kanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/144/high.jpg",
+        "localId": "144",
+        "name": "Bronzor",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-145",
+        "illustrator": "Nobuhiro Imagawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/145/high.jpg",
+        "localId": "145",
+        "name": "Bronzong",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-146",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/146/high.jpg",
+        "localId": "146",
+        "name": "Probopass",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-147",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/147/high.jpg",
+        "localId": "147",
+        "name": "Excadrill",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-148",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/148/high.jpg",
+        "localId": "148",
+        "name": "Pawniard",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-149",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/149/high.jpg",
+        "localId": "149",
+        "name": "Bisharp",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-150",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/150/high.jpg",
+        "localId": "150",
+        "name": "Kingambit",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-151",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/151/high.jpg",
+        "localId": "151",
+        "name": "Togedemaru",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-152",
+        "illustrator": "Nobuhiro Imagawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/152/high.jpg",
+        "localId": "152",
+        "name": "Meltan",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-153",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/153/high.jpg",
+        "localId": "153",
+        "name": "Melmetal ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-154",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/154/high.jpg",
+        "localId": "154",
+        "name": "Varoom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-155",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/155/high.jpg",
+        "localId": "155",
+        "name": "Varoom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-156",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/156/high.jpg",
+        "localId": "156",
+        "name": "Revavroom ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-157",
+        "illustrator": "satoma",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/157/high.jpg",
+        "localId": "157",
+        "name": "Dratini",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-158",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/158/high.jpg",
+        "localId": "158",
+        "name": "Dragonair",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-159",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/159/high.jpg",
+        "localId": "159",
+        "name": "Dragonite ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-160",
+        "illustrator": "kurumitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/160/high.jpg",
+        "localId": "160",
+        "name": "Altaria",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-161",
+        "illustrator": "hatachu",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/161/high.jpg",
+        "localId": "161",
+        "name": "Drampa",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-162",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/162/high.jpg",
+        "localId": "162",
+        "name": "Pidgey",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-163",
+        "illustrator": "Kariya",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/163/high.jpg",
+        "localId": "163",
+        "name": "Pidgeotto",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-164",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/164/high.jpg",
+        "localId": "164",
+        "name": "Pidgeot ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-165",
+        "illustrator": "Yuya Oka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/165/high.jpg",
+        "localId": "165",
+        "name": "Kangaskhan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-166",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/166/high.jpg",
+        "localId": "166",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-167",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/167/high.jpg",
+        "localId": "167",
+        "name": "Zigzagoon",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-168",
+        "illustrator": "Nagomi Nijo",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/168/high.jpg",
+        "localId": "168",
+        "name": "Linoone",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-169",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/169/high.jpg",
+        "localId": "169",
+        "name": "Swablu",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-170",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/170/high.jpg",
+        "localId": "170",
+        "name": "Lillipup",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-171",
+        "illustrator": "Kariya",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/171/high.jpg",
+        "localId": "171",
+        "name": "Herdier",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-172",
+        "illustrator": "Keisin",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/172/high.jpg",
+        "localId": "172",
+        "name": "Stoutland",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-173",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/173/high.jpg",
+        "localId": "173",
+        "name": "Audino",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-174",
+        "illustrator": "Yuya Oka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/174/high.jpg",
+        "localId": "174",
+        "name": "Bouffalant",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-175",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/175/high.jpg",
+        "localId": "175",
+        "name": "Bunnelby",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-176",
+        "illustrator": "saino misaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/176/high.jpg",
+        "localId": "176",
+        "name": "Yungoos",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-177",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/177/high.jpg",
+        "localId": "177",
+        "name": "Gumshoos",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-178",
+        "illustrator": "Taiga Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/178/high.jpg",
+        "localId": "178",
+        "name": "Skwovet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-179",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/179/high.jpg",
+        "localId": "179",
+        "name": "Greedent ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-180",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/180/high.jpg",
+        "localId": "180",
+        "name": "Lechonk",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-181",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/181/high.jpg",
+        "localId": "181",
+        "name": "Lechonk",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-182",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/182/high.jpg",
+        "localId": "182",
+        "name": "Lechonk",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-183",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/183/high.jpg",
+        "localId": "183",
+        "name": "Oinkologne",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-184",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/184/high.jpg",
+        "localId": "184",
+        "name": "Oinkologne",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-185",
+        "illustrator": "Hiroki Asanuma",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/185/high.jpg",
+        "localId": "185",
+        "name": "Flamigo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-186",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/186/high.jpg",
+        "localId": "186",
+        "name": "Arven",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-187",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/187/high.jpg",
+        "localId": "187",
+        "name": "Brassius",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-188",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/188/high.jpg",
+        "localId": "188",
+        "name": "Geeta",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-189",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/189/high.jpg",
+        "localId": "189",
+        "name": "Letter of Encouragement",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-190",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/190/high.jpg",
+        "localId": "190",
+        "name": "Ortega",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-191",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/191/high.jpg",
+        "localId": "191",
+        "name": "Patrol Cap",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-192",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/192/high.jpg",
+        "localId": "192",
+        "name": "Pokémon League Headquarters",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-193",
+        "illustrator": "yuu",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/193/high.jpg",
+        "localId": "193",
+        "name": "Poppy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-194",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/194/high.jpg",
+        "localId": "194",
+        "name": "Ryme",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-195",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/195/high.jpg",
+        "localId": "195",
+        "name": "Team Star Grunt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-196",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/196/high.jpg",
+        "localId": "196",
+        "name": "Town Store",
+        "rarity": "Common",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-197",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/197/high.jpg",
+        "localId": "197",
+        "name": "Vengeful Punch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-198",
+        "illustrator": "Masako Tomii",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/198/high.jpg",
+        "localId": "198",
+        "name": "Gloom",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-199",
+        "illustrator": "SIE NANAHARA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/199/high.jpg",
+        "localId": "199",
+        "name": "Ninetales",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-200",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/200/high.jpg",
+        "localId": "200",
+        "name": "Palafin",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-201",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/201/high.jpg",
+        "localId": "201",
+        "name": "Bellibolt",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-202",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/202/high.jpg",
+        "localId": "202",
+        "name": "Cleffa",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-203",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/203/high.jpg",
+        "localId": "203",
+        "name": "Larvitar",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-204",
+        "illustrator": "KYUPIYAMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/204/high.jpg",
+        "localId": "204",
+        "name": "Houndour",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-205",
+        "illustrator": "Oku",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/205/high.jpg",
+        "localId": "205",
+        "name": "Scizor",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-206",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/206/high.jpg",
+        "localId": "206",
+        "name": "Varoom",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-207",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/207/high.jpg",
+        "localId": "207",
+        "name": "Pidgey",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-208",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/208/high.jpg",
+        "localId": "208",
+        "name": "Pidgeotto",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-209",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/209/high.jpg",
+        "localId": "209",
+        "name": "Lechonk",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-210",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/210/high.jpg",
+        "localId": "210",
+        "name": "Eiscue ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-211",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/211/high.jpg",
+        "localId": "211",
+        "name": "Tyranitar ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-212",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/212/high.jpg",
+        "localId": "212",
+        "name": "Vespiquen ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-213",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/213/high.jpg",
+        "localId": "213",
+        "name": "Glimmora ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-214",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/214/high.jpg",
+        "localId": "214",
+        "name": "Absol ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-215",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/215/high.jpg",
+        "localId": "215",
+        "name": "Charizard ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-216",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/216/high.jpg",
+        "localId": "216",
+        "name": "Revavroom ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-217",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/217/high.jpg",
+        "localId": "217",
+        "name": "Pidgeot ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-218",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/218/high.jpg",
+        "localId": "218",
+        "name": "Geeta",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-219",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/219/high.jpg",
+        "localId": "219",
+        "name": "Ortega",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-220",
+        "illustrator": "yuu",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/220/high.jpg",
+        "localId": "220",
+        "name": "Poppy",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-221",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/221/high.jpg",
+        "localId": "221",
+        "name": "Ryme",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-222",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/222/high.jpg",
+        "localId": "222",
+        "name": "Eiscue ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-223",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/223/high.jpg",
+        "localId": "223",
+        "name": "Charizard ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-224",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/224/high.jpg",
+        "localId": "224",
+        "name": "Revavroom ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-225",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/225/high.jpg",
+        "localId": "225",
+        "name": "Pidgeot ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-226",
+        "illustrator": "DOM",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/226/high.jpg",
+        "localId": "226",
+        "name": "Geeta",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-227",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/227/high.jpg",
+        "localId": "227",
+        "name": "Poppy",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv03-228",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/228/high.jpg",
+        "localId": "228",
+        "name": "Charizard ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv03-229",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv03/229/high.jpg",
+        "localId": "229",
+        "name": "Artazon",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sv03-230",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv03/230/high.jpg",
+        "localId": "230",
+        "name": "Basic Fire Energy",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv03",
+            "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.jpg",
+            "name": "Obsidian Flames",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.jpg",
+            "releaseDate": "2023-08-11"
+        }
+    }
+]

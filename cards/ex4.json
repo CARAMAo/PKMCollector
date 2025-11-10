@@ -1,0 +1,1649 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "ex4-1",
+        "illustrator": "K. Utsunomiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/1/high.jpg",
+        "localId": "1",
+        "name": "Team Aqua's Cacturne",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89775
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-2",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/2/high.jpg",
+        "localId": "2",
+        "name": "Team Aqua's Crawdaunt",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89783
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-3",
+        "illustrator": "K. Hoshiba",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/3/high.jpg",
+        "localId": "3",
+        "name": "Team Aqua's Kyogre",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89788
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-4",
+        "illustrator": "K. Utsunomiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/4/high.jpg",
+        "localId": "4",
+        "name": "Team Aqua's Manectric",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89790
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-5",
+        "illustrator": "Katsura Tabata",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/5/high.jpg",
+        "localId": "5",
+        "name": "Team Aqua's Sharpedo",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89799
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-6",
+        "illustrator": "Ken Ikuji",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/6/high.jpg",
+        "localId": "6",
+        "name": "Team Aqua's Walrein",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89803
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-7",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/7/high.jpg",
+        "localId": "7",
+        "name": "Team Magma's Aggron",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89818
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-8",
+        "illustrator": "Zu-Ka",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/8/high.jpg",
+        "localId": "8",
+        "name": "Team Magma's Claydol",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89825
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-9",
+        "illustrator": "Kazuo Yazawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/9/high.jpg",
+        "localId": "9",
+        "name": "Team Magma's Groudon",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89827
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-10",
+        "illustrator": "Ken Ikuji",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/10/high.jpg",
+        "localId": "10",
+        "name": "Team Magma's Houndoom",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89828
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-11",
+        "illustrator": "T. Honda",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/11/high.jpg",
+        "localId": "11",
+        "name": "Team Magma's Rhydon",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89840
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-12",
+        "illustrator": "K. Hoshiba",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/12/high.jpg",
+        "localId": "12",
+        "name": "Team Magma's Torkoal",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89845
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-13",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/13/high.jpg",
+        "localId": "13",
+        "name": "Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 88506
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-14",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/14/high.jpg",
+        "localId": "14",
+        "name": "Team Aqua's Crawdaunt",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89784
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-15",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/15/high.jpg",
+        "localId": "15",
+        "name": "Team Aqua's Mightyena",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89792
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-16",
+        "illustrator": "T. Honda",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/16/high.jpg",
+        "localId": "16",
+        "name": "Team Aqua's Sealeo",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89796
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-17",
+        "illustrator": "Jungo Suzuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/17/high.jpg",
+        "localId": "17",
+        "name": "Team Aqua's Seviper",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89798
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-18",
+        "illustrator": "Katsura Tabata",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/18/high.jpg",
+        "localId": "18",
+        "name": "Team Aqua's Sharpedo",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89800
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-19",
+        "illustrator": "Katsura Tabata",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/19/high.jpg",
+        "localId": "19",
+        "name": "Team Magma's Camerupt",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89824
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-20",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/20/high.jpg",
+        "localId": "20",
+        "name": "Team Magma's Lairon",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89833
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-21",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/21/high.jpg",
+        "localId": "21",
+        "name": "Team Magma's Mightyena",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89835
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-22",
+        "illustrator": "T. Honda",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/22/high.jpg",
+        "localId": "22",
+        "name": "Team Magma's Rhydon",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89841
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-23",
+        "illustrator": "Zu-Ka",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/23/high.jpg",
+        "localId": "23",
+        "name": "Team Magma's Zangoose",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89846
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-24",
+        "illustrator": "K. Utsunomiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/24/high.jpg",
+        "localId": "24",
+        "name": "Team Aqua's Cacnea",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89774
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-25",
+        "illustrator": "Mt. TBT",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/25/high.jpg",
+        "localId": "25",
+        "name": "Team Aqua's Carvanha",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89776
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-26",
+        "illustrator": "Jungo Suzuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/26/high.jpg",
+        "localId": "26",
+        "name": "Team Aqua's Corphish",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89780
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-27",
+        "illustrator": "M. Akiyama",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/27/high.jpg",
+        "localId": "27",
+        "name": "Team Aqua's Electrike",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89785
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-28",
+        "illustrator": "Jungo Suzuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/28/high.jpg",
+        "localId": "28",
+        "name": "Team Aqua's Lanturn",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89789
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-29",
+        "illustrator": "K. Utsunomiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/29/high.jpg",
+        "localId": "29",
+        "name": "Team Aqua's Manectric",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89791
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-30",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/30/high.jpg",
+        "localId": "30",
+        "name": "Team Aqua's Mightyena",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89793
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-31",
+        "illustrator": "T. Honda",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/31/high.jpg",
+        "localId": "31",
+        "name": "Team Aqua's Sealeo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89797
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-32",
+        "illustrator": "Atsuko Ujiie",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/32/high.jpg",
+        "localId": "32",
+        "name": "Team Magma's Baltoy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89821
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-33",
+        "illustrator": "Zu-Ka",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/33/high.jpg",
+        "localId": "33",
+        "name": "Team Magma's Claydol",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89826
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-34",
+        "illustrator": "Ken Ikuji",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/34/high.jpg",
+        "localId": "34",
+        "name": "Team Magma's Houndoom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89829
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-35",
+        "illustrator": "Atsuko Ujiie",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/35/high.jpg",
+        "localId": "35",
+        "name": "Team Magma's Houndour",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89830
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-36",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/36/high.jpg",
+        "localId": "36",
+        "name": "Team Magma's Lairon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89834
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-37",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/37/high.jpg",
+        "localId": "37",
+        "name": "Team Magma's Mightyena",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89836
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-38",
+        "illustrator": "Mt. TBT",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/38/high.jpg",
+        "localId": "38",
+        "name": "Team Magma's Rhyhorn",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89842
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-39",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/39/high.jpg",
+        "localId": "39",
+        "name": "Bulbasaur",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 84028
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-40",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/40/high.jpg",
+        "localId": "40",
+        "name": "Cubone",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 84530
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-41",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/41/high.jpg",
+        "localId": "41",
+        "name": "Jigglypuff",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 86314
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-42",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/42/high.jpg",
+        "localId": "42",
+        "name": "Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 87316
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-43",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/43/high.jpg",
+        "localId": "43",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 88077
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-44",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/44/high.jpg",
+        "localId": "44",
+        "name": "Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 88436
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-45",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/45/high.jpg",
+        "localId": "45",
+        "name": "Slowpoke",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89326
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-46",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/46/high.jpg",
+        "localId": "46",
+        "name": "Squirtle",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89488
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-47",
+        "illustrator": "Yosuke Da Silva",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/47/high.jpg",
+        "localId": "47",
+        "name": "Team Aqua's Carvanha",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89777
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-48",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/48/high.jpg",
+        "localId": "48",
+        "name": "Team Aqua's Carvanha",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89778
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-49",
+        "illustrator": "Kazuo Yazawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/49/high.jpg",
+        "localId": "49",
+        "name": "Team Aqua's Chinchou",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89779
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-50",
+        "illustrator": "Jungo Suzuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/50/high.jpg",
+        "localId": "50",
+        "name": "Team Aqua's Corphish",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89781
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-51",
+        "illustrator": "Jungo Suzuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/51/high.jpg",
+        "localId": "51",
+        "name": "Team Aqua's Corphish",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89782
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-52",
+        "illustrator": "M. Akiyama",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/52/high.jpg",
+        "localId": "52",
+        "name": "Team Aqua's Electrike",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89786
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-53",
+        "illustrator": "M. Akiyama",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/53/high.jpg",
+        "localId": "53",
+        "name": "Team Aqua's Electrike",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89787
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-54",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/54/high.jpg",
+        "localId": "54",
+        "name": "Team Aqua's Poochyena",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89794
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-55",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/55/high.jpg",
+        "localId": "55",
+        "name": "Team Aqua's Poochyena",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89795
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-56",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/56/high.jpg",
+        "localId": "56",
+        "name": "Team Aqua's Spheal",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89801
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-57",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/57/high.jpg",
+        "localId": "57",
+        "name": "Team Aqua's Spheal",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89802
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-58",
+        "illustrator": "Katsura Tabata",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/58/high.jpg",
+        "localId": "58",
+        "name": "Team Magma's Aron",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89819
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-59",
+        "illustrator": "Katsura Tabata",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/59/high.jpg",
+        "localId": "59",
+        "name": "Team Magma's Aron",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89820
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-60",
+        "illustrator": "Atsuko Ujiie",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/60/high.jpg",
+        "localId": "60",
+        "name": "Team Magma's Baltoy",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89822
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-61",
+        "illustrator": "Atsuko Ujiie",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/61/high.jpg",
+        "localId": "61",
+        "name": "Team Magma's Baltoy",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89823
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-62",
+        "illustrator": "Atsuko Ujiie",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/62/high.jpg",
+        "localId": "62",
+        "name": "Team Magma's Houndour",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89831
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-63",
+        "illustrator": "Atsuko Ujiie",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/63/high.jpg",
+        "localId": "63",
+        "name": "Team Magma's Houndour",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89832
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-64",
+        "illustrator": "Katsura Tabata",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/64/high.jpg",
+        "localId": "64",
+        "name": "Team Magma's Numel",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89837
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-65",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/65/high.jpg",
+        "localId": "65",
+        "name": "Team Magma's Poochyena",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89838
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-66",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/66/high.jpg",
+        "localId": "66",
+        "name": "Team Magma's Poochyena",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89839
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-67",
+        "illustrator": "Yosuke Da Silva",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/67/high.jpg",
+        "localId": "67",
+        "name": "Team Magma's Rhyhorn",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89843
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-68",
+        "illustrator": "Yosuke Da Silva",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/68/high.jpg",
+        "localId": "68",
+        "name": "Team Magma's Rhyhorn",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89844
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-69",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/69/high.jpg",
+        "localId": "69",
+        "name": "Team Aqua Schemer",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89772
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-70",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/70/high.jpg",
+        "localId": "70",
+        "name": "Team Magma Schemer",
+        "rarity": "Common",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89816
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-71",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/71/high.jpg",
+        "localId": "71",
+        "name": "Archie",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 83612
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-72",
+        "illustrator": "Big Mama\" Tagawa\"",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/72/high.jpg",
+        "localId": "72",
+        "name": "Dual Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 84985
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-73",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/73/high.jpg",
+        "localId": "73",
+        "name": "Maxie",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 87270
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-74",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/74/high.jpg",
+        "localId": "74",
+        "name": "Strength Charm",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89578
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-75",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/75/high.jpg",
+        "localId": "75",
+        "name": "Team Aqua Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89768
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-76",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/76/high.jpg",
+        "localId": "76",
+        "name": "Team Aqua Belt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89769
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-77",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/77/high.jpg",
+        "localId": "77",
+        "name": "Team Aqua Conspirator",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89770
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-78",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/78/high.jpg",
+        "localId": "78",
+        "name": "Team Aqua Hideout",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89771
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-79",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/79/high.jpg",
+        "localId": "79",
+        "name": "Team Aqua's Technical Machine 01",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-80",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/80/high.jpg",
+        "localId": "80",
+        "name": "Team Magma Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89812
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-81",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/81/high.jpg",
+        "localId": "81",
+        "name": "Team Magma Belt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89813
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-82",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/82/high.jpg",
+        "localId": "82",
+        "name": "Team Magma Conspirator",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89814
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-83",
+        "illustrator": "Ken Ikuji",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/83/high.jpg",
+        "localId": "83",
+        "name": "Team Magma Hideout",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89815
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-84",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/84/high.jpg",
+        "localId": "84",
+        "name": "Team Magma's Technical Machine 01",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "ex4-85",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/85/high.jpg",
+        "localId": "85",
+        "name": "Warp Point",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 90478
+    },
+    {
+        "category": "Energy",
+        "id": "ex4-86",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/86/high.jpg",
+        "localId": "86",
+        "name": "Aqua Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 83565
+    },
+    {
+        "category": "Energy",
+        "id": "ex4-87",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/87/high.jpg",
+        "localId": "87",
+        "name": "Magma Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 87039
+    },
+    {
+        "category": "Energy",
+        "id": "ex4-88",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/88/high.jpg",
+        "localId": "88",
+        "name": "Double Rainbow Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 84895
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-89",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/89/high.jpg",
+        "localId": "89",
+        "name": "Blaziken ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 83912
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-90",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/90/high.jpg",
+        "localId": "90",
+        "name": "Cradily ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 84457
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-91",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/91/high.jpg",
+        "localId": "91",
+        "name": "Entei ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 85278
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-92",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/92/high.jpg",
+        "localId": "92",
+        "name": "Raikou ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 88540
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-93",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/93/high.jpg",
+        "localId": "93",
+        "name": "Sceptile ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 88954
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-94",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/94/high.jpg",
+        "localId": "94",
+        "name": "Suicune ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89611
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-95",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/95/high.jpg",
+        "localId": "95",
+        "name": "Swampert ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 89682
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-96",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/96/high.jpg",
+        "localId": "96",
+        "name": "Absol",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 83450
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex4-97",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex4/97/high.jpg",
+        "localId": "97",
+        "name": "Jirachi",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex4",
+            "logo": "https://assets.tcgdex.net/en/ex/ex4/logo.jpg",
+            "name": "Team Magma vs Team Aqua",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex4/symbol.jpg",
+            "releaseDate": "2004-03-01"
+        },
+        "tcgplayerId": 86324
+    }
+]

@@ -1,0 +1,3458 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY01",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY01/high.jpg",
+        "localId": "XY01",
+        "name": "Chespin",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY02",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY02/high.jpg",
+        "localId": "XY02",
+        "name": "Fennekin",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY03",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY03/high.jpg",
+        "localId": "XY03",
+        "name": "Froakie",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY04",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY04/high.jpg",
+        "localId": "XY04",
+        "name": "Sylveon",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY05",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY05/high.jpg",
+        "localId": "XY05",
+        "name": "Xerneas",
+        "rarity": "Rare",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY06",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY06/high.jpg",
+        "localId": "XY06",
+        "name": "Yveltal",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY07",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY07/high.jpg",
+        "localId": "XY07",
+        "name": "Xerneas EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY08",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY08/high.jpg",
+        "localId": "XY08",
+        "name": "Yveltal EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY09",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY09/high.jpg",
+        "localId": "XY09",
+        "name": "Garchomp EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY10",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY10/high.jpg",
+        "localId": "XY10",
+        "name": "Dragalge",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY100",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY100/high.jpg",
+        "localId": "XY100",
+        "name": "Mewtwo",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY101",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY101/high.jpg",
+        "localId": "XY101",
+        "name": "Mewtwo",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY102",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY102/high.jpg",
+        "localId": "XY102",
+        "name": "Aurorus EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY103",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY103/high.jpg",
+        "localId": "XY103",
+        "name": "Mawile EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY104",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY104/high.jpg",
+        "localId": "XY104",
+        "name": "M Mawile EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY105",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY105/high.jpg",
+        "localId": "XY105",
+        "name": "Mawile Spirit Link",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY106",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY106/high.jpg",
+        "localId": "XY106",
+        "name": "Gyarados EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY107",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY107/high.jpg",
+        "localId": "XY107",
+        "name": "Mewtwo EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY108",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY108/high.jpg",
+        "localId": "XY108",
+        "name": "Machamp EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY109",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY109/high.jpg",
+        "localId": "XY109",
+        "name": "Gyarados",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY11",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY11/high.jpg",
+        "localId": "XY11",
+        "name": "Skiddo",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY110",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY110/high.jpg",
+        "localId": "XY110",
+        "name": "Mew",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY111",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY111/high.jpg",
+        "localId": "XY111",
+        "name": "Celebi",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY112",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY112/high.jpg",
+        "localId": "XY112",
+        "name": "Jirachi",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY113",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY113/high.jpg",
+        "localId": "XY113",
+        "name": "Manaphy",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY114",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY114/high.jpg",
+        "localId": "XY114",
+        "name": "Darkrai",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY115",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY115/high.jpg",
+        "localId": "XY115",
+        "name": "Shaymin",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY116",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY116/high.jpg",
+        "localId": "XY116",
+        "name": "Arceus",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY117",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY117/high.jpg",
+        "localId": "XY117",
+        "name": "Victini",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY118",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY118/high.jpg",
+        "localId": "XY118",
+        "name": "Keldeo",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY119",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY119/high.jpg",
+        "localId": "XY119",
+        "name": "Genesect",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY12",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY12/high.jpg",
+        "localId": "XY12",
+        "name": "Honedge",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY120",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY120/high.jpg",
+        "localId": "XY120",
+        "name": "Meloetta",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY121",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY121/high.jpg",
+        "localId": "XY121",
+        "name": "Charizard EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY122",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY122/high.jpg",
+        "localId": "XY122",
+        "name": "Blastoise EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY123",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY123/high.jpg",
+        "localId": "XY123",
+        "name": "Venusaur EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY124",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY124/high.jpg",
+        "localId": "XY124",
+        "name": "Pikachu EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY125",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY125/high.jpg",
+        "localId": "XY125",
+        "name": "Mewtwo EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY126",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY126/high.jpg",
+        "localId": "XY126",
+        "name": "Mew EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY127",
+        "illustrator": "OOYAMA",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY127/high.jpg",
+        "localId": "XY127",
+        "name": "Moltres",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY128",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY128/high.jpg",
+        "localId": "XY128",
+        "name": "White Kyurem",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY129",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY129/high.jpg",
+        "localId": "XY129",
+        "name": "Zygarde",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY13",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY13/high.jpg",
+        "localId": "XY13",
+        "name": "Machamp",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY130",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY130/high.jpg",
+        "localId": "XY130",
+        "name": "Tyranitar",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY131",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY131/high.jpg",
+        "localId": "XY131",
+        "name": "Pansear",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY132",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY132/high.jpg",
+        "localId": "XY132",
+        "name": "Gastly",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY133",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY133/high.jpg",
+        "localId": "XY133",
+        "name": "Ash Greninja EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY134",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY134/high.jpg",
+        "localId": "XY134",
+        "name": "Empoleon BREAK",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY135",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY135/high.jpg",
+        "localId": "XY135",
+        "name": "Beheeyem BREAK",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY136",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY136/high.jpg",
+        "localId": "XY136",
+        "name": "Noctowl BREAK",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY137",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY137/high.jpg",
+        "localId": "XY137",
+        "name": "Vivillon",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY138",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY138/high.jpg",
+        "localId": "XY138",
+        "name": "Froakie",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY139",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY139/high.jpg",
+        "localId": "XY139",
+        "name": "Floette",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY14",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY14/high.jpg",
+        "localId": "XY14",
+        "name": "Trevenant",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY140",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY140/high.jpg",
+        "localId": "XY140",
+        "name": "Lucario",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY141",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY141/high.jpg",
+        "localId": "XY141",
+        "name": "Rayquaza",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY142",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY142/high.jpg",
+        "localId": "XY142",
+        "name": "Azelf",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY143",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY143/high.jpg",
+        "localId": "XY143",
+        "name": "Magikarp",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY144",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY144/high.jpg",
+        "localId": "XY144",
+        "name": "Yanmega",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY145",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY145/high.jpg",
+        "localId": "XY145",
+        "name": "Volcanion",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY146",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY146/high.jpg",
+        "localId": "XY146",
+        "name": "Clawitzer",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY147",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY147/high.jpg",
+        "localId": "XY147",
+        "name": "Hoopa",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY148",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY148/high.jpg",
+        "localId": "XY148",
+        "name": "Shaymin EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY149",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY149/high.jpg",
+        "localId": "XY149",
+        "name": "Xerneas EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY15",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY15/high.jpg",
+        "localId": "XY15",
+        "name": "Slurpuff",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY150",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY150/high.jpg",
+        "localId": "XY150",
+        "name": "Yveltal EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY150a",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY150a/high.jpg",
+        "localId": "XY150a",
+        "name": "Yveltal-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY151",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY151/high.jpg",
+        "localId": "XY151",
+        "name": "Zygarde EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY152",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY152/high.jpg",
+        "localId": "XY152",
+        "name": "Zygarde",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY153",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY153/high.jpg",
+        "localId": "XY153",
+        "name": "Ho Oh",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY154",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY154/high.jpg",
+        "localId": "XY154",
+        "name": "Ho-Oh BREAK",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY155",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY155/high.jpg",
+        "localId": "XY155",
+        "name": "Wobbuffet BREAK",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY156",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY156/high.jpg",
+        "localId": "XY156",
+        "name": "Lugia",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY157",
+        "illustrator": "hatachu",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY157/high.jpg",
+        "localId": "XY157",
+        "name": "Beedrill EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY158",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY158/high.jpg",
+        "localId": "XY158",
+        "name": "M Beedrill-EX",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY159",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY159/high.jpg",
+        "localId": "XY159",
+        "name": "Beedrill Spirit Link",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY16",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY16/high.jpg",
+        "localId": "XY16",
+        "name": "Gogoat",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY160",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY160/high.jpg",
+        "localId": "XY160",
+        "name": "Black Kyurem",
+        "rarity": "Rare",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY161",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY161/high.jpg",
+        "localId": "XY161",
+        "name": "Braixen",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY162",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY162/high.jpg",
+        "localId": "XY162",
+        "name": "Greninja",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY163",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY163/high.jpg",
+        "localId": "XY163",
+        "name": "Weezing",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY164",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY164/high.jpg",
+        "localId": "XY164",
+        "name": "Volcanion",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY165",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY165/high.jpg",
+        "localId": "XY165",
+        "name": "Magearna",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY166",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY166/high.jpg",
+        "localId": "XY166",
+        "name": "M Gengar-EX",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY167",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY167/high.jpg",
+        "localId": "XY167",
+        "name": "Garchomp-EX",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY168",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY168/high.jpg",
+        "localId": "XY168",
+        "name": "M Garchomp-EX",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY169",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY169/high.jpg",
+        "localId": "XY169",
+        "name": "Garchomp Spirit Link",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY17",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY17/high.jpg",
+        "localId": "XY17",
+        "name": "Charizard EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY170",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY170/high.jpg",
+        "localId": "XY170",
+        "name": "Salamence EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY171",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY171/high.jpg",
+        "localId": "XY171",
+        "name": "M Salamence-EX",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY172",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY172/high.jpg",
+        "localId": "XY172",
+        "name": "Salamence Spirit Link",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY173",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY173/high.jpg",
+        "localId": "XY173",
+        "name": "Volcanion EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY174",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY174/high.jpg",
+        "localId": "XY174",
+        "name": "Pikachu-EX",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY175",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY175/high.jpg",
+        "localId": "XY175",
+        "name": "Magearna-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY176",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY176/high.jpg",
+        "localId": "XY176",
+        "name": "Champions Festival",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY177",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY177/high.jpg",
+        "localId": "XY177",
+        "name": "Karen",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY177a",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY177a/high.jpg",
+        "localId": "XY177a",
+        "name": "Karen",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY178",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY178/high.jpg",
+        "localId": "XY178",
+        "name": "Absol",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY179",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY179/high.jpg",
+        "localId": "XY179",
+        "name": "Snorlax",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY18",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY18/high.jpg",
+        "localId": "XY18",
+        "name": "Chesnaught EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY180",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY180/high.jpg",
+        "localId": "XY180",
+        "name": "Arcanine BREAK",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY181",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY181/high.jpg",
+        "localId": "XY181",
+        "name": "Crobat BREAK",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY182",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY182/high.jpg",
+        "localId": "XY182",
+        "name": "Mandibuzz BREAK",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY183",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY183/high.jpg",
+        "localId": "XY183",
+        "name": "Mewtwo-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY184",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY184/high.jpg",
+        "localId": "XY184",
+        "name": "Giratina",
+        "rarity": "Rare",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY185",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY185/high.jpg",
+        "localId": "XY185",
+        "name": "Volcanion",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY186",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY186/high.jpg",
+        "localId": "XY186",
+        "name": "Magearna",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY187",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY187/high.jpg",
+        "localId": "XY187",
+        "name": "Celebi",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY188",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY188/high.jpg",
+        "localId": "XY188",
+        "name": "Shaymin",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY189",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY189/high.jpg",
+        "localId": "XY189",
+        "name": "Victini",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY19",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY19/high.jpg",
+        "localId": "XY19",
+        "name": "Delphox EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY190",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY190/high.jpg",
+        "localId": "XY190",
+        "name": "Manaphy",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY191",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY191/high.jpg",
+        "localId": "XY191",
+        "name": "Keldeo",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY192",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY192/high.jpg",
+        "localId": "XY192",
+        "name": "Mew",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY193",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY193/high.jpg",
+        "localId": "XY193",
+        "name": "Meloetta",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY194",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY194/high.jpg",
+        "localId": "XY194",
+        "name": "Darkrai",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY195",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY195/high.jpg",
+        "localId": "XY195",
+        "name": "Jirachi",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY196",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY196/high.jpg",
+        "localId": "XY196",
+        "name": "Genesect",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY197",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY197/high.jpg",
+        "localId": "XY197",
+        "name": "Arceus",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY198",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY198/high.jpg",
+        "localId": "XY198",
+        "name": "M Camerupt-EX",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY198a",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY198a/high.jpg",
+        "localId": "XY198a",
+        "name": "M Camerupt-EX",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY199",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY199/high.jpg",
+        "localId": "XY199",
+        "name": "Camerupt Spirit Link",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY20",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY20/high.jpg",
+        "localId": "XY20",
+        "name": "Greninja EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY200",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY200/high.jpg",
+        "localId": "XY200",
+        "name": "M Sharpedo-EX",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY200a",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY200a/high.jpg",
+        "localId": "XY200a",
+        "name": "M Sharpedo-EX",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY201",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY201/high.jpg",
+        "localId": "XY201",
+        "name": "Sharpedo Spirit Link",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY202",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY202/high.jpg",
+        "localId": "XY202",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY203",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY203/high.jpg",
+        "localId": "XY203",
+        "name": "Gym Badge",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY204",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY204/high.jpg",
+        "localId": "XY204",
+        "name": "Gym Badge",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY205",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY205/high.jpg",
+        "localId": "XY205",
+        "name": "Gym Badge",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY206",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY206/high.jpg",
+        "localId": "XY206",
+        "name": "Gym Badge",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY207",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY207/high.jpg",
+        "localId": "XY207",
+        "name": "Gym Badge",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY208",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY208/high.jpg",
+        "localId": "XY208",
+        "name": "Gym Badge",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY209",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY209/high.jpg",
+        "localId": "XY209",
+        "name": "Gym Badge",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY21",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY21/high.jpg",
+        "localId": "XY21",
+        "name": "Bronzong",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY210",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY210/high.jpg",
+        "localId": "XY210",
+        "name": "Gym Badge",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY211",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY211/high.jpg",
+        "localId": "XY211",
+        "name": "Lucario Spirit Link",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY22",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY22/high.jpg",
+        "localId": "XY22",
+        "name": "Darkrai",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY23",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY23/high.jpg",
+        "localId": "XY23",
+        "name": "Shiftry",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY24",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY24/high.jpg",
+        "localId": "XY24",
+        "name": "Greninja",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY25",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY25/high.jpg",
+        "localId": "XY25",
+        "name": "Krookodile EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY26",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY26/high.jpg",
+        "localId": "XY26",
+        "name": "Pyroar",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY27",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY27/high.jpg",
+        "localId": "XY27",
+        "name": "Champions Festival",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY28",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY28/high.jpg",
+        "localId": "XY28",
+        "name": "Venusaur EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY29",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY29/high.jpg",
+        "localId": "XY29",
+        "name": "Charizard EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY30",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY30/high.jpg",
+        "localId": "XY30",
+        "name": "Blastoise EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY31",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY31/high.jpg",
+        "localId": "XY31",
+        "name": "Xerneas",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY32",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY32/high.jpg",
+        "localId": "XY32",
+        "name": "Yveltal",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY33",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY33/high.jpg",
+        "localId": "XY33",
+        "name": "Trevor",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY34",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY34/high.jpg",
+        "localId": "XY34",
+        "name": "Metagross EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY35",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY35/high.jpg",
+        "localId": "XY35",
+        "name": "M Metagross EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY36",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY36/high.jpg",
+        "localId": "XY36",
+        "name": "Treecko",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY37",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY37/high.jpg",
+        "localId": "XY37",
+        "name": "Torchic",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY38",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY38/high.jpg",
+        "localId": "XY38",
+        "name": "Mudkip",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY39",
+        "illustrator": "hatachu",
+        "image": null,
+        "localId": "XY39",
+        "name": "Kingdra",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY40",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY40/high.jpg",
+        "localId": "XY40",
+        "name": "Ditto",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY41",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY41/high.jpg",
+        "localId": "XY41",
+        "name": "Kyogre EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY42",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY42/high.jpg",
+        "localId": "XY42",
+        "name": "Groudon EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY43",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY43/high.jpg",
+        "localId": "XY43",
+        "name": "Diancie EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY44",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY44/high.jpg",
+        "localId": "XY44",
+        "name": "M Diancie EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY45",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY45/high.jpg",
+        "localId": "XY45",
+        "name": "Gallade EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY46",
+        "illustrator": "Naoki Saito",
+        "image": null,
+        "localId": "XY46",
+        "name": "Altaria",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY47",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY47/high.jpg",
+        "localId": "XY47",
+        "name": "Heliolisk",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY48",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY48/high.jpg",
+        "localId": "XY48",
+        "name": "Meowstic",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY49",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY49/high.jpg",
+        "localId": "XY49",
+        "name": "Regirock",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY50",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY50/high.jpg",
+        "localId": "XY50",
+        "name": "Pangoro",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY51",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY51/high.jpg",
+        "localId": "XY51",
+        "name": "Kyogre",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY52",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY52/high.jpg",
+        "localId": "XY52",
+        "name": "Groudon",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY53",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY53/high.jpg",
+        "localId": "XY53",
+        "name": "Sceptile EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY54",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY54/high.jpg",
+        "localId": "XY54",
+        "name": "Blaziken EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY55",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY55/high.jpg",
+        "localId": "XY55",
+        "name": "Swampert EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY56",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY56/high.jpg",
+        "localId": "XY56",
+        "name": "Blissey",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY57",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY57/high.jpg",
+        "localId": "XY57",
+        "name": "Fearow",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY58",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY58/high.jpg",
+        "localId": "XY58",
+        "name": "Malamar",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY59",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY59/high.jpg",
+        "localId": "XY59",
+        "name": "Salamence",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY60",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY60/high.jpg",
+        "localId": "XY60",
+        "name": "Gyarados",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY61",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY61/high.jpg",
+        "localId": "XY61",
+        "name": "Flygon EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY62",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY62/high.jpg",
+        "localId": "XY62",
+        "name": "Absol EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY63",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY63/high.jpg",
+        "localId": "XY63",
+        "name": "M Absol EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY64",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY64/high.jpg",
+        "localId": "XY64",
+        "name": "Rayquaza",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY65",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY65/high.jpg",
+        "localId": "XY65",
+        "name": "Latios",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY66",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY66/high.jpg",
+        "localId": "XY66",
+        "name": "Rayquaza EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY67",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY67/high.jpg",
+        "localId": "XY67",
+        "name": "Jirachi",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY67a",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY67a/high.jpg",
+        "localId": "XY67a",
+        "name": "Jirachi",
+        "rarity": "Common",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY68",
+        "illustrator": "Mitsuhiro Arita",
+        "image": null,
+        "localId": "XY68",
+        "name": "Chesnaught",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY69",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY69/high.jpg",
+        "localId": "XY69",
+        "name": "Rayquaza EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY70",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY70/high.jpg",
+        "localId": "XY70",
+        "name": "Tyrantrum EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY71",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY71/high.jpg",
+        "localId": "XY71",
+        "name": "Hoopa EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY72",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY72/high.jpg",
+        "localId": "XY72",
+        "name": "Latios EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY73",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY73/high.jpg",
+        "localId": "XY73",
+        "name": "Rayquaza EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY74",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY74/high.jpg",
+        "localId": "XY74",
+        "name": "Reshiram",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY75",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY75/high.jpg",
+        "localId": "XY75",
+        "name": "Palkia",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY76",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY76/high.jpg",
+        "localId": "XY76",
+        "name": "Zekrom",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY77",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY77/high.jpg",
+        "localId": "XY77",
+        "name": "Dialga",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY78",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY78/high.jpg",
+        "localId": "XY78",
+        "name": "Latias",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY79",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY79/high.jpg",
+        "localId": "XY79",
+        "name": "Latios",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY80",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY80/high.jpg",
+        "localId": "XY80",
+        "name": "Black Kyurem",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY81",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY81/high.jpg",
+        "localId": "XY81",
+        "name": "White Kyurem",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY82",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY82/high.jpg",
+        "localId": "XY82",
+        "name": "Regigigas",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY83",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY83/high.jpg",
+        "localId": "XY83",
+        "name": "Arceus",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY84",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY84/high.jpg",
+        "localId": "XY84",
+        "name": "Pikachu EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY85",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY85/high.jpg",
+        "localId": "XY85",
+        "name": "Hoopa EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY86",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY86/high.jpg",
+        "localId": "XY86",
+        "name": "M Blaziken EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY87",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY87/high.jpg",
+        "localId": "XY87",
+        "name": "M Swampert EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY88",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY88/high.jpg",
+        "localId": "XY88",
+        "name": "Chespin",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY89",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY89/high.jpg",
+        "localId": "XY89",
+        "name": "Pikachu",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY90",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY90/high.jpg",
+        "localId": "XY90",
+        "name": "Hoopa",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY91",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY91/high.jpg",
+        "localId": "XY91",
+        "name": "Champions Festival",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY92",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY92/high.jpg",
+        "localId": "XY92",
+        "name": "Sableye",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY93",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY93/high.jpg",
+        "localId": "XY93",
+        "name": "Celebi",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY94",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY94/high.jpg",
+        "localId": "XY94",
+        "name": "Trevenant",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY95",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY95/high.jpg",
+        "localId": "XY95",
+        "name": "Pikachu",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY96",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY96/high.jpg",
+        "localId": "XY96",
+        "name": "Umbreon",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY97",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY97/high.jpg",
+        "localId": "XY97",
+        "name": "Aerodactyl EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xyp-XY98",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY98/high.jpg",
+        "localId": "XY98",
+        "name": "M Aerodactyl EX",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xyp-XY99",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xyp/XY99/high.jpg",
+        "localId": "XY99",
+        "name": "Aerodactyl Spirit Link",
+        "rarity": "None",
+        "set": {
+            "id": "xyp",
+            "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.jpg",
+            "name": "XY Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.jpg",
+            "releaseDate": "2013-10-12"
+        }
+    }
+]

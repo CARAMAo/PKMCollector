@@ -1,0 +1,3318 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sm9-1",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/1/high.jpg",
+        "localId": "1",
+        "name": "Celebi & Venusaur GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183770
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-2",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/2/high.jpg",
+        "localId": "2",
+        "name": "Weedle",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183773
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-3",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/3/high.jpg",
+        "localId": "3",
+        "name": "Weedle",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183774
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-4",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/4/high.jpg",
+        "localId": "4",
+        "name": "Kakuna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183775
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-5",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/5/high.jpg",
+        "localId": "5",
+        "name": "Beedrill",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183776
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-6",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/6/high.jpg",
+        "localId": "6",
+        "name": "Paras",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183777
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-7",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/7/high.jpg",
+        "localId": "7",
+        "name": "Parasect",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183778
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-8",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/8/high.jpg",
+        "localId": "8",
+        "name": "Exeggcute",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183779
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-9",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/9/high.jpg",
+        "localId": "9",
+        "name": "Pinsir",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183780
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-10",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/10/high.jpg",
+        "localId": "10",
+        "name": "Shaymin ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-11",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/11/high.jpg",
+        "localId": "11",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183782
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-12",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/12/high.jpg",
+        "localId": "12",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183783
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-13",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/13/high.jpg",
+        "localId": "13",
+        "name": "Charmeleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183784
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-14",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/14/high.jpg",
+        "localId": "14",
+        "name": "Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183785
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-15",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/15/high.jpg",
+        "localId": "15",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183786
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-16",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/16/high.jpg",
+        "localId": "16",
+        "name": "Ninetales",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183787
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-17",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/17/high.jpg",
+        "localId": "17",
+        "name": "Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183788
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-18",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/18/high.jpg",
+        "localId": "18",
+        "name": "Rapidash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183789
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-19",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/19/high.jpg",
+        "localId": "19",
+        "name": "Moltres",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183790
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-20",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/20/high.jpg",
+        "localId": "20",
+        "name": "Litten",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183791
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-21",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/21/high.jpg",
+        "localId": "21",
+        "name": "Torracat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183792
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-22",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/22/high.jpg",
+        "localId": "22",
+        "name": "Squirtle",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183793
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-23",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/23/high.jpg",
+        "localId": "23",
+        "name": "Squirtle",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183794
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-24",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/24/high.jpg",
+        "localId": "24",
+        "name": "Wartortle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183795
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-25",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/25/high.jpg",
+        "localId": "25",
+        "name": "Blastoise",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183796
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-26",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/26/high.jpg",
+        "localId": "26",
+        "name": "Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183797
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-27",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/27/high.jpg",
+        "localId": "27",
+        "name": "Golduck",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183798
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-28",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/28/high.jpg",
+        "localId": "28",
+        "name": "Staryu",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183799
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-29",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/29/high.jpg",
+        "localId": "29",
+        "name": "Magikarp",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183800
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-30",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/30/high.jpg",
+        "localId": "30",
+        "name": "Gyarados",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183801
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-31",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/31/high.jpg",
+        "localId": "31",
+        "name": "Lapras",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183802
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-32",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/32/high.jpg",
+        "localId": "32",
+        "name": "Articuno",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183803
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-33",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/33/high.jpg",
+        "localId": "33",
+        "name": "Pikachu & Zekrom GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183804
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-34",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/34/high.jpg",
+        "localId": "34",
+        "name": "Alolan Geodude",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183807
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-35",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/35/high.jpg",
+        "localId": "35",
+        "name": "Alolan Geodude",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183808
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-36",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/36/high.jpg",
+        "localId": "36",
+        "name": "Alolan Graveler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183809
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-37",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/37/high.jpg",
+        "localId": "37",
+        "name": "Alolan Golem",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183810
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-38",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/38/high.jpg",
+        "localId": "38",
+        "name": "Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183811
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-39",
+        "illustrator": "Asako Ito",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/39/high.jpg",
+        "localId": "39",
+        "name": "Electrode",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183812
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-40",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/40/high.jpg",
+        "localId": "40",
+        "name": "Zapdos",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183813
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-41",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/41/high.jpg",
+        "localId": "41",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183814
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-42",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/42/high.jpg",
+        "localId": "42",
+        "name": "Flaaffy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183815
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-43",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/43/high.jpg",
+        "localId": "43",
+        "name": "Ampharos GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183816
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-44",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/44/high.jpg",
+        "localId": "44",
+        "name": "Blitzle",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183819
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-45",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/45/high.jpg",
+        "localId": "45",
+        "name": "Zebstrika",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183820
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-46",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/46/high.jpg",
+        "localId": "46",
+        "name": "Emolga",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183821
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-47",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/47/high.jpg",
+        "localId": "47",
+        "name": "Joltik",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183822
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-48",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/48/high.jpg",
+        "localId": "48",
+        "name": "Galvantula",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183823
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-49",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/49/high.jpg",
+        "localId": "49",
+        "name": "Helioptile",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183824
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-50",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/50/high.jpg",
+        "localId": "50",
+        "name": "Heliolisk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183825
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-51",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/51/high.jpg",
+        "localId": "51",
+        "name": "Tapu Koko ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-52",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/52/high.jpg",
+        "localId": "52",
+        "name": "Zeraora",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183827
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-53",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/53/high.jpg",
+        "localId": "53",
+        "name": "Gengar & Mimikyu GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183828
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-54",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/54/high.jpg",
+        "localId": "54",
+        "name": "Nidoran♀",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-55",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/55/high.jpg",
+        "localId": "55",
+        "name": "Nidorina",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183833
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-56",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/56/high.jpg",
+        "localId": "56",
+        "name": "Nidoqueen",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183834
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-57",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/57/high.jpg",
+        "localId": "57",
+        "name": "Nidoran♂",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-58",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/58/high.jpg",
+        "localId": "58",
+        "name": "Nidorino",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183836
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-59",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/59/high.jpg",
+        "localId": "59",
+        "name": "Nidoking",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183837
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-60",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/60/high.jpg",
+        "localId": "60",
+        "name": "Tentacool",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183838
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-61",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/61/high.jpg",
+        "localId": "61",
+        "name": "Tentacruel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183839
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-62",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/62/high.jpg",
+        "localId": "62",
+        "name": "Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183840
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-63",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/63/high.jpg",
+        "localId": "63",
+        "name": "Muk",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183841
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-64",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/64/high.jpg",
+        "localId": "64",
+        "name": "Alolan Marowak",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183842
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-65",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/65/high.jpg",
+        "localId": "65",
+        "name": "Starmie",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183843
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-66",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/66/high.jpg",
+        "localId": "66",
+        "name": "Mr. Mime",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183844
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-67",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/67/high.jpg",
+        "localId": "67",
+        "name": "Mr. Mime GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183845
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-68",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/68/high.jpg",
+        "localId": "68",
+        "name": "Jynx",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183846
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-69",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/69/high.jpg",
+        "localId": "69",
+        "name": "Cosmog",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183847
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-70",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/70/high.jpg",
+        "localId": "70",
+        "name": "Cosmoem",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183848
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-71",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/71/high.jpg",
+        "localId": "71",
+        "name": "Mankey",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183849
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-72",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/72/high.jpg",
+        "localId": "72",
+        "name": "Primeape",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183850
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-73",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/73/high.jpg",
+        "localId": "73",
+        "name": "Hitmonlee",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183851
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-74",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/74/high.jpg",
+        "localId": "74",
+        "name": "Hitmonchan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183852
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-75",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/75/high.jpg",
+        "localId": "75",
+        "name": "Omanyte",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183853
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-76",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/76/high.jpg",
+        "localId": "76",
+        "name": "Omastar",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183854
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-77",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/77/high.jpg",
+        "localId": "77",
+        "name": "Kabuto",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183855
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-78",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/78/high.jpg",
+        "localId": "78",
+        "name": "Kabutops",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183856
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-79",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/79/high.jpg",
+        "localId": "79",
+        "name": "Larvitar",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183857
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-80",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/80/high.jpg",
+        "localId": "80",
+        "name": "Pupitar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183858
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-81",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/81/high.jpg",
+        "localId": "81",
+        "name": "Pancham",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183859
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-82",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/82/high.jpg",
+        "localId": "82",
+        "name": "Lycanroc GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183860
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-83",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/83/high.jpg",
+        "localId": "83",
+        "name": "Alolan Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183861
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-84",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/84/high.jpg",
+        "localId": "84",
+        "name": "Alolan Muk",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183862
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-85",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/85/high.jpg",
+        "localId": "85",
+        "name": "Tyranitar",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183863
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-86",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/86/high.jpg",
+        "localId": "86",
+        "name": "Poochyena",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183864
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-87",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/87/high.jpg",
+        "localId": "87",
+        "name": "Mightyena",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183865
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-88",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/88/high.jpg",
+        "localId": "88",
+        "name": "Absol",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183866
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-89",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/89/high.jpg",
+        "localId": "89",
+        "name": "Spiritomb",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183867
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-90",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/90/high.jpg",
+        "localId": "90",
+        "name": "Zorua",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183868
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-91",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/91/high.jpg",
+        "localId": "91",
+        "name": "Zoroark",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183869
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-92",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/92/high.jpg",
+        "localId": "92",
+        "name": "Vullaby",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183870
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-93",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/93/high.jpg",
+        "localId": "93",
+        "name": "Mandibuzz",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183871
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-94",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/94/high.jpg",
+        "localId": "94",
+        "name": "Pangoro",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183872
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-95",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/95/high.jpg",
+        "localId": "95",
+        "name": "Yveltal",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183873
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-96",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/96/high.jpg",
+        "localId": "96",
+        "name": "Hoopa GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183874
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-97",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/97/high.jpg",
+        "localId": "97",
+        "name": "Incineroar GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183877
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-98",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/98/high.jpg",
+        "localId": "98",
+        "name": "Skarmory",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183880
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-99",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/99/high.jpg",
+        "localId": "99",
+        "name": "Jirachi",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183881
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-100",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/100/high.jpg",
+        "localId": "100",
+        "name": "Bronzor",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183882
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-101",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/101/high.jpg",
+        "localId": "101",
+        "name": "Bronzong",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183883
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-102",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/102/high.jpg",
+        "localId": "102",
+        "name": "Ferroseed",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183884
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-103",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/103/high.jpg",
+        "localId": "103",
+        "name": "Ferrothorn",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183885
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-104",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/104/high.jpg",
+        "localId": "104",
+        "name": "Pawniard",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183886
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-105",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/105/high.jpg",
+        "localId": "105",
+        "name": "Bisharp",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183887
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-106",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/106/high.jpg",
+        "localId": "106",
+        "name": "Cobalion GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183888
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-107",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/107/high.jpg",
+        "localId": "107",
+        "name": "Honedge",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183891
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-108",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/108/high.jpg",
+        "localId": "108",
+        "name": "Doublade",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183892
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-109",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/109/high.jpg",
+        "localId": "109",
+        "name": "Aegislash",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183893
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-110",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/110/high.jpg",
+        "localId": "110",
+        "name": "Klefki",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183894
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-111",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/111/high.jpg",
+        "localId": "111",
+        "name": "Alolan Ninetales",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183895
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-112",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/112/high.jpg",
+        "localId": "112",
+        "name": "Mimikyu",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183896
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-113",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/113/high.jpg",
+        "localId": "113",
+        "name": "Latias & Latios GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183897
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-114",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/114/high.jpg",
+        "localId": "114",
+        "name": "Alolan Exeggutor",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183901
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-115",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/115/high.jpg",
+        "localId": "115",
+        "name": "Alolan Exeggutor",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183902
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-116",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/116/high.jpg",
+        "localId": "116",
+        "name": "Dratini",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183903
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-117",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/117/high.jpg",
+        "localId": "117",
+        "name": "Dratini",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183904
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-118",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/118/high.jpg",
+        "localId": "118",
+        "name": "Dragonair",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183905
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-119",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/119/high.jpg",
+        "localId": "119",
+        "name": "Dragonite",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183906
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-120",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/120/high.jpg",
+        "localId": "120",
+        "name": "Eevee & Snorlax GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183907
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-121",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/121/high.jpg",
+        "localId": "121",
+        "name": "Pidgey",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183910
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-122",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/122/high.jpg",
+        "localId": "122",
+        "name": "Pidgey",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183911
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-123",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/123/high.jpg",
+        "localId": "123",
+        "name": "Pidgeotto",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183912
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-124",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/124/high.jpg",
+        "localId": "124",
+        "name": "Pidgeot",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183913
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-125",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/125/high.jpg",
+        "localId": "125",
+        "name": "Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183914
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-126",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/126/high.jpg",
+        "localId": "126",
+        "name": "Persian",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183915
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-127",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/127/high.jpg",
+        "localId": "127",
+        "name": "Farfetch’d",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-128",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/128/high.jpg",
+        "localId": "128",
+        "name": "Kangaskhan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183917
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-129",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/129/high.jpg",
+        "localId": "129",
+        "name": "Tauros",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183918
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-130",
+        "illustrator": "hatachu",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/130/high.jpg",
+        "localId": "130",
+        "name": "Aerodactyl",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183919
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-131",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/131/high.jpg",
+        "localId": "131",
+        "name": "Lugia",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183920
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-132",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/132/high.jpg",
+        "localId": "132",
+        "name": "Zangoose",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183921
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-133",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/133/high.jpg",
+        "localId": "133",
+        "name": "Bill’s Analysis",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-134",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/134/high.jpg",
+        "localId": "134",
+        "name": "Black Market ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-135",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/135/high.jpg",
+        "localId": "135",
+        "name": "Brock’s Grit",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-136",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/136/high.jpg",
+        "localId": "136",
+        "name": "Buff Padding",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183926
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-137",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/137/high.jpg",
+        "localId": "137",
+        "name": "Dana",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183927
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-138",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/138/high.jpg",
+        "localId": "138",
+        "name": "Dangerous Drill",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183930
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-139",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/139/high.jpg",
+        "localId": "139",
+        "name": "Electrocharger",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183931
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-140",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/140/high.jpg",
+        "localId": "140",
+        "name": "Erika’s Hospitality",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-141",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/141/high.jpg",
+        "localId": "141",
+        "name": "Evelyn",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183935
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-142",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/142/high.jpg",
+        "localId": "142",
+        "name": "Fairy Charm UB",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183937
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-143",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/143/high.jpg",
+        "localId": "143",
+        "name": "Grass Memory",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183938
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-144",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/144/high.jpg",
+        "localId": "144",
+        "name": "Ingo & Emmet",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183939
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-145",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/145/high.jpg",
+        "localId": "145",
+        "name": "Jasmine",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183942
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-146",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/146/high.jpg",
+        "localId": "146",
+        "name": "Judge Whistle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183943
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-147",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/147/high.jpg",
+        "localId": "147",
+        "name": "Lavender Town",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183945
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-148",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/148/high.jpg",
+        "localId": "148",
+        "name": "Metal Goggles",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183946
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-149",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/149/high.jpg",
+        "localId": "149",
+        "name": "Morgan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183949
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-150",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/150/high.jpg",
+        "localId": "150",
+        "name": "Nanu",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183950
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-151",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/151/high.jpg",
+        "localId": "151",
+        "name": "Nita",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183953
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-152",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/152/high.jpg",
+        "localId": "152",
+        "name": "Pokémon Communication",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-153",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/153/high.jpg",
+        "localId": "153",
+        "name": "Return Label",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183956
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-154",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/154/high.jpg",
+        "localId": "154",
+        "name": "Sabrina’s Suggestion",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-155",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/155/high.jpg",
+        "localId": "155",
+        "name": "Unidentified Fossil",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183959
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-156",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/156/high.jpg",
+        "localId": "156",
+        "name": "Viridian Forest",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183960
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-157",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/157/high.jpg",
+        "localId": "157",
+        "name": "Water Memory",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183961
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-158",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/158/high.jpg",
+        "localId": "158",
+        "name": "Wondrous Labyrinth ◇",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-159",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/159/high.jpg",
+        "localId": "159",
+        "name": "Celebi & Venusaur GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183771
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-160",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/160/high.jpg",
+        "localId": "160",
+        "name": "Magikarp & Wailord GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183963
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-161",
+        "illustrator": "OOYAMA",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/161/high.jpg",
+        "localId": "161",
+        "name": "Magikarp & Wailord GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183964
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-162",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/162/high.jpg",
+        "localId": "162",
+        "name": "Pikachu & Zekrom GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183805
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-163",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/163/high.jpg",
+        "localId": "163",
+        "name": "Ampharos GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183817
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-164",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/164/high.jpg",
+        "localId": "164",
+        "name": "Gengar & Mimikyu GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183829
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-165",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/165/high.jpg",
+        "localId": "165",
+        "name": "Gengar & Mimikyu GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183830
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-166",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/166/high.jpg",
+        "localId": "166",
+        "name": "Hoopa GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183875
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-167",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/167/high.jpg",
+        "localId": "167",
+        "name": "Incineroar GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183878
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-168",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/168/high.jpg",
+        "localId": "168",
+        "name": "Cobalion GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183889
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-169",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/169/high.jpg",
+        "localId": "169",
+        "name": "Latias & Latios GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183898
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-170",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/170/high.jpg",
+        "localId": "170",
+        "name": "Latias & Latios GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183899
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-171",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/171/high.jpg",
+        "localId": "171",
+        "name": "Eevee & Snorlax GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183908
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-172",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/172/high.jpg",
+        "localId": "172",
+        "name": "Brock’s Grit",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-173",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/173/high.jpg",
+        "localId": "173",
+        "name": "Dana",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183928
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-174",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/174/high.jpg",
+        "localId": "174",
+        "name": "Erika’s Hospitality",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-175",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/175/high.jpg",
+        "localId": "175",
+        "name": "Evelyn",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183936
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-176",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/176/high.jpg",
+        "localId": "176",
+        "name": "Ingo & Emmet",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183940
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-177",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/177/high.jpg",
+        "localId": "177",
+        "name": "Jasmine",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183941
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-178",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/178/high.jpg",
+        "localId": "178",
+        "name": "Morgan",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183948
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-179",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/179/high.jpg",
+        "localId": "179",
+        "name": "Nanu",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183951
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-180",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/180/high.jpg",
+        "localId": "180",
+        "name": "Nita",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183952
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-181",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/181/high.jpg",
+        "localId": "181",
+        "name": "Sabrina’s Suggestion",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-182",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/182/high.jpg",
+        "localId": "182",
+        "name": "Celebi & Venusaur GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183772
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-183",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/183/high.jpg",
+        "localId": "183",
+        "name": "Magikarp & Wailord GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183965
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-184",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/184/high.jpg",
+        "localId": "184",
+        "name": "Pikachu & Zekrom GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183806
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-185",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/185/high.jpg",
+        "localId": "185",
+        "name": "Ampharos GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183818
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-186",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/186/high.jpg",
+        "localId": "186",
+        "name": "Gengar & Mimikyu GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183831
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-187",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/187/high.jpg",
+        "localId": "187",
+        "name": "Hoopa GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183876
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-188",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/188/high.jpg",
+        "localId": "188",
+        "name": "Incineroar GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183879
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-189",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/189/high.jpg",
+        "localId": "189",
+        "name": "Cobalion GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183890
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-190",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/190/high.jpg",
+        "localId": "190",
+        "name": "Latias & Latios GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183900
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm9-191",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/191/high.jpg",
+        "localId": "191",
+        "name": "Eevee & Snorlax GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183909
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-192",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/192/high.jpg",
+        "localId": "192",
+        "name": "Dangerous Drill",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183929
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-193",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/193/high.jpg",
+        "localId": "193",
+        "name": "Electrocharger",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183932
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-194",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/194/high.jpg",
+        "localId": "194",
+        "name": "Judge Whistle",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183944
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-195",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/195/high.jpg",
+        "localId": "195",
+        "name": "Metal Goggles",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        },
+        "tcgplayerId": 183947
+    },
+    {
+        "category": "Trainer",
+        "id": "sm9-196",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sm/sm9/196/high.jpg",
+        "localId": "196",
+        "name": "Pokémon Communication",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm9",
+            "logo": "https://assets.tcgdex.net/en/sm/sm9/logo.jpg",
+            "name": "Team Up",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm9/symbol.jpg",
+            "releaseDate": "2019-01-31"
+        }
+    }
+]

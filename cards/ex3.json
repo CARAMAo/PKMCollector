@@ -1,0 +1,1702 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "ex3-1",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/1/high.jpg",
+        "localId": "1",
+        "name": "Absol",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 83449
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-2",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/2/high.jpg",
+        "localId": "2",
+        "name": "Altaria",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 83513
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-3",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/3/high.jpg",
+        "localId": "3",
+        "name": "Crawdaunt",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 84461
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-4",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/4/high.jpg",
+        "localId": "4",
+        "name": "Flygon",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85521
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-5",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/5/high.jpg",
+        "localId": "5",
+        "name": "Golem",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85826
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-6",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/6/high.jpg",
+        "localId": "6",
+        "name": "Grumpig",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85964
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-7",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/7/high.jpg",
+        "localId": "7",
+        "name": "Minun",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87481
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-8",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/8/high.jpg",
+        "localId": "8",
+        "name": "Plusle",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 88161
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-9",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/9/high.jpg",
+        "localId": "9",
+        "name": "Roselia",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 88817
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-10",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/10/high.jpg",
+        "localId": "10",
+        "name": "Salamence",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 88895
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-11",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/11/high.jpg",
+        "localId": "11",
+        "name": "Shedinja",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89117
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-12",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/12/high.jpg",
+        "localId": "12",
+        "name": "Torkoal",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89966
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-13",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/13/high.jpg",
+        "localId": "13",
+        "name": "Crawdaunt",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 84462
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-14",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/14/high.jpg",
+        "localId": "14",
+        "name": "Dragonair",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 84899
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-15",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/15/high.jpg",
+        "localId": "15",
+        "name": "Flygon",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85522
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-16",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/16/high.jpg",
+        "localId": "16",
+        "name": "Girafarig",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85729
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-17",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/17/high.jpg",
+        "localId": "17",
+        "name": "Magneton",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87100
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-18",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/18/high.jpg",
+        "localId": "18",
+        "name": "Ninjask",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87783
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-19",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/19/high.jpg",
+        "localId": "19",
+        "name": "Salamence",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 88896
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-20",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/20/high.jpg",
+        "localId": "20",
+        "name": "Shelgon",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89122
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-21",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/21/high.jpg",
+        "localId": "21",
+        "name": "Skarmory",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89237
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-22",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/22/high.jpg",
+        "localId": "22",
+        "name": "Vibrava",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 90332
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-23",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/23/high.jpg",
+        "localId": "23",
+        "name": "Bagon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 83691
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-24",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/24/high.jpg",
+        "localId": "24",
+        "name": "Camerupt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 84088
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-25",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/25/high.jpg",
+        "localId": "25",
+        "name": "Combusken",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 84402
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-26",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/26/high.jpg",
+        "localId": "26",
+        "name": "Dratini",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 84932
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-27",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/27/high.jpg",
+        "localId": "27",
+        "name": "Flaaffy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85476
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-28",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/28/high.jpg",
+        "localId": "28",
+        "name": "Forretress",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85547
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-29",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/29/high.jpg",
+        "localId": "29",
+        "name": "Graveler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85889
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-30",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/30/high.jpg",
+        "localId": "30",
+        "name": "Graveler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85890
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-31",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/31/high.jpg",
+        "localId": "31",
+        "name": "Grovyle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85937
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-32",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/32/high.jpg",
+        "localId": "32",
+        "name": "Gyarados",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85990
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-33",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/33/high.jpg",
+        "localId": "33",
+        "name": "Horsea",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 86188
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-34",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/34/high.jpg",
+        "localId": "34",
+        "name": "Houndoom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 86205
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-35",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/35/high.jpg",
+        "localId": "35",
+        "name": "Magneton",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87101
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-36",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/36/high.jpg",
+        "localId": "36",
+        "name": "Marshtomp",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87234
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-37",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/37/high.jpg",
+        "localId": "37",
+        "name": "Meditite",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87278
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-38",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/38/high.jpg",
+        "localId": "38",
+        "name": "Ninjask",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87784
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-39",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/39/high.jpg",
+        "localId": "39",
+        "name": "Seadra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89012
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-40",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/40/high.jpg",
+        "localId": "40",
+        "name": "Seadra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89013
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-41",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/41/high.jpg",
+        "localId": "41",
+        "name": "Shelgon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89123
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-42",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/42/high.jpg",
+        "localId": "42",
+        "name": "Shelgon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89124
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-43",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/43/high.jpg",
+        "localId": "43",
+        "name": "Shuppet",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89195
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-44",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/44/high.jpg",
+        "localId": "44",
+        "name": "Snorunt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89398
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-45",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/45/high.jpg",
+        "localId": "45",
+        "name": "Swellow",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89689
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-46",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/46/high.jpg",
+        "localId": "46",
+        "name": "Vibrava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 90333
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-47",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/47/high.jpg",
+        "localId": "47",
+        "name": "Vibrava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 90334
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-48",
+        "illustrator": "Tomokazu",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/48/high.jpg",
+        "localId": "48",
+        "name": "Whiscash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 90574
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-49",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/49/high.jpg",
+        "localId": "49",
+        "name": "Bagon",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 83692
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-50",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/50/high.jpg",
+        "localId": "50",
+        "name": "Bagon",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 83693
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-51",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/51/high.jpg",
+        "localId": "51",
+        "name": "Barboach",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 83726
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-52",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/52/high.jpg",
+        "localId": "52",
+        "name": "Corphish",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 84429
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-53",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/53/high.jpg",
+        "localId": "53",
+        "name": "Corphish",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 84430
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-54",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/54/high.jpg",
+        "localId": "54",
+        "name": "Corphish",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 84431
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-55",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/55/high.jpg",
+        "localId": "55",
+        "name": "Geodude",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85687
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-56",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/56/high.jpg",
+        "localId": "56",
+        "name": "Geodude",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85688
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-57",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/57/high.jpg",
+        "localId": "57",
+        "name": "Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85908
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-58",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/58/high.jpg",
+        "localId": "58",
+        "name": "Horsea",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 86189
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-59",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/59/high.jpg",
+        "localId": "59",
+        "name": "Houndour",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 86224
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-60",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/60/high.jpg",
+        "localId": "60",
+        "name": "Magikarp",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87025
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-61",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/61/high.jpg",
+        "localId": "61",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87072
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-62",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/62/high.jpg",
+        "localId": "62",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87073
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-63",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/63/high.jpg",
+        "localId": "63",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87074
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-64",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/64/high.jpg",
+        "localId": "64",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87197
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-65",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/65/high.jpg",
+        "localId": "65",
+        "name": "Mudkip",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87607
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-66",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/66/high.jpg",
+        "localId": "66",
+        "name": "Nincada",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87756
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-67",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/67/high.jpg",
+        "localId": "67",
+        "name": "Nincada",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87757
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-68",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/68/high.jpg",
+        "localId": "68",
+        "name": "Nincada",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87758
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-69",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/69/high.jpg",
+        "localId": "69",
+        "name": "Numel",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87806
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-70",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/70/high.jpg",
+        "localId": "70",
+        "name": "Numel",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87807
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-71",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/71/high.jpg",
+        "localId": "71",
+        "name": "Pineco",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 88126
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-72",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/72/high.jpg",
+        "localId": "72",
+        "name": "Slugma",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89340
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-73",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/73/high.jpg",
+        "localId": "73",
+        "name": "Spoink",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89470
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-74",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/74/high.jpg",
+        "localId": "74",
+        "name": "Spoink",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89471
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-75",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/75/high.jpg",
+        "localId": "75",
+        "name": "Swablu",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89653
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-76",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/76/high.jpg",
+        "localId": "76",
+        "name": "Taillow",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89731
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-77",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/77/high.jpg",
+        "localId": "77",
+        "name": "Torchic",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 89951
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-78",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/78/high.jpg",
+        "localId": "78",
+        "name": "Trapinch",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 90019
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-79",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/79/high.jpg",
+        "localId": "79",
+        "name": "Trapinch",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 90020
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-80",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/80/high.jpg",
+        "localId": "80",
+        "name": "Treecko",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 90034
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-81",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/81/high.jpg",
+        "localId": "81",
+        "name": "Wurmple",
+        "rarity": "Common",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 90648
+    },
+    {
+        "category": "Trainer",
+        "id": "ex3-82",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/82/high.jpg",
+        "localId": "82",
+        "name": "Balloon Berry",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 83708
+    },
+    {
+        "category": "Trainer",
+        "id": "ex3-83",
+        "illustrator": "Katsura Tabata",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/83/high.jpg",
+        "localId": "83",
+        "name": "Buffer Piece",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 84012
+    },
+    {
+        "category": "Trainer",
+        "id": "ex3-84",
+        "illustrator": "Zu-Ka",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/84/high.jpg",
+        "localId": "84",
+        "name": "Energy Recycle System",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85216
+    },
+    {
+        "category": "Trainer",
+        "id": "ex3-85",
+        "illustrator": "Ken Ikuji",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/85/high.jpg",
+        "localId": "85",
+        "name": "High Pressure System",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 86076
+    },
+    {
+        "category": "Trainer",
+        "id": "ex3-86",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/86/high.jpg",
+        "localId": "86",
+        "name": "Low Pressure System",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 86846
+    },
+    {
+        "category": "Trainer",
+        "id": "ex3-87",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/87/high.jpg",
+        "localId": "87",
+        "name": "Mr. Briney's Compassion",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87585
+    },
+    {
+        "category": "Trainer",
+        "id": "ex3-88",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/88/high.jpg",
+        "localId": "88",
+        "name": "TV Reporter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 90083
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-89",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/89/high.jpg",
+        "localId": "89",
+        "name": "Ampharos ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 83550
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-90",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/90/high.jpg",
+        "localId": "90",
+        "name": "Dragonite ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 84918
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-91",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/91/high.jpg",
+        "localId": "91",
+        "name": "Golem ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 85831
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-92",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/92/high.jpg",
+        "localId": "92",
+        "name": "Kingdra ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 86451
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-93",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/93/high.jpg",
+        "localId": "93",
+        "name": "Latias ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 86659
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-94",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/94/high.jpg",
+        "localId": "94",
+        "name": "Latios ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 86673
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-95",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/95/high.jpg",
+        "localId": "95",
+        "name": "Magcargo ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87019
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-96",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/96/high.jpg",
+        "localId": "96",
+        "name": "Muk ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 87628
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-97",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/97/high.jpg",
+        "localId": "97",
+        "name": "Rayquaza ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 88642
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-98",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/98/high.jpg",
+        "localId": "98",
+        "name": "Charmander",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 84208
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-99",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/99/high.jpg",
+        "localId": "99",
+        "name": "Charmeleon",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 84225
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex3-100",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex3/100/high.jpg",
+        "localId": "100",
+        "name": "Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex3",
+            "logo": "https://assets.tcgdex.net/en/ex/ex3/logo.jpg",
+            "name": "Dragon",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex3/symbol.jpg",
+            "releaseDate": "2003-11-24"
+        },
+        "tcgplayerId": 84187
+    }
+]

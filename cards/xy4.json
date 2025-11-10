@@ -1,0 +1,2103 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "xy4-1",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/1/high.jpg",
+        "localId": "1",
+        "name": "Venonat",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94134
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-2",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/2/high.jpg",
+        "localId": "2",
+        "name": "Venomoth",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94135
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-3",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/3/high.jpg",
+        "localId": "3",
+        "name": "Yanma",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94136
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-4",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/4/high.jpg",
+        "localId": "4",
+        "name": "Yanmega",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94137
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-5",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/5/high.jpg",
+        "localId": "5",
+        "name": "Sewaddle",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94138
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-6",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/6/high.jpg",
+        "localId": "6",
+        "name": "Swadloon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94139
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-7",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/7/high.jpg",
+        "localId": "7",
+        "name": "Leavanny",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94140
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-8",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/8/high.jpg",
+        "localId": "8",
+        "name": "Karrablast",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94141
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-9",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/9/high.jpg",
+        "localId": "9",
+        "name": "Fletchinder",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94142
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-10",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/10/high.jpg",
+        "localId": "10",
+        "name": "Talonflame",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94143
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-11",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/11/high.jpg",
+        "localId": "11",
+        "name": "Litleo",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94144
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-12",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/12/high.jpg",
+        "localId": "12",
+        "name": "Pyroar",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94145
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-13",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/13/high.jpg",
+        "localId": "13",
+        "name": "Krabby",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94146
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-14",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/14/high.jpg",
+        "localId": "14",
+        "name": "Kingler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94147
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-15",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/15/high.jpg",
+        "localId": "15",
+        "name": "Totodile",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94148
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-16",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/16/high.jpg",
+        "localId": "16",
+        "name": "Croconaw",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94149
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-17",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/17/high.jpg",
+        "localId": "17",
+        "name": "Feraligatr",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94150
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-18",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/18/high.jpg",
+        "localId": "18",
+        "name": "Finneon",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94151
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-19",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/19/high.jpg",
+        "localId": "19",
+        "name": "Lumineon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94152
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-20",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/20/high.jpg",
+        "localId": "20",
+        "name": "Frillish",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94153
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-21",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/21/high.jpg",
+        "localId": "21",
+        "name": "Jellicent",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94154
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-22",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/22/high.jpg",
+        "localId": "22",
+        "name": "Alomomola",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94155
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-23",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/23/high.jpg",
+        "localId": "23",
+        "name": "Manectric EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94156
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-24",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/24/high.jpg",
+        "localId": "24",
+        "name": "M Manectric EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94157
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-24a",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/24a/high.jpg",
+        "localId": "24a",
+        "name": "M Manectric EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-25",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/25/high.jpg",
+        "localId": "25",
+        "name": "Pachirisu",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94158
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-26",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/26/high.jpg",
+        "localId": "26",
+        "name": "Joltik",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94159
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-27",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/27/high.jpg",
+        "localId": "27",
+        "name": "Galvantula",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94160
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-28",
+        "illustrator": "HiRON",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/28/high.jpg",
+        "localId": "28",
+        "name": "Helioptile",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94161
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-29",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/29/high.jpg",
+        "localId": "29",
+        "name": "Helioptile",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94162
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-30",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/30/high.jpg",
+        "localId": "30",
+        "name": "Heliolisk",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94163
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-31",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/31/high.jpg",
+        "localId": "31",
+        "name": "Zubat",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94164
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-32",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/32/high.jpg",
+        "localId": "32",
+        "name": "Golbat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94165
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-33",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/33/high.jpg",
+        "localId": "33",
+        "name": "Crobat",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94166
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-34",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/34/high.jpg",
+        "localId": "34",
+        "name": "Gengar EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94167
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-35",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/35/high.jpg",
+        "localId": "35",
+        "name": "M Gengar EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94168
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-36",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/36/high.jpg",
+        "localId": "36",
+        "name": "Wobbuffet",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94169
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-37",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/37/high.jpg",
+        "localId": "37",
+        "name": "Gulpin",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94235
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-38",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/38/high.jpg",
+        "localId": "38",
+        "name": "Swalot",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94236
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-39",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/39/high.jpg",
+        "localId": "39",
+        "name": "Munna",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94237
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-40",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/40/high.jpg",
+        "localId": "40",
+        "name": "Musharna",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94238
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-41",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/41/high.jpg",
+        "localId": "41",
+        "name": "Litwick",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94239
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-42",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/42/high.jpg",
+        "localId": "42",
+        "name": "Lampent",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94500
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-43",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/43/high.jpg",
+        "localId": "43",
+        "name": "Chandelure",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94501
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-44",
+        "illustrator": "HiRON",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/44/high.jpg",
+        "localId": "44",
+        "name": "Pumpkaboo",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94502
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-45",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/45/high.jpg",
+        "localId": "45",
+        "name": "Gourgeist",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94503
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-46",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/46/high.jpg",
+        "localId": "46",
+        "name": "Gligar",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94504
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-47",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/47/high.jpg",
+        "localId": "47",
+        "name": "Gliscor",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94505
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-48",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/48/high.jpg",
+        "localId": "48",
+        "name": "Roggenrola",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94506
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-49",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/49/high.jpg",
+        "localId": "49",
+        "name": "Boldore",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94507
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-50",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/50/high.jpg",
+        "localId": "50",
+        "name": "Gigalith",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94508
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-51",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/51/high.jpg",
+        "localId": "51",
+        "name": "Murkrow",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94509
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-52",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/52/high.jpg",
+        "localId": "52",
+        "name": "Honchkrow",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94510
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-53",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/53/high.jpg",
+        "localId": "53",
+        "name": "Poochyena",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94511
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-54",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/54/high.jpg",
+        "localId": "54",
+        "name": "Mightyena",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94512
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-55",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/55/high.jpg",
+        "localId": "55",
+        "name": "Spiritomb",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94513
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-56",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/56/high.jpg",
+        "localId": "56",
+        "name": "Purrloin",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94514
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-57",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/57/high.jpg",
+        "localId": "57",
+        "name": "Liepard",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94515
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-58",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/58/high.jpg",
+        "localId": "58",
+        "name": "Malamar EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94626
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-59",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/59/high.jpg",
+        "localId": "59",
+        "name": "Skarmory",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94627
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-60",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/60/high.jpg",
+        "localId": "60",
+        "name": "Bronzor",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94628
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-61",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/61/high.jpg",
+        "localId": "61",
+        "name": "Bronzong",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94629
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-62",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/62/high.jpg",
+        "localId": "62",
+        "name": "Dialga EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94630
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-63",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/63/high.jpg",
+        "localId": "63",
+        "name": "Heatran",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94631
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-64",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/64/high.jpg",
+        "localId": "64",
+        "name": "Escavalier",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94632
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-65",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/65/high.jpg",
+        "localId": "65",
+        "name": "Aegislash EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94633
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-65a",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/65a/high.jpg",
+        "localId": "65a",
+        "name": "Aegislash EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-66",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/66/high.jpg",
+        "localId": "66",
+        "name": "Klefki",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94634
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-67",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/67/high.jpg",
+        "localId": "67",
+        "name": "Florges EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94635
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-68",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/68/high.jpg",
+        "localId": "68",
+        "name": "Swirlix",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94636
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-69",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/69/high.jpg",
+        "localId": "69",
+        "name": "Slurpuff",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94637
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-70",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/70/high.jpg",
+        "localId": "70",
+        "name": "Dedenne",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94638
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-71",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/71/high.jpg",
+        "localId": "71",
+        "name": "Diancie",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94639
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-72",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/72/high.jpg",
+        "localId": "72",
+        "name": "Deino",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94640
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-73",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/73/high.jpg",
+        "localId": "73",
+        "name": "Zweilous",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94641
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-74",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/74/high.jpg",
+        "localId": "74",
+        "name": "Hydreigon",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94642
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-75",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/75/high.jpg",
+        "localId": "75",
+        "name": "Goomy",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94643
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-76",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/76/high.jpg",
+        "localId": "76",
+        "name": "Sliggoo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94644
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-77",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/77/high.jpg",
+        "localId": "77",
+        "name": "Goodra",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94645
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-78",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/78/high.jpg",
+        "localId": "78",
+        "name": "Spearow",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94646
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-79",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/79/high.jpg",
+        "localId": "79",
+        "name": "Fearow",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94647
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-80",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/80/high.jpg",
+        "localId": "80",
+        "name": "Chansey",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94648
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-81",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/81/high.jpg",
+        "localId": "81",
+        "name": "Blissey",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94649
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-82",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/82/high.jpg",
+        "localId": "82",
+        "name": "Girafarig",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94650
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-83",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/83/high.jpg",
+        "localId": "83",
+        "name": "Whismur",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94651
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-84",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/84/high.jpg",
+        "localId": "84",
+        "name": "Loudred",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94652
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-85",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/85/high.jpg",
+        "localId": "85",
+        "name": "Exploud",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94653
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-86",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/86/high.jpg",
+        "localId": "86",
+        "name": "Regigigas",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94654
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-87",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/87/high.jpg",
+        "localId": "87",
+        "name": "Bunnelby",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94655
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-88",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/88/high.jpg",
+        "localId": "88",
+        "name": "Diggersby",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94656
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-89",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/89/high.jpg",
+        "localId": "89",
+        "name": "Fletchling",
+        "rarity": "Common",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94657
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-90",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/90/high.jpg",
+        "localId": "90",
+        "name": "Furfrou",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94658
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-91",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/91/high.jpg",
+        "localId": "91",
+        "name": "AZ",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94659
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-92",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/92/high.jpg",
+        "localId": "92",
+        "name": "Battle Compressor Team Flare Gear",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-93",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/93/high.jpg",
+        "localId": "93",
+        "name": "Dimension Valley",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94662
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-94",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/94/high.jpg",
+        "localId": "94",
+        "name": "Enhanced Hammer",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94690
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-95",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/95/high.jpg",
+        "localId": "95",
+        "name": "Gengar Spirit Link",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94663
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-96",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/96/high.jpg",
+        "localId": "96",
+        "name": "Hand Scope",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94664
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-97",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/97/high.jpg",
+        "localId": "97",
+        "name": "Head Ringer Team Flare Hyper Gear",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-98",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/98/high.jpg",
+        "localId": "98",
+        "name": "Jamming Net Team Flare Hyper Gear",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-99",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/99/high.jpg",
+        "localId": "99",
+        "name": "Lysandre's Trump Card",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94667
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-100",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/100/high.jpg",
+        "localId": "100",
+        "name": "Manectric Spirit Link",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94668
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-101",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/101/high.jpg",
+        "localId": "101",
+        "name": "Professor Sycamore",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94669
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-102",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/102/high.jpg",
+        "localId": "102",
+        "name": "Robo Substitute Team Flare Gear",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-103",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/103/high.jpg",
+        "localId": "103",
+        "name": "Roller Skates",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94671
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-104",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/104/high.jpg",
+        "localId": "104",
+        "name": "Shauna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94672
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-105",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/105/high.jpg",
+        "localId": "105",
+        "name": "Steel Shelter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94673
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-106",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/106/high.jpg",
+        "localId": "106",
+        "name": "Target Whistle Team Flare Gear",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-107",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/107/high.jpg",
+        "localId": "107",
+        "name": "Tierno",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94675
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-108",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/108/high.jpg",
+        "localId": "108",
+        "name": "Trick Coin",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94676
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-109",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/109/high.jpg",
+        "localId": "109",
+        "name": "VS Seeker",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94677
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-110",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/110/high.jpg",
+        "localId": "110",
+        "name": "Xerosic",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94678
+    },
+    {
+        "category": "Energy",
+        "id": "xy4-111",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/111/high.jpg",
+        "localId": "111",
+        "name": "Double Colorless Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94680
+    },
+    {
+        "category": "Energy",
+        "id": "xy4-112",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/112/high.jpg",
+        "localId": "112",
+        "name": "Mystery Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94681
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-113",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/113/high.jpg",
+        "localId": "113",
+        "name": "Manectric EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94682
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-114",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/114/high.jpg",
+        "localId": "114",
+        "name": "Gengar EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94683
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-115",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/115/high.jpg",
+        "localId": "115",
+        "name": "Malamar EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94684
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-116",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/116/high.jpg",
+        "localId": "116",
+        "name": "Florges EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94685
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-117",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/117/high.jpg",
+        "localId": "117",
+        "name": "AZ",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94660
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-118",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/118/high.jpg",
+        "localId": "118",
+        "name": "Lysandre's Trump Card",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94686
+    },
+    {
+        "category": "Trainer",
+        "id": "xy4-119",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/119/high.jpg",
+        "localId": "119",
+        "name": "Xerosic",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94679
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-120",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/120/high.jpg",
+        "localId": "120",
+        "name": "M Manectric EX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94687
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-121",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/121/high.jpg",
+        "localId": "121",
+        "name": "M Gengar EX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94688
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy4-122",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/xy/xy4/122/high.jpg",
+        "localId": "122",
+        "name": "Dialga EX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "xy4",
+            "logo": "https://assets.tcgdex.net/en/xy/xy4/logo.jpg",
+            "name": "Phantom Forces",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy4/symbol.jpg",
+            "releaseDate": "2014-11-05"
+        },
+        "tcgplayerId": 94689
+    }
+]

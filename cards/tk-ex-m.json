@@ -1,0 +1,170 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-m-1",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "1",
+        "name": "Arcanine",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-m",
+            "name": "EX trainer Kit 2 (Minun)",
+            "releaseDate": "2006-03-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-m-2",
+        "illustrator": "Midori Harada",
+        "image": null,
+        "localId": "2",
+        "name": "Charmander",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-m",
+            "name": "EX trainer Kit 2 (Minun)",
+            "releaseDate": "2006-03-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-m-3",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "3",
+        "name": "Charmeleon",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-m",
+            "name": "EX trainer Kit 2 (Minun)",
+            "releaseDate": "2006-03-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-m-4",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "4",
+        "name": "Growlithe",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-m",
+            "name": "EX trainer Kit 2 (Minun)",
+            "releaseDate": "2006-03-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-m-5",
+        "illustrator": "Naoyo Kimura",
+        "image": null,
+        "localId": "5",
+        "name": "Mareep",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-m",
+            "name": "EX trainer Kit 2 (Minun)",
+            "releaseDate": "2006-03-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-m-6",
+        "illustrator": "Katsura Tabata",
+        "image": null,
+        "localId": "6",
+        "name": "Minun",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-m",
+            "name": "EX trainer Kit 2 (Minun)",
+            "releaseDate": "2006-03-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-m-7",
+        "illustrator": "Midori Harada",
+        "image": null,
+        "localId": "7",
+        "name": "Vulpix",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-m",
+            "name": "EX trainer Kit 2 (Minun)",
+            "releaseDate": "2006-03-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "tk-ex-m-8",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "8",
+        "name": "Celio's Network",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-m",
+            "name": "EX trainer Kit 2 (Minun)",
+            "releaseDate": "2006-03-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "tk-ex-m-9",
+        "illustrator": "Kai Ishikawa",
+        "image": null,
+        "localId": "9",
+        "name": "Energy Search",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-m",
+            "name": "EX trainer Kit 2 (Minun)",
+            "releaseDate": "2006-03-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "tk-ex-m-10",
+        "illustrator": "Keiji Kinebuchi",
+        "image": null,
+        "localId": "10",
+        "name": "Potion",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-m",
+            "name": "EX trainer Kit 2 (Minun)",
+            "releaseDate": "2006-03-01"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "tk-ex-m-11",
+        "illustrator": "",
+        "image": null,
+        "localId": "11",
+        "name": "Fire Energy",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-m",
+            "name": "EX trainer Kit 2 (Minun)",
+            "releaseDate": "2006-03-01"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "tk-ex-m-12",
+        "illustrator": "",
+        "image": null,
+        "localId": "12",
+        "name": "Lightning Energy",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-m",
+            "name": "EX trainer Kit 2 (Minun)",
+            "releaseDate": "2006-03-01"
+        }
+    }
+]

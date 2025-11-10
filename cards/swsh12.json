@@ -1,0 +1,4137 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "swsh12-001",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/001/high.jpg",
+        "localId": "001",
+        "name": "Venonat",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451620
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-002",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/002/high.jpg",
+        "localId": "002",
+        "name": "Venomoth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451621
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-003",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/003/high.jpg",
+        "localId": "003",
+        "name": "Spinarak",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451622
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-004",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/004/high.jpg",
+        "localId": "004",
+        "name": "Ariados",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451624
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-005",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/005/high.jpg",
+        "localId": "005",
+        "name": "Sunkern",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451625
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-006",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/006/high.jpg",
+        "localId": "006",
+        "name": "Sunflora",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451626
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-007",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/007/high.jpg",
+        "localId": "007",
+        "name": "Serperior V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451628
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-008",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/008/high.jpg",
+        "localId": "008",
+        "name": "Serperior VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 450290
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-009",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/009/high.jpg",
+        "localId": "009",
+        "name": "Petilil",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451629
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-010",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/010/high.jpg",
+        "localId": "010",
+        "name": "Hisuian Lilligant",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451630
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-011",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/011/high.jpg",
+        "localId": "011",
+        "name": "Foongus",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451632
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-012",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/012/high.jpg",
+        "localId": "012",
+        "name": "Amoonguss",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451633
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-013",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/013/high.jpg",
+        "localId": "013",
+        "name": "Durant",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451641
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-014",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/014/high.jpg",
+        "localId": "014",
+        "name": "Virizion",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451642
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-015",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/015/high.jpg",
+        "localId": "015",
+        "name": "Chesnaught V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451643
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-016",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/016/high.jpg",
+        "localId": "016",
+        "name": "Radiant Tsareena",
+        "rarity": "Radiant Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451645
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-017",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/017/high.jpg",
+        "localId": "017",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451646
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-018",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/018/high.jpg",
+        "localId": "018",
+        "name": "Ninetales",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451647
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-019",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/019/high.jpg",
+        "localId": "019",
+        "name": "Growlithe",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451650
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-020",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/020/high.jpg",
+        "localId": "020",
+        "name": "Arcanine",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451651
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-021",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/021/high.jpg",
+        "localId": "021",
+        "name": "Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451652
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-022",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/022/high.jpg",
+        "localId": "022",
+        "name": "Rapidash",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451653
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-023",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/023/high.jpg",
+        "localId": "023",
+        "name": "Victini",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451654
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-024",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/024/high.jpg",
+        "localId": "024",
+        "name": "Reshiram V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451655
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-025",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/025/high.jpg",
+        "localId": "025",
+        "name": "Fennekin",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451656
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-026",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/026/high.jpg",
+        "localId": "026",
+        "name": "Braixen",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451657
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-027",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/027/high.jpg",
+        "localId": "027",
+        "name": "Delphox",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451658
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-028",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/028/high.jpg",
+        "localId": "028",
+        "name": "Fletchinder",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451659
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-029",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/029/high.jpg",
+        "localId": "029",
+        "name": "Talonflame",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451660
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-030",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/030/high.jpg",
+        "localId": "030",
+        "name": "Litten",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451661
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-031",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/031/high.jpg",
+        "localId": "031",
+        "name": "Torracat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451662
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-032",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/032/high.jpg",
+        "localId": "032",
+        "name": "Incineroar",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451663
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-033",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/033/high.jpg",
+        "localId": "033",
+        "name": "Alolan Vulpix V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451665
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-034",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/034/high.jpg",
+        "localId": "034",
+        "name": "Alolan Vulpix VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451667
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-035",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/035/high.jpg",
+        "localId": "035",
+        "name": "Omastar V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451668
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-036",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/036/high.jpg",
+        "localId": "036",
+        "name": "Articuno",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451669
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-037",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/037/high.jpg",
+        "localId": "037",
+        "name": "Wailmer",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451671
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-038",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/038/high.jpg",
+        "localId": "038",
+        "name": "Wailord",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451673
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-039",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/039/high.jpg",
+        "localId": "039",
+        "name": "Feebas",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451674
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-040",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/040/high.jpg",
+        "localId": "040",
+        "name": "Milotic",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451675
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-041",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/041/high.jpg",
+        "localId": "041",
+        "name": "Snorunt",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451677
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-042",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/042/high.jpg",
+        "localId": "042",
+        "name": "Glalie",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451679
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-043",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/043/high.jpg",
+        "localId": "043",
+        "name": "Froslass",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451683
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-044",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/044/high.jpg",
+        "localId": "044",
+        "name": "Relicanth",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451684
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-045",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/045/high.jpg",
+        "localId": "045",
+        "name": "Phione",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451687
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-046",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/046/high.jpg",
+        "localId": "046",
+        "name": "Keldeo",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451690
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-047",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/047/high.jpg",
+        "localId": "047",
+        "name": "Dewpider",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451694
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-048",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/048/high.jpg",
+        "localId": "048",
+        "name": "Araquanid",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451696
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-049",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/049/high.jpg",
+        "localId": "049",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451703
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-050",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/050/high.jpg",
+        "localId": "050",
+        "name": "Raichu",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451704
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-051",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/051/high.jpg",
+        "localId": "051",
+        "name": "Chinchou",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451705
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-052",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/052/high.jpg",
+        "localId": "052",
+        "name": "Lanturn",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451707
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-053",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/053/high.jpg",
+        "localId": "053",
+        "name": "Rotom",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451709
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-054",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/054/high.jpg",
+        "localId": "054",
+        "name": "Emolga",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451710
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-055",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/055/high.jpg",
+        "localId": "055",
+        "name": "Stunfisk",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451711
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-056",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/056/high.jpg",
+        "localId": "056",
+        "name": "Zeraora",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451712
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-057",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/057/high.jpg",
+        "localId": "057",
+        "name": "Regieleki V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451713
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-058",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/058/high.jpg",
+        "localId": "058",
+        "name": "Regieleki VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 450293
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-059",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/059/high.jpg",
+        "localId": "059",
+        "name": "Radiant Alakazam",
+        "rarity": "Radiant Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451394
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-060",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/060/high.jpg",
+        "localId": "060",
+        "name": "Drowzee",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451714
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-061",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/061/high.jpg",
+        "localId": "061",
+        "name": "Hypno",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451715
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-062",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/062/high.jpg",
+        "localId": "062",
+        "name": "Jynx",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451716
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-063",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/063/high.jpg",
+        "localId": "063",
+        "name": "Misdreavus",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451717
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-064",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/064/high.jpg",
+        "localId": "064",
+        "name": "Mismagius",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451718
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-065",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/065/high.jpg",
+        "localId": "065",
+        "name": "Unown V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451719
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-066",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/066/high.jpg",
+        "localId": "066",
+        "name": "Unown VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451720
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-067",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/067/high.jpg",
+        "localId": "067",
+        "name": "Ralts",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451721
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-068",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/068/high.jpg",
+        "localId": "068",
+        "name": "Kirlia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451722
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-069",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/069/high.jpg",
+        "localId": "069",
+        "name": "Gardevoir",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451723
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-070",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/070/high.jpg",
+        "localId": "070",
+        "name": "Mawile V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451724
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-071",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/071/high.jpg",
+        "localId": "071",
+        "name": "Mawile VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451725
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-072",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/072/high.jpg",
+        "localId": "072",
+        "name": "Meditite",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451726
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-073",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/073/high.jpg",
+        "localId": "073",
+        "name": "Medicham",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451727
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-074",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/074/high.jpg",
+        "localId": "074",
+        "name": "Chimecho",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451728
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-075",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/075/high.jpg",
+        "localId": "075",
+        "name": "Sigilyph",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451729
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-076",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/076/high.jpg",
+        "localId": "076",
+        "name": "Solosis",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451730
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-077",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/077/high.jpg",
+        "localId": "077",
+        "name": "Duosion",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451731
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-078",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/078/high.jpg",
+        "localId": "078",
+        "name": "Reuniclus",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451732
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-079",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/079/high.jpg",
+        "localId": "079",
+        "name": "Elgyem",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451733
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-080",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/080/high.jpg",
+        "localId": "080",
+        "name": "Beheeyem",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451734
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-081",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/081/high.jpg",
+        "localId": "081",
+        "name": "Espurr",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451735
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-082",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/082/high.jpg",
+        "localId": "082",
+        "name": "Meowstic",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451736
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-083",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/083/high.jpg",
+        "localId": "083",
+        "name": "Swirlix",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451737
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-084",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/084/high.jpg",
+        "localId": "084",
+        "name": "Slurpuff",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451738
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-085",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/085/high.jpg",
+        "localId": "085",
+        "name": "Dedenne",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451739
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-086",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/086/high.jpg",
+        "localId": "086",
+        "name": "Indeedee",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451740
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-087",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/087/high.jpg",
+        "localId": "087",
+        "name": "Dreepy",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451741
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-088",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/088/high.jpg",
+        "localId": "088",
+        "name": "Drakloak",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451742
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-089",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/089/high.jpg",
+        "localId": "089",
+        "name": "Dragapult",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451743
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-090",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/090/high.jpg",
+        "localId": "090",
+        "name": "Hisuian Arcanine V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451744
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-091",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/091/high.jpg",
+        "localId": "091",
+        "name": "Phanpy",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451745
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-092",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/092/high.jpg",
+        "localId": "092",
+        "name": "Donphan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451746
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-093",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/093/high.jpg",
+        "localId": "093",
+        "name": "Baltoy",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451747
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-094",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/094/high.jpg",
+        "localId": "094",
+        "name": "Claydol",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451748
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-095",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/095/high.jpg",
+        "localId": "095",
+        "name": "Anorith",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451749
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-096",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/096/high.jpg",
+        "localId": "096",
+        "name": "Armaldo",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451750
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-097",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/097/high.jpg",
+        "localId": "097",
+        "name": "Terrakion",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451751
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-098",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/098/high.jpg",
+        "localId": "098",
+        "name": "Hawlucha",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451752
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-099",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/099/high.jpg",
+        "localId": "099",
+        "name": "Sandygast",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451753
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-100",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/100/high.jpg",
+        "localId": "100",
+        "name": "Palossand",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451754
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-101",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/101/high.jpg",
+        "localId": "101",
+        "name": "Stonjourner",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451755
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-102",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/102/high.jpg",
+        "localId": "102",
+        "name": "Ursaluna V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451756
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-103",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/103/high.jpg",
+        "localId": "103",
+        "name": "Zubat",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451757
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-104",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/104/high.jpg",
+        "localId": "104",
+        "name": "Golbat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451758
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-105",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/105/high.jpg",
+        "localId": "105",
+        "name": "Crobat",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451759
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-106",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/106/high.jpg",
+        "localId": "106",
+        "name": "Murkrow",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451760
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-107",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/107/high.jpg",
+        "localId": "107",
+        "name": "Honchkrow",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451761
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-108",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/108/high.jpg",
+        "localId": "108",
+        "name": "Skuntank V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451762
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-109",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/109/high.jpg",
+        "localId": "109",
+        "name": "Croagunk",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451763
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-110",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/110/high.jpg",
+        "localId": "110",
+        "name": "Toxicroak",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451764
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-111",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/111/high.jpg",
+        "localId": "111",
+        "name": "Sandile",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451765
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-112",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/112/high.jpg",
+        "localId": "112",
+        "name": "Krokorok",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451766
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-113",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/113/high.jpg",
+        "localId": "113",
+        "name": "Krookodile",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451767
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-114",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/114/high.jpg",
+        "localId": "114",
+        "name": "Mareanie",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451768
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-115",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/115/high.jpg",
+        "localId": "115",
+        "name": "Toxapex",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451769
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-116",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/116/high.jpg",
+        "localId": "116",
+        "name": "Morpeko",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451770
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-117",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/117/high.jpg",
+        "localId": "117",
+        "name": "Beldum",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451771
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-118",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/118/high.jpg",
+        "localId": "118",
+        "name": "Metang",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451772
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-119",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/119/high.jpg",
+        "localId": "119",
+        "name": "Metagross",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451773
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-120",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/120/high.jpg",
+        "localId": "120",
+        "name": "Radiant Jirachi",
+        "rarity": "Radiant Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 450292
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-121",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/121/high.jpg",
+        "localId": "121",
+        "name": "Ferroseed",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451774
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-122",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/122/high.jpg",
+        "localId": "122",
+        "name": "Ferrothorn",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451775
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-123",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/123/high.jpg",
+        "localId": "123",
+        "name": "Klink",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451776
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-124",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/124/high.jpg",
+        "localId": "124",
+        "name": "Klang",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451777
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-125",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/125/high.jpg",
+        "localId": "125",
+        "name": "Klinklang",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451778
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-126",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/126/high.jpg",
+        "localId": "126",
+        "name": "Cobalion",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451779
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-127",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/127/high.jpg",
+        "localId": "127",
+        "name": "Togedemaru",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451780
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-128",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/128/high.jpg",
+        "localId": "128",
+        "name": "Magearna V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451781
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-129",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/129/high.jpg",
+        "localId": "129",
+        "name": "Dratini",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451782
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-130",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/130/high.jpg",
+        "localId": "130",
+        "name": "Dragonair",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451783
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-131",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/131/high.jpg",
+        "localId": "131",
+        "name": "Dragonite",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451784
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-132",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/132/high.jpg",
+        "localId": "132",
+        "name": "Noibat",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451785
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-133",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/133/high.jpg",
+        "localId": "133",
+        "name": "Noivern",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451786
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-134",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/134/high.jpg",
+        "localId": "134",
+        "name": "Zygarde",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451787
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-135",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/135/high.jpg",
+        "localId": "135",
+        "name": "Regidrago V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451788
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-136",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/136/high.jpg",
+        "localId": "136",
+        "name": "Regidrago VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451395
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-137",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/137/high.jpg",
+        "localId": "137",
+        "name": "Smeargle",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451789
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-138",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/138/high.jpg",
+        "localId": "138",
+        "name": "Lugia V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 450289
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-139",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/139/high.jpg",
+        "localId": "139",
+        "name": "Lugia VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451396
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-140",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/140/high.jpg",
+        "localId": "140",
+        "name": "Ho-Oh V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451790
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-141",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/141/high.jpg",
+        "localId": "141",
+        "name": "Spinda",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451791
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-142",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/142/high.jpg",
+        "localId": "142",
+        "name": "Swablu",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451792
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-143",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/143/high.jpg",
+        "localId": "143",
+        "name": "Altaria",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451793
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-144",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/144/high.jpg",
+        "localId": "144",
+        "name": "Buneary",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451794
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-145",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/145/high.jpg",
+        "localId": "145",
+        "name": "Lopunny",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451795
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-146",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/146/high.jpg",
+        "localId": "146",
+        "name": "Archen",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451796
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-147",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/147/high.jpg",
+        "localId": "147",
+        "name": "Archeops",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 450294
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-148",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/148/high.jpg",
+        "localId": "148",
+        "name": "Rufflet",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451797
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-149",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/149/high.jpg",
+        "localId": "149",
+        "name": "Hisuian Braviary",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451798
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-150",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/150/high.jpg",
+        "localId": "150",
+        "name": "Fletchling",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451799
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-151",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/151/high.jpg",
+        "localId": "151",
+        "name": "Brandon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451800
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-152",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/152/high.jpg",
+        "localId": "152",
+        "name": "Candice",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451397
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-153",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/153/high.jpg",
+        "localId": "153",
+        "name": "Capturing Aroma",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451801
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-154",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/154/high.jpg",
+        "localId": "154",
+        "name": "Earthen Seal Stone",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451802
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-155",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/155/high.jpg",
+        "localId": "155",
+        "name": "Emergency Jelly",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451803
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-156",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/156/high.jpg",
+        "localId": "156",
+        "name": "Forest Seal Stone",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451804
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-157",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/157/high.jpg",
+        "localId": "157",
+        "name": "Furisode Girl",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451805
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-158",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/158/high.jpg",
+        "localId": "158",
+        "name": "Gym Trainer",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451806
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-159",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/159/high.jpg",
+        "localId": "159",
+        "name": "Lance",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451807
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-160",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/160/high.jpg",
+        "localId": "160",
+        "name": "Leafy Camo Poncho",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451808
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-161",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/161/high.jpg",
+        "localId": "161",
+        "name": "Primordial Altar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451809
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-162",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/162/high.jpg",
+        "localId": "162",
+        "name": "Professor Laventon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451810
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-163",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/163/high.jpg",
+        "localId": "163",
+        "name": "Quad Stone",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451811
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-164",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/164/high.jpg",
+        "localId": "164",
+        "name": "Serena",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451812
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-165",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/165/high.jpg",
+        "localId": "165",
+        "name": "Unidentified Fossil",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451813
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-166",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/166/high.jpg",
+        "localId": "166",
+        "name": "Wallace",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451814
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-167",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/167/high.jpg",
+        "localId": "167",
+        "name": "Worker",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451815
+    },
+    {
+        "category": "Energy",
+        "id": "swsh12-168",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/168/high.jpg",
+        "localId": "168",
+        "name": "Regenerative Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451816
+    },
+    {
+        "category": "Energy",
+        "id": "swsh12-169",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/169/high.jpg",
+        "localId": "169",
+        "name": "V Guard Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451817
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-170",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/170/high.jpg",
+        "localId": "170",
+        "name": "Serperior V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451818
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-171",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/171/high.jpg",
+        "localId": "171",
+        "name": "Chesnaught V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451819
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-172",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/172/high.jpg",
+        "localId": "172",
+        "name": "Reshiram V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451820
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-173",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/173/high.jpg",
+        "localId": "173",
+        "name": "Alolan Vulpix V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451821
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-174",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/174/high.jpg",
+        "localId": "174",
+        "name": "Omastar V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451822
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-175",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/175/high.jpg",
+        "localId": "175",
+        "name": "Regieleki V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451823
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-176",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/176/high.jpg",
+        "localId": "176",
+        "name": "Unown V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451824
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-177",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/177/high.jpg",
+        "localId": "177",
+        "name": "Unown V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451825
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-178",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/178/high.jpg",
+        "localId": "178",
+        "name": "Mawile V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451826
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-179",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/179/high.jpg",
+        "localId": "179",
+        "name": "Hisuian Arcanine V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451827
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-180",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/180/high.jpg",
+        "localId": "180",
+        "name": "Skuntank V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451828
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-181",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/181/high.jpg",
+        "localId": "181",
+        "name": "Skuntank V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451829
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-182",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/182/high.jpg",
+        "localId": "182",
+        "name": "Magearna V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451830
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-183",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/183/high.jpg",
+        "localId": "183",
+        "name": "Regidrago V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451831
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-184",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/184/high.jpg",
+        "localId": "184",
+        "name": "Regidrago V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451832
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-185",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/185/high.jpg",
+        "localId": "185",
+        "name": "Lugia V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451833
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-186",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/186/high.jpg",
+        "localId": "186",
+        "name": "Lugia V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451834
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-187",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/187/high.jpg",
+        "localId": "187",
+        "name": "Ho-Oh V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451835
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-188",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/188/high.jpg",
+        "localId": "188",
+        "name": "Brandon",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451836
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-189",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/189/high.jpg",
+        "localId": "189",
+        "name": "Candice",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451837
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-190",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/190/high.jpg",
+        "localId": "190",
+        "name": "Furisode Girl",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451838
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-191",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/191/high.jpg",
+        "localId": "191",
+        "name": "Gym Trainer",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451839
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-192",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/192/high.jpg",
+        "localId": "192",
+        "name": "Lance",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451840
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-193",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/193/high.jpg",
+        "localId": "193",
+        "name": "Serena",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451841
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-194",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/194/high.jpg",
+        "localId": "194",
+        "name": "Wallace",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451842
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-195",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/195/high.jpg",
+        "localId": "195",
+        "name": "Worker",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451843
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-196",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/196/high.jpg",
+        "localId": "196",
+        "name": "Serperior VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451986
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-197",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/197/high.jpg",
+        "localId": "197",
+        "name": "Alolan Vulpix VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451987
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-198",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/198/high.jpg",
+        "localId": "198",
+        "name": "Regieleki VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451988
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-199",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/199/high.jpg",
+        "localId": "199",
+        "name": "Unown VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451989
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-200",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/200/high.jpg",
+        "localId": "200",
+        "name": "Mawile VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451991
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-201",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/201/high.jpg",
+        "localId": "201",
+        "name": "Regidrago VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451994
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-202",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/202/high.jpg",
+        "localId": "202",
+        "name": "Lugia VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451995
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-203",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/203/high.jpg",
+        "localId": "203",
+        "name": "Brandon",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451997
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-204",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/204/high.jpg",
+        "localId": "204",
+        "name": "Candice",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 451999
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-205",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/205/high.jpg",
+        "localId": "205",
+        "name": "Furisode Girl",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 452000
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-206",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/206/high.jpg",
+        "localId": "206",
+        "name": "Lance",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 452002
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-207",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/207/high.jpg",
+        "localId": "207",
+        "name": "Serena",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 452004
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-208",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/208/high.jpg",
+        "localId": "208",
+        "name": "Wallace",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 452005
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-209",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/209/high.jpg",
+        "localId": "209",
+        "name": "Worker",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 452007
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-210",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/210/high.jpg",
+        "localId": "210",
+        "name": "Serperior VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 452008
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-211",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/211/high.jpg",
+        "localId": "211",
+        "name": "Lugia VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 452009
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-212",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/212/high.jpg",
+        "localId": "212",
+        "name": "Energy Switch",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 452010
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-213",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/213/high.jpg",
+        "localId": "213",
+        "name": "Gapejaw Bog",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 452011
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-214",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/214/high.jpg",
+        "localId": "214",
+        "name": "Leafy Camo Poncho",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 452012
+    },
+    {
+        "category": "Energy",
+        "id": "swsh12-215",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/215/high.jpg",
+        "localId": "215",
+        "name": "V Guard Energy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        },
+        "tcgplayerId": 452013
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG01",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG01/high.jpg",
+        "localId": "TG01",
+        "name": "Braixen",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG02",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG02/high.jpg",
+        "localId": "TG02",
+        "name": "Milotic",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG03",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG03/high.jpg",
+        "localId": "TG03",
+        "name": "Flaaffy",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG04",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG04/high.jpg",
+        "localId": "TG04",
+        "name": "Jynx",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG05",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG05/high.jpg",
+        "localId": "TG05",
+        "name": "Gardevoir",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG06",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG06/high.jpg",
+        "localId": "TG06",
+        "name": "Malamar",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG07",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG07/high.jpg",
+        "localId": "TG07",
+        "name": "Rockruff",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG08",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG08/high.jpg",
+        "localId": "TG08",
+        "name": "Passimian",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG09",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG09/high.jpg",
+        "localId": "TG09",
+        "name": "Druddigon",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG10",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG10/high.jpg",
+        "localId": "TG10",
+        "name": "Smeargle",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG11",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG11/high.jpg",
+        "localId": "TG11",
+        "name": "Altaria",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG12",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG12/high.jpg",
+        "localId": "TG12",
+        "name": "Kricketune V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG13",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG13/high.jpg",
+        "localId": "TG13",
+        "name": "Serperior V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG14",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG14/high.jpg",
+        "localId": "TG14",
+        "name": "Blaziken V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG15",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG15/high.jpg",
+        "localId": "TG15",
+        "name": "Blaziken VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG16",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG16/high.jpg",
+        "localId": "TG16",
+        "name": "Zeraora V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG17",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG17/high.jpg",
+        "localId": "TG17",
+        "name": "Mawile V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG18",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG18/high.jpg",
+        "localId": "TG18",
+        "name": "Corviknight V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG19",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG19/high.jpg",
+        "localId": "TG19",
+        "name": "Corviknight VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG20",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG20/high.jpg",
+        "localId": "TG20",
+        "name": "Rayquaza VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG21",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG21/high.jpg",
+        "localId": "TG21",
+        "name": "Duraludon VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG22",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG22/high.jpg",
+        "localId": "TG22",
+        "name": "Blissey V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-TG23",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG23/high.jpg",
+        "localId": "TG23",
+        "name": "Friends in Galar",
+        "rarity": "Full Art Trainer",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-TG24",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG24/high.jpg",
+        "localId": "TG24",
+        "name": "Gordie",
+        "rarity": "Full Art Trainer",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-TG25",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG25/high.jpg",
+        "localId": "TG25",
+        "name": "Judge",
+        "rarity": "Full Art Trainer",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-TG26",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG26/high.jpg",
+        "localId": "TG26",
+        "name": "Professor Burnet",
+        "rarity": "Full Art Trainer",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-TG27",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG27/high.jpg",
+        "localId": "TG27",
+        "name": "Raihan",
+        "rarity": "Full Art Trainer",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12-TG28",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG28/high.jpg",
+        "localId": "TG28",
+        "name": "Sordward & Shielbert",
+        "rarity": "Full Art Trainer",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG29",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG29/high.jpg",
+        "localId": "TG29",
+        "name": "Rayquaza VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12-TG30",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG30/high.jpg",
+        "localId": "TG30",
+        "name": "Duraludon VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo.jpg",
+            "name": "Silver Tempest",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12/symbol.jpg",
+            "releaseDate": "2022-11-11"
+        }
+    }
+]

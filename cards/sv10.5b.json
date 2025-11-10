@@ -1,0 +1,2754 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-001",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/001/high.jpg",
+        "localId": "001",
+        "name": "Snivy",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-002",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/002/high.jpg",
+        "localId": "002",
+        "name": "Servine",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-003",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/003/high.jpg",
+        "localId": "003",
+        "name": "Serperior ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-004",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/004/high.jpg",
+        "localId": "004",
+        "name": "Pansage",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-005",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/005/high.jpg",
+        "localId": "005",
+        "name": "Simisage",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-006",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/006/high.jpg",
+        "localId": "006",
+        "name": "Petilil",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-007",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/007/high.jpg",
+        "localId": "007",
+        "name": "Lilligant",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-008",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/008/high.jpg",
+        "localId": "008",
+        "name": "Maractus",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-009",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/009/high.jpg",
+        "localId": "009",
+        "name": "Karrablast",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-010",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/010/high.jpg",
+        "localId": "010",
+        "name": "Foongus",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-011",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/011/high.jpg",
+        "localId": "011",
+        "name": "Amoonguss",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-012",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/012/high.jpg",
+        "localId": "012",
+        "name": "Victini",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-013",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/013/high.jpg",
+        "localId": "013",
+        "name": "Darumaka",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-014",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/014/high.jpg",
+        "localId": "014",
+        "name": "Darmanitan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-015",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/015/high.jpg",
+        "localId": "015",
+        "name": "Larvesta",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-016",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/016/high.jpg",
+        "localId": "016",
+        "name": "Volcarona",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-017",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/017/high.jpg",
+        "localId": "017",
+        "name": "Panpour",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-018",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/018/high.jpg",
+        "localId": "018",
+        "name": "Simipour",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-019",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/019/high.jpg",
+        "localId": "019",
+        "name": "Tympole",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-020",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/020/high.jpg",
+        "localId": "020",
+        "name": "Palpitoad",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-021",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/021/high.jpg",
+        "localId": "021",
+        "name": "Seismitoad",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-022",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/022/high.jpg",
+        "localId": "022",
+        "name": "Tirtouga",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-023",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/023/high.jpg",
+        "localId": "023",
+        "name": "Carracosta",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-024",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/024/high.jpg",
+        "localId": "024",
+        "name": "Alomomola",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-025",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/025/high.jpg",
+        "localId": "025",
+        "name": "Cubchoo",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-026",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/026/high.jpg",
+        "localId": "026",
+        "name": "Beartic",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-027",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/027/high.jpg",
+        "localId": "027",
+        "name": "Cryogonal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-028",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/028/high.jpg",
+        "localId": "028",
+        "name": "Kyurem ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-029",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/029/high.jpg",
+        "localId": "029",
+        "name": "Emolga",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-030",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/030/high.jpg",
+        "localId": "030",
+        "name": "Tynamo",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-031",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/031/high.jpg",
+        "localId": "031",
+        "name": "Eelektrik",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-032",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/032/high.jpg",
+        "localId": "032",
+        "name": "Eelektross",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-033",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/033/high.jpg",
+        "localId": "033",
+        "name": "Thundurus",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-034",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/034/high.jpg",
+        "localId": "034",
+        "name": "Zekrom ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-035",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/035/high.jpg",
+        "localId": "035",
+        "name": "Munna",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-036",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/036/high.jpg",
+        "localId": "036",
+        "name": "Musharna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-037",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/037/high.jpg",
+        "localId": "037",
+        "name": "Solosis",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-038",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/038/high.jpg",
+        "localId": "038",
+        "name": "Duosion",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-039",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/039/high.jpg",
+        "localId": "039",
+        "name": "Reuniclus",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-040",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/040/high.jpg",
+        "localId": "040",
+        "name": "Elgyem",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-041",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/041/high.jpg",
+        "localId": "041",
+        "name": "Beheeyem",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-042",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/042/high.jpg",
+        "localId": "042",
+        "name": "Golett",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-043",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/043/high.jpg",
+        "localId": "043",
+        "name": "Golurk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-044",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/044/high.jpg",
+        "localId": "044",
+        "name": "Meloetta ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-045",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/045/high.jpg",
+        "localId": "045",
+        "name": "Drilbur",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-046",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/046/high.jpg",
+        "localId": "046",
+        "name": "Excadrill ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-047",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/047/high.jpg",
+        "localId": "047",
+        "name": "Timburr",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-048",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/048/high.jpg",
+        "localId": "048",
+        "name": "Gurdurr",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-049",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/049/high.jpg",
+        "localId": "049",
+        "name": "Conkeldurr",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-050",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/050/high.jpg",
+        "localId": "050",
+        "name": "Throh",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-051",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/051/high.jpg",
+        "localId": "051",
+        "name": "Dwebble",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-052",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/052/high.jpg",
+        "localId": "052",
+        "name": "Crustle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-053",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/053/high.jpg",
+        "localId": "053",
+        "name": "Landorus",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-054",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/054/high.jpg",
+        "localId": "054",
+        "name": "Venipede",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-055",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/055/high.jpg",
+        "localId": "055",
+        "name": "Whirlipede",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-056",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/056/high.jpg",
+        "localId": "056",
+        "name": "Scolipede",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-057",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/057/high.jpg",
+        "localId": "057",
+        "name": "Sandile",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-058",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/058/high.jpg",
+        "localId": "058",
+        "name": "Krokorok",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-059",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/059/high.jpg",
+        "localId": "059",
+        "name": "Krookodile",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-060",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/060/high.jpg",
+        "localId": "060",
+        "name": "Escavalier",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-061",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/061/high.jpg",
+        "localId": "061",
+        "name": "Klink",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-062",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/062/high.jpg",
+        "localId": "062",
+        "name": "Klang",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-063",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/063/high.jpg",
+        "localId": "063",
+        "name": "Klinklang",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-064",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/064/high.jpg",
+        "localId": "064",
+        "name": "Pawniard",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-065",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/065/high.jpg",
+        "localId": "065",
+        "name": "Bisharp",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-066",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/066/high.jpg",
+        "localId": "066",
+        "name": "Cobalion",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-067",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/067/high.jpg",
+        "localId": "067",
+        "name": "Genesect ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-068",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/068/high.jpg",
+        "localId": "068",
+        "name": "Axew",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-069",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/069/high.jpg",
+        "localId": "069",
+        "name": "Fraxure",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-070",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/070/high.jpg",
+        "localId": "070",
+        "name": "Haxorus",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-071",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/071/high.jpg",
+        "localId": "071",
+        "name": "Pidove",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-072",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/072/high.jpg",
+        "localId": "072",
+        "name": "Tranquill",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-073",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/073/high.jpg",
+        "localId": "073",
+        "name": "Unfezant",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-074",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/074/high.jpg",
+        "localId": "074",
+        "name": "Audino",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-075",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/075/high.jpg",
+        "localId": "075",
+        "name": "Minccino",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-076",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/076/high.jpg",
+        "localId": "076",
+        "name": "Cinccino",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-077",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/077/high.jpg",
+        "localId": "077",
+        "name": "Rufflet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-078",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/078/high.jpg",
+        "localId": "078",
+        "name": "Braviary",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10.5b-079",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/079/high.jpg",
+        "localId": "079",
+        "name": "Air Balloon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10.5b-080",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/080/high.jpg",
+        "localId": "080",
+        "name": "Antique Cover Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10.5b-081",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/081/high.jpg",
+        "localId": "081",
+        "name": "Energy Coin",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10.5b-082",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/082/high.jpg",
+        "localId": "082",
+        "name": "Fennel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10.5b-083",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/083/high.jpg",
+        "localId": "083",
+        "name": "N's Plan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10.5b-084",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/084/high.jpg",
+        "localId": "084",
+        "name": "Pokégear 3.0",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10.5b-085",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/085/high.jpg",
+        "localId": "085",
+        "name": "Professor's Research",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sv10.5b-086",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/086/high.jpg",
+        "localId": "086",
+        "name": "Prism Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-087",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/087/high.jpg",
+        "localId": "087",
+        "name": "Snivy",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-088",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/088/high.jpg",
+        "localId": "088",
+        "name": "Servine",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-089",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/089/high.jpg",
+        "localId": "089",
+        "name": "Pansage",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-090",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/090/high.jpg",
+        "localId": "090",
+        "name": "Simisage",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-091",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/091/high.jpg",
+        "localId": "091",
+        "name": "Petilil",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-092",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/092/high.jpg",
+        "localId": "092",
+        "name": "Lilligant",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-093",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/093/high.jpg",
+        "localId": "093",
+        "name": "Maractus",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-094",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/094/high.jpg",
+        "localId": "094",
+        "name": "Karrablast",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-095",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/095/high.jpg",
+        "localId": "095",
+        "name": "Foongus",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-096",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/096/high.jpg",
+        "localId": "096",
+        "name": "Amoonguss",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-097",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/097/high.jpg",
+        "localId": "097",
+        "name": "Darumaka",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-098",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/098/high.jpg",
+        "localId": "098",
+        "name": "Darmanitan",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-099",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/099/high.jpg",
+        "localId": "099",
+        "name": "Larvesta",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-100",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/100/high.jpg",
+        "localId": "100",
+        "name": "Volcarona",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-101",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/101/high.jpg",
+        "localId": "101",
+        "name": "Panpour",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-102",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/102/high.jpg",
+        "localId": "102",
+        "name": "Simipour",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-103",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/103/high.jpg",
+        "localId": "103",
+        "name": "Tympole",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-104",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/104/high.jpg",
+        "localId": "104",
+        "name": "Palpitoad",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-105",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/105/high.jpg",
+        "localId": "105",
+        "name": "Seismitoad",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-106",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/106/high.jpg",
+        "localId": "106",
+        "name": "Tirtouga",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-107",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/107/high.jpg",
+        "localId": "107",
+        "name": "Carracosta",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-108",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/108/high.jpg",
+        "localId": "108",
+        "name": "Alomomola",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-109",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/109/high.jpg",
+        "localId": "109",
+        "name": "Cubchoo",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-110",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/110/high.jpg",
+        "localId": "110",
+        "name": "Beartic",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-111",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/111/high.jpg",
+        "localId": "111",
+        "name": "Cryogonal",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-112",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/112/high.jpg",
+        "localId": "112",
+        "name": "Emolga",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-113",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/113/high.jpg",
+        "localId": "113",
+        "name": "Tynamo",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-114",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/114/high.jpg",
+        "localId": "114",
+        "name": "Eelektrik",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-115",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/115/high.jpg",
+        "localId": "115",
+        "name": "Eelektross",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-116",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/116/high.jpg",
+        "localId": "116",
+        "name": "Munna",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-117",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/117/high.jpg",
+        "localId": "117",
+        "name": "Musharna",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-118",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/118/high.jpg",
+        "localId": "118",
+        "name": "Solosis",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-119",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/119/high.jpg",
+        "localId": "119",
+        "name": "Duosion",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-120",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/120/high.jpg",
+        "localId": "120",
+        "name": "Elgyem",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-121",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/121/high.jpg",
+        "localId": "121",
+        "name": "Beheeyem",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-122",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/122/high.jpg",
+        "localId": "122",
+        "name": "Golett",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-123",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/123/high.jpg",
+        "localId": "123",
+        "name": "Golurk",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-124",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/124/high.jpg",
+        "localId": "124",
+        "name": "Drilbur",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-125",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/125/high.jpg",
+        "localId": "125",
+        "name": "Timburr",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-126",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/126/high.jpg",
+        "localId": "126",
+        "name": "Gurdurr",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-127",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/127/high.jpg",
+        "localId": "127",
+        "name": "Conkeldurr",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-128",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/128/high.jpg",
+        "localId": "128",
+        "name": "Throh",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-129",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/129/high.jpg",
+        "localId": "129",
+        "name": "Dwebble",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-130",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/130/high.jpg",
+        "localId": "130",
+        "name": "Crustle",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-131",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/131/high.jpg",
+        "localId": "131",
+        "name": "Landorus",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-132",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/132/high.jpg",
+        "localId": "132",
+        "name": "Venipede",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-133",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/133/high.jpg",
+        "localId": "133",
+        "name": "Whirlipede",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-134",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/134/high.jpg",
+        "localId": "134",
+        "name": "Scolipede",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-135",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/135/high.jpg",
+        "localId": "135",
+        "name": "Sandile",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-136",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/136/high.jpg",
+        "localId": "136",
+        "name": "Krokorok",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-137",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/137/high.jpg",
+        "localId": "137",
+        "name": "Krookodile",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-138",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/138/high.jpg",
+        "localId": "138",
+        "name": "Escavalier",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-139",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/139/high.jpg",
+        "localId": "139",
+        "name": "Klink",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-140",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/140/high.jpg",
+        "localId": "140",
+        "name": "Klang",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-141",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/141/high.jpg",
+        "localId": "141",
+        "name": "Klinklang",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-142",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/142/high.jpg",
+        "localId": "142",
+        "name": "Pawniard",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-143",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/143/high.jpg",
+        "localId": "143",
+        "name": "Bisharp",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-144",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/144/high.jpg",
+        "localId": "144",
+        "name": "Cobalion",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-145",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/145/high.jpg",
+        "localId": "145",
+        "name": "Axew",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-146",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/146/high.jpg",
+        "localId": "146",
+        "name": "Fraxure",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-147",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/147/high.jpg",
+        "localId": "147",
+        "name": "Haxorus",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-148",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/148/high.jpg",
+        "localId": "148",
+        "name": "Pidove",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-149",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/149/high.jpg",
+        "localId": "149",
+        "name": "Tranquill",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-150",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/150/high.jpg",
+        "localId": "150",
+        "name": "Unfezant",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-151",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/151/high.jpg",
+        "localId": "151",
+        "name": "Audino",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-152",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/152/high.jpg",
+        "localId": "152",
+        "name": "Minccino",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-153",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/153/high.jpg",
+        "localId": "153",
+        "name": "Cinccino",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-154",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/154/high.jpg",
+        "localId": "154",
+        "name": "Rufflet",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-155",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/155/high.jpg",
+        "localId": "155",
+        "name": "Braviary",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-156",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/156/high.jpg",
+        "localId": "156",
+        "name": "Serperior ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-157",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/157/high.jpg",
+        "localId": "157",
+        "name": "Kyurem ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-158",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/158/high.jpg",
+        "localId": "158",
+        "name": "Zekrom ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-159",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/159/high.jpg",
+        "localId": "159",
+        "name": "Meloetta ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-160",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/160/high.jpg",
+        "localId": "160",
+        "name": "Excadrill ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-161",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/161/high.jpg",
+        "localId": "161",
+        "name": "Genesect ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10.5b-162",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/162/high.jpg",
+        "localId": "162",
+        "name": "Fennel",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10.5b-163",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/163/high.jpg",
+        "localId": "163",
+        "name": "N's Plan",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-164",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/164/high.jpg",
+        "localId": "164",
+        "name": "Serperior ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-165",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/165/high.jpg",
+        "localId": "165",
+        "name": "Kyurem ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-166",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/166/high.jpg",
+        "localId": "166",
+        "name": "Zekrom ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-167",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/167/high.jpg",
+        "localId": "167",
+        "name": "Meloetta ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-168",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/168/high.jpg",
+        "localId": "168",
+        "name": "Excadrill ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-169",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/169/high.jpg",
+        "localId": "169",
+        "name": "Genesect ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10.5b-170",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/170/high.jpg",
+        "localId": "170",
+        "name": "N's Plan",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-171",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/171/high.jpg",
+        "localId": "171",
+        "name": "Victini",
+        "rarity": "Black White Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10.5b-172",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10.5b/172/high.jpg",
+        "localId": "172",
+        "name": "Zekrom ex",
+        "rarity": "Black White Rare",
+        "set": {
+            "id": "sv10.5b",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo.jpg",
+            "name": "Black Bolt",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10.5b/symbol.jpg",
+            "releaseDate": "2025-07-17"
+        }
+    }
+]

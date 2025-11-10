@@ -1,0 +1,2239 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "dp3-1",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/1/high.jpg",
+        "localId": "1",
+        "name": "Ampharos",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 83541
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-2",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/2/high.jpg",
+        "localId": "2",
+        "name": "Blastoise",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 83893
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-3",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/3/high.jpg",
+        "localId": "3",
+        "name": "Charizard",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 84189
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-4",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/4/high.jpg",
+        "localId": "4",
+        "name": "Entei",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85272
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-5",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/5/high.jpg",
+        "localId": "5",
+        "name": "Flygon",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85525
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-6",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/6/high.jpg",
+        "localId": "6",
+        "name": "Gallade",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85604
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-7",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/7/high.jpg",
+        "localId": "7",
+        "name": "Gardevoir",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85635
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-8",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/8/high.jpg",
+        "localId": "8",
+        "name": "Gastrodon East Sea",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85657
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-9",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/9/high.jpg",
+        "localId": "9",
+        "name": "Gastrodon West Sea",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85659
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-10",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/10/high.jpg",
+        "localId": "10",
+        "name": "Ho-Oh",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 86124
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-11",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/11/high.jpg",
+        "localId": "11",
+        "name": "Jumpluff",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 86366
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-12",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/12/high.jpg",
+        "localId": "12",
+        "name": "Lickilicky",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 86712
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-13",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/13/high.jpg",
+        "localId": "13",
+        "name": "Ludicolo",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 86899
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-14",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/14/high.jpg",
+        "localId": "14",
+        "name": "Lugia",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 86908
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-15",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/15/high.jpg",
+        "localId": "15",
+        "name": "Mew",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 87403
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-16",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/16/high.jpg",
+        "localId": "16",
+        "name": "Raikou",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88534
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-17",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/17/high.jpg",
+        "localId": "17",
+        "name": "Roserade",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88827
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-18",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/18/high.jpg",
+        "localId": "18",
+        "name": "Salamence",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88897
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-19",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/19/high.jpg",
+        "localId": "19",
+        "name": "Suicune",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89604
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-20",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/20/high.jpg",
+        "localId": "20",
+        "name": "Venusaur",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 90319
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-21",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/21/high.jpg",
+        "localId": "21",
+        "name": "Absol",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 83453
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-22",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/22/high.jpg",
+        "localId": "22",
+        "name": "Arcanine",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 83584
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-23",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/23/high.jpg",
+        "localId": "23",
+        "name": "Banette",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 83722
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-24",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/24/high.jpg",
+        "localId": "24",
+        "name": "Dugtrio",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85002
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-25",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/25/high.jpg",
+        "localId": "25",
+        "name": "Electivire",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85122
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-26",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/26/high.jpg",
+        "localId": "26",
+        "name": "Electrode",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85156
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-27",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/27/high.jpg",
+        "localId": "27",
+        "name": "Furret",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85593
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-28",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/28/high.jpg",
+        "localId": "28",
+        "name": "Golduck",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85815
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-29",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/29/high.jpg",
+        "localId": "29",
+        "name": "Golem",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85828
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-30",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/30/high.jpg",
+        "localId": "30",
+        "name": "Jynx",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 86376
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-31",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/31/high.jpg",
+        "localId": "31",
+        "name": "Magmortar",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 87056
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-32",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/32/high.jpg",
+        "localId": "32",
+        "name": "Minun",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 87488
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-33",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/33/high.jpg",
+        "localId": "33",
+        "name": "Mothim",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 87580
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-34",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/34/high.jpg",
+        "localId": "34",
+        "name": "Nidoking",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 87697
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-35",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/35/high.jpg",
+        "localId": "35",
+        "name": "Pidgeot",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88033
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-36",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/36/high.jpg",
+        "localId": "36",
+        "name": "Plusle",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88168
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-37",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/37/high.jpg",
+        "localId": "37",
+        "name": "Sharpedo",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89099
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-38",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/38/high.jpg",
+        "localId": "38",
+        "name": "Sunflora",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89615
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-39",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/39/high.jpg",
+        "localId": "39",
+        "name": "Unown S",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-40",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/40/high.jpg",
+        "localId": "40",
+        "name": "Weavile",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 90532
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-41",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/41/high.jpg",
+        "localId": "41",
+        "name": "Wormadam Plant Cloak",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 90640
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-42",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/42/high.jpg",
+        "localId": "42",
+        "name": "Wormadam Sandy Cloak",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 90642
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-43",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/43/high.jpg",
+        "localId": "43",
+        "name": "Wormadam Trash Cloak",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 90645
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-44",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/44/high.jpg",
+        "localId": "44",
+        "name": "Xatu",
+        "rarity": "Rare",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 90665
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-45",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/45/high.jpg",
+        "localId": "45",
+        "name": "Breloom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 83957
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-46",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/46/high.jpg",
+        "localId": "46",
+        "name": "Charmeleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 84231
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-47",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/47/high.jpg",
+        "localId": "47",
+        "name": "Cloyster",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 84374
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-48",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/48/high.jpg",
+        "localId": "48",
+        "name": "Donphan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 84876
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-49",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/49/high.jpg",
+        "localId": "49",
+        "name": "Farfetch'd",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85386
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-50",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/50/high.jpg",
+        "localId": "50",
+        "name": "Flaaffy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85479
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-51",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/51/high.jpg",
+        "localId": "51",
+        "name": "Ivysaur",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 86302
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-52",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/52/high.jpg",
+        "localId": "52",
+        "name": "Kecleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 86430
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-53",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/53/high.jpg",
+        "localId": "53",
+        "name": "Kirlia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 86466
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-54",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/54/high.jpg",
+        "localId": "54",
+        "name": "Lombre",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 86819
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-55",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/55/high.jpg",
+        "localId": "55",
+        "name": "Miltank",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 87464
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-56",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/56/high.jpg",
+        "localId": "56",
+        "name": "Muk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 87623
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-57",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/57/high.jpg",
+        "localId": "57",
+        "name": "Nidorino",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 87745
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-58",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/58/high.jpg",
+        "localId": "58",
+        "name": "Pidgeotto",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88041
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-59",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/59/high.jpg",
+        "localId": "59",
+        "name": "Pinsir",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88137
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-60",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/60/high.jpg",
+        "localId": "60",
+        "name": "Quagsire",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88472
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-61",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/61/high.jpg",
+        "localId": "61",
+        "name": "Raticate",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88604
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-62",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/62/high.jpg",
+        "localId": "62",
+        "name": "Roselia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88820
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-63",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/63/high.jpg",
+        "localId": "63",
+        "name": "Sableye",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88852
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-64",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/64/high.jpg",
+        "localId": "64",
+        "name": "Shelgon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89127
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-65",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/65/high.jpg",
+        "localId": "65",
+        "name": "Skiploom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89256
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-66",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/66/high.jpg",
+        "localId": "66",
+        "name": "Smeargle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89355
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-67",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/67/high.jpg",
+        "localId": "67",
+        "name": "Smoochum",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89362
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-68",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/68/high.jpg",
+        "localId": "68",
+        "name": "Unown K",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-69",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/69/high.jpg",
+        "localId": "69",
+        "name": "Unown N",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-70",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/70/high.jpg",
+        "localId": "70",
+        "name": "Unown O",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-71",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/71/high.jpg",
+        "localId": "71",
+        "name": "Unown X",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-72",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/72/high.jpg",
+        "localId": "72",
+        "name": "Unown Z",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-73",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/73/high.jpg",
+        "localId": "73",
+        "name": "Venomoth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 90302
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-74",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/74/high.jpg",
+        "localId": "74",
+        "name": "Vibrava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 90337
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-75",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/75/high.jpg",
+        "localId": "75",
+        "name": "Wartortle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 90489
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-76",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/76/high.jpg",
+        "localId": "76",
+        "name": "Bagon",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 83697
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-77",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/77/high.jpg",
+        "localId": "77",
+        "name": "Bulbasaur",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 84034
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-78",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/78/high.jpg",
+        "localId": "78",
+        "name": "Burmy Plant Cloak",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 84049
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-79",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/79/high.jpg",
+        "localId": "79",
+        "name": "Burmy Sandy Cloak",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 84052
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-80",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/80/high.jpg",
+        "localId": "80",
+        "name": "Burmy Trash Cloak",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 84056
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-81",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/81/high.jpg",
+        "localId": "81",
+        "name": "Carvanha",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 84114
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-82",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/82/high.jpg",
+        "localId": "82",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 84215
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-83",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/83/high.jpg",
+        "localId": "83",
+        "name": "Clefairy",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 84357
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-84",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/84/high.jpg",
+        "localId": "84",
+        "name": "Corsola",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 84441
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-85",
+        "illustrator": "Takao Unno",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/85/high.jpg",
+        "localId": "85",
+        "name": "Diglett",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 84823
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-86",
+        "illustrator": "Hiroki Fuchino",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/86/high.jpg",
+        "localId": "86",
+        "name": "Duskull",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85051
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-87",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/87/high.jpg",
+        "localId": "87",
+        "name": "Electabuzz",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85115
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-88",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/88/high.jpg",
+        "localId": "88",
+        "name": "Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85911
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-89",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/89/high.jpg",
+        "localId": "89",
+        "name": "Growlithe",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85957
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-90",
+        "illustrator": "Motofumi Fujiwara",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/90/high.jpg",
+        "localId": "90",
+        "name": "Hoppip",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 86181
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-91",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/91/high.jpg",
+        "localId": "91",
+        "name": "Lickitung",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 86720
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-92",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/92/high.jpg",
+        "localId": "92",
+        "name": "Lotad",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 86836
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-93",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/93/high.jpg",
+        "localId": "93",
+        "name": "Magmar",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 87048
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-94",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/94/high.jpg",
+        "localId": "94",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 87201
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-95",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/95/high.jpg",
+        "localId": "95",
+        "name": "Murkrow",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 87653
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-96",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/96/high.jpg",
+        "localId": "96",
+        "name": "Natu",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 87686
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-97",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/97/high.jpg",
+        "localId": "97",
+        "name": "Nidoran♂",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-98",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/98/high.jpg",
+        "localId": "98",
+        "name": "Phanpy",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88002
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-99",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/99/high.jpg",
+        "localId": "99",
+        "name": "Pidgey",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88050
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-100",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/100/high.jpg",
+        "localId": "100",
+        "name": "Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88438
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-101",
+        "illustrator": "Kenkichi Toyama",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/101/high.jpg",
+        "localId": "101",
+        "name": "Qwilfish",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88494
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-102",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/102/high.jpg",
+        "localId": "102",
+        "name": "Ralts",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88561
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-103",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/103/high.jpg",
+        "localId": "103",
+        "name": "Rattata",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88618
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-104",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/104/high.jpg",
+        "localId": "104",
+        "name": "Sentret",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89066
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-105",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/105/high.jpg",
+        "localId": "105",
+        "name": "Shellder",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89138
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-106",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/106/high.jpg",
+        "localId": "106",
+        "name": "Shellos East Sea",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89141
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-107",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/107/high.jpg",
+        "localId": "107",
+        "name": "Shellos West Sea",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89144
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-108",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/108/high.jpg",
+        "localId": "108",
+        "name": "Shroomish",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89185
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-109",
+        "illustrator": "Emi Yoshida",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/109/high.jpg",
+        "localId": "109",
+        "name": "Shuckle",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89191
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-110",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/110/high.jpg",
+        "localId": "110",
+        "name": "Shuppet",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89200
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-111",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/111/high.jpg",
+        "localId": "111",
+        "name": "Spinda",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89461
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-112",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/112/high.jpg",
+        "localId": "112",
+        "name": "Squirtle",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89494
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-113",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/113/high.jpg",
+        "localId": "113",
+        "name": "Stantler",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89504
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-114",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/114/high.jpg",
+        "localId": "114",
+        "name": "Sunkern",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89621
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-115",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/115/high.jpg",
+        "localId": "115",
+        "name": "Trapinch",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 90023
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-116",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/116/high.jpg",
+        "localId": "116",
+        "name": "Venonat",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 90308
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-117",
+        "illustrator": "Satoshi Ohta",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/117/high.jpg",
+        "localId": "117",
+        "name": "Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 90418
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-118",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/118/high.jpg",
+        "localId": "118",
+        "name": "Wooper",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 90636
+    },
+    {
+        "category": "Trainer",
+        "id": "dp3-119",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/119/high.jpg",
+        "localId": "119",
+        "name": "Bebe's Search",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 83762
+    },
+    {
+        "category": "Trainer",
+        "id": "dp3-120",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/120/high.jpg",
+        "localId": "120",
+        "name": "Night Maintenance",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 87751
+    },
+    {
+        "category": "Trainer",
+        "id": "dp3-121",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/121/high.jpg",
+        "localId": "121",
+        "name": "PlusPower",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88177
+    },
+    {
+        "category": "Trainer",
+        "id": "dp3-122",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/122/high.jpg",
+        "localId": "122",
+        "name": "Professor Oak's Visit",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88405
+    },
+    {
+        "category": "Trainer",
+        "id": "dp3-123",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/123/high.jpg",
+        "localId": "123",
+        "name": "Professor Rowan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88408
+    },
+    {
+        "category": "Trainer",
+        "id": "dp3-124",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/124/high.jpg",
+        "localId": "124",
+        "name": "Rival",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88765
+    },
+    {
+        "category": "Trainer",
+        "id": "dp3-125",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/125/high.jpg",
+        "localId": "125",
+        "name": "Roseanne's Research",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88815
+    },
+    {
+        "category": "Trainer",
+        "id": "dp3-126",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/126/high.jpg",
+        "localId": "126",
+        "name": "Team Galactic's Mars",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89810
+    },
+    {
+        "category": "Trainer",
+        "id": "dp3-127",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/127/high.jpg",
+        "localId": "127",
+        "name": "Potion",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 88343
+    },
+    {
+        "category": "Trainer",
+        "id": "dp3-128",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/128/high.jpg",
+        "localId": "128",
+        "name": "Switch",
+        "rarity": "Common",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 89716
+    },
+    {
+        "category": "Energy",
+        "id": "dp3-129",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/129/high.jpg",
+        "localId": "129",
+        "name": "Darkness Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 84690
+    },
+    {
+        "category": "Energy",
+        "id": "dp3-130",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/130/high.jpg",
+        "localId": "130",
+        "name": "Metal Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 87363
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-131",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/131/high.jpg",
+        "localId": "131",
+        "name": "Gardevoir",
+        "rarity": "Rare Holo LV.X",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 85643
+    },
+    {
+        "category": "Pokemon",
+        "id": "dp3-132",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dp3/132/high.jpg",
+        "localId": "132",
+        "name": "Honchkrow",
+        "rarity": "Rare Holo LV.X",
+        "set": {
+            "id": "dp3",
+            "logo": "https://assets.tcgdex.net/en/dp/dp3/logo.jpg",
+            "name": "Secret Wonders",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dp3/symbol.jpg",
+            "releaseDate": "2007-11-01"
+        },
+        "tcgplayerId": 86165
+    }
+]

@@ -1,0 +1,2807 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "svp-001",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/sv/svp/001/high.jpg",
+        "localId": "001",
+        "name": "Sprigatito",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-002",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sv/svp/002/high.jpg",
+        "localId": "002",
+        "name": "Fuecoco",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-003",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/sv/svp/003/high.jpg",
+        "localId": "003",
+        "name": "Quaxly",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-004",
+        "illustrator": "PLANETA Yamashita",
+        "image": "https://assets.tcgdex.net/en/sv/svp/004/high.jpg",
+        "localId": "004",
+        "name": "Mimikyu ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-005",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sv/svp/005/high.jpg",
+        "localId": "005",
+        "name": "Quaquaval",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-006",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/svp/006/high.jpg",
+        "localId": "006",
+        "name": "Pawmot",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-007",
+        "illustrator": "Yuya Oka",
+        "image": "https://assets.tcgdex.net/en/sv/svp/007/high.jpg",
+        "localId": "007",
+        "name": "Hawlucha",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-008",
+        "illustrator": "DOM",
+        "image": "https://assets.tcgdex.net/en/sv/svp/008/high.jpg",
+        "localId": "008",
+        "name": "Revavroom",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-009",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/svp/009/high.jpg",
+        "localId": "009",
+        "name": "Spidops",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-010",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sv/svp/010/high.jpg",
+        "localId": "010",
+        "name": "Espathra",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-011",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sv/svp/011/high.jpg",
+        "localId": "011",
+        "name": "Arcanine",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-012",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/012/high.jpg",
+        "localId": "012",
+        "name": "Dondozo",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-013",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/svp/013/high.jpg",
+        "localId": "013",
+        "name": "Miraidon",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-014",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/svp/014/high.jpg",
+        "localId": "014",
+        "name": "Koraidon",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-015",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sv/svp/015/high.jpg",
+        "localId": "015",
+        "name": "Flaaffy",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-016",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sv/svp/016/high.jpg",
+        "localId": "016",
+        "name": "Ampharos ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-017",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/017/high.jpg",
+        "localId": "017",
+        "name": "Lucario ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-018",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/018/high.jpg",
+        "localId": "018",
+        "name": "Cyclizar ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-019",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/svp/019/high.jpg",
+        "localId": "019",
+        "name": "Baxcalibur",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-020",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/svp/020/high.jpg",
+        "localId": "020",
+        "name": "Tinkaton",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-021",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/svp/021/high.jpg",
+        "localId": "021",
+        "name": "Murkrow",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-022",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/svp/022/high.jpg",
+        "localId": "022",
+        "name": "Pelipper",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-023",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sv/svp/023/high.jpg",
+        "localId": "023",
+        "name": "Smoliv",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-024",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/sv/svp/024/high.jpg",
+        "localId": "024",
+        "name": "Growlithe",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-025",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/svp/025/high.jpg",
+        "localId": "025",
+        "name": "Tinkatink",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-026",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/svp/026/high.jpg",
+        "localId": "026",
+        "name": "Varoom",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-027",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/027/high.jpg",
+        "localId": "027",
+        "name": "Pikachu",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-028",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/028/high.jpg",
+        "localId": "028",
+        "name": "Miraidon ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-029",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/svp/029/high.jpg",
+        "localId": "029",
+        "name": "Koraidon ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-030",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/svp/030/high.jpg",
+        "localId": "030",
+        "name": "Chien-Pao ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-031",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/031/high.jpg",
+        "localId": "031",
+        "name": "Tinkaton ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-032",
+        "illustrator": "PLANETA Hiiragi",
+        "image": "https://assets.tcgdex.net/en/sv/svp/032/high.jpg",
+        "localId": "032",
+        "name": "Annihilape ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-033",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/033/high.jpg",
+        "localId": "033",
+        "name": "Meowscarada ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-034",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/034/high.jpg",
+        "localId": "034",
+        "name": "Skeledirge ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-035",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/035/high.jpg",
+        "localId": "035",
+        "name": "Quaquaval ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-036",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/svp/036/high.jpg",
+        "localId": "036",
+        "name": "Palafin",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-037",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/svp/037/high.jpg",
+        "localId": "037",
+        "name": "Cleffa",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-038",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/svp/038/high.jpg",
+        "localId": "038",
+        "name": "Togekiss",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-039",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/svp/039/high.jpg",
+        "localId": "039",
+        "name": "Mawile",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-040",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sv/svp/040/high.jpg",
+        "localId": "040",
+        "name": "Pawmi",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-041",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/svp/041/high.jpg",
+        "localId": "041",
+        "name": "Paldean Wooper",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-042",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/svp/042/high.jpg",
+        "localId": "042",
+        "name": "Houndstone",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-043",
+        "illustrator": "saino misaki",
+        "image": "https://assets.tcgdex.net/en/sv/svp/043/high.jpg",
+        "localId": "043",
+        "name": "Eevee",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-044",
+        "illustrator": "MINAMINAMI Take",
+        "image": "https://assets.tcgdex.net/en/sv/svp/044/high.jpg",
+        "localId": "044",
+        "name": "Charmander",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "svp-045",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sv/svp/045/high.jpg",
+        "localId": "045",
+        "name": "Paradise Resort",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-046",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/svp/046/high.jpg",
+        "localId": "046",
+        "name": "Bulbasaur",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-047",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/sv/svp/047/high.jpg",
+        "localId": "047",
+        "name": "Charmander",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-048",
+        "illustrator": "Gemi",
+        "image": "https://assets.tcgdex.net/en/sv/svp/048/high.jpg",
+        "localId": "048",
+        "name": "Squirtle",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-049",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/049/high.jpg",
+        "localId": "049",
+        "name": "Zapdos ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-050",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sv/svp/050/high.jpg",
+        "localId": "050",
+        "name": "Alakazam ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-051",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/svp/051/high.jpg",
+        "localId": "051",
+        "name": "Snorlax",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-052",
+        "illustrator": "Bun Toujo",
+        "image": "https://assets.tcgdex.net/en/sv/svp/052/high.jpg",
+        "localId": "052",
+        "name": "Mewtwo",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-053",
+        "illustrator": "Natsumi Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/svp/053/high.jpg",
+        "localId": "053",
+        "name": "Mew ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-054",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/054/high.jpg",
+        "localId": "054",
+        "name": "Greninja ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-055",
+        "illustrator": "N-DESIGN Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/svp/055/high.jpg",
+        "localId": "055",
+        "name": "Kangaskhan ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-056",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/056/high.jpg",
+        "localId": "056",
+        "name": "Charizard ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-057",
+        "illustrator": "Dsuke",
+        "image": "https://assets.tcgdex.net/en/sv/svp/057/high.jpg",
+        "localId": "057",
+        "name": "Chi-Yu",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-058",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/sv/svp/058/high.jpg",
+        "localId": "058",
+        "name": "Iron Bundle",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-059",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/svp/059/high.jpg",
+        "localId": "059",
+        "name": "Xatu",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-060",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://assets.tcgdex.net/en/sv/svp/060/high.jpg",
+        "localId": "060",
+        "name": "Aegislash",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-061",
+        "illustrator": "Nobuhiro Imagawa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/061/high.jpg",
+        "localId": "061",
+        "name": "Pineco",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-062",
+        "illustrator": "kurumitsu",
+        "image": "https://assets.tcgdex.net/en/sv/svp/062/high.jpg",
+        "localId": "062",
+        "name": "Sinistea",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-063",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/svp/063/high.jpg",
+        "localId": "063",
+        "name": "Cetitan",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-064",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/svp/064/high.jpg",
+        "localId": "064",
+        "name": "Arctibax",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-065",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/svp/065/high.jpg",
+        "localId": "065",
+        "name": "Scream Tail",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-066",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/svp/066/high.jpg",
+        "localId": "066",
+        "name": "Iron Bundle",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-067",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/067/high.jpg",
+        "localId": "067",
+        "name": "Roaring Moon ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-068",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/svp/068/high.jpg",
+        "localId": "068",
+        "name": "Iron Valiant ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-069",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/svp/069/high.jpg",
+        "localId": "069",
+        "name": "Fidough",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-070",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/svp/070/high.jpg",
+        "localId": "070",
+        "name": "Greavard",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-071",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sv/svp/071/high.jpg",
+        "localId": "071",
+        "name": "Maschiff",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-072",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/072/high.jpg",
+        "localId": "072",
+        "name": "Great Tusk ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-073",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/073/high.jpg",
+        "localId": "073",
+        "name": "Iron Treads ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-074",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/074/high.jpg",
+        "localId": "074",
+        "name": "Charizard ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-075",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sv/svp/075/high.jpg",
+        "localId": "075",
+        "name": "Mimikyu",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-076",
+        "illustrator": "kurumitsu",
+        "image": "https://assets.tcgdex.net/en/sv/svp/076/high.jpg",
+        "localId": "076",
+        "name": "Sprigatito",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-077",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/svp/077/high.jpg",
+        "localId": "077",
+        "name": "Floragato",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-078",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/078/high.jpg",
+        "localId": "078",
+        "name": "Meowscarada ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-079",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/svp/079/high.jpg",
+        "localId": "079",
+        "name": "Fuecoco",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-080",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/080/high.jpg",
+        "localId": "080",
+        "name": "Crocalor",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-081",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/081/high.jpg",
+        "localId": "081",
+        "name": "Skeledirge ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-082",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/svp/082/high.jpg",
+        "localId": "082",
+        "name": "Quaxly",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-083",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/083/high.jpg",
+        "localId": "083",
+        "name": "Quaxwell",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-084",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/084/high.jpg",
+        "localId": "084",
+        "name": "Quaquaval ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-085",
+        "illustrator": null,
+        "image": null,
+        "localId": "085",
+        "name": "Pikachu with Grey Felt Hat",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-086",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/svp/086/high.jpg",
+        "localId": "086",
+        "name": "Mabosstiff ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-087",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/087/high.jpg",
+        "localId": "087",
+        "name": "Sprigatito ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-088",
+        "illustrator": "saino misaki",
+        "image": "https://assets.tcgdex.net/en/sv/svp/088/high.jpg",
+        "localId": "088",
+        "name": "Pikachu",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-089",
+        "illustrator": "Kurata So",
+        "image": "https://assets.tcgdex.net/en/sv/svp/089/high.jpg",
+        "localId": "089",
+        "name": "Feraligatr",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-090",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/sv/svp/090/high.jpg",
+        "localId": "090",
+        "name": "Metang",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-091",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/svp/091/high.jpg",
+        "localId": "091",
+        "name": "Koraidon",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-092",
+        "illustrator": "akagi",
+        "image": "https://assets.tcgdex.net/en/sv/svp/092/high.jpg",
+        "localId": "092",
+        "name": "Miraidon",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-093",
+        "illustrator": "Tonji Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/svp/093/high.jpg",
+        "localId": "093",
+        "name": "Carvanha",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-094",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/svp/094/high.jpg",
+        "localId": "094",
+        "name": "Bellibolt",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-095",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/svp/095/high.jpg",
+        "localId": "095",
+        "name": "Cleffa",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-096",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sv/svp/096/high.jpg",
+        "localId": "096",
+        "name": "Cyclizar",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-097",
+        "illustrator": "Takumi Wada",
+        "image": "https://assets.tcgdex.net/en/sv/svp/097/high.jpg",
+        "localId": "097",
+        "name": "Flutter Mane",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-098",
+        "illustrator": "Tonji Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/svp/098/high.jpg",
+        "localId": "098",
+        "name": "Iron Thorns",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-099",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sv/svp/099/high.jpg",
+        "localId": "099",
+        "name": "Shroodle",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-100",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/svp/100/high.jpg",
+        "localId": "100",
+        "name": "Grafaiai ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-101",
+        "illustrator": "Jiro Sasumo",
+        "image": "https://assets.tcgdex.net/en/sv/svp/101/high.jpg",
+        "localId": "101",
+        "name": "Pikachu",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-102",
+        "illustrator": null,
+        "image": null,
+        "localId": "102",
+        "name": "Oddish",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-103",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sv/svp/103/high.jpg",
+        "localId": "103",
+        "name": "Houndoom ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-104",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sv/svp/104/high.jpg",
+        "localId": "104",
+        "name": "Melmetal ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-105",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sv/svp/105/high.jpg",
+        "localId": "105",
+        "name": "Armarouge ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-106",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/106/high.jpg",
+        "localId": "106",
+        "name": "Pikachu ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-107",
+        "illustrator": "Orca",
+        "image": "https://assets.tcgdex.net/en/sv/svp/107/high.jpg",
+        "localId": "107",
+        "name": "Mareep",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-108",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/svp/108/high.jpg",
+        "localId": "108",
+        "name": "Flaaffy",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-109",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/svp/109/high.jpg",
+        "localId": "109",
+        "name": "Ampharos",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-110",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/110/high.jpg",
+        "localId": "110",
+        "name": "Darkrai ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-111",
+        "illustrator": "matazo",
+        "image": "https://assets.tcgdex.net/en/sv/svp/111/high.jpg",
+        "localId": "111",
+        "name": "Pawniard",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-112",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sv/svp/112/high.jpg",
+        "localId": "112",
+        "name": "Bisharp",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-113",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/svp/113/high.jpg",
+        "localId": "113",
+        "name": "Kingambit",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "svp-114",
+        "illustrator": "Susumu Maeya",
+        "image": "https://assets.tcgdex.net/en/sv/svp/114/high.jpg",
+        "localId": "114",
+        "name": "Picnicker",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-115",
+        "illustrator": "Uninori",
+        "image": "https://assets.tcgdex.net/en/sv/svp/115/high.jpg",
+        "localId": "115",
+        "name": "Thwackey",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-116",
+        "illustrator": "Kazumasa Yasukuni",
+        "image": "https://assets.tcgdex.net/en/sv/svp/116/high.jpg",
+        "localId": "116",
+        "name": "Infernape",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-117",
+        "illustrator": "mingo",
+        "image": "https://assets.tcgdex.net/en/sv/svp/117/high.jpg",
+        "localId": "117",
+        "name": "Froslass",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-118",
+        "illustrator": "Shimaris Yukichi",
+        "image": "https://assets.tcgdex.net/en/sv/svp/118/high.jpg",
+        "localId": "118",
+        "name": "Tatsugiri",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-119",
+        "illustrator": "Natsumi Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/svp/119/high.jpg",
+        "localId": "119",
+        "name": "Toxel",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-120",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/svp/120/high.jpg",
+        "localId": "120",
+        "name": "Pupitar",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-121",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/svp/121/high.jpg",
+        "localId": "121",
+        "name": "Revavroom",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-122",
+        "illustrator": "Po-Suzuki",
+        "image": "https://assets.tcgdex.net/en/sv/svp/122/high.jpg",
+        "localId": "122",
+        "name": "Snorlax",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-123",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sv/svp/123/high.jpg",
+        "localId": "123",
+        "name": "Teal Mask Ogerpon",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "svp-124",
+        "illustrator": "yuu",
+        "image": "https://assets.tcgdex.net/en/sv/svp/124/high.jpg",
+        "localId": "124",
+        "name": "Iono",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-125",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/125/high.jpg",
+        "localId": "125",
+        "name": "Armarouge ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-126",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/svp/126/high.jpg",
+        "localId": "126",
+        "name": "Palafin ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-127",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/127/high.jpg",
+        "localId": "127",
+        "name": "Walking Wake ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-128",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/128/high.jpg",
+        "localId": "128",
+        "name": "Iron Leaves ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-129",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/svp/129/high.jpg",
+        "localId": "129",
+        "name": "Pecharunt",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-130",
+        "illustrator": "Oku",
+        "image": "https://assets.tcgdex.net/en/sv/svp/130/high.jpg",
+        "localId": "130",
+        "name": "Kingambit",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-131",
+        "illustrator": "akagi",
+        "image": "https://assets.tcgdex.net/en/sv/svp/131/high.jpg",
+        "localId": "131",
+        "name": "Kingdra ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-132",
+        "illustrator": "SIE NANAHARA",
+        "image": "https://assets.tcgdex.net/en/sv/svp/132/high.jpg",
+        "localId": "132",
+        "name": "Greninja ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-133",
+        "illustrator": "Natsumi Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/svp/133/high.jpg",
+        "localId": "133",
+        "name": "Ledian",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-134",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/svp/134/high.jpg",
+        "localId": "134",
+        "name": "Crabominable",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-135",
+        "illustrator": "Keisin",
+        "image": "https://assets.tcgdex.net/en/sv/svp/135/high.jpg",
+        "localId": "135",
+        "name": "Drifblim",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-136",
+        "illustrator": "Tonji Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/svp/136/high.jpg",
+        "localId": "136",
+        "name": "Bouffalant",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-137",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/sv/svp/137/high.jpg",
+        "localId": "137",
+        "name": "Horsea",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-138",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/svp/138/high.jpg",
+        "localId": "138",
+        "name": "Porygon2",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-139",
+        "illustrator": "hncl",
+        "image": "https://assets.tcgdex.net/en/sv/svp/139/high.jpg",
+        "localId": "139",
+        "name": "Latias",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-140",
+        "illustrator": "DOM",
+        "image": "https://assets.tcgdex.net/en/sv/svp/140/high.jpg",
+        "localId": "140",
+        "name": "Tinkaton",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-141",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/svp/141/high.jpg",
+        "localId": "141",
+        "name": "Noctowl",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-142",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/sv/svp/142/high.jpg",
+        "localId": "142",
+        "name": "Victini ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-143",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/143/high.jpg",
+        "localId": "143",
+        "name": "Miraidon ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-144",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/svp/144/high.jpg",
+        "localId": "144",
+        "name": "Gouging Fire ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-145",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/svp/145/high.jpg",
+        "localId": "145",
+        "name": "Raging Bolt ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-146",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/146/high.jpg",
+        "localId": "146",
+        "name": "Iron Crown ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-147",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/147/high.jpg",
+        "localId": "147",
+        "name": "Iron Boulder ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-148",
+        "illustrator": "hncl",
+        "image": "https://assets.tcgdex.net/en/sv/svp/148/high.jpg",
+        "localId": "148",
+        "name": "Miraidon",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-149",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/svp/149/high.jpg",
+        "localId": "149",
+        "name": "Pecharunt",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "svp-150",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sv/svp/150/high.jpg",
+        "localId": "150",
+        "name": "Paradise Resort",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-151",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sv/svp/151/high.jpg",
+        "localId": "151",
+        "name": "Gouging Fire",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-152",
+        "illustrator": "toi8",
+        "image": "https://assets.tcgdex.net/en/sv/svp/152/high.jpg",
+        "localId": "152",
+        "name": "Chien-Pao",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-153",
+        "illustrator": "Shinya Mizuno",
+        "image": "https://assets.tcgdex.net/en/sv/svp/153/high.jpg",
+        "localId": "153",
+        "name": "Magneton",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-154",
+        "illustrator": "buchi",
+        "image": "https://assets.tcgdex.net/en/sv/svp/154/high.jpg",
+        "localId": "154",
+        "name": "Indeedee",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-155",
+        "illustrator": "Saboteri",
+        "image": "https://assets.tcgdex.net/en/sv/svp/155/high.jpg",
+        "localId": "155",
+        "name": "Wooper",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-156",
+        "illustrator": "Saboteri",
+        "image": "https://assets.tcgdex.net/en/sv/svp/156/high.jpg",
+        "localId": "156",
+        "name": "Quagsire",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-157",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/svp/157/high.jpg",
+        "localId": "157",
+        "name": "Zapdos",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-158",
+        "illustrator": "Yuya Oka",
+        "image": "https://assets.tcgdex.net/en/sv/svp/158/high.jpg",
+        "localId": "158",
+        "name": "Pachirisu",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-159",
+        "illustrator": "Shinji Kanda",
+        "image": "https://assets.tcgdex.net/en/sv/svp/159/high.jpg",
+        "localId": "159",
+        "name": "Magneton",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-160",
+        "illustrator": "N-DESIGN Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/svp/160/high.jpg",
+        "localId": "160",
+        "name": "Squawkabilly ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-161",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/svp/161/high.jpg",
+        "localId": "161",
+        "name": "Charizard ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-162",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/162/high.jpg",
+        "localId": "162",
+        "name": "Houndstone ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-163",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/163/high.jpg",
+        "localId": "163",
+        "name": "Cinderace ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-164",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/164/high.jpg",
+        "localId": "164",
+        "name": "Lapras ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-165",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/165/high.jpg",
+        "localId": "165",
+        "name": "Terapagos ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-166",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/svp/166/high.jpg",
+        "localId": "166",
+        "name": "Teal Mask Ogerpon ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-167",
+        "illustrator": "SIE NANAHARA",
+        "image": "https://assets.tcgdex.net/en/sv/svp/167/high.jpg",
+        "localId": "167",
+        "name": "Flareon",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-168",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/sv/svp/168/high.jpg",
+        "localId": "168",
+        "name": "Vaporeon",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-169",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/svp/169/high.jpg",
+        "localId": "169",
+        "name": "Jolteon",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-170",
+        "illustrator": "Iori Suzuki",
+        "image": "https://assets.tcgdex.net/en/sv/svp/170/high.jpg",
+        "localId": "170",
+        "name": "Leafeon",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-171",
+        "illustrator": "Keisin",
+        "image": "https://assets.tcgdex.net/en/sv/svp/171/high.jpg",
+        "localId": "171",
+        "name": "Glaceon",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-172",
+        "illustrator": "Susumu Maeya",
+        "image": "https://assets.tcgdex.net/en/sv/svp/172/high.jpg",
+        "localId": "172",
+        "name": "Sylveon",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-173",
+        "illustrator": "Makura Tami",
+        "image": "https://assets.tcgdex.net/en/sv/svp/173/high.jpg",
+        "localId": "173",
+        "name": "Eevee",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-174",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/svp/174/high.jpg",
+        "localId": "174",
+        "name": "Eevee ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-177",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/svp/177/high.jpg",
+        "localId": "177",
+        "name": "Bloodmoon Ursaluna ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-178",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/svp/178/high.jpg",
+        "localId": "178",
+        "name": "Kyogre ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-179",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sv/svp/179/high.jpg",
+        "localId": "179",
+        "name": "Xerneas ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-180",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sv/svp/180/high.jpg",
+        "localId": "180",
+        "name": "Dialga ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-181",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://assets.tcgdex.net/en/sv/svp/181/high.jpg",
+        "localId": "181",
+        "name": "N's Darmanitan",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-182",
+        "illustrator": "DOM",
+        "image": "https://assets.tcgdex.net/en/sv/svp/182/high.jpg",
+        "localId": "182",
+        "name": "Iono's Kilowattrel",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-183",
+        "illustrator": "tono",
+        "image": "https://assets.tcgdex.net/en/sv/svp/183/high.jpg",
+        "localId": "183",
+        "name": "Lillie's Ribombee",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-184",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/svp/184/high.jpg",
+        "localId": "184",
+        "name": "Hop's Snorlax",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-185",
+        "illustrator": "Dsuke",
+        "image": "https://assets.tcgdex.net/en/sv/svp/185/high.jpg",
+        "localId": "185",
+        "name": "Yanma",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-186",
+        "illustrator": "OKUBO",
+        "image": "https://assets.tcgdex.net/en/sv/svp/186/high.jpg",
+        "localId": "186",
+        "name": "Scraggy",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-187",
+        "illustrator": "Dsuke",
+        "image": "https://assets.tcgdex.net/en/sv/svp/187/high.jpg",
+        "localId": "187",
+        "name": "Yanmega",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-188",
+        "illustrator": "OKUBO",
+        "image": "https://assets.tcgdex.net/en/sv/svp/188/high.jpg",
+        "localId": "188",
+        "name": "Scrafty",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-189",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sv/svp/189/high.jpg",
+        "localId": "189",
+        "name": "N's Zorua",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-190",
+        "illustrator": null,
+        "image": null,
+        "localId": "190",
+        "name": "Pikachu",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-193",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/svp/193/high.jpg",
+        "localId": "193",
+        "name": "Hop's Zacian ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-194",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/svp/194/high.jpg",
+        "localId": "194",
+        "name": "Iono's Bellibolt ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-195",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/svp/195/high.jpg",
+        "localId": "195",
+        "name": "Lillie's Clefairy ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-197",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/svp/197/high.jpg",
+        "localId": "197",
+        "name": "Koraidon ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-198",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/svp/198/high.jpg",
+        "localId": "198",
+        "name": "Zacian ex",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-206",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/svp/206/high.jpg",
+        "localId": "206",
+        "name": "Marnie's Morpeko",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-207",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/svp/207/high.jpg",
+        "localId": "207",
+        "name": "Steven's Beldum",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-208",
+        "illustrator": "Amelicart",
+        "image": null,
+        "localId": "208",
+        "name": "Victini",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        },
+        "tcgplayerId": 646169
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-209",
+        "illustrator": "Anesaki Dynamic",
+        "image": null,
+        "localId": "209",
+        "name": "Thundurus",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        },
+        "tcgplayerId": 644833
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-210",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "210",
+        "name": "Tornadus",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        },
+        "tcgplayerId": 644835
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-211",
+        "illustrator": "IKEDA Saki",
+        "image": null,
+        "localId": "211",
+        "name": "Gothitelle",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        },
+        "tcgplayerId": 647306
+    },
+    {
+        "category": "Pokemon",
+        "id": "svp-212",
+        "illustrator": "satoma",
+        "image": null,
+        "localId": "212",
+        "name": "Reuniclus",
+        "rarity": "None",
+        "set": {
+            "id": "svp",
+            "name": "SVP Black Star Promos",
+            "releaseDate": "2023-03-31"
+        },
+        "tcgplayerId": 647309
+    }
+]

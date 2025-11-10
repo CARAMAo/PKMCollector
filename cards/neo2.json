@@ -1,0 +1,1276 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "neo2-1",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/1/high.jpg",
+        "localId": "1",
+        "name": "Espeon",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 85316
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-2",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/2/high.jpg",
+        "localId": "2",
+        "name": "Forretress",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 85542
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-3",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/3/high.jpg",
+        "localId": "3",
+        "name": "Hitmontop",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86110
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-4",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/4/high.jpg",
+        "localId": "4",
+        "name": "Houndoom",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86197
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-5",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/5/high.jpg",
+        "localId": "5",
+        "name": "Houndour",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86216
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-6",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/6/high.jpg",
+        "localId": "6",
+        "name": "Kabutops",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86389
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-7",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/neo/neo2/7/high.jpg",
+        "localId": "7",
+        "name": "Magnemite",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 87064
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-8",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/8/high.jpg",
+        "localId": "8",
+        "name": "Politoed",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 88246
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-9",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/9/high.jpg",
+        "localId": "9",
+        "name": "Poliwrath",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 88269
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-10",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/10/high.jpg",
+        "localId": "10",
+        "name": "Scizor",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 88956
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-11",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/11/high.jpg",
+        "localId": "11",
+        "name": "Smeargle",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 89350
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-12",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/12/high.jpg",
+        "localId": "12",
+        "name": "Tyranitar",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90113
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-13",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/13/high.jpg",
+        "localId": "13",
+        "name": "Umbreon",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90137
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-14",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/14/high.jpg",
+        "localId": "14",
+        "name": "Unown [A]",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90196
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-15",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/15/high.jpg",
+        "localId": "15",
+        "name": "Ursaring",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90249
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-16",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/16/high.jpg",
+        "localId": "16",
+        "name": "Wobbuffet",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90612
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-17",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/17/high.jpg",
+        "localId": "17",
+        "name": "Yanma",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90680
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-18",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/18/high.jpg",
+        "localId": "18",
+        "name": "Beedrill",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 83767
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-19",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/19/high.jpg",
+        "localId": "19",
+        "name": "Butterfree",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 84061
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-20",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/20/high.jpg",
+        "localId": "20",
+        "name": "Espeon",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 85320
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-21",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/21/high.jpg",
+        "localId": "21",
+        "name": "Forretress",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 85545
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-22",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/22/high.jpg",
+        "localId": "22",
+        "name": "Hitmontop",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86111
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-23",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/23/high.jpg",
+        "localId": "23",
+        "name": "Houndoom",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86204
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-24",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/24/high.jpg",
+        "localId": "24",
+        "name": "Houndour",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86217
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-25",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/25/high.jpg",
+        "localId": "25",
+        "name": "Kabutops",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86394
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-26",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/neo/neo2/26/high.jpg",
+        "localId": "26",
+        "name": "Magnemite",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-27",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/27/high.jpg",
+        "localId": "27",
+        "name": "Politoed",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 88249
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-28",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/28/high.jpg",
+        "localId": "28",
+        "name": "Poliwrath",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 88274
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-29",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/29/high.jpg",
+        "localId": "29",
+        "name": "Scizor",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 88958
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-30",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/30/high.jpg",
+        "localId": "30",
+        "name": "Smeargle",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 89351
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-31",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/31/high.jpg",
+        "localId": "31",
+        "name": "Tyranitar",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90116
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-32",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/32/high.jpg",
+        "localId": "32",
+        "name": "Umbreon",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90142
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-33",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/33/high.jpg",
+        "localId": "33",
+        "name": "Unown [A]",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90197
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-34",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/34/high.jpg",
+        "localId": "34",
+        "name": "Ursaring",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90250
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-35",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/35/high.jpg",
+        "localId": "35",
+        "name": "Wobbuffet",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90614
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-36",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/36/high.jpg",
+        "localId": "36",
+        "name": "Yanma",
+        "rarity": "Rare",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90681
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-37",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/37/high.jpg",
+        "localId": "37",
+        "name": "Corsola",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 84437
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-38",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/38/high.jpg",
+        "localId": "38",
+        "name": "Eevee",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 85075
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-39",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/39/high.jpg",
+        "localId": "39",
+        "name": "Houndour",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86218
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-40",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/40/high.jpg",
+        "localId": "40",
+        "name": "Igglybuff",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86257
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-41",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/41/high.jpg",
+        "localId": "41",
+        "name": "Kakuna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86408
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-42",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/42/high.jpg",
+        "localId": "42",
+        "name": "Metapod",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 87385
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-43",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/43/high.jpg",
+        "localId": "43",
+        "name": "Omastar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 87866
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-44",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/44/high.jpg",
+        "localId": "44",
+        "name": "Poliwhirl",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 88262
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-45",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/45/high.jpg",
+        "localId": "45",
+        "name": "Pupitar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 88445
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-46",
+        "illustrator": "Kimiya Masago",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/46/high.jpg",
+        "localId": "46",
+        "name": "Scyther",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 88994
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-47",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/47/high.jpg",
+        "localId": "47",
+        "name": "Unown [D]",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90203
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-48",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/48/high.jpg",
+        "localId": "48",
+        "name": "Unown [F]",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90207
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-49",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/49/high.jpg",
+        "localId": "49",
+        "name": "Unown [M]",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90221
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-50",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/50/high.jpg",
+        "localId": "50",
+        "name": "Unown [N]",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90223
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-51",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/51/high.jpg",
+        "localId": "51",
+        "name": "Unown [U]",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90236
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-52",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/52/high.jpg",
+        "localId": "52",
+        "name": "Xatu",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90660
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-53",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/53/high.jpg",
+        "localId": "53",
+        "name": "Caterpie",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 84133
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-54",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/54/high.jpg",
+        "localId": "54",
+        "name": "Dunsparce",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 85007
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-55",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/55/high.jpg",
+        "localId": "55",
+        "name": "Hoppip",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86176
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-56",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/56/high.jpg",
+        "localId": "56",
+        "name": "Kabuto",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86383
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-57",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/57/high.jpg",
+        "localId": "57",
+        "name": "Larvitar",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86632
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-58",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/58/high.jpg",
+        "localId": "58",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 87192
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-59",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/59/high.jpg",
+        "localId": "59",
+        "name": "Natu",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 87680
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-60",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/60/high.jpg",
+        "localId": "60",
+        "name": "Omanyte",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 87856
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-61",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/61/high.jpg",
+        "localId": "61",
+        "name": "Pineco",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 88122
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-62",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/62/high.jpg",
+        "localId": "62",
+        "name": "Poliwag",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 88254
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-63",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/63/high.jpg",
+        "localId": "63",
+        "name": "Sentret",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 89061
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-64",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/64/high.jpg",
+        "localId": "64",
+        "name": "Spinarak",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 89452
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-65",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/65/high.jpg",
+        "localId": "65",
+        "name": "Teddiursa",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 89855
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-66",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/66/high.jpg",
+        "localId": "66",
+        "name": "Tyrogue",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90128
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-67",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/67/high.jpg",
+        "localId": "67",
+        "name": "Unown [E]",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90205
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-68",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/68/high.jpg",
+        "localId": "68",
+        "name": "Unown [I]",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90213
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-69",
+        "illustrator": "CR CG gangs",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/69/high.jpg",
+        "localId": "69",
+        "name": "Unown [O]",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90225
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-70",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/70/high.jpg",
+        "localId": "70",
+        "name": "Weedle",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90538
+    },
+    {
+        "category": "Pokemon",
+        "id": "neo2-71",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/neo/neo2/71/high.jpg",
+        "localId": "71",
+        "name": "Wooper",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 90631
+    },
+    {
+        "category": "Trainer",
+        "id": "neo2-72",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/neo/neo2/72/high.jpg",
+        "localId": "72",
+        "name": "Fossil Egg",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 85555
+    },
+    {
+        "category": "Trainer",
+        "id": "neo2-73",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/neo/neo2/73/high.jpg",
+        "localId": "73",
+        "name": "Hyper Devolution Spray",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 86245
+    },
+    {
+        "category": "Trainer",
+        "id": "neo2-74",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/neo/neo2/74/high.jpg",
+        "localId": "74",
+        "name": "Ruin Wall",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 88845
+    },
+    {
+        "category": "Trainer",
+        "id": "neo2-75",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/neo/neo2/75/high.jpg",
+        "localId": "75",
+        "name": "Energy Ark",
+        "rarity": "Common",
+        "set": {
+            "id": "neo2",
+            "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.jpg",
+            "name": "Neo Discovery",
+            "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.jpg",
+            "releaseDate": "2001-06-01"
+        },
+        "tcgplayerId": 85209
+    }
+]

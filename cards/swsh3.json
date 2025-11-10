@@ -1,0 +1,3413 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "swsh3-1",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/1/high.jpg",
+        "localId": "1",
+        "name": "Butterfree V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219054
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-2",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/2/high.jpg",
+        "localId": "2",
+        "name": "Butterfree VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219055
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-3",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/3/high.jpg",
+        "localId": "3",
+        "name": "Paras",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219061
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-4",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/4/high.jpg",
+        "localId": "4",
+        "name": "Parasect",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219068
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-5",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/5/high.jpg",
+        "localId": "5",
+        "name": "Carnivine",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219069
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-6",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/6/high.jpg",
+        "localId": "6",
+        "name": "Pansage",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219074
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-7",
+        "illustrator": "Hasegawa Saki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/7/high.jpg",
+        "localId": "7",
+        "name": "Simisage",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219075
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-8",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/8/high.jpg",
+        "localId": "8",
+        "name": "Karrablast",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219080
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-9",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/9/high.jpg",
+        "localId": "9",
+        "name": "Shelmet",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219081
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-10",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/10/high.jpg",
+        "localId": "10",
+        "name": "Accelgor",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219087
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-11",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/11/high.jpg",
+        "localId": "11",
+        "name": "Rowlet",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219090
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-12",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/12/high.jpg",
+        "localId": "12",
+        "name": "Dartrix",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219092
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-13",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/13/high.jpg",
+        "localId": "13",
+        "name": "Decidueye",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219226
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-14",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/14/high.jpg",
+        "localId": "14",
+        "name": "Bounsweet",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219227
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-15",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/15/high.jpg",
+        "localId": "15",
+        "name": "Steenee",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219228
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-16",
+        "illustrator": "so-taro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/16/high.jpg",
+        "localId": "16",
+        "name": "Tsareena",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219229
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-17",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/17/high.jpg",
+        "localId": "17",
+        "name": "Wimpod",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219230
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-18",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/18/high.jpg",
+        "localId": "18",
+        "name": "Golisopod",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219231
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-19",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/19/high.jpg",
+        "localId": "19",
+        "name": "Charizard V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219232
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-20",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/20/high.jpg",
+        "localId": "20",
+        "name": "Charizard VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219233
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-21",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/21/high.jpg",
+        "localId": "21",
+        "name": "Houndoom V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219234
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-22",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/22/high.jpg",
+        "localId": "22",
+        "name": "Torchic",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219235
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-23",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/23/high.jpg",
+        "localId": "23",
+        "name": "Combusken",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219236
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-24",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/24/high.jpg",
+        "localId": "24",
+        "name": "Blaziken",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219237
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-25",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/25/high.jpg",
+        "localId": "25",
+        "name": "Heatran",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219238
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-26",
+        "illustrator": "Megumi Higuchi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/26/high.jpg",
+        "localId": "26",
+        "name": "Pansear",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219239
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-27",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/27/high.jpg",
+        "localId": "27",
+        "name": "Simisear",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219240
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-28",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/28/high.jpg",
+        "localId": "28",
+        "name": "Galarian Darmanitan",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219241
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-29",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/29/high.jpg",
+        "localId": "29",
+        "name": "Larvesta",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219242
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-30",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/30/high.jpg",
+        "localId": "30",
+        "name": "Volcarona",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219244
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-31",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/31/high.jpg",
+        "localId": "31",
+        "name": "Fletchinder",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219245
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-32",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/32/high.jpg",
+        "localId": "32",
+        "name": "Talonflame",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219246
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-33",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/33/high.jpg",
+        "localId": "33",
+        "name": "Centiskorch V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219249
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-34",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/34/high.jpg",
+        "localId": "34",
+        "name": "Centiskorch VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219250
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-35",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/35/high.jpg",
+        "localId": "35",
+        "name": "Galarian Mr. Mime",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219260
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-36",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/36/high.jpg",
+        "localId": "36",
+        "name": "Galarian Mr. Rime",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219267
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-37",
+        "illustrator": "so-taro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/37/high.jpg",
+        "localId": "37",
+        "name": "Suicune",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219271
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-38",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/38/high.jpg",
+        "localId": "38",
+        "name": "Feebas",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219275
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-39",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/39/high.jpg",
+        "localId": "39",
+        "name": "Milotic",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219303
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-40",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/40/high.jpg",
+        "localId": "40",
+        "name": "Relicanth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219322
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-41",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/41/high.jpg",
+        "localId": "41",
+        "name": "Panpour",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219324
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-42",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/42/high.jpg",
+        "localId": "42",
+        "name": "Simipour",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219338
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-43",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/43/high.jpg",
+        "localId": "43",
+        "name": "Galarian Darumaka",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219339
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-44",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/44/high.jpg",
+        "localId": "44",
+        "name": "Galarian Darmanitan",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219345
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-45",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/45/high.jpg",
+        "localId": "45",
+        "name": "Vanillite",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219348
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-46",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/46/high.jpg",
+        "localId": "46",
+        "name": "Vanillish",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219349
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-47",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/47/high.jpg",
+        "localId": "47",
+        "name": "Vanilluxe",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219351
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-48",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/48/high.jpg",
+        "localId": "48",
+        "name": "Cubchoo",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219358
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-49",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/49/high.jpg",
+        "localId": "49",
+        "name": "Beartic",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219361
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-50",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/50/high.jpg",
+        "localId": "50",
+        "name": "Wishiwashi",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219375
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-51",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/51/high.jpg",
+        "localId": "51",
+        "name": "Mareanie",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219377
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-52",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/52/high.jpg",
+        "localId": "52",
+        "name": "Toxapex",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219379
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-53",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/53/high.jpg",
+        "localId": "53",
+        "name": "Dracovish",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219382
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-54",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/54/high.jpg",
+        "localId": "54",
+        "name": "Arctovish",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219384
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-55",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/55/high.jpg",
+        "localId": "55",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219387
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-56",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/56/high.jpg",
+        "localId": "56",
+        "name": "Flaaffy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219394
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-57",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/57/high.jpg",
+        "localId": "57",
+        "name": "Ampharos",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219403
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-58",
+        "illustrator": "Yumi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/58/high.jpg",
+        "localId": "58",
+        "name": "Electrike",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219407
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-59",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/59/high.jpg",
+        "localId": "59",
+        "name": "Manectric",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219408
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-60",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/60/high.jpg",
+        "localId": "60",
+        "name": "Vikavolt V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219411
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-61",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/61/high.jpg",
+        "localId": "61",
+        "name": "Tapu Koko",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219413
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-62",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/62/high.jpg",
+        "localId": "62",
+        "name": "Toxel",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219416
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-63",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/63/high.jpg",
+        "localId": "63",
+        "name": "Toxtricity",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219419
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-64",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/64/high.jpg",
+        "localId": "64",
+        "name": "Pincurchin",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219421
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-65",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/65/high.jpg",
+        "localId": "65",
+        "name": "Dracozolt",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219432
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-66",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/66/high.jpg",
+        "localId": "66",
+        "name": "Arctozolt",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219434
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-67",
+        "illustrator": "Motofumi Fujiwara",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/67/high.jpg",
+        "localId": "67",
+        "name": "Jigglypuff",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219441
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-68",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/68/high.jpg",
+        "localId": "68",
+        "name": "Wigglytuff",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219442
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-69",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/69/high.jpg",
+        "localId": "69",
+        "name": "Mew V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219443
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-70",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/70/high.jpg",
+        "localId": "70",
+        "name": "Snubbull",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219445
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-71",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/71/high.jpg",
+        "localId": "71",
+        "name": "Granbull",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219446
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-72",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/72/high.jpg",
+        "localId": "72",
+        "name": "Lunatone",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219447
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-73",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/73/high.jpg",
+        "localId": "73",
+        "name": "Gothita",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219449
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-74",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/74/high.jpg",
+        "localId": "74",
+        "name": "Gothorita",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219451
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-75",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/75/high.jpg",
+        "localId": "75",
+        "name": "Gothitelle",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219454
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-76",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/76/high.jpg",
+        "localId": "76",
+        "name": "Golett",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219456
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-77",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/77/high.jpg",
+        "localId": "77",
+        "name": "Golurk",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219459
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-78",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/78/high.jpg",
+        "localId": "78",
+        "name": "Dedenne",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219462
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-79",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/79/high.jpg",
+        "localId": "79",
+        "name": "Morelull",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219464
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-80",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/80/high.jpg",
+        "localId": "80",
+        "name": "Shiinotic",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219465
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-81",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/81/high.jpg",
+        "localId": "81",
+        "name": "Mimikyu",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219467
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-82",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/82/high.jpg",
+        "localId": "82",
+        "name": "Sinistea",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219468
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-83",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/83/high.jpg",
+        "localId": "83",
+        "name": "Polteageist",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219470
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-84",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/84/high.jpg",
+        "localId": "84",
+        "name": "Diglett",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219471
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-85",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/85/high.jpg",
+        "localId": "85",
+        "name": "Dugtrio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219473
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-86",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/86/high.jpg",
+        "localId": "86",
+        "name": "Larvitar",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219474
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-87",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/87/high.jpg",
+        "localId": "87",
+        "name": "Pupitar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219476
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-88",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/88/high.jpg",
+        "localId": "88",
+        "name": "Tyranitar",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219477
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-89",
+        "illustrator": "Asako Ito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/89/high.jpg",
+        "localId": "89",
+        "name": "Trapinch",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219479
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-90",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/90/high.jpg",
+        "localId": "90",
+        "name": "Vibrava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219481
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-91",
+        "illustrator": "hatachu",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/91/high.jpg",
+        "localId": "91",
+        "name": "Flygon",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219482
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-92",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/92/high.jpg",
+        "localId": "92",
+        "name": "Solrock",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219484
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-93",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/93/high.jpg",
+        "localId": "93",
+        "name": "Hippopotas",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219485
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-94",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/94/high.jpg",
+        "localId": "94",
+        "name": "Hippowdon",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219487
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-95",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/95/high.jpg",
+        "localId": "95",
+        "name": "Rhyperior V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219488
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-96",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/96/high.jpg",
+        "localId": "96",
+        "name": "Diggersby",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219491
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-97",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/97/high.jpg",
+        "localId": "97",
+        "name": "Passimian",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219493
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-98",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/98/high.jpg",
+        "localId": "98",
+        "name": "Galarian Sirfetch'd",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219495
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-99",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/99/high.jpg",
+        "localId": "99",
+        "name": "Galarian Slowbro V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219399
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-100",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/100/high.jpg",
+        "localId": "100",
+        "name": "Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219401
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-101",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/101/high.jpg",
+        "localId": "101",
+        "name": "Muk",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219402
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-102",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/102/high.jpg",
+        "localId": "102",
+        "name": "Spinarak",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219404
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-103",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/103/high.jpg",
+        "localId": "103",
+        "name": "Ariados",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219405
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-104",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/104/high.jpg",
+        "localId": "104",
+        "name": "Crobat V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219406
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-105",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/105/high.jpg",
+        "localId": "105",
+        "name": "Darkrai",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219409
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-106",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/106/high.jpg",
+        "localId": "106",
+        "name": "Purrloin",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219412
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-107",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/107/high.jpg",
+        "localId": "107",
+        "name": "Liepard",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219414
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-108",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/108/high.jpg",
+        "localId": "108",
+        "name": "Deino",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219420
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-109",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/109/high.jpg",
+        "localId": "109",
+        "name": "Zweilous",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219422
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-110",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/110/high.jpg",
+        "localId": "110",
+        "name": "Hydreigon",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219423
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-111",
+        "illustrator": "so-taro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/111/high.jpg",
+        "localId": "111",
+        "name": "Hoopa",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219424
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-112",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/112/high.jpg",
+        "localId": "112",
+        "name": "Nickit",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219426
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-113",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/113/high.jpg",
+        "localId": "113",
+        "name": "Thievul",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219427
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-114",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/114/high.jpg",
+        "localId": "114",
+        "name": "Grimmsnarl V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219428
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-115",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/115/high.jpg",
+        "localId": "115",
+        "name": "Grimmsnarl VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219429
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-116",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/116/high.jpg",
+        "localId": "116",
+        "name": "Eternatus V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219431
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-117",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/117/high.jpg",
+        "localId": "117",
+        "name": "Eternatus VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219435
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-118",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/118/high.jpg",
+        "localId": "118",
+        "name": "Scizor V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219373
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-119",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/119/high.jpg",
+        "localId": "119",
+        "name": "Scizor VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219374
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-120",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/120/high.jpg",
+        "localId": "120",
+        "name": "Skarmory",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219376
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-121",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/121/high.jpg",
+        "localId": "121",
+        "name": "Aron",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219378
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-122",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/122/high.jpg",
+        "localId": "122",
+        "name": "Lairon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219380
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-123",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/123/high.jpg",
+        "localId": "123",
+        "name": "Aggron",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219381
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-124",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/124/high.jpg",
+        "localId": "124",
+        "name": "Escavalier",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219383
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-125",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/125/high.jpg",
+        "localId": "125",
+        "name": "Klink",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219385
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-126",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/126/high.jpg",
+        "localId": "126",
+        "name": "Klang",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219386
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-127",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/127/high.jpg",
+        "localId": "127",
+        "name": "Klinklang",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219388
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-128",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/128/high.jpg",
+        "localId": "128",
+        "name": "Galarian Stunfisk V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219389
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-129",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/129/high.jpg",
+        "localId": "129",
+        "name": "Meltan",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219391
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-130",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/130/high.jpg",
+        "localId": "130",
+        "name": "Melmetal",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219392
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-131",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/131/high.jpg",
+        "localId": "131",
+        "name": "Cufant",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219395
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-132",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/132/high.jpg",
+        "localId": "132",
+        "name": "Copperajah",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219396
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-133",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/133/high.jpg",
+        "localId": "133",
+        "name": "Kangaskhan",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219328
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-134",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/134/high.jpg",
+        "localId": "134",
+        "name": "Tauros",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219329
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-135",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/135/high.jpg",
+        "localId": "135",
+        "name": "Sentret",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219331
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-136",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/136/high.jpg",
+        "localId": "136",
+        "name": "Furret",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219333
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-137",
+        "illustrator": "Kazuma Koda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/137/high.jpg",
+        "localId": "137",
+        "name": "Dunsparce",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219334
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-138",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/138/high.jpg",
+        "localId": "138",
+        "name": "Teddiursa",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219336
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-139",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/139/high.jpg",
+        "localId": "139",
+        "name": "Ursaring",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219337
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-140",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/140/high.jpg",
+        "localId": "140",
+        "name": "Lugia",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219340
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-141",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/141/high.jpg",
+        "localId": "141",
+        "name": "Skitty",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219341
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-142",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/142/high.jpg",
+        "localId": "142",
+        "name": "Delcatty",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219342
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-143",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/143/high.jpg",
+        "localId": "143",
+        "name": "Salamence V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219343
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-144",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/144/high.jpg",
+        "localId": "144",
+        "name": "Salamence VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219347
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-145",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/145/high.jpg",
+        "localId": "145",
+        "name": "Starly",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219352
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-146",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/146/high.jpg",
+        "localId": "146",
+        "name": "Staravia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219354
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-147",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/147/high.jpg",
+        "localId": "147",
+        "name": "Staraptor",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219355
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-148",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/148/high.jpg",
+        "localId": "148",
+        "name": "Ducklett",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219357
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-149",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/149/high.jpg",
+        "localId": "149",
+        "name": "Swanna",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219360
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-150",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/150/high.jpg",
+        "localId": "150",
+        "name": "Bunnelby",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219362
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-151",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/151/high.jpg",
+        "localId": "151",
+        "name": "Fletchling",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219364
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-152",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/152/high.jpg",
+        "localId": "152",
+        "name": "Skwovet",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219365
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-153",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/153/high.jpg",
+        "localId": "153",
+        "name": "Greedent",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219367
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-154",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/154/high.jpg",
+        "localId": "154",
+        "name": "Rookidee",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219368
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-155",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/155/high.jpg",
+        "localId": "155",
+        "name": "Corvisquire",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219370
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-156",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/156/high.jpg",
+        "localId": "156",
+        "name": "Corviknight",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219371
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-157",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/157/high.jpg",
+        "localId": "157",
+        "name": "Big Parasol",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219265
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-158",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/158/high.jpg",
+        "localId": "158",
+        "name": "Billowing Smoke",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219268
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-159",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/159/high.jpg",
+        "localId": "159",
+        "name": "Bird Keeper",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219269
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-160",
+        "illustrator": "inose yukie",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/160/high.jpg",
+        "localId": "160",
+        "name": "Cape of Toughness",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219272
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-161",
+        "illustrator": "sadaji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/161/high.jpg",
+        "localId": "161",
+        "name": "Familiar Bell",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219273
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-162",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/162/high.jpg",
+        "localId": "162",
+        "name": "Glimwood Tangle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219276
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-163",
+        "illustrator": "take",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/163/high.jpg",
+        "localId": "163",
+        "name": "Kabu",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219277
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-164",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/164/high.jpg",
+        "localId": "164",
+        "name": "Old PC",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219278
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-165",
+        "illustrator": "take",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/165/high.jpg",
+        "localId": "165",
+        "name": "Piers",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219280
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-166",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/166/high.jpg",
+        "localId": "166",
+        "name": "Pokémon Breeder's Nurturing",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-167",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/167/high.jpg",
+        "localId": "167",
+        "name": "Rare Fossil",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219282
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-168",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/168/high.jpg",
+        "localId": "168",
+        "name": "Rose",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219284
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-169",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/169/high.jpg",
+        "localId": "169",
+        "name": "Rose Tower",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219285
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-170",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/170/high.jpg",
+        "localId": "170",
+        "name": "Spikemuth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219286
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-171",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/171/high.jpg",
+        "localId": "171",
+        "name": "Struggle Gloves",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219287
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-172",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/172/high.jpg",
+        "localId": "172",
+        "name": "Turbo Patch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219289
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-173",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/173/high.jpg",
+        "localId": "173",
+        "name": "Yell Horn",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219290
+    },
+    {
+        "category": "Energy",
+        "id": "swsh3-174",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/174/high.jpg",
+        "localId": "174",
+        "name": "Heat Fire Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "swsh3-175",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/175/high.jpg",
+        "localId": "175",
+        "name": "Hiding Darkness Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "swsh3-176",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/176/high.jpg",
+        "localId": "176",
+        "name": "Powerful Colorless Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-177",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/177/high.jpg",
+        "localId": "177",
+        "name": "Butterfree V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219297
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-178",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/178/high.jpg",
+        "localId": "178",
+        "name": "Houndoom V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219298
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-179",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/179/high.jpg",
+        "localId": "179",
+        "name": "Centiskorch V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219299
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-180",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/180/high.jpg",
+        "localId": "180",
+        "name": "Vikavolt V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219301
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-181",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/181/high.jpg",
+        "localId": "181",
+        "name": "Rhyperior V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219302
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-182",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/182/high.jpg",
+        "localId": "182",
+        "name": "Crobat V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219304
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-183",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/183/high.jpg",
+        "localId": "183",
+        "name": "Scizor V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219305
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-184",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/184/high.jpg",
+        "localId": "184",
+        "name": "Galarian Stunfisk V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219306
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-185",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/185/high.jpg",
+        "localId": "185",
+        "name": "Salamence V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219307
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-186",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/186/high.jpg",
+        "localId": "186",
+        "name": "Kabu",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219308
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-187",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/187/high.jpg",
+        "localId": "187",
+        "name": "Piers",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219309
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-188",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/188/high.jpg",
+        "localId": "188",
+        "name": "Pokémon Breeder's Nurturing",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-189",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/189/high.jpg",
+        "localId": "189",
+        "name": "Rose",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219310
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-190",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/190/high.jpg",
+        "localId": "190",
+        "name": "Butterfree VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219312
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-191",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/191/high.jpg",
+        "localId": "191",
+        "name": "Centiskorch VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219313
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-192",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/192/high.jpg",
+        "localId": "192",
+        "name": "Eternatus VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219318
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-193",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/193/high.jpg",
+        "localId": "193",
+        "name": "Scizor VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219319
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-194",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/194/high.jpg",
+        "localId": "194",
+        "name": "Salamence VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219320
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-195",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/195/high.jpg",
+        "localId": "195",
+        "name": "Pokémon Breeder's Nurturing",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-196",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/196/high.jpg",
+        "localId": "196",
+        "name": "Rose",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219315
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-197",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/197/high.jpg",
+        "localId": "197",
+        "name": "Rillaboom",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219321
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh3-198",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/198/high.jpg",
+        "localId": "198",
+        "name": "Coalossal",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219323
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-199",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/199/high.jpg",
+        "localId": "199",
+        "name": "Big Parasol",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219316
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh3-200",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/200/high.jpg",
+        "localId": "200",
+        "name": "Turbo Patch",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219317
+    },
+    {
+        "category": "Energy",
+        "id": "swsh3-201",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh3/201/high.jpg",
+        "localId": "201",
+        "name": "Capture Energy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh3",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo.jpg",
+            "name": "Darkness Ablaze",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol.jpg",
+            "releaseDate": "2020-08-14"
+        },
+        "tcgplayerId": 219325
+    }
+]

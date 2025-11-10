@@ -1,0 +1,162 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-latio-1",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "1",
+        "name": "Electrike",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 85131
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-latio-2",
+        "illustrator": "Kyoko Koizumi",
+        "image": null,
+        "localId": "2",
+        "name": "Latios",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 86664
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-latio-3",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "3",
+        "name": "Linoone",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 86805
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-latio-4",
+        "illustrator": "Tomokazu Komiya",
+        "image": null,
+        "localId": "4",
+        "name": "Magnemite",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 87076
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-latio-5",
+        "illustrator": "Kyoko Umemoto",
+        "image": null,
+        "localId": "5",
+        "name": "Magneton",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 87103
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-latio-6",
+        "illustrator": "Mitsuhiro Arita",
+        "image": null,
+        "localId": "6",
+        "name": "Pikachu",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 88079
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-latio-7",
+        "illustrator": "Atsuko Nishida",
+        "image": null,
+        "localId": "7",
+        "name": "Zigzagoon",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 90746
+    },
+    {
+        "category": "Trainer",
+        "id": "tk-ex-latio-8",
+        "illustrator": "Keiji Kinebuchi",
+        "image": null,
+        "localId": "8",
+        "name": "Potion",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 88335
+    },
+    {
+        "category": "Trainer",
+        "id": "tk-ex-latio-9",
+        "illustrator": "Kai Ishikawa",
+        "image": null,
+        "localId": "9",
+        "name": "Energy Search",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 85239
+    },
+    {
+        "category": "Energy",
+        "id": "tk-ex-latio-10",
+        "illustrator": "",
+        "image": null,
+        "localId": "10",
+        "name": "Lightning Energy",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 86760
+    }
+]

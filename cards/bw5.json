@@ -1,0 +1,1876 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "bw5-1",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/1/high.jpg",
+        "localId": "1",
+        "name": "Bulbasaur",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 84036
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-2",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/2/high.jpg",
+        "localId": "2",
+        "name": "Ivysaur",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86304
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-3",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/3/high.jpg",
+        "localId": "3",
+        "name": "Venusaur",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90322
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-4",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/4/high.jpg",
+        "localId": "4",
+        "name": "Scyther",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 89005
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-5",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/5/high.jpg",
+        "localId": "5",
+        "name": "Carnivine",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 84106
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-6",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/6/high.jpg",
+        "localId": "6",
+        "name": "Leafeon",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86682
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-7",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/7/high.jpg",
+        "localId": "7",
+        "name": "Dwebble",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85062
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-8",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/8/high.jpg",
+        "localId": "8",
+        "name": "Crustle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 84509
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-9",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/9/high.jpg",
+        "localId": "9",
+        "name": "Karrablast",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86426
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-10",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/10/high.jpg",
+        "localId": "10",
+        "name": "Shelmet",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 89147
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-11",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/11/high.jpg",
+        "localId": "11",
+        "name": "Accelgor",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 83460
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-12",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/12/high.jpg",
+        "localId": "12",
+        "name": "Flareon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85500
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-13",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/13/high.jpg",
+        "localId": "13",
+        "name": "Entei-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-14",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/14/high.jpg",
+        "localId": "14",
+        "name": "Torchic",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 89962
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-15",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/15/high.jpg",
+        "localId": "15",
+        "name": "Torchic",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 89963
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-16",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/16/high.jpg",
+        "localId": "16",
+        "name": "Combusken",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 84413
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-17",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/17/high.jpg",
+        "localId": "17",
+        "name": "Blaziken",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 83911
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-18",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/18/high.jpg",
+        "localId": "18",
+        "name": "Torkoal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 89973
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-19",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/19/high.jpg",
+        "localId": "19",
+        "name": "Heatmor",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86045
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-20",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/20/high.jpg",
+        "localId": "20",
+        "name": "Larvesta",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86629
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-21",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/21/high.jpg",
+        "localId": "21",
+        "name": "Larvesta",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86630
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-22",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/22/high.jpg",
+        "localId": "22",
+        "name": "Volcarona",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90404
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-23",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/23/high.jpg",
+        "localId": "23",
+        "name": "Slowpoke",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 89335
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-24",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/24/high.jpg",
+        "localId": "24",
+        "name": "Slowbro",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 89309
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-25",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/25/high.jpg",
+        "localId": "25",
+        "name": "Vaporeon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90288
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-26",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/26/high.jpg",
+        "localId": "26",
+        "name": "Kyogre-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-27",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/27/high.jpg",
+        "localId": "27",
+        "name": "Piplup",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 88152
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-28",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/28/high.jpg",
+        "localId": "28",
+        "name": "Prinplup",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 88372
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-29",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/29/high.jpg",
+        "localId": "29",
+        "name": "Empoleon",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85201
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-30",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/30/high.jpg",
+        "localId": "30",
+        "name": "Glaceon",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85747
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-31",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/31/high.jpg",
+        "localId": "31",
+        "name": "Tympole",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90089
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-32",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/32/high.jpg",
+        "localId": "32",
+        "name": "Palpitoad",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 87923
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-33",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/33/high.jpg",
+        "localId": "33",
+        "name": "Vanillite",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90270
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-34",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/34/high.jpg",
+        "localId": "34",
+        "name": "Vanillish",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90265
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-35",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/35/high.jpg",
+        "localId": "35",
+        "name": "Ducklett",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 84993
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-36",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/36/high.jpg",
+        "localId": "36",
+        "name": "Swanna",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 89686
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-37",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/37/high.jpg",
+        "localId": "37",
+        "name": "Jolteon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86347
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-38",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/38/high.jpg",
+        "localId": "38",
+        "name": "Raikou-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-39",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/39/high.jpg",
+        "localId": "39",
+        "name": "Plusle",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 88173
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-40",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/40/high.jpg",
+        "localId": "40",
+        "name": "Minun",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 87493
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-41",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/41/high.jpg",
+        "localId": "41",
+        "name": "Joltik",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86356
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-42",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/42/high.jpg",
+        "localId": "42",
+        "name": "Joltik",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86357
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-43",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/43/high.jpg",
+        "localId": "43",
+        "name": "Galvantula",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85612
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-44",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/44/high.jpg",
+        "localId": "44",
+        "name": "Tynamo",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90095
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-45",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/45/high.jpg",
+        "localId": "45",
+        "name": "Tynamo",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90096
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-46",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/46/high.jpg",
+        "localId": "46",
+        "name": "Eelektrik",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85068
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-47",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/47/high.jpg",
+        "localId": "47",
+        "name": "Eelektross",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85071
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-48",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/48/high.jpg",
+        "localId": "48",
+        "name": "Espeon",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85325
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-49",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/49/high.jpg",
+        "localId": "49",
+        "name": "Slowking",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 89320
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-50",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/50/high.jpg",
+        "localId": "50",
+        "name": "Woobat",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90626
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-51",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/51/high.jpg",
+        "localId": "51",
+        "name": "Yamask",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90677
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-52",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/52/high.jpg",
+        "localId": "52",
+        "name": "Cofagrigus",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 84386
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-53",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/53/high.jpg",
+        "localId": "53",
+        "name": "Aerodactyl",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 83471
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-54",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/54/high.jpg",
+        "localId": "54",
+        "name": "Groudon-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-55",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/55/high.jpg",
+        "localId": "55",
+        "name": "Drilbur",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 84966
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-56",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/56/high.jpg",
+        "localId": "56",
+        "name": "Excadrill",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85338
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-57",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/57/high.jpg",
+        "localId": "57",
+        "name": "Excadrill",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85339
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-58",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/58/high.jpg",
+        "localId": "58",
+        "name": "Timburr",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 89915
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-59",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/59/high.jpg",
+        "localId": "59",
+        "name": "Gurdurr",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85982
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-60",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/60/high.jpg",
+        "localId": "60",
+        "name": "Umbreon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90148
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-61",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/61/high.jpg",
+        "localId": "61",
+        "name": "Umbreon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90149
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-62",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/62/high.jpg",
+        "localId": "62",
+        "name": "Sableye",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 88855
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-63",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/63/high.jpg",
+        "localId": "63",
+        "name": "Darkrai-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-64",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/64/high.jpg",
+        "localId": "64",
+        "name": "Sandile",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 88915
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-65",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/65/high.jpg",
+        "localId": "65",
+        "name": "Krokorok",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86538
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-66",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/66/high.jpg",
+        "localId": "66",
+        "name": "Krookodile",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86543
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-67",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/67/high.jpg",
+        "localId": "67",
+        "name": "Scraggy",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 88984
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-68",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/68/high.jpg",
+        "localId": "68",
+        "name": "Scrafty",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 88979
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-69",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/69/high.jpg",
+        "localId": "69",
+        "name": "Zorua",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90761
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-70",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/70/high.jpg",
+        "localId": "70",
+        "name": "Zorua",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90762
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-71",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/71/high.jpg",
+        "localId": "71",
+        "name": "Zoroark",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90754
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-72",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/72/high.jpg",
+        "localId": "72",
+        "name": "Bisharp",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 83844
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-73",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/73/high.jpg",
+        "localId": "73",
+        "name": "Vullaby",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90430
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-74",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/74/high.jpg",
+        "localId": "74",
+        "name": "Escavalier",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85314
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-75",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/75/high.jpg",
+        "localId": "75",
+        "name": "Klink",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86482
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-76",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/76/high.jpg",
+        "localId": "76",
+        "name": "Klang",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86476
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-77",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/77/high.jpg",
+        "localId": "77",
+        "name": "Klinklang",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86487
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-78",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/78/high.jpg",
+        "localId": "78",
+        "name": "Pawniard",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 87969
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-79",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/79/high.jpg",
+        "localId": "79",
+        "name": "Bisharp",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 83845
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-80",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/80/high.jpg",
+        "localId": "80",
+        "name": "Chansey",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 84178
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-81",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/81/high.jpg",
+        "localId": "81",
+        "name": "Chansey",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 84179
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-82",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/82/high.jpg",
+        "localId": "82",
+        "name": "Blissey",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 83925
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-83",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/83/high.jpg",
+        "localId": "83",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85090
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-84",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/84/high.jpg",
+        "localId": "84",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85091
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-85",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/85/high.jpg",
+        "localId": "85",
+        "name": "Chatot",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 84243
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-86",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/86/high.jpg",
+        "localId": "86",
+        "name": "Lillipup",
+        "rarity": "Common",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86799
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-87",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/87/high.jpg",
+        "localId": "87",
+        "name": "Herdier",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86070
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-88",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/88/high.jpg",
+        "localId": "88",
+        "name": "Stoutland",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 89571
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-89",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/89/high.jpg",
+        "localId": "89",
+        "name": "Haxorus",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86033
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-90",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/90/high.jpg",
+        "localId": "90",
+        "name": "Tornadus-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "bw5-91",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/91/high.jpg",
+        "localId": "91",
+        "name": "Cheren",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 84249
+    },
+    {
+        "category": "Trainer",
+        "id": "bw5-92",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/92/high.jpg",
+        "localId": "92",
+        "name": "Dark Claw",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 84575
+    },
+    {
+        "category": "Trainer",
+        "id": "bw5-93",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/93/high.jpg",
+        "localId": "93",
+        "name": "Dark Patch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 84636
+    },
+    {
+        "category": "Trainer",
+        "id": "bw5-94",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/94/high.jpg",
+        "localId": "94",
+        "name": "Enhanced Hammer",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85265
+    },
+    {
+        "category": "Trainer",
+        "id": "bw5-95",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/95/high.jpg",
+        "localId": "95",
+        "name": "Hooligans Jim & Cas",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 86168
+    },
+    {
+        "category": "Trainer",
+        "id": "bw5-96",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/96/high.jpg",
+        "localId": "96",
+        "name": "N",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 87676
+    },
+    {
+        "category": "Trainer",
+        "id": "bw5-97",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/97/high.jpg",
+        "localId": "97",
+        "name": "Old Amber Aerodactyl",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 87850
+    },
+    {
+        "category": "Trainer",
+        "id": "bw5-98",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/98/high.jpg",
+        "localId": "98",
+        "name": "Professor Juniper",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 88396
+    },
+    {
+        "category": "Trainer",
+        "id": "bw5-99",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/99/high.jpg",
+        "localId": "99",
+        "name": "Random Receiver",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 88573
+    },
+    {
+        "category": "Trainer",
+        "id": "bw5-100",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/100/high.jpg",
+        "localId": "100",
+        "name": "Rare Candy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 88596
+    },
+    {
+        "category": "Trainer",
+        "id": "bw5-101",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/101/high.jpg",
+        "localId": "101",
+        "name": "Twist Mountain",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90087
+    },
+    {
+        "category": "Trainer",
+        "id": "bw5-102",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/102/high.jpg",
+        "localId": "102",
+        "name": "Ultra Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 90134
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-103",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/103/high.jpg",
+        "localId": "103",
+        "name": "Entei-EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-104",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/104/high.jpg",
+        "localId": "104",
+        "name": "Kyogre-EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-105",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/105/high.jpg",
+        "localId": "105",
+        "name": "Raikou-EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-106",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/106/high.jpg",
+        "localId": "106",
+        "name": "Groudon-EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-107",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/107/high.jpg",
+        "localId": "107",
+        "name": "Darkrai-EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-108",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/108/high.jpg",
+        "localId": "108",
+        "name": "Tornadus-EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-109",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/109/high.jpg",
+        "localId": "109",
+        "name": "Gardevoir",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 85638
+    },
+    {
+        "category": "Pokemon",
+        "id": "bw5-110",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/110/high.jpg",
+        "localId": "110",
+        "name": "Archeops",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        },
+        "tcgplayerId": 83610
+    },
+    {
+        "category": "Trainer",
+        "id": "bw5-111",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bw5/111/high.jpg",
+        "localId": "111",
+        "name": "Pokémon Catcher",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "bw5",
+            "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.jpg",
+            "name": "Dark Explorers",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.jpg",
+            "releaseDate": "2012-05-09"
+        }
+    }
+]

@@ -1,0 +1,4830 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "swsh8-1",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/1/high.jpg",
+        "localId": "1",
+        "name": "Caterpie",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253069
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-2",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/2/high.jpg",
+        "localId": "2",
+        "name": "Metapod",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253072
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-3",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/3/high.jpg",
+        "localId": "3",
+        "name": "Butterfree",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253073
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-4",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/4/high.jpg",
+        "localId": "4",
+        "name": "Shroomish",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253074
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-5",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/5/high.jpg",
+        "localId": "5",
+        "name": "Breloom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253075
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-6",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/6/high.jpg",
+        "localId": "6",
+        "name": "Breloom V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253076
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-7",
+        "illustrator": "Nagomi Nijo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/7/high.jpg",
+        "localId": "7",
+        "name": "Pansage",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253077
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-8",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/8/high.jpg",
+        "localId": "8",
+        "name": "Simisage",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253078
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-9",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/9/high.jpg",
+        "localId": "9",
+        "name": "Sewaddle",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253079
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-10",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/10/high.jpg",
+        "localId": "10",
+        "name": "Swadloon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253080
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-11",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/11/high.jpg",
+        "localId": "11",
+        "name": "Leavanny",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253081
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-12",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/12/high.jpg",
+        "localId": "12",
+        "name": "Maractus",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253086
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-13",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/13/high.jpg",
+        "localId": "13",
+        "name": "Shelmet",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253087
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-14",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/14/high.jpg",
+        "localId": "14",
+        "name": "Accelgor",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253090
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-15",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/15/high.jpg",
+        "localId": "15",
+        "name": "Virizion",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253092
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-16",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/16/high.jpg",
+        "localId": "16",
+        "name": "Phantump",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253094
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-17",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/17/high.jpg",
+        "localId": "17",
+        "name": "Trevenant",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253096
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-18",
+        "illustrator": "Asako Ito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/18/high.jpg",
+        "localId": "18",
+        "name": "Grubbin",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253098
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-19",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/19/high.jpg",
+        "localId": "19",
+        "name": "Dewpider",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253102
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-20",
+        "illustrator": "KIYOTAKA OSHIYAMA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/20/high.jpg",
+        "localId": "20",
+        "name": "Araquanid",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253105
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-21",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/21/high.jpg",
+        "localId": "21",
+        "name": "Tsareena V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253109
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-22",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/22/high.jpg",
+        "localId": "22",
+        "name": "Rillaboom V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253113
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-23",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/23/high.jpg",
+        "localId": "23",
+        "name": "Rillaboom VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253108
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-24",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/24/high.jpg",
+        "localId": "24",
+        "name": "Gossifleur",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253115
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-25",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/25/high.jpg",
+        "localId": "25",
+        "name": "Eldegoss",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253118
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-26",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/26/high.jpg",
+        "localId": "26",
+        "name": "Appletun V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253120
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-27",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/27/high.jpg",
+        "localId": "27",
+        "name": "Zarude",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253122
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-28",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/28/high.jpg",
+        "localId": "28",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253124
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-29",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/29/high.jpg",
+        "localId": "29",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253125
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-30",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/30/high.jpg",
+        "localId": "30",
+        "name": "Ninetales",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253126
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-31",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/31/high.jpg",
+        "localId": "31",
+        "name": "Ninetales",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253128
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-32",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/32/high.jpg",
+        "localId": "32",
+        "name": "Growlithe",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253129
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-33",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/33/high.jpg",
+        "localId": "33",
+        "name": "Arcanine",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253130
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-34",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/34/high.jpg",
+        "localId": "34",
+        "name": "Slugma",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253131
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-35",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/35/high.jpg",
+        "localId": "35",
+        "name": "Magcargo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253132
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-36",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/36/high.jpg",
+        "localId": "36",
+        "name": "Victini",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253136
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-37",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/37/high.jpg",
+        "localId": "37",
+        "name": "Pansear",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253137
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-38",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/38/high.jpg",
+        "localId": "38",
+        "name": "Simisear",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253140
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-39",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/39/high.jpg",
+        "localId": "39",
+        "name": "Chandelure V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253142
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-40",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/40/high.jpg",
+        "localId": "40",
+        "name": "Chandelure VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253145
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-41",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/41/high.jpg",
+        "localId": "41",
+        "name": "Heatmor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253150
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-42",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/42/high.jpg",
+        "localId": "42",
+        "name": "Oricorio",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253158
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-43",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/43/high.jpg",
+        "localId": "43",
+        "name": "Cinderace V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253164
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-44",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/44/high.jpg",
+        "localId": "44",
+        "name": "Cinderace V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253168
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-45",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/45/high.jpg",
+        "localId": "45",
+        "name": "Cinderace VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253170
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-46",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/46/high.jpg",
+        "localId": "46",
+        "name": "Sizzlipede",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253172
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-47",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/47/high.jpg",
+        "localId": "47",
+        "name": "Sizzlipede",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253175
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-48",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/48/high.jpg",
+        "localId": "48",
+        "name": "Centiskorch",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253179
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-49",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/49/high.jpg",
+        "localId": "49",
+        "name": "Centiskorch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253180
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-50",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/50/high.jpg",
+        "localId": "50",
+        "name": "Shellder",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253181
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-51",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/51/high.jpg",
+        "localId": "51",
+        "name": "Cloyster",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253182
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-52",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/52/high.jpg",
+        "localId": "52",
+        "name": "Staryu",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253183
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-53",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/53/high.jpg",
+        "localId": "53",
+        "name": "Starmie",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253184
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-54",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/54/high.jpg",
+        "localId": "54",
+        "name": "Lapras",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253185
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-55",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/55/high.jpg",
+        "localId": "55",
+        "name": "Totodile",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253186
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-56",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/56/high.jpg",
+        "localId": "56",
+        "name": "Croconaw",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253187
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-57",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/57/high.jpg",
+        "localId": "57",
+        "name": "Feraligatr",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253188
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-58",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/58/high.jpg",
+        "localId": "58",
+        "name": "Marill",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253189
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-59",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/59/high.jpg",
+        "localId": "59",
+        "name": "Azumarill",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253190
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-60",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/60/high.jpg",
+        "localId": "60",
+        "name": "Qwilfish",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253192
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-61",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/61/high.jpg",
+        "localId": "61",
+        "name": "Mantine",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253195
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-62",
+        "illustrator": "KIYOTAKA OSHIYAMA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/62/high.jpg",
+        "localId": "62",
+        "name": "Mudkip",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253199
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-63",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/63/high.jpg",
+        "localId": "63",
+        "name": "Marshtomp",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253201
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-64",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/64/high.jpg",
+        "localId": "64",
+        "name": "Swampert",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253205
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-65",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/65/high.jpg",
+        "localId": "65",
+        "name": "Clamperl",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253208
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-66",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/66/high.jpg",
+        "localId": "66",
+        "name": "Huntail",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253209
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-67",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/67/high.jpg",
+        "localId": "67",
+        "name": "Gorebyss",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253210
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-68",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/68/high.jpg",
+        "localId": "68",
+        "name": "Panpour",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253211
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-69",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/69/high.jpg",
+        "localId": "69",
+        "name": "Simipour",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253212
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-70",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/70/high.jpg",
+        "localId": "70",
+        "name": "Basculin",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253215
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-71",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/71/high.jpg",
+        "localId": "71",
+        "name": "Galarian Darumaka",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253218
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-72",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/72/high.jpg",
+        "localId": "72",
+        "name": "Galarian Darmanitan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253222
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-73",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/73/high.jpg",
+        "localId": "73",
+        "name": "Greninja V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253223
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-74",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/74/high.jpg",
+        "localId": "74",
+        "name": "Clauncher",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253224
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-75",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/75/high.jpg",
+        "localId": "75",
+        "name": "Clawitzer",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253225
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-76",
+        "illustrator": "MUGENUP",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/76/high.jpg",
+        "localId": "76",
+        "name": "Crabominable V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253226
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-77",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/77/high.jpg",
+        "localId": "77",
+        "name": "Pyukumuku",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253229
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-78",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/78/high.jpg",
+        "localId": "78",
+        "name": "Inteleon V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253232
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-79",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/79/high.jpg",
+        "localId": "79",
+        "name": "Inteleon VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253233
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-80",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/80/high.jpg",
+        "localId": "80",
+        "name": "Chewtle",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253234
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-81",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/81/high.jpg",
+        "localId": "81",
+        "name": "Drednaw",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253235
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-82",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/82/high.jpg",
+        "localId": "82",
+        "name": "Arrokuda",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253236
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-83",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/83/high.jpg",
+        "localId": "83",
+        "name": "Barraskewda",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253237
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-84",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/84/high.jpg",
+        "localId": "84",
+        "name": "Snom",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253238
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-85",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/85/high.jpg",
+        "localId": "85",
+        "name": "Frosmoth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253240
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-86",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/86/high.jpg",
+        "localId": "86",
+        "name": "Pikachu V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253241
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-87",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/87/high.jpg",
+        "localId": "87",
+        "name": "Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253243
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-88",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/88/high.jpg",
+        "localId": "88",
+        "name": "Electrode",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253244
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-89",
+        "illustrator": "Megumi Higuchi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/89/high.jpg",
+        "localId": "89",
+        "name": "Plusle",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253245
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-90",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/90/high.jpg",
+        "localId": "90",
+        "name": "Minun",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253246
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-91",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/91/high.jpg",
+        "localId": "91",
+        "name": "Shinx",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253247
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-92",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/92/high.jpg",
+        "localId": "92",
+        "name": "Luxio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253248
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-93",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/93/high.jpg",
+        "localId": "93",
+        "name": "Luxray",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253249
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-94",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/94/high.jpg",
+        "localId": "94",
+        "name": "Rotom",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253250
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-95",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/95/high.jpg",
+        "localId": "95",
+        "name": "Tynamo",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253251
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-96",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/96/high.jpg",
+        "localId": "96",
+        "name": "Eelektrik",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253252
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-97",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/97/high.jpg",
+        "localId": "97",
+        "name": "Eelektross",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253253
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-98",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/98/high.jpg",
+        "localId": "98",
+        "name": "Helioptile",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253254
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-99",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/99/high.jpg",
+        "localId": "99",
+        "name": "Heliolisk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253255
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-100",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/100/high.jpg",
+        "localId": "100",
+        "name": "Charjabug",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253256
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-101",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/101/high.jpg",
+        "localId": "101",
+        "name": "Vikavolt",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253257
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-102",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/102/high.jpg",
+        "localId": "102",
+        "name": "Zeraora",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253258
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-103",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/103/high.jpg",
+        "localId": "103",
+        "name": "Boltund V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253259
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-104",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/104/high.jpg",
+        "localId": "104",
+        "name": "Boltund VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253260
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-105",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/105/high.jpg",
+        "localId": "105",
+        "name": "Toxel",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253261
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-106",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/106/high.jpg",
+        "localId": "106",
+        "name": "Toxel",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253262
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-107",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/107/high.jpg",
+        "localId": "107",
+        "name": "Toxtricity",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253263
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-108",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/108/high.jpg",
+        "localId": "108",
+        "name": "Toxtricity",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253264
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-109",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/109/high.jpg",
+        "localId": "109",
+        "name": "Morpeko",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253267
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-110",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/110/high.jpg",
+        "localId": "110",
+        "name": "Jigglypuff",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253268
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-111",
+        "illustrator": "Asako Ito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/111/high.jpg",
+        "localId": "111",
+        "name": "Wigglytuff",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253269
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-112",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/112/high.jpg",
+        "localId": "112",
+        "name": "Jynx",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253273
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-113",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/113/high.jpg",
+        "localId": "113",
+        "name": "Mew V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253274
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-114",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/114/high.jpg",
+        "localId": "114",
+        "name": "Mew VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253275
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-115",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/115/high.jpg",
+        "localId": "115",
+        "name": "Snubbull",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253278
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-116",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/116/high.jpg",
+        "localId": "116",
+        "name": "Granbull",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253282
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-117",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/117/high.jpg",
+        "localId": "117",
+        "name": "Galarian Corsola",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253283
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-118",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/118/high.jpg",
+        "localId": "118",
+        "name": "Galarian Cursola",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253288
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-119",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/119/high.jpg",
+        "localId": "119",
+        "name": "Mawile",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253290
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-120",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/120/high.jpg",
+        "localId": "120",
+        "name": "Deoxys",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253293
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-121",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/121/high.jpg",
+        "localId": "121",
+        "name": "Munna",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253294
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-122",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/122/high.jpg",
+        "localId": "122",
+        "name": "Musharna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253299
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-123",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/123/high.jpg",
+        "localId": "123",
+        "name": "Sigilyph",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253303
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-124",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/124/high.jpg",
+        "localId": "124",
+        "name": "Meloetta",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253308
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-125",
+        "illustrator": "KIYOTAKA OSHIYAMA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/125/high.jpg",
+        "localId": "125",
+        "name": "Sandygast",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253311
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-126",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/126/high.jpg",
+        "localId": "126",
+        "name": "Palossand",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253313
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-127",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/127/high.jpg",
+        "localId": "127",
+        "name": "Indeedee",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253318
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-128",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/128/high.jpg",
+        "localId": "128",
+        "name": "Dreepy",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253321
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-129",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/129/high.jpg",
+        "localId": "129",
+        "name": "Drakloak",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253325
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-130",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/130/high.jpg",
+        "localId": "130",
+        "name": "Dragapult",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253327
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-131",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/131/high.jpg",
+        "localId": "131",
+        "name": "Sandshrew",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253330
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-132",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/132/high.jpg",
+        "localId": "132",
+        "name": "Sandslash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253449
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-133",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/133/high.jpg",
+        "localId": "133",
+        "name": "Mankey",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253334
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-134",
+        "illustrator": "Yuya Oka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/134/high.jpg",
+        "localId": "134",
+        "name": "Primeape",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253337
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-135",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/135/high.jpg",
+        "localId": "135",
+        "name": "Geodude",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253339
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-136",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/136/high.jpg",
+        "localId": "136",
+        "name": "Graveler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253341
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-137",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/137/high.jpg",
+        "localId": "137",
+        "name": "Golem",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253342
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-138",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/138/high.jpg",
+        "localId": "138",
+        "name": "Onix",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253343
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-139",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/139/high.jpg",
+        "localId": "139",
+        "name": "Steelix",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253346
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-140",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/140/high.jpg",
+        "localId": "140",
+        "name": "Gligar",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253348
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-141",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/141/high.jpg",
+        "localId": "141",
+        "name": "Gliscor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253350
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-142",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/142/high.jpg",
+        "localId": "142",
+        "name": "Makuhita",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253352
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-143",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/143/high.jpg",
+        "localId": "143",
+        "name": "Hariyama",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253355
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-144",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/144/high.jpg",
+        "localId": "144",
+        "name": "Baltoy",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253356
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-145",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/145/high.jpg",
+        "localId": "145",
+        "name": "Claydol",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253359
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-146",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/146/high.jpg",
+        "localId": "146",
+        "name": "Lucario V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253360
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-147",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/147/high.jpg",
+        "localId": "147",
+        "name": "Drilbur",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253361
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-148",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/148/high.jpg",
+        "localId": "148",
+        "name": "Landorus",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253362
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-149",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/149/high.jpg",
+        "localId": "149",
+        "name": "Pancham",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253363
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-150",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/150/high.jpg",
+        "localId": "150",
+        "name": "Stufful",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253364
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-151",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/151/high.jpg",
+        "localId": "151",
+        "name": "Bewear",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253365
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-152",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/152/high.jpg",
+        "localId": "152",
+        "name": "Clobbopus",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253366
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-153",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/153/high.jpg",
+        "localId": "153",
+        "name": "Grapploct",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253367
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-154",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/154/high.jpg",
+        "localId": "154",
+        "name": "Falinks",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253368
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-155",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/155/high.jpg",
+        "localId": "155",
+        "name": "Falinks",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253369
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-156",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/156/high.jpg",
+        "localId": "156",
+        "name": "Gengar V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253370
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-157",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/157/high.jpg",
+        "localId": "157",
+        "name": "Gengar VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253371
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-158",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/158/high.jpg",
+        "localId": "158",
+        "name": "Tyranitar V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253372
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-159",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/159/high.jpg",
+        "localId": "159",
+        "name": "Galarian Zigzagoon",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253373
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-160",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/160/high.jpg",
+        "localId": "160",
+        "name": "Galarian Linoone",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253374
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-161",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/161/high.jpg",
+        "localId": "161",
+        "name": "Galarian Obstagoon",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253375
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-162",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/162/high.jpg",
+        "localId": "162",
+        "name": "Carvanha",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253376
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-163",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/163/high.jpg",
+        "localId": "163",
+        "name": "Sharpedo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253377
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-164",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/164/high.jpg",
+        "localId": "164",
+        "name": "Absol",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253378
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-165",
+        "illustrator": "Nagomi Nijo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/165/high.jpg",
+        "localId": "165",
+        "name": "Croagunk",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253379
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-166",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/166/high.jpg",
+        "localId": "166",
+        "name": "Toxicroak",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253380
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-167",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/167/high.jpg",
+        "localId": "167",
+        "name": "Darkrai",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253381
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-168",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/168/high.jpg",
+        "localId": "168",
+        "name": "Trubbish",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253382
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-169",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/169/high.jpg",
+        "localId": "169",
+        "name": "Garbodor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253383
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-170",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/170/high.jpg",
+        "localId": "170",
+        "name": "Zorua",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253384
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-171",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/171/high.jpg",
+        "localId": "171",
+        "name": "Zoroark",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253385
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-172",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/172/high.jpg",
+        "localId": "172",
+        "name": "Vullaby",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253386
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-173",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/173/high.jpg",
+        "localId": "173",
+        "name": "Mandibuzz",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253387
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-174",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/174/high.jpg",
+        "localId": "174",
+        "name": "Pangoro",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253388
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-175",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/175/high.jpg",
+        "localId": "175",
+        "name": "Yveltal",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253389
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-176",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/176/high.jpg",
+        "localId": "176",
+        "name": "Impidimp",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253390
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-177",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/177/high.jpg",
+        "localId": "177",
+        "name": "Morgrem",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253391
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-178",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/178/high.jpg",
+        "localId": "178",
+        "name": "Grimmsnarl",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253392
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-179",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/179/high.jpg",
+        "localId": "179",
+        "name": "Morpeko",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253393
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-180",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/180/high.jpg",
+        "localId": "180",
+        "name": "Galarian Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253326
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-181",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/181/high.jpg",
+        "localId": "181",
+        "name": "Galarian Perrserker",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253328
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-182",
+        "illustrator": "Megumi Higuchi",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/182/high.jpg",
+        "localId": "182",
+        "name": "Skarmory",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253329
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-183",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/183/high.jpg",
+        "localId": "183",
+        "name": "Excadrill",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253331
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-184",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/184/high.jpg",
+        "localId": "184",
+        "name": "Durant",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253332
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-185",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/185/high.jpg",
+        "localId": "185",
+        "name": "Genesect V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253333
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-186",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/186/high.jpg",
+        "localId": "186",
+        "name": "Klefki",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253335
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-187",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/187/high.jpg",
+        "localId": "187",
+        "name": "Togedemaru",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253336
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-188",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/188/high.jpg",
+        "localId": "188",
+        "name": "Meltan",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253338
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-189",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/189/high.jpg",
+        "localId": "189",
+        "name": "Melmetal",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253340
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-190",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/190/high.jpg",
+        "localId": "190",
+        "name": "Corviknight",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253344
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-191",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/191/high.jpg",
+        "localId": "191",
+        "name": "Cufant",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253345
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-192",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/192/high.jpg",
+        "localId": "192",
+        "name": "Copperajah",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253347
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-193",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/193/high.jpg",
+        "localId": "193",
+        "name": "Latias",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253349
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-194",
+        "illustrator": "hatachu",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/194/high.jpg",
+        "localId": "194",
+        "name": "Latios",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253351
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-195",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/195/high.jpg",
+        "localId": "195",
+        "name": "Goomy",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253353
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-196",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/196/high.jpg",
+        "localId": "196",
+        "name": "Sliggoo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253354
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-197",
+        "illustrator": "Nagomi Nijo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/197/high.jpg",
+        "localId": "197",
+        "name": "Goodra",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253357
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-198",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/198/high.jpg",
+        "localId": "198",
+        "name": "Turtonator",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253358
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-199",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/199/high.jpg",
+        "localId": "199",
+        "name": "Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253291
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-200",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/200/high.jpg",
+        "localId": "200",
+        "name": "Persian",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253292
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-201",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/201/high.jpg",
+        "localId": "201",
+        "name": "Dodrio V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253295
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-202",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/202/high.jpg",
+        "localId": "202",
+        "name": "Chansey",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253296
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-203",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/203/high.jpg",
+        "localId": "203",
+        "name": "Blissey",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253297
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-204",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/204/high.jpg",
+        "localId": "204",
+        "name": "Kangaskhan",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253298
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-205",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/205/high.jpg",
+        "localId": "205",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253300
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-206",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/206/high.jpg",
+        "localId": "206",
+        "name": "Snorlax",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253301
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-207",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/207/high.jpg",
+        "localId": "207",
+        "name": "Dunsparce",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253302
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-208",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/208/high.jpg",
+        "localId": "208",
+        "name": "Stantler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253304
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-209",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/209/high.jpg",
+        "localId": "209",
+        "name": "Smeargle",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253305
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-210",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/210/high.jpg",
+        "localId": "210",
+        "name": "Skitty",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253306
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-211",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/211/high.jpg",
+        "localId": "211",
+        "name": "Delcatty",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253307
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-212",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/212/high.jpg",
+        "localId": "212",
+        "name": "Buneary",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253309
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-213",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/213/high.jpg",
+        "localId": "213",
+        "name": "Lopunny",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253310
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-214",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/214/high.jpg",
+        "localId": "214",
+        "name": "Bunnelby",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253312
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-215",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/215/high.jpg",
+        "localId": "215",
+        "name": "Diggersby",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253314
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-216",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/216/high.jpg",
+        "localId": "216",
+        "name": "Hawlucha",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253315
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-217",
+        "illustrator": "PLANETA Yamashita",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/217/high.jpg",
+        "localId": "217",
+        "name": "Greedent V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253316
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-218",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/218/high.jpg",
+        "localId": "218",
+        "name": "Greedent VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253317
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-219",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/219/high.jpg",
+        "localId": "219",
+        "name": "Rookidee",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253319
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-220",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/220/high.jpg",
+        "localId": "220",
+        "name": "Corvisquire",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253320
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-221",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/221/high.jpg",
+        "localId": "221",
+        "name": "Wooloo",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253322
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-222",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/222/high.jpg",
+        "localId": "222",
+        "name": "Wooloo",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253323
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-223",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/223/high.jpg",
+        "localId": "223",
+        "name": "Dubwool",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253324
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-224",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/224/high.jpg",
+        "localId": "224",
+        "name": "Adventurer's Discovery",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253089
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-225",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/225/high.jpg",
+        "localId": "225",
+        "name": "Battle VIP Pass",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253091
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-226",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/226/high.jpg",
+        "localId": "226",
+        "name": "Bug Catcher",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253093
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-227",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/227/high.jpg",
+        "localId": "227",
+        "name": "Chili & Cilan & Cress",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253097
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-228",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/228/high.jpg",
+        "localId": "228",
+        "name": "Cook",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253099
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-229",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/229/high.jpg",
+        "localId": "229",
+        "name": "Cram-o-matic",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253100
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-230",
+        "illustrator": "inose yukie",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/230/high.jpg",
+        "localId": "230",
+        "name": "Cross Switcher",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253101
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-231",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/231/high.jpg",
+        "localId": "231",
+        "name": "Crossceiver",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253103
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-232",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/232/high.jpg",
+        "localId": "232",
+        "name": "Dancer",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253104
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-233",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/233/high.jpg",
+        "localId": "233",
+        "name": "Elesa's Sparkle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253106
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-234",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/234/high.jpg",
+        "localId": "234",
+        "name": "Farewell Bell",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253107
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-235",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/235/high.jpg",
+        "localId": "235",
+        "name": "Judge",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253110
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-236",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/236/high.jpg",
+        "localId": "236",
+        "name": "Power Tablet",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253111
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-237",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/237/high.jpg",
+        "localId": "237",
+        "name": "Quick Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253112
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-238",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/238/high.jpg",
+        "localId": "238",
+        "name": "Schoolboy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253114
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-239",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/239/high.jpg",
+        "localId": "239",
+        "name": "Schoolgirl",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253116
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-240",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/240/high.jpg",
+        "localId": "240",
+        "name": "Shauna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253117
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-241",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/241/high.jpg",
+        "localId": "241",
+        "name": "Sidney",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253119
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-242",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/242/high.jpg",
+        "localId": "242",
+        "name": "Skaters' Park",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253121
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-243",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/243/high.jpg",
+        "localId": "243",
+        "name": "Spongy Gloves",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253123
+    },
+    {
+        "category": "Energy",
+        "id": "swsh8-244",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/244/high.jpg",
+        "localId": "244",
+        "name": "Fusion Strike Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253127
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-245",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/245/high.jpg",
+        "localId": "245",
+        "name": "Celebi V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253138
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-246",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/246/high.jpg",
+        "localId": "246",
+        "name": "Tsareena V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253139
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-247",
+        "illustrator": "Saki Hayashiro",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/247/high.jpg",
+        "localId": "247",
+        "name": "Chandelure V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253141
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-248",
+        "illustrator": "MUGENUP",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/248/high.jpg",
+        "localId": "248",
+        "name": "Crabominable V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253143
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-249",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/249/high.jpg",
+        "localId": "249",
+        "name": "Boltund V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253144
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-250",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/250/high.jpg",
+        "localId": "250",
+        "name": "Mew V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253146
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-251",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/251/high.jpg",
+        "localId": "251",
+        "name": "Mew V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253147
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-252",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/252/high.jpg",
+        "localId": "252",
+        "name": "Sandaconda V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253149
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-253",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/253/high.jpg",
+        "localId": "253",
+        "name": "Hoopa V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253152
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-254",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/254/high.jpg",
+        "localId": "254",
+        "name": "Genesect V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253154
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-255",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/255/high.jpg",
+        "localId": "255",
+        "name": "Genesect V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253155
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-256",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/256/high.jpg",
+        "localId": "256",
+        "name": "Greedent V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253156
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-257",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/257/high.jpg",
+        "localId": "257",
+        "name": "Greedent V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253157
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-258",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/258/high.jpg",
+        "localId": "258",
+        "name": "Chili & Cilan & Cress",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253159
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-259",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/259/high.jpg",
+        "localId": "259",
+        "name": "Dancer",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253160
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-260",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/260/high.jpg",
+        "localId": "260",
+        "name": "Elesa's Sparkle",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253161
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-261",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/261/high.jpg",
+        "localId": "261",
+        "name": "Schoolboy",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253162
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-262",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/262/high.jpg",
+        "localId": "262",
+        "name": "Schoolgirl",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253163
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-263",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/263/high.jpg",
+        "localId": "263",
+        "name": "Shauna",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253165
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-264",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/264/high.jpg",
+        "localId": "264",
+        "name": "Sidney",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253166
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-265",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/265/high.jpg",
+        "localId": "265",
+        "name": "Chandelure VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253167
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-266",
+        "illustrator": "Kazuma Koda",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/266/high.jpg",
+        "localId": "266",
+        "name": "Inteleon VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253171
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-267",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/267/high.jpg",
+        "localId": "267",
+        "name": "Boltund VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253174
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-268",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/268/high.jpg",
+        "localId": "268",
+        "name": "Mew VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253176
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-269",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/269/high.jpg",
+        "localId": "269",
+        "name": "Mew VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253177
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-270",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/270/high.jpg",
+        "localId": "270",
+        "name": "Espeon VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253265
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-271",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/271/high.jpg",
+        "localId": "271",
+        "name": "Gengar VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253266
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-272",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/272/high.jpg",
+        "localId": "272",
+        "name": "Greedent VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253270
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-273",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/273/high.jpg",
+        "localId": "273",
+        "name": "Chili & Cilan & Cress",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253271
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-274",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/274/high.jpg",
+        "localId": "274",
+        "name": "Dancer",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253272
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-275",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/275/high.jpg",
+        "localId": "275",
+        "name": "Elesa's Sparkle",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253276
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-276",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/276/high.jpg",
+        "localId": "276",
+        "name": "Schoolboy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253277
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-277",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/277/high.jpg",
+        "localId": "277",
+        "name": "Schoolgirl",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253279
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-278",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/278/high.jpg",
+        "localId": "278",
+        "name": "Shauna",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253280
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-279",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/279/high.jpg",
+        "localId": "279",
+        "name": "Sidney",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253281
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh8-280",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/280/high.jpg",
+        "localId": "280",
+        "name": "Flaaffy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253284
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-281",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/281/high.jpg",
+        "localId": "281",
+        "name": "Power Tablet",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253285
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh8-282",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/282/high.jpg",
+        "localId": "282",
+        "name": "Training Court",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253286
+    },
+    {
+        "category": "Energy",
+        "id": "swsh8-283",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/283/high.jpg",
+        "localId": "283",
+        "name": "Grass Energy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253287
+    },
+    {
+        "category": "Energy",
+        "id": "swsh8-284",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh8/284/high.jpg",
+        "localId": "284",
+        "name": "Fire Energy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh8",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.jpg",
+            "name": "Fusion Strike",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.jpg",
+            "releaseDate": "2021-11-12"
+        },
+        "tcgplayerId": 253289
+    }
+]

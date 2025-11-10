@@ -1,0 +1,3272 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sv05-001",
+        "illustrator": "Dsuke",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/001/high.jpg",
+        "localId": "001",
+        "name": "Scyther",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-002",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/002/high.jpg",
+        "localId": "002",
+        "name": "Pineco",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-003",
+        "illustrator": "Asako Ito",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/003/high.jpg",
+        "localId": "003",
+        "name": "Seedot",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-004",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/004/high.jpg",
+        "localId": "004",
+        "name": "Nuzleaf",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-005",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/005/high.jpg",
+        "localId": "005",
+        "name": "Shiftry",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-006",
+        "illustrator": "Yoriyuki Ikegami",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/006/high.jpg",
+        "localId": "006",
+        "name": "Shroomish",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-007",
+        "illustrator": "Taiga Kasai",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/007/high.jpg",
+        "localId": "007",
+        "name": "Breloom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-008",
+        "illustrator": "Tomomi Ozaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/008/high.jpg",
+        "localId": "008",
+        "name": "Roselia",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-009",
+        "illustrator": "Gapao",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/009/high.jpg",
+        "localId": "009",
+        "name": "Roserade",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-010",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/010/high.jpg",
+        "localId": "010",
+        "name": "Turtwig",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-011",
+        "illustrator": "Uninori",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/011/high.jpg",
+        "localId": "011",
+        "name": "Grotle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-012",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/012/high.jpg",
+        "localId": "012",
+        "name": "Torterra ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-013",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/013/high.jpg",
+        "localId": "013",
+        "name": "Shaymin",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-014",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/014/high.jpg",
+        "localId": "014",
+        "name": "Cottonee",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-015",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/015/high.jpg",
+        "localId": "015",
+        "name": "Whimsicott",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-016",
+        "illustrator": "Rond",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/016/high.jpg",
+        "localId": "016",
+        "name": "Deerling",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-017",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/017/high.jpg",
+        "localId": "017",
+        "name": "Sawsbuck",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-018",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/018/high.jpg",
+        "localId": "018",
+        "name": "Grubbin",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-019",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/019/high.jpg",
+        "localId": "019",
+        "name": "Dhelmise",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-020",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/020/high.jpg",
+        "localId": "020",
+        "name": "Bramblin",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-021",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/021/high.jpg",
+        "localId": "021",
+        "name": "Brambleghast",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-022",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/022/high.jpg",
+        "localId": "022",
+        "name": "Scovillain ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-023",
+        "illustrator": "Saboteri",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/023/high.jpg",
+        "localId": "023",
+        "name": "Rellor",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-024",
+        "illustrator": "mingo",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/024/high.jpg",
+        "localId": "024",
+        "name": "Rabsca",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-025",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/025/high.jpg",
+        "localId": "025",
+        "name": "Iron Leaves ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-026",
+        "illustrator": "takashi shiraishi",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/026/high.jpg",
+        "localId": "026",
+        "name": "Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-027",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/027/high.jpg",
+        "localId": "027",
+        "name": "Rapidash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-028",
+        "illustrator": "Haru Akasaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/028/high.jpg",
+        "localId": "028",
+        "name": "Slugma",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-029",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/029/high.jpg",
+        "localId": "029",
+        "name": "Magcargo",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-030",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/030/high.jpg",
+        "localId": "030",
+        "name": "Victini",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-031",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/031/high.jpg",
+        "localId": "031",
+        "name": "Heatmor",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-032",
+        "illustrator": "REND",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/032/high.jpg",
+        "localId": "032",
+        "name": "Litten",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-033",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/033/high.jpg",
+        "localId": "033",
+        "name": "Torracat",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-034",
+        "illustrator": "N-DESIGN Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/034/high.jpg",
+        "localId": "034",
+        "name": "Incineroar ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-035",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/035/high.jpg",
+        "localId": "035",
+        "name": "Turtonator",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-036",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/036/high.jpg",
+        "localId": "036",
+        "name": "Sizzlipede",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-037",
+        "illustrator": "Krgc",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/037/high.jpg",
+        "localId": "037",
+        "name": "Centiskorch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-038",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/038/high.jpg",
+        "localId": "038",
+        "name": "Gouging Fire ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-039",
+        "illustrator": "MINAMINAMI Take",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/039/high.jpg",
+        "localId": "039",
+        "name": "Totodile",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-040",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/040/high.jpg",
+        "localId": "040",
+        "name": "Croconaw",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-041",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/041/high.jpg",
+        "localId": "041",
+        "name": "Feraligatr",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-042",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/042/high.jpg",
+        "localId": "042",
+        "name": "Carvanha",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-043",
+        "illustrator": "Shinji Kanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/043/high.jpg",
+        "localId": "043",
+        "name": "Sharpedo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-044",
+        "illustrator": "satoma",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/044/high.jpg",
+        "localId": "044",
+        "name": "Keldeo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-045",
+        "illustrator": "Orca",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/045/high.jpg",
+        "localId": "045",
+        "name": "Snom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-046",
+        "illustrator": "rika",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/046/high.jpg",
+        "localId": "046",
+        "name": "Frosmoth",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-047",
+        "illustrator": "OKUBO",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/047/high.jpg",
+        "localId": "047",
+        "name": "Wiglett",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-048",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/048/high.jpg",
+        "localId": "048",
+        "name": "Finizen",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-049",
+        "illustrator": "DOM",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/049/high.jpg",
+        "localId": "049",
+        "name": "Palafin",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-050",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/050/high.jpg",
+        "localId": "050",
+        "name": "Walking Wake ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-051",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/051/high.jpg",
+        "localId": "051",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-052",
+        "illustrator": "cochi8i",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/052/high.jpg",
+        "localId": "052",
+        "name": "Raichu",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-053",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/053/high.jpg",
+        "localId": "053",
+        "name": "Electabuzz",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-054",
+        "illustrator": "Yuya Oka",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/054/high.jpg",
+        "localId": "054",
+        "name": "Electivire",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-055",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/055/high.jpg",
+        "localId": "055",
+        "name": "Charjabug",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-056",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/056/high.jpg",
+        "localId": "056",
+        "name": "Vikavolt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-057",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/057/high.jpg",
+        "localId": "057",
+        "name": "Zeraora",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-058",
+        "illustrator": "kurumitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/058/high.jpg",
+        "localId": "058",
+        "name": "Yamper",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-059",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/059/high.jpg",
+        "localId": "059",
+        "name": "Boltund",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-060",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/060/high.jpg",
+        "localId": "060",
+        "name": "Wugtrio ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-061",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/061/high.jpg",
+        "localId": "061",
+        "name": "Iron Hands",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-062",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/062/high.jpg",
+        "localId": "062",
+        "name": "Iron Thorns",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-063",
+        "illustrator": "Nelnal",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/063/high.jpg",
+        "localId": "063",
+        "name": "Mr. Mime",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-064",
+        "illustrator": "yuu",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/064/high.jpg",
+        "localId": "064",
+        "name": "Marill",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-065",
+        "illustrator": "Makura Tami",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/065/high.jpg",
+        "localId": "065",
+        "name": "Azumarill",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-066",
+        "illustrator": "matazo",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/066/high.jpg",
+        "localId": "066",
+        "name": "Girafarig",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-067",
+        "illustrator": "Takumi Wada",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/067/high.jpg",
+        "localId": "067",
+        "name": "Latias",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-068",
+        "illustrator": "Kedamahadaitai Yawarakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/068/high.jpg",
+        "localId": "068",
+        "name": "Bronzor",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-069",
+        "illustrator": "Katsunori Sato",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/069/high.jpg",
+        "localId": "069",
+        "name": "Bronzong",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-070",
+        "illustrator": "Cona Nitanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/070/high.jpg",
+        "localId": "070",
+        "name": "Solosis",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-071",
+        "illustrator": "mele",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/071/high.jpg",
+        "localId": "071",
+        "name": "Duosion",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-072",
+        "illustrator": "Gemi",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/072/high.jpg",
+        "localId": "072",
+        "name": "Reuniclus",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-073",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/073/high.jpg",
+        "localId": "073",
+        "name": "Elgyem",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-074",
+        "illustrator": "Shinya Komatsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/074/high.jpg",
+        "localId": "074",
+        "name": "Beheeyem",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-075",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/075/high.jpg",
+        "localId": "075",
+        "name": "Cutiefly",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-076",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/076/high.jpg",
+        "localId": "076",
+        "name": "Ribombee",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-077",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/077/high.jpg",
+        "localId": "077",
+        "name": "Scream Tail",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-078",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/078/high.jpg",
+        "localId": "078",
+        "name": "Flutter Mane",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-079",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/079/high.jpg",
+        "localId": "079",
+        "name": "Iron Valiant",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-080",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/080/high.jpg",
+        "localId": "080",
+        "name": "Iron Valiant",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-081",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/081/high.jpg",
+        "localId": "081",
+        "name": "Iron Crown ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-082",
+        "illustrator": "Natsumi Miyanose",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/082/high.jpg",
+        "localId": "082",
+        "name": "Meditite",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-083",
+        "illustrator": "Masako Tomii",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/083/high.jpg",
+        "localId": "083",
+        "name": "Medicham",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-084",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/084/high.jpg",
+        "localId": "084",
+        "name": "Relicanth",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-085",
+        "illustrator": "Kariya",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/085/high.jpg",
+        "localId": "085",
+        "name": "Drilbur",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-086",
+        "illustrator": "Bun Toujo",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/086/high.jpg",
+        "localId": "086",
+        "name": "Excadrill",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-087",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/087/high.jpg",
+        "localId": "087",
+        "name": "Golett",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-088",
+        "illustrator": "Oku",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/088/high.jpg",
+        "localId": "088",
+        "name": "Golurk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-089",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/089/high.jpg",
+        "localId": "089",
+        "name": "Rockruff",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-090",
+        "illustrator": "Yoshioka",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/090/high.jpg",
+        "localId": "090",
+        "name": "Lycanroc",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-091",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/091/high.jpg",
+        "localId": "091",
+        "name": "Mudbray",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-092",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/092/high.jpg",
+        "localId": "092",
+        "name": "Mudsdale",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-093",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/093/high.jpg",
+        "localId": "093",
+        "name": "Rolycoly",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-094",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/094/high.jpg",
+        "localId": "094",
+        "name": "Carkol",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-095",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/095/high.jpg",
+        "localId": "095",
+        "name": "Coalossal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-096",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/096/high.jpg",
+        "localId": "096",
+        "name": "Great Tusk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-097",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/097/high.jpg",
+        "localId": "097",
+        "name": "Great Tusk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-098",
+        "illustrator": "DOM",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/098/high.jpg",
+        "localId": "098",
+        "name": "Sandy Shocks",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-099",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/099/high.jpg",
+        "localId": "099",
+        "name": "Iron Boulder ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-100",
+        "illustrator": "Shimaris Yukichi",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/100/high.jpg",
+        "localId": "100",
+        "name": "Ekans",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-101",
+        "illustrator": "Minato",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/101/high.jpg",
+        "localId": "101",
+        "name": "Arbok",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-102",
+        "illustrator": "Fujimoto Gold",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/102/high.jpg",
+        "localId": "102",
+        "name": "Gastly",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-103",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/103/high.jpg",
+        "localId": "103",
+        "name": "Haunter",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-104",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/104/high.jpg",
+        "localId": "104",
+        "name": "Gengar ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-105",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/105/high.jpg",
+        "localId": "105",
+        "name": "Poochyena",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-106",
+        "illustrator": "akagi",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/106/high.jpg",
+        "localId": "106",
+        "name": "Mightyena",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-107",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/107/high.jpg",
+        "localId": "107",
+        "name": "Sableye",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-108",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/108/high.jpg",
+        "localId": "108",
+        "name": "Farigiraf ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-109",
+        "illustrator": "hncl",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/109/high.jpg",
+        "localId": "109",
+        "name": "Roaring Moon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-110",
+        "illustrator": "osare",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/110/high.jpg",
+        "localId": "110",
+        "name": "Forretress",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-111",
+        "illustrator": "toriyufu",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/111/high.jpg",
+        "localId": "111",
+        "name": "Scizor ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-112",
+        "illustrator": "aspara",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/112/high.jpg",
+        "localId": "112",
+        "name": "Mawile",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-113",
+        "illustrator": "hatachu",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/113/high.jpg",
+        "localId": "113",
+        "name": "Beldum",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-114",
+        "illustrator": "Nobuhiro Imagawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/114/high.jpg",
+        "localId": "114",
+        "name": "Metang",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-115",
+        "illustrator": "Nurikabe",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/115/high.jpg",
+        "localId": "115",
+        "name": "Metagross",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-116",
+        "illustrator": "Taiga Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/116/high.jpg",
+        "localId": "116",
+        "name": "Meltan",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-117",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/117/high.jpg",
+        "localId": "117",
+        "name": "Melmetal",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-118",
+        "illustrator": "Tonji Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/118/high.jpg",
+        "localId": "118",
+        "name": "Iron Treads",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-119",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/119/high.jpg",
+        "localId": "119",
+        "name": "Koraidon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-120",
+        "illustrator": "PLANETA Igarashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/120/high.jpg",
+        "localId": "120",
+        "name": "Koraidon ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-121",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/121/high.jpg",
+        "localId": "121",
+        "name": "Miraidon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-122",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/122/high.jpg",
+        "localId": "122",
+        "name": "Miraidon ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-123",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/123/high.jpg",
+        "localId": "123",
+        "name": "Raging Bolt ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-124",
+        "illustrator": "nisimono",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/124/high.jpg",
+        "localId": "124",
+        "name": "Lickitung",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-125",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/125/high.jpg",
+        "localId": "125",
+        "name": "Lickilicky",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-126",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/126/high.jpg",
+        "localId": "126",
+        "name": "Hoothoot",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-127",
+        "illustrator": "toi8",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/127/high.jpg",
+        "localId": "127",
+        "name": "Noctowl",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-128",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/128/high.jpg",
+        "localId": "128",
+        "name": "Dunsparce",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-129",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/129/high.jpg",
+        "localId": "129",
+        "name": "Dudunsparce",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-130",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/130/high.jpg",
+        "localId": "130",
+        "name": "Skitty",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-131",
+        "illustrator": "Keisin",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/131/high.jpg",
+        "localId": "131",
+        "name": "Delcatty",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-132",
+        "illustrator": "GOTO minori",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/132/high.jpg",
+        "localId": "132",
+        "name": "Chatot",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-133",
+        "illustrator": "Mékayu",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/133/high.jpg",
+        "localId": "133",
+        "name": "Pidove",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-134",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/134/high.jpg",
+        "localId": "134",
+        "name": "Tranquill",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-135",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/135/high.jpg",
+        "localId": "135",
+        "name": "Unfezant",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-136",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/136/high.jpg",
+        "localId": "136",
+        "name": "Minccino",
+        "rarity": "Common",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-137",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/137/high.jpg",
+        "localId": "137",
+        "name": "Cinccino",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-138",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/138/high.jpg",
+        "localId": "138",
+        "name": "Drampa",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-139",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/139/high.jpg",
+        "localId": "139",
+        "name": "Iron Jugulis",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-140",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/140/high.jpg",
+        "localId": "140",
+        "name": "Ancient Booster Energy Capsule",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-141",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/141/high.jpg",
+        "localId": "141",
+        "name": "Awakening Drum",
+        "rarity": "ACE SPEC Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-142",
+        "illustrator": "En Morikura",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/142/high.jpg",
+        "localId": "142",
+        "name": "Bianca's Devotion",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-143",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/143/high.jpg",
+        "localId": "143",
+        "name": "Boxed Order",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-144",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/144/high.jpg",
+        "localId": "144",
+        "name": "Buddy-Buddy Poffin",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-145",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/145/high.jpg",
+        "localId": "145",
+        "name": "Ciphermaniac's Codebreaking",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-146",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/146/high.jpg",
+        "localId": "146",
+        "name": "Eri",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-147",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/147/high.jpg",
+        "localId": "147",
+        "name": "Explorer's Guidance",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-148",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/148/high.jpg",
+        "localId": "148",
+        "name": "Full Metal Lab",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-149",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/149/high.jpg",
+        "localId": "149",
+        "name": "Future Booster Energy Capsule",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-150",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/150/high.jpg",
+        "localId": "150",
+        "name": "Hand Trimmer",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-151",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/151/high.jpg",
+        "localId": "151",
+        "name": "Heavy Baton",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-152",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/152/high.jpg",
+        "localId": "152",
+        "name": "Hero's Cape",
+        "rarity": "ACE SPEC Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-153",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/153/high.jpg",
+        "localId": "153",
+        "name": "Master Ball",
+        "rarity": "ACE SPEC Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-154",
+        "illustrator": "inose yukie",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/154/high.jpg",
+        "localId": "154",
+        "name": "Maximum Belt",
+        "rarity": "ACE SPEC Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-155",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/155/high.jpg",
+        "localId": "155",
+        "name": "Morty's Conviction",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-156",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/156/high.jpg",
+        "localId": "156",
+        "name": "Perilous Jungle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-157",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/157/high.jpg",
+        "localId": "157",
+        "name": "Prime Catcher",
+        "rarity": "ACE SPEC Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-158",
+        "illustrator": "inose yukie",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/158/high.jpg",
+        "localId": "158",
+        "name": "Reboot Pod",
+        "rarity": "ACE SPEC Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-159",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/159/high.jpg",
+        "localId": "159",
+        "name": "Rescue Board",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-160",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/160/high.jpg",
+        "localId": "160",
+        "name": "Salvatore",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sv05-161",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv05/161/high.jpg",
+        "localId": "161",
+        "name": "Mist Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sv05-162",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv05/162/high.jpg",
+        "localId": "162",
+        "name": "Neo Upper Energy",
+        "rarity": "ACE SPEC Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-163",
+        "illustrator": "SIE NANAHARA",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/163/high.jpg",
+        "localId": "163",
+        "name": "Shiftry",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-164",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/164/high.jpg",
+        "localId": "164",
+        "name": "Grotle",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-165",
+        "illustrator": "Susumu Maeya",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/165/high.jpg",
+        "localId": "165",
+        "name": "Deerling",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-166",
+        "illustrator": "Susumu Maeya",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/166/high.jpg",
+        "localId": "166",
+        "name": "Sawsbuck",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-167",
+        "illustrator": "Makura Tami",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/167/high.jpg",
+        "localId": "167",
+        "name": "Litten",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-168",
+        "illustrator": "N-DESIGN Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/168/high.jpg",
+        "localId": "168",
+        "name": "Snom",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-169",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/169/high.jpg",
+        "localId": "169",
+        "name": "Charjabug",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-170",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/170/high.jpg",
+        "localId": "170",
+        "name": "Bronzor",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-171",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/171/high.jpg",
+        "localId": "171",
+        "name": "Reuniclus",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-172",
+        "illustrator": "REND",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/172/high.jpg",
+        "localId": "172",
+        "name": "Cutiefly",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-173",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/173/high.jpg",
+        "localId": "173",
+        "name": "Relicanth",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-174",
+        "illustrator": "Saboteri",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/174/high.jpg",
+        "localId": "174",
+        "name": "Excadrill",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-175",
+        "illustrator": "MINAMINAMI Take",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/175/high.jpg",
+        "localId": "175",
+        "name": "Mudsdale",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-176",
+        "illustrator": "OKUBO",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/176/high.jpg",
+        "localId": "176",
+        "name": "Arbok",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-177",
+        "illustrator": "Mousho",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/177/high.jpg",
+        "localId": "177",
+        "name": "Gastly",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-178",
+        "illustrator": "Katsunori Sato",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/178/high.jpg",
+        "localId": "178",
+        "name": "Metagross",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-179",
+        "illustrator": "Masa",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/179/high.jpg",
+        "localId": "179",
+        "name": "Meltan",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-180",
+        "illustrator": "Orca",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/180/high.jpg",
+        "localId": "180",
+        "name": "Lickitung",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-181",
+        "illustrator": "Scav",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/181/high.jpg",
+        "localId": "181",
+        "name": "Chatot",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-182",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/182/high.jpg",
+        "localId": "182",
+        "name": "Minccino",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-183",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/183/high.jpg",
+        "localId": "183",
+        "name": "Cinccino",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-184",
+        "illustrator": "Mékayu",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/184/high.jpg",
+        "localId": "184",
+        "name": "Drampa",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-185",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/185/high.jpg",
+        "localId": "185",
+        "name": "Torterra ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-186",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/186/high.jpg",
+        "localId": "186",
+        "name": "Iron Leaves ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-187",
+        "illustrator": "N-DESIGN Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/187/high.jpg",
+        "localId": "187",
+        "name": "Incineroar ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-188",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/188/high.jpg",
+        "localId": "188",
+        "name": "Gouging Fire ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-189",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/189/high.jpg",
+        "localId": "189",
+        "name": "Walking Wake ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-190",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/190/high.jpg",
+        "localId": "190",
+        "name": "Wugtrio ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-191",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/191/high.jpg",
+        "localId": "191",
+        "name": "Iron Crown ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-192",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/192/high.jpg",
+        "localId": "192",
+        "name": "Iron Boulder ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-193",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/193/high.jpg",
+        "localId": "193",
+        "name": "Gengar ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-194",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/194/high.jpg",
+        "localId": "194",
+        "name": "Farigiraf ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-195",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/195/high.jpg",
+        "localId": "195",
+        "name": "Scizor ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-196",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/196/high.jpg",
+        "localId": "196",
+        "name": "Raging Bolt ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-197",
+        "illustrator": "En Morikura",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/197/high.jpg",
+        "localId": "197",
+        "name": "Bianca's Devotion",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-198",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/198/high.jpg",
+        "localId": "198",
+        "name": "Ciphermaniac's Codebreaking",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-199",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/199/high.jpg",
+        "localId": "199",
+        "name": "Eri",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-200",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/200/high.jpg",
+        "localId": "200",
+        "name": "Explorer's Guidance",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-201",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/201/high.jpg",
+        "localId": "201",
+        "name": "Morty's Conviction",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-202",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/202/high.jpg",
+        "localId": "202",
+        "name": "Salvatore",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-203",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/203/high.jpg",
+        "localId": "203",
+        "name": "Iron Leaves ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-204",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/204/high.jpg",
+        "localId": "204",
+        "name": "Gouging Fire ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-205",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/205/high.jpg",
+        "localId": "205",
+        "name": "Walking Wake ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-206",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/206/high.jpg",
+        "localId": "206",
+        "name": "Iron Crown ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-207",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/207/high.jpg",
+        "localId": "207",
+        "name": "Iron Boulder ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-208",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/208/high.jpg",
+        "localId": "208",
+        "name": "Raging Bolt ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-209",
+        "illustrator": "Cona Nitanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/209/high.jpg",
+        "localId": "209",
+        "name": "Bianca's Devotion",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-210",
+        "illustrator": "DOM",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/210/high.jpg",
+        "localId": "210",
+        "name": "Eri",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-211",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/211/high.jpg",
+        "localId": "211",
+        "name": "Morty's Conviction",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv05-212",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/212/high.jpg",
+        "localId": "212",
+        "name": "Salvatore",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-213",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/213/high.jpg",
+        "localId": "213",
+        "name": "Iron Leaves ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-214",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/214/high.jpg",
+        "localId": "214",
+        "name": "Gouging Fire ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-215",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/215/high.jpg",
+        "localId": "215",
+        "name": "Walking Wake ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-216",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/216/high.jpg",
+        "localId": "216",
+        "name": "Iron Crown ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-217",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/217/high.jpg",
+        "localId": "217",
+        "name": "Iron Boulder ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv05-218",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv05/218/high.jpg",
+        "localId": "218",
+        "name": "Raging Bolt ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv05",
+            "name": "Temporal Forces",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv05/symbol.jpg",
+            "releaseDate": "2024-03-22"
+        }
+    }
+]

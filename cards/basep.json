@@ -1,0 +1,850 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "basep-1",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/basep/1/high.jpg",
+        "localId": "1",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-2",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/basep/2/high.jpg",
+        "localId": "2",
+        "name": "Electabuzz",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-3",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/basep/3/high.jpg",
+        "localId": "3",
+        "name": "Mewtwo",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-4",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/basep/4/high.jpg",
+        "localId": "4",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-5",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/base/basep/5/high.jpg",
+        "localId": "5",
+        "name": "Dragonite",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-6",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/basep/6/high.jpg",
+        "localId": "6",
+        "name": "Arcanine",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-7",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/basep/7/high.jpg",
+        "localId": "7",
+        "name": "Jigglypuff",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-8",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/basep/8/high.jpg",
+        "localId": "8",
+        "name": "Mew",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-9",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/basep/9/high.jpg",
+        "localId": "9",
+        "name": "Mew",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-10",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/basep/10/high.jpg",
+        "localId": "10",
+        "name": "Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-11",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/basep/11/high.jpg",
+        "localId": "11",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-12",
+        "illustrator": "Christopher Rush",
+        "image": "https://assets.tcgdex.net/en/base/basep/12/high.jpg",
+        "localId": "12",
+        "name": "Mewtwo",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-13",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/basep/13/high.jpg",
+        "localId": "13",
+        "name": "Venusaur",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-14",
+        "illustrator": "Benimaru Itoh",
+        "image": "https://assets.tcgdex.net/en/base/basep/14/high.jpg",
+        "localId": "14",
+        "name": "Mewtwo",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-15",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://assets.tcgdex.net/en/base/basep/15/high.jpg",
+        "localId": "15",
+        "name": "Cool Porygon",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "basep-16",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/base/basep/16/high.jpg",
+        "localId": "16",
+        "name": "Computer Error",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-17",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/basep/17/high.jpg",
+        "localId": "17",
+        "name": "Dark Persian",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-18",
+        "illustrator": "Kunihiko Yuyama",
+        "image": "https://assets.tcgdex.net/en/base/basep/18/high.jpg",
+        "localId": "18",
+        "name": "Team Rocket's Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-19",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/base/basep/19/high.jpg",
+        "localId": "19",
+        "name": "Sabrina's Abra",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-20",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/basep/20/high.jpg",
+        "localId": "20",
+        "name": "Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-21",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/base/basep/21/high.jpg",
+        "localId": "21",
+        "name": "Moltres",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-22",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/base/basep/22/high.jpg",
+        "localId": "22",
+        "name": "Articuno",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-23",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/base/basep/23/high.jpg",
+        "localId": "23",
+        "name": "Zapdos",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-24",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/basep/24/high.jpg",
+        "localId": "24",
+        "name": "___________'s Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-25",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/base/basep/25/high.jpg",
+        "localId": "25",
+        "name": "Flying Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-26",
+        "illustrator": "Gakuji Nomoto",
+        "image": "https://assets.tcgdex.net/en/base/basep/26/high.jpg",
+        "localId": "26",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-27",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/base/basep/27/high.jpg",
+        "localId": "27",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-28",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/base/basep/28/high.jpg",
+        "localId": "28",
+        "name": "Surfing Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-29",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/basep/29/high.jpg",
+        "localId": "29",
+        "name": "Marill",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-30",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/basep/30/high.jpg",
+        "localId": "30",
+        "name": "Togepi",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-31",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/basep/31/high.jpg",
+        "localId": "31",
+        "name": "Cleffa",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-32",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/base/basep/32/high.jpg",
+        "localId": "32",
+        "name": "Smeargle",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-33",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/base/basep/33/high.jpg",
+        "localId": "33",
+        "name": "Scizor",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-34",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/basep/34/high.jpg",
+        "localId": "34",
+        "name": "Entei",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-35",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/basep/35/high.jpg",
+        "localId": "35",
+        "name": "Pichu",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-36",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/basep/36/high.jpg",
+        "localId": "36",
+        "name": "Igglybuff",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-37",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/base/basep/37/high.jpg",
+        "localId": "37",
+        "name": "Hitmontop",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-38",
+        "illustrator": "Hideki Kazama",
+        "image": "https://assets.tcgdex.net/en/base/basep/38/high.jpg",
+        "localId": "38",
+        "name": "Unown [J]",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-39",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/base/basep/39/high.jpg",
+        "localId": "39",
+        "name": "Misdreavus",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "basep-40",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/base/basep/40/high.jpg",
+        "localId": "40",
+        "name": "Pokémon Center",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "basep-41",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/base/basep/41/high.jpg",
+        "localId": "41",
+        "name": "Lucky Stadium",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "basep-42",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/basep/42/high.jpg",
+        "localId": "42",
+        "name": "Pokémon Tower",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-43",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/base/basep/43/high.jpg",
+        "localId": "43",
+        "name": "Machamp",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-44",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/base/basep/44/high.jpg",
+        "localId": "44",
+        "name": "Magmar",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-45",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/base/basep/45/high.jpg",
+        "localId": "45",
+        "name": "Scyther",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-46",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/base/basep/46/high.jpg",
+        "localId": "46",
+        "name": "Electabuzz",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-47",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/basep/47/high.jpg",
+        "localId": "47",
+        "name": "Mew",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-48",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/base/basep/48/high.jpg",
+        "localId": "48",
+        "name": "Articuno",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-49",
+        "illustrator": "Craig Turvey",
+        "image": "https://assets.tcgdex.net/en/base/basep/49/high.jpg",
+        "localId": "49",
+        "name": "Snorlax",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-50",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/base/basep/50/high.jpg",
+        "localId": "50",
+        "name": "Celebi",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-51",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/basep/51/high.jpg",
+        "localId": "51",
+        "name": "Rapidash",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-52",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/basep/52/high.jpg",
+        "localId": "52",
+        "name": "Ho-oh",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "basep-53",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/base/basep/53/high.jpg",
+        "localId": "53",
+        "name": "Suicune",
+        "rarity": "Common",
+        "set": {
+            "id": "basep",
+            "logo": "https://assets.tcgdex.net/en/base/basep/logo.jpg",
+            "name": "Wizards Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/base/basep/symbol.jpg",
+            "releaseDate": "1999-07-01"
+        }
+    }
+]

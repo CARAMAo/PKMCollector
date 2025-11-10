@@ -1,0 +1,898 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP01",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP01/high.jpg",
+        "localId": "DP01",
+        "name": "Turtwig",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP02",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP02/high.jpg",
+        "localId": "DP02",
+        "name": "Chimchar",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP03",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP03/high.jpg",
+        "localId": "DP03",
+        "name": "Piplup",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP04",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP04/high.jpg",
+        "localId": "DP04",
+        "name": "Pachirisu",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "dpp-DP05",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP05/high.jpg",
+        "localId": "DP05",
+        "name": "Tropical Wind",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP06",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP06/high.jpg",
+        "localId": "DP06",
+        "name": "Buneary",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP07",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP07/high.jpg",
+        "localId": "DP07",
+        "name": "Cranidos",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP08",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP08/high.jpg",
+        "localId": "DP08",
+        "name": "Shieldon",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP09",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP09/high.jpg",
+        "localId": "DP09",
+        "name": "Torterra",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP10",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP10/high.jpg",
+        "localId": "DP10",
+        "name": "Infernape",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP11",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP11/high.jpg",
+        "localId": "DP11",
+        "name": "Empoleon",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP12",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP12/high.jpg",
+        "localId": "DP12",
+        "name": "Lucario",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "dpp-DP13",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP13/high.jpg",
+        "localId": "DP13",
+        "name": "Buizel",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP14",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP14/high.jpg",
+        "localId": "DP14",
+        "name": "Chatot",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP15",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP15/high.jpg",
+        "localId": "DP15",
+        "name": "Shinx",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP16",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP16/high.jpg",
+        "localId": "DP16",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP17",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP17/high.jpg",
+        "localId": "DP17",
+        "name": "Dialga",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP18",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP18/high.jpg",
+        "localId": "DP18",
+        "name": "Palkia",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP19",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP19/high.jpg",
+        "localId": "DP19",
+        "name": "Darkrai",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP20",
+        "illustrator": "Hiroaki Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP20/high.jpg",
+        "localId": "DP20",
+        "name": "Magmortar",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP21",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP21/high.jpg",
+        "localId": "DP21",
+        "name": "Raichu",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP22",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP22/high.jpg",
+        "localId": "DP22",
+        "name": "Mime Jr.",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP23",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP23/high.jpg",
+        "localId": "DP23",
+        "name": "Glameow",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP24",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP24/high.jpg",
+        "localId": "DP24",
+        "name": "Darkrai",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "dpp-DP25",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP25/high.jpg",
+        "localId": "DP25",
+        "name": "Tropical Wind",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP26",
+        "illustrator": "Kazuyuki Kano",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP26/high.jpg",
+        "localId": "DP26",
+        "name": "Dialga",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP27",
+        "illustrator": "Daisuke Ito",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP27/high.jpg",
+        "localId": "DP27",
+        "name": "Palkia",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP28",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP28/high.jpg",
+        "localId": "DP28",
+        "name": "Mewtwo",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP29",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP29/high.jpg",
+        "localId": "DP29",
+        "name": "Rhyperior",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP30",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP30/high.jpg",
+        "localId": "DP30",
+        "name": "Regigigas",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP31",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP31/high.jpg",
+        "localId": "DP31",
+        "name": "Heatran",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP32",
+        "illustrator": "Kent Kanetsuna",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP32/high.jpg",
+        "localId": "DP32",
+        "name": "Magnezone",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP33",
+        "illustrator": "Kent Kanetsuna",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP33/high.jpg",
+        "localId": "DP33",
+        "name": "Dusknoir",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP34",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP34/high.jpg",
+        "localId": "DP34",
+        "name": "Drifblim",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP35",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP35/high.jpg",
+        "localId": "DP35",
+        "name": "Porygon-Z",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP36",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP36/high.jpg",
+        "localId": "DP36",
+        "name": "Gliscor",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP37",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP37/high.jpg",
+        "localId": "DP37",
+        "name": "Dialga",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP38",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP38/high.jpg",
+        "localId": "DP38",
+        "name": "Giratina",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP39",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP39/high.jpg",
+        "localId": "DP39",
+        "name": "Shaymin",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP40",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP40/high.jpg",
+        "localId": "DP40",
+        "name": "Regigigas",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP41",
+        "illustrator": "Ryota Saito",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP41/high.jpg",
+        "localId": "DP41",
+        "name": "Toxicroak G",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP42",
+        "illustrator": "Makoto Imai",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP42/high.jpg",
+        "localId": "DP42",
+        "name": "Carnivine G",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP43",
+        "illustrator": "Ryota Saito",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP43/high.jpg",
+        "localId": "DP43",
+        "name": "Probopass G",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP44",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP44/high.jpg",
+        "localId": "DP44",
+        "name": "Magnezone",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP45",
+        "illustrator": "Wataru Kawahara",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP45/high.jpg",
+        "localId": "DP45",
+        "name": "Charizard G",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP46",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP46/high.jpg",
+        "localId": "DP46",
+        "name": "Garchomp C",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP47",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP47/high.jpg",
+        "localId": "DP47",
+        "name": "Rayquaza C",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "dpp-DP48",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP48/high.jpg",
+        "localId": "DP48",
+        "name": "Tropical Wind",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP49",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP49/high.jpg",
+        "localId": "DP49",
+        "name": "Dialga",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP50",
+        "illustrator": "Kunihiko Yuyama",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP50/high.jpg",
+        "localId": "DP50",
+        "name": "Arceus",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP51",
+        "illustrator": "Wataru Kawahara",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP51/high.jpg",
+        "localId": "DP51",
+        "name": "Cresselia",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP52",
+        "illustrator": "Wataru Kawahara",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP52/high.jpg",
+        "localId": "DP52",
+        "name": "Darkrai",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP53",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP53/high.jpg",
+        "localId": "DP53",
+        "name": "Arceus",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "dpp-DP54",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP54/high.jpg",
+        "localId": "DP54",
+        "name": "Beginning Door",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "dpp-DP55",
+        "illustrator": "Yusuke Ishikawa",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP55/high.jpg",
+        "localId": "DP55",
+        "name": "Ultimate Zone",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "dpp-DP56",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/dp/dpp/DP56/high.jpg",
+        "localId": "DP56",
+        "name": "Arceus",
+        "rarity": "Common",
+        "set": {
+            "id": "dpp",
+            "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.jpg",
+            "name": "DP Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.jpg",
+            "releaseDate": "2007-05-01"
+        }
+    }
+]

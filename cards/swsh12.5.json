@@ -1,0 +1,3840 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-001",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/001/high.jpg",
+        "localId": "001",
+        "name": "Oddish",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478033
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-002",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/002/high.jpg",
+        "localId": "002",
+        "name": "Gloom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478042
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-003",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/003/high.jpg",
+        "localId": "003",
+        "name": "Bellossom",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478049
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-004",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/004/high.jpg",
+        "localId": "004",
+        "name": "Tangela",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478050
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-005",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/005/high.jpg",
+        "localId": "005",
+        "name": "Tangrowth",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478051
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-006",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/006/high.jpg",
+        "localId": "006",
+        "name": "Scyther",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478052
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-007",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/007/high.jpg",
+        "localId": "007",
+        "name": "Sunkern",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478053
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-008",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/008/high.jpg",
+        "localId": "008",
+        "name": "Yanma",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478054
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-009",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/009/high.jpg",
+        "localId": "009",
+        "name": "Yanmega",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478055
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-010",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/010/high.jpg",
+        "localId": "010",
+        "name": "Kricketot",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478057
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-011",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/011/high.jpg",
+        "localId": "011",
+        "name": "Cherubi",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478060
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-012",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/012/high.jpg",
+        "localId": "012",
+        "name": "Carnivine",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478064
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-013",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/013/high.jpg",
+        "localId": "013",
+        "name": "Leafeon V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478070
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-014",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/014/high.jpg",
+        "localId": "014",
+        "name": "Leafeon VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478080
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-015",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/015/high.jpg",
+        "localId": "015",
+        "name": "Grubbin",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478082
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-016",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/016/high.jpg",
+        "localId": "016",
+        "name": "Zarude",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478088
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-017",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/017/high.jpg",
+        "localId": "017",
+        "name": "Calyrex",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478089
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-018",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/018/high.jpg",
+        "localId": "018",
+        "name": "Charizard V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478090
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-019",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/019/high.jpg",
+        "localId": "019",
+        "name": "Charizard VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478094
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-020",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/020/high.jpg",
+        "localId": "020",
+        "name": "Radiant Charizard",
+        "rarity": "Radiant Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478098
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-021",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/021/high.jpg",
+        "localId": "021",
+        "name": "Entei",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478105
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-022",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/022/high.jpg",
+        "localId": "022",
+        "name": "Simisear V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478102
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-023",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/023/high.jpg",
+        "localId": "023",
+        "name": "Simisear VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478106
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-024",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/024/high.jpg",
+        "localId": "024",
+        "name": "Larvesta",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478107
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-025",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/025/high.jpg",
+        "localId": "025",
+        "name": "Volcarona",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478120
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-026",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/026/high.jpg",
+        "localId": "026",
+        "name": "Volcanion",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478124
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-027",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/027/high.jpg",
+        "localId": "027",
+        "name": "Salandit",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478125
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-028",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/028/high.jpg",
+        "localId": "028",
+        "name": "Salazzle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478126
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-029",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/029/high.jpg",
+        "localId": "029",
+        "name": "Seel",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478128
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-030",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/030/high.jpg",
+        "localId": "030",
+        "name": "Galarian Mr. Mime",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478129
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-031",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/031/high.jpg",
+        "localId": "031",
+        "name": "Wailmer",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478130
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-032",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/032/high.jpg",
+        "localId": "032",
+        "name": "Wailord",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478131
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-033",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/033/high.jpg",
+        "localId": "033",
+        "name": "Corphish",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478132
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-034",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/034/high.jpg",
+        "localId": "034",
+        "name": "Snorunt",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478133
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-035",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/035/high.jpg",
+        "localId": "035",
+        "name": "Luvdisc",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478134
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-036",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/036/high.jpg",
+        "localId": "036",
+        "name": "Kyogre",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478135
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-037",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/037/high.jpg",
+        "localId": "037",
+        "name": "Kyogre V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 477053
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-038",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/038/high.jpg",
+        "localId": "038",
+        "name": "Glaceon V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478138
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-039",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/039/high.jpg",
+        "localId": "039",
+        "name": "Shinx",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478141
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-040",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/040/high.jpg",
+        "localId": "040",
+        "name": "Shinx",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478144
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-041",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/041/high.jpg",
+        "localId": "041",
+        "name": "Luxio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478145
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-042",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/042/high.jpg",
+        "localId": "042",
+        "name": "Luxio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478146
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-043",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/043/high.jpg",
+        "localId": "043",
+        "name": "Luxray",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478147
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-044",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/044/high.jpg",
+        "localId": "044",
+        "name": "Luxray",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478148
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-045",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/045/high.jpg",
+        "localId": "045",
+        "name": "Rotom V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478150
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-046",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/046/high.jpg",
+        "localId": "046",
+        "name": "Rotom VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 477054
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-047",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/047/high.jpg",
+        "localId": "047",
+        "name": "Emolga",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478156
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-048",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/048/high.jpg",
+        "localId": "048",
+        "name": "Eelektrik",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478157
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-049",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/049/high.jpg",
+        "localId": "049",
+        "name": "Helioptile",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478158
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-050",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/050/high.jpg",
+        "localId": "050",
+        "name": "Heliolisk",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478160
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-051",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/051/high.jpg",
+        "localId": "051",
+        "name": "Radiant Charjabug",
+        "rarity": "Radiant Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 477055
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-052",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/052/high.jpg",
+        "localId": "052",
+        "name": "Zeraora",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478162
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-053",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/053/high.jpg",
+        "localId": "053",
+        "name": "Zeraora V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478164
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-054",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/054/high.jpg",
+        "localId": "054",
+        "name": "Zeraora VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478168
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-055",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/055/high.jpg",
+        "localId": "055",
+        "name": "Zeraora VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478169
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-056",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/056/high.jpg",
+        "localId": "056",
+        "name": "Pincurchin",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478170
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-057",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/057/high.jpg",
+        "localId": "057",
+        "name": "Exeggcute",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478171
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-058",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/058/high.jpg",
+        "localId": "058",
+        "name": "Exeggutor",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478172
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-059",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/059/high.jpg",
+        "localId": "059",
+        "name": "Mewtwo",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478173
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-060",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/060/high.jpg",
+        "localId": "060",
+        "name": "Mew V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478175
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-061",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/061/high.jpg",
+        "localId": "061",
+        "name": "Girafarig",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478177
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-062",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/062/high.jpg",
+        "localId": "062",
+        "name": "Lunatone",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478179
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-063",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/063/high.jpg",
+        "localId": "063",
+        "name": "Dusclops",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478180
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-064",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/064/high.jpg",
+        "localId": "064",
+        "name": "Tapu Lele",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478183
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-065",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/065/high.jpg",
+        "localId": "065",
+        "name": "Hatterene V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478185
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-066",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/066/high.jpg",
+        "localId": "066",
+        "name": "Hatterene VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 477468
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-067",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/067/high.jpg",
+        "localId": "067",
+        "name": "Enamorus",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478189
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-068",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/068/high.jpg",
+        "localId": "068",
+        "name": "Graveler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478193
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-069",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/069/high.jpg",
+        "localId": "069",
+        "name": "Solrock",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478195
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-070",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/070/high.jpg",
+        "localId": "070",
+        "name": "Baltoy",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478197
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-071",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/071/high.jpg",
+        "localId": "071",
+        "name": "Riolu",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478199
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-072",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/072/high.jpg",
+        "localId": "072",
+        "name": "Pancham",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478201
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-073",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/073/high.jpg",
+        "localId": "073",
+        "name": "Rockruff",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478204
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-074",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/074/high.jpg",
+        "localId": "074",
+        "name": "Lycanroc",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478207
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-075",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/075/high.jpg",
+        "localId": "075",
+        "name": "Koffing",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478208
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-076",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/076/high.jpg",
+        "localId": "076",
+        "name": "Absol",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478212
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-077",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/077/high.jpg",
+        "localId": "077",
+        "name": "Purrloin",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478215
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-078",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/078/high.jpg",
+        "localId": "078",
+        "name": "Liepard",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478217
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-079",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/079/high.jpg",
+        "localId": "079",
+        "name": "Krokorok",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478218
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-080",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/080/high.jpg",
+        "localId": "080",
+        "name": "Pangoro",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478219
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-081",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/081/high.jpg",
+        "localId": "081",
+        "name": "Skrelp",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478220
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-082",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/082/high.jpg",
+        "localId": "082",
+        "name": "Dragalge",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478222
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-083",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/083/high.jpg",
+        "localId": "083",
+        "name": "Hoopa",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478227
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-084",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/084/high.jpg",
+        "localId": "084",
+        "name": "Galarian Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 477163
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-085",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/085/high.jpg",
+        "localId": "085",
+        "name": "Galarian Perrserker",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478221
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-086",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/086/high.jpg",
+        "localId": "086",
+        "name": "Scizor",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478223
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-087",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/087/high.jpg",
+        "localId": "087",
+        "name": "Aron",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478224
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-088",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/088/high.jpg",
+        "localId": "088",
+        "name": "Lairon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478225
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-089",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/089/high.jpg",
+        "localId": "089",
+        "name": "Aggron",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478226
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-090",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/090/high.jpg",
+        "localId": "090",
+        "name": "Metang",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478228
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-091",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/091/high.jpg",
+        "localId": "091",
+        "name": "Pawniard",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478229
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-092",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/092/high.jpg",
+        "localId": "092",
+        "name": "Pawniard",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478230
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-093",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/093/high.jpg",
+        "localId": "093",
+        "name": "Bisharp",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478231
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-094",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/094/high.jpg",
+        "localId": "094",
+        "name": "Zacian",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478232
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-095",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/095/high.jpg",
+        "localId": "095",
+        "name": "Zacian V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478233
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-096",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/096/high.jpg",
+        "localId": "096",
+        "name": "Zacian VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 477469
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-097",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/097/high.jpg",
+        "localId": "097",
+        "name": "Zamazenta",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478234
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-098",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/098/high.jpg",
+        "localId": "098",
+        "name": "Zamazenta V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478235
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-099",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/099/high.jpg",
+        "localId": "099",
+        "name": "Zamazenta VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 477470
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-100",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/100/high.jpg",
+        "localId": "100",
+        "name": "Rayquaza V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478209
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-101",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/101/high.jpg",
+        "localId": "101",
+        "name": "Rayquaza VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478210
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-102",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/102/high.jpg",
+        "localId": "102",
+        "name": "Rayquaza VMAX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478211
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-103",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/103/high.jpg",
+        "localId": "103",
+        "name": "Duraludon V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478213
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-104",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/104/high.jpg",
+        "localId": "104",
+        "name": "Duraludon VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478214
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-105",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/105/high.jpg",
+        "localId": "105",
+        "name": "Radiant Eternatus",
+        "rarity": "Radiant Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478216
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-106",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/106/high.jpg",
+        "localId": "106",
+        "name": "Tauros",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478114
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-107",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/107/high.jpg",
+        "localId": "107",
+        "name": "Ditto",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478117
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-108",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/108/high.jpg",
+        "localId": "108",
+        "name": "Eevee V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 477251
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-109",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/109/high.jpg",
+        "localId": "109",
+        "name": "Snorlax",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478136
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-110",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/110/high.jpg",
+        "localId": "110",
+        "name": "Starly",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478137
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-111",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/111/high.jpg",
+        "localId": "111",
+        "name": "Bidoof",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478139
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-112",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/112/high.jpg",
+        "localId": "112",
+        "name": "Chatot",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478140
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-113",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/113/high.jpg",
+        "localId": "113",
+        "name": "Regigigas V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478142
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-114",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/114/high.jpg",
+        "localId": "114",
+        "name": "Regigigas VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478143
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-115",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/115/high.jpg",
+        "localId": "115",
+        "name": "Shaymin",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478149
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-116",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/116/high.jpg",
+        "localId": "116",
+        "name": "Stoutland V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478151
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-117",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/117/high.jpg",
+        "localId": "117",
+        "name": "Yungoos",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478153
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-118",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/118/high.jpg",
+        "localId": "118",
+        "name": "Gumshoos",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478154
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-119",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/119/high.jpg",
+        "localId": "119",
+        "name": "Oranguru",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478155
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-120",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/120/high.jpg",
+        "localId": "120",
+        "name": "Greedent V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 477051
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-121",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/121/high.jpg",
+        "localId": "121",
+        "name": "Wooloo",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478159
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-122",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/122/high.jpg",
+        "localId": "122",
+        "name": "Dubwool",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478161
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-123",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/123/high.jpg",
+        "localId": "123",
+        "name": "Bea",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478163
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-124",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/124/high.jpg",
+        "localId": "124",
+        "name": "Bede",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478165
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-125",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/125/high.jpg",
+        "localId": "125",
+        "name": "Crushing Hammer",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478166
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-126",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/126/high.jpg",
+        "localId": "126",
+        "name": "Digging Duo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478167
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-127",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/127/high.jpg",
+        "localId": "127",
+        "name": "Energy Retrieval",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478174
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-128",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/128/high.jpg",
+        "localId": "128",
+        "name": "Energy Search",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478176
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-129",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/129/high.jpg",
+        "localId": "129",
+        "name": "Energy Switch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478178
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-130",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/130/high.jpg",
+        "localId": "130",
+        "name": "Friends in Hisui",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478181
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-131",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/131/high.jpg",
+        "localId": "131",
+        "name": "Friends in Sinnoh",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478182
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-132",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/132/high.jpg",
+        "localId": "132",
+        "name": "Great Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478184
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-133",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/133/high.jpg",
+        "localId": "133",
+        "name": "Hop",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478186
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-134",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/134/high.jpg",
+        "localId": "134",
+        "name": "Leon",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478187
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-135",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/135/high.jpg",
+        "localId": "135",
+        "name": "Lost Vacuum",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478188
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-136",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/136/high.jpg",
+        "localId": "136",
+        "name": "Nessa",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478190
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-137",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/137/high.jpg",
+        "localId": "137",
+        "name": "Poké Ball",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-138",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/138/high.jpg",
+        "localId": "138",
+        "name": "Pokémon Catcher",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-139",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/139/high.jpg",
+        "localId": "139",
+        "name": "Potion",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478194
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-140",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/140/high.jpg",
+        "localId": "140",
+        "name": "Raihan",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478196
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-141",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/141/high.jpg",
+        "localId": "141",
+        "name": "Rare Candy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478198
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-142",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/142/high.jpg",
+        "localId": "142",
+        "name": "Rescue Carrier",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478200
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-143",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/143/high.jpg",
+        "localId": "143",
+        "name": "Sky Seal Stone",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478202
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-144",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/144/high.jpg",
+        "localId": "144",
+        "name": "Switch",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478203
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-145",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/145/high.jpg",
+        "localId": "145",
+        "name": "Trekking Shoes",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478205
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-146",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/146/high.jpg",
+        "localId": "146",
+        "name": "Ultra Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478206
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-147",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/147/high.jpg",
+        "localId": "147",
+        "name": "Elesa's Sparkle",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 477241
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-148",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/148/high.jpg",
+        "localId": "148",
+        "name": "Friends in Hisui",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478118
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-149",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/149/high.jpg",
+        "localId": "149",
+        "name": "Friends in Sinnoh",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478119
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-150",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/150/high.jpg",
+        "localId": "150",
+        "name": "Professor's Research",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478121
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-151",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/151/high.jpg",
+        "localId": "151",
+        "name": "Volo",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478123
+    },
+    {
+        "category": "Energy",
+        "id": "swsh12.5-152",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/152/high.jpg",
+        "localId": "152",
+        "name": "Grass Energy",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478116
+    },
+    {
+        "category": "Energy",
+        "id": "swsh12.5-153",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/153/high.jpg",
+        "localId": "153",
+        "name": "Fire Energy",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478115
+    },
+    {
+        "category": "Energy",
+        "id": "swsh12.5-154",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/154/high.jpg",
+        "localId": "154",
+        "name": "Water Energy",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478112
+    },
+    {
+        "category": "Energy",
+        "id": "swsh12.5-155",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/155/high.jpg",
+        "localId": "155",
+        "name": "Lightning Energy",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478111
+    },
+    {
+        "category": "Energy",
+        "id": "swsh12.5-156",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/156/high.jpg",
+        "localId": "156",
+        "name": "Psychic Energy",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478113
+    },
+    {
+        "category": "Energy",
+        "id": "swsh12.5-157",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/157/high.jpg",
+        "localId": "157",
+        "name": "Fighting Energy",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478109
+    },
+    {
+        "category": "Energy",
+        "id": "swsh12.5-158",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/158/high.jpg",
+        "localId": "158",
+        "name": "Darkness Energy",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478108
+    },
+    {
+        "category": "Energy",
+        "id": "swsh12.5-159",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/159/high.jpg",
+        "localId": "159",
+        "name": "Metal Energy",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478104
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-160",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/160/high.jpg",
+        "localId": "160",
+        "name": "Pikachu",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        },
+        "tcgplayerId": 478103
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG01",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG01/high.jpg",
+        "localId": "GG01",
+        "name": "Hisuian Voltorb",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG02",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG02/high.jpg",
+        "localId": "GG02",
+        "name": "Kricketune",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG03",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG03/high.jpg",
+        "localId": "GG03",
+        "name": "Magmortar",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG04",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG04/high.jpg",
+        "localId": "GG04",
+        "name": "Oricorio",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG05",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG05/high.jpg",
+        "localId": "GG05",
+        "name": "Lapras",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG06",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG06/high.jpg",
+        "localId": "GG06",
+        "name": "Manaphy",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG07",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG07/high.jpg",
+        "localId": "GG07",
+        "name": "Keldeo",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG08",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG08/high.jpg",
+        "localId": "GG08",
+        "name": "Electivire",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG09",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG09/high.jpg",
+        "localId": "GG09",
+        "name": "Toxtricity",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG10",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG10/high.jpg",
+        "localId": "GG10",
+        "name": "Mew",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG11",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG11/high.jpg",
+        "localId": "GG11",
+        "name": "Lunatone",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG12",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG12/high.jpg",
+        "localId": "GG12",
+        "name": "Deoxys",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG13",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG13/high.jpg",
+        "localId": "GG13",
+        "name": "Diancie",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG14",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG14/high.jpg",
+        "localId": "GG14",
+        "name": "Comfey",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG15",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG15/high.jpg",
+        "localId": "GG15",
+        "name": "Solrock",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG16",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG16/high.jpg",
+        "localId": "GG16",
+        "name": "Absol",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG17",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG17/high.jpg",
+        "localId": "GG17",
+        "name": "Thievul",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG18",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG18/high.jpg",
+        "localId": "GG18",
+        "name": "Magnezone",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG19",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG19/high.jpg",
+        "localId": "GG19",
+        "name": "Altaria",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG20",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG20/high.jpg",
+        "localId": "GG20",
+        "name": "Latias",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG21",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG21/high.jpg",
+        "localId": "GG21",
+        "name": "Hisuian Goodra",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG22",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG22/high.jpg",
+        "localId": "GG22",
+        "name": "Ditto",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG23",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG23/high.jpg",
+        "localId": "GG23",
+        "name": "Dunsparce",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG24",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG24/high.jpg",
+        "localId": "GG24",
+        "name": "Miltank",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG25",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG25/high.jpg",
+        "localId": "GG25",
+        "name": "Bibarel",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG26",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG26/high.jpg",
+        "localId": "GG26",
+        "name": "Riolu",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG27",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG27/high.jpg",
+        "localId": "GG27",
+        "name": "Swablu",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG28",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG28/high.jpg",
+        "localId": "GG28",
+        "name": "Duskull",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG29",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG29/high.jpg",
+        "localId": "GG29",
+        "name": "Bidoof",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG30",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG30/high.jpg",
+        "localId": "GG30",
+        "name": "Pikachu",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG31",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG31/high.jpg",
+        "localId": "GG31",
+        "name": "Turtwig",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG32",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG32/high.jpg",
+        "localId": "GG32",
+        "name": "Paras",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG33",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG33/high.jpg",
+        "localId": "GG33",
+        "name": "Poochyena",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG34",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG34/high.jpg",
+        "localId": "GG34",
+        "name": "Mareep",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG35",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG35/high.jpg",
+        "localId": "GG35",
+        "name": "Leafeon VSTAR",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG36",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG36/high.jpg",
+        "localId": "GG36",
+        "name": "Entei V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG37",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG37/high.jpg",
+        "localId": "GG37",
+        "name": "Simisear VSTAR",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG38",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG38/high.jpg",
+        "localId": "GG38",
+        "name": "Suicune V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG39",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG39/high.jpg",
+        "localId": "GG39",
+        "name": "Lumineon V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG40",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG40/high.jpg",
+        "localId": "GG40",
+        "name": "Glaceon VSTAR",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG41",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG41/high.jpg",
+        "localId": "GG41",
+        "name": "Raikou V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG42",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG42/high.jpg",
+        "localId": "GG42",
+        "name": "Zeraora VMAX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG43",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG43/high.jpg",
+        "localId": "GG43",
+        "name": "Zeraora VSTAR",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG44",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG44/high.jpg",
+        "localId": "GG44",
+        "name": "Mewtwo VSTAR",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG45",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG45/high.jpg",
+        "localId": "GG45",
+        "name": "Deoxys VMAX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG46",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG46/high.jpg",
+        "localId": "GG46",
+        "name": "Deoxys VSTAR",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG47",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG47/high.jpg",
+        "localId": "GG47",
+        "name": "Hatterene VMAX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG48",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG48/high.jpg",
+        "localId": "GG48",
+        "name": "Zacian V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG49",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG49/high.jpg",
+        "localId": "GG49",
+        "name": "Drapion V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG50",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG50/high.jpg",
+        "localId": "GG50",
+        "name": "Darkrai VSTAR",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG51",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG51/high.jpg",
+        "localId": "GG51",
+        "name": "Hisuian Samurott V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG52",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG52/high.jpg",
+        "localId": "GG52",
+        "name": "Hisuian Samurott VSTAR",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG53",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG53/high.jpg",
+        "localId": "GG53",
+        "name": "Hoopa V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG54",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG54/high.jpg",
+        "localId": "GG54",
+        "name": "Zamazenta V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG55",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG55/high.jpg",
+        "localId": "GG55",
+        "name": "Regigigas VSTAR",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG56",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG56/high.jpg",
+        "localId": "GG56",
+        "name": "Hisuian Zoroark VSTAR",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-GG57",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG57/high.jpg",
+        "localId": "GG57",
+        "name": "Adaman",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-GG58",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG58/high.jpg",
+        "localId": "GG58",
+        "name": "Cheren's Care",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-GG59",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG59/high.jpg",
+        "localId": "GG59",
+        "name": "Colress's Experiment",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-GG60",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG60/high.jpg",
+        "localId": "GG60",
+        "name": "Cynthia's Ambition",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-GG61",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG61/high.jpg",
+        "localId": "GG61",
+        "name": "Gardenia's Vigor",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-GG62",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG62/high.jpg",
+        "localId": "GG62",
+        "name": "Grant",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-GG63",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG63/high.jpg",
+        "localId": "GG63",
+        "name": "Irida",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-GG64",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG64/high.jpg",
+        "localId": "GG64",
+        "name": "Melony",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-GG65",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG65/high.jpg",
+        "localId": "GG65",
+        "name": "Raihan",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh12.5-GG66",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG66/high.jpg",
+        "localId": "GG66",
+        "name": "Roxanne",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG67",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG67/high.jpg",
+        "localId": "GG67",
+        "name": "Origin Forme Palkia VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG68",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG68/high.jpg",
+        "localId": "GG68",
+        "name": "Origin Forme Dialga VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG69",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG69/high.jpg",
+        "localId": "GG69",
+        "name": "Giratina VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh12.5-GG70",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG70/high.jpg",
+        "localId": "GG70",
+        "name": "Arceus VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh12.5",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.jpg",
+            "name": "Crown Zenith",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.jpg",
+            "releaseDate": "2023-01-20"
+        }
+    }
+]

@@ -1,0 +1,1793 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "col1-1",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/col/col1/1/high.jpg",
+        "localId": "1",
+        "name": "Clefable",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 84348
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-2",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/col/col1/2/high.jpg",
+        "localId": "2",
+        "name": "Deoxys",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 84757
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-3",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/col/col1/3/high.jpg",
+        "localId": "3",
+        "name": "Dialga",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 84806
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-4",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/col/col1/4/high.jpg",
+        "localId": "4",
+        "name": "Espeon",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 85324
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-5",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/col/col1/5/high.jpg",
+        "localId": "5",
+        "name": "Forretress",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 85553
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-6",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/col/col1/6/high.jpg",
+        "localId": "6",
+        "name": "Groudon",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 85925
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-7",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/col/col1/7/high.jpg",
+        "localId": "7",
+        "name": "Gyarados",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 85999
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-8",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/col/col1/8/high.jpg",
+        "localId": "8",
+        "name": "Hitmontop",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86117
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-9",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/col/col1/9/high.jpg",
+        "localId": "9",
+        "name": "Ho-Oh",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86126
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-10",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/col/col1/10/high.jpg",
+        "localId": "10",
+        "name": "Houndoom",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86211
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-11",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/col/col1/11/high.jpg",
+        "localId": "11",
+        "name": "Jirachi",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86331
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-12",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/col/col1/12/high.jpg",
+        "localId": "12",
+        "name": "Kyogre",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86550
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-13",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/col/col1/13/high.jpg",
+        "localId": "13",
+        "name": "Leafeon",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86681
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-14",
+        "illustrator": "Takashi Yamaguchi",
+        "image": "https://assets.tcgdex.net/en/col/col1/14/high.jpg",
+        "localId": "14",
+        "name": "Lucario",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86881
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-15",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/col/col1/15/high.jpg",
+        "localId": "15",
+        "name": "Lugia",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86910
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-16",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/col/col1/16/high.jpg",
+        "localId": "16",
+        "name": "Magmortar",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87061
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-17",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/col/col1/17/high.jpg",
+        "localId": "17",
+        "name": "Ninetales",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87777
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-18",
+        "illustrator": "Noriko Hotta",
+        "image": "https://assets.tcgdex.net/en/col/col1/18/high.jpg",
+        "localId": "18",
+        "name": "Pachirisu",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87904
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-19",
+        "illustrator": "Daisuke Iwamoto",
+        "image": "https://assets.tcgdex.net/en/col/col1/19/high.jpg",
+        "localId": "19",
+        "name": "Palkia",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87911
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-20",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/col/col1/20/high.jpg",
+        "localId": "20",
+        "name": "Rayquaza",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 88628
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-21",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/col/col1/21/high.jpg",
+        "localId": "21",
+        "name": "Smeargle",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 89357
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-22",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/col/col1/22/high.jpg",
+        "localId": "22",
+        "name": "Umbreon",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 90147
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-23",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/col/col1/23/high.jpg",
+        "localId": "23",
+        "name": "Ampharos",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 83546
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-24",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/col/col1/24/high.jpg",
+        "localId": "24",
+        "name": "Cleffa",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 84369
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-25",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/col/col1/25/high.jpg",
+        "localId": "25",
+        "name": "Feraligatr",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 85422
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-26",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/col/col1/26/high.jpg",
+        "localId": "26",
+        "name": "Granbull",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 85866
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-27",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/col/col1/27/high.jpg",
+        "localId": "27",
+        "name": "Meganium",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87296
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-28",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/col/col1/28/high.jpg",
+        "localId": "28",
+        "name": "Mismagius",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87519
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-29",
+        "illustrator": "Noriko Hotta",
+        "image": "https://assets.tcgdex.net/en/col/col1/29/high.jpg",
+        "localId": "29",
+        "name": "Mr. Mime",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87594
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-30",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/col/col1/30/high.jpg",
+        "localId": "30",
+        "name": "Pidgeot",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 88035
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-31",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/col/col1/31/high.jpg",
+        "localId": "31",
+        "name": "Skarmory",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 89243
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-32",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/col/col1/32/high.jpg",
+        "localId": "32",
+        "name": "Slowking",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 89319
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-33",
+        "illustrator": "Kent Kanetsuna",
+        "image": "https://assets.tcgdex.net/en/col/col1/33/high.jpg",
+        "localId": "33",
+        "name": "Snorlax",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 89392
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-34",
+        "illustrator": "Hideaki Hakozaki",
+        "image": "https://assets.tcgdex.net/en/col/col1/34/high.jpg",
+        "localId": "34",
+        "name": "Tangrowth",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 89754
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-35",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/col/col1/35/high.jpg",
+        "localId": "35",
+        "name": "Typhlosion",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 90109
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-36",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/col/col1/36/high.jpg",
+        "localId": "36",
+        "name": "Tyrogue",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 90132
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-37",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/col/col1/37/high.jpg",
+        "localId": "37",
+        "name": "Ursaring",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 90256
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-38",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/col/col1/38/high.jpg",
+        "localId": "38",
+        "name": "Weezing",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 90565
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-39",
+        "illustrator": "Wataru Kawahara",
+        "image": "https://assets.tcgdex.net/en/col/col1/39/high.jpg",
+        "localId": "39",
+        "name": "Zangoose",
+        "rarity": "Rare",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 90708
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-40",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/col/col1/40/high.jpg",
+        "localId": "40",
+        "name": "Bayleef",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 83749
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-41",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/col/col1/41/high.jpg",
+        "localId": "41",
+        "name": "Croconaw",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 84503
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-42",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/col/col1/42/high.jpg",
+        "localId": "42",
+        "name": "Donphan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 84879
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-43",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/col/col1/43/high.jpg",
+        "localId": "43",
+        "name": "Flaaffy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 85485
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-44",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/col/col1/44/high.jpg",
+        "localId": "44",
+        "name": "Flareon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 85499
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-45",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/col/col1/45/high.jpg",
+        "localId": "45",
+        "name": "Jolteon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86346
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-46",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/col/col1/46/high.jpg",
+        "localId": "46",
+        "name": "Magby",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87007
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-47",
+        "illustrator": "Noriko Hotta",
+        "image": "https://assets.tcgdex.net/en/col/col1/47/high.jpg",
+        "localId": "47",
+        "name": "Mime Jr.",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87472
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-48",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/col/col1/48/high.jpg",
+        "localId": "48",
+        "name": "Pidgeotto",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 88043
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-49",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/col/col1/49/high.jpg",
+        "localId": "49",
+        "name": "Quilava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 88487
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-50",
+        "illustrator": "Takashi Yamaguchi",
+        "image": "https://assets.tcgdex.net/en/col/col1/50/high.jpg",
+        "localId": "50",
+        "name": "Riolu",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 88758
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-51",
+        "illustrator": "Wataru Kawahara",
+        "image": "https://assets.tcgdex.net/en/col/col1/51/high.jpg",
+        "localId": "51",
+        "name": "Seviper",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 89088
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-52",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/col/col1/52/high.jpg",
+        "localId": "52",
+        "name": "Vaporeon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 90287
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-53",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/col/col1/53/high.jpg",
+        "localId": "53",
+        "name": "Chikorita",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 84280
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-54",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/col/col1/54/high.jpg",
+        "localId": "54",
+        "name": "Clefairy",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 84359
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-55",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/col/col1/55/high.jpg",
+        "localId": "55",
+        "name": "Cyndaquil",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 84553
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-56",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/col/col1/56/high.jpg",
+        "localId": "56",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 85089
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-57",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/col/col1/57/high.jpg",
+        "localId": "57",
+        "name": "Hitmonchan",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86096
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-58",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/col/col1/58/high.jpg",
+        "localId": "58",
+        "name": "Hitmonlee",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86108
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-59",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/col/col1/59/high.jpg",
+        "localId": "59",
+        "name": "Houndour",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86232
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-60",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/col/col1/60/high.jpg",
+        "localId": "60",
+        "name": "Koffing",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86499
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-61",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/col/col1/61/high.jpg",
+        "localId": "61",
+        "name": "Magikarp",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87035
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-62",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/col/col1/62/high.jpg",
+        "localId": "62",
+        "name": "Magmar",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87052
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-63",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/col/col1/63/high.jpg",
+        "localId": "63",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87207
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-64",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/col/col1/64/high.jpg",
+        "localId": "64",
+        "name": "Mawile",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87264
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-65",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/col/col1/65/high.jpg",
+        "localId": "65",
+        "name": "Misdreavus",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87512
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-66",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/col/col1/66/high.jpg",
+        "localId": "66",
+        "name": "Phanpy",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 88004
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-67",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/col/col1/67/high.jpg",
+        "localId": "67",
+        "name": "Pidgey",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 88052
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-68",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/col/col1/68/high.jpg",
+        "localId": "68",
+        "name": "Pineco",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 88131
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-69",
+        "illustrator": "Wataru Kawahara",
+        "image": "https://assets.tcgdex.net/en/col/col1/69/high.jpg",
+        "localId": "69",
+        "name": "Relicanth",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 88690
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-70",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/col/col1/70/high.jpg",
+        "localId": "70",
+        "name": "Slowpoke",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 89334
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-71",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/col/col1/71/high.jpg",
+        "localId": "71",
+        "name": "Snubbull",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 89417
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-72",
+        "illustrator": "Hideaki Hakozaki",
+        "image": "https://assets.tcgdex.net/en/col/col1/72/high.jpg",
+        "localId": "72",
+        "name": "Tangela",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 89748
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-73",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/col/col1/73/high.jpg",
+        "localId": "73",
+        "name": "Teddiursa",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 89860
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-74",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/col/col1/74/high.jpg",
+        "localId": "74",
+        "name": "Totodile",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 90003
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-75",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/col/col1/75/high.jpg",
+        "localId": "75",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 90446
+    },
+    {
+        "category": "Trainer",
+        "id": "col1-76",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/col/col1/76/high.jpg",
+        "localId": "76",
+        "name": "Cheerleader's Cheer",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 84247
+    },
+    {
+        "category": "Trainer",
+        "id": "col1-77",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/col/col1/77/high.jpg",
+        "localId": "77",
+        "name": "Copycat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 84428
+    },
+    {
+        "category": "Trainer",
+        "id": "col1-78",
+        "illustrator": "Takashi Yamaguchi",
+        "image": "https://assets.tcgdex.net/en/col/col1/78/high.jpg",
+        "localId": "78",
+        "name": "Dual Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 84989
+    },
+    {
+        "category": "Trainer",
+        "id": "col1-79",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/col/col1/79/high.jpg",
+        "localId": "79",
+        "name": "Interviewer's Questions",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86287
+    },
+    {
+        "category": "Trainer",
+        "id": "col1-80",
+        "illustrator": "Wataru Kawahara",
+        "image": "https://assets.tcgdex.net/en/col/col1/80/high.jpg",
+        "localId": "80",
+        "name": "Lost Remover",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86829
+    },
+    {
+        "category": "Trainer",
+        "id": "col1-81",
+        "illustrator": "Hideaki Hakozaki",
+        "image": "https://assets.tcgdex.net/en/col/col1/81/high.jpg",
+        "localId": "81",
+        "name": "Lost World",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86830
+    },
+    {
+        "category": "Trainer",
+        "id": "col1-82",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/col/col1/82/high.jpg",
+        "localId": "82",
+        "name": "Professor Elm's Training Method",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 88394
+    },
+    {
+        "category": "Trainer",
+        "id": "col1-83",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/col/col1/83/high.jpg",
+        "localId": "83",
+        "name": "Professor Oak's New Theory",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 88401
+    },
+    {
+        "category": "Trainer",
+        "id": "col1-84",
+        "illustrator": "Hideaki Hakozaki",
+        "image": "https://assets.tcgdex.net/en/col/col1/84/high.jpg",
+        "localId": "84",
+        "name": "Research Record",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 88703
+    },
+    {
+        "category": "Trainer",
+        "id": "col1-85",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/col/col1/85/high.jpg",
+        "localId": "85",
+        "name": "Sage's Training",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 88894
+    },
+    {
+        "category": "Energy",
+        "id": "col1-86",
+        "illustrator": "Kent Kanetsuna",
+        "image": "https://assets.tcgdex.net/en/col/col1/86/high.jpg",
+        "localId": "86",
+        "name": "Darkness Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 84694
+    },
+    {
+        "category": "Energy",
+        "id": "col1-87",
+        "illustrator": "Kent Kanetsuna",
+        "image": "https://assets.tcgdex.net/en/col/col1/87/high.jpg",
+        "localId": "87",
+        "name": "Metal Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87367
+    },
+    {
+        "category": "Energy",
+        "id": "col1-88",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/col/col1/88/high.jpg",
+        "localId": "88",
+        "name": "Grass Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 85880
+    },
+    {
+        "category": "Energy",
+        "id": "col1-89",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/col/col1/89/high.jpg",
+        "localId": "89",
+        "name": "Fire Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 85465
+    },
+    {
+        "category": "Energy",
+        "id": "col1-90",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/col/col1/90/high.jpg",
+        "localId": "90",
+        "name": "Water Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 90525
+    },
+    {
+        "category": "Energy",
+        "id": "col1-91",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/col/col1/91/high.jpg",
+        "localId": "91",
+        "name": "Lightning Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 86781
+    },
+    {
+        "category": "Energy",
+        "id": "col1-92",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/col/col1/92/high.jpg",
+        "localId": "92",
+        "name": "Psychic Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 88425
+    },
+    {
+        "category": "Energy",
+        "id": "col1-93",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/col/col1/93/high.jpg",
+        "localId": "93",
+        "name": "Fighting Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 85445
+    },
+    {
+        "category": "Energy",
+        "id": "col1-94",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/col/col1/94/high.jpg",
+        "localId": "94",
+        "name": "Darkness Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 84678
+    },
+    {
+        "category": "Energy",
+        "id": "col1-95",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/col/col1/95/high.jpg",
+        "localId": "95",
+        "name": "Metal Energy",
+        "rarity": "Common",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        },
+        "tcgplayerId": 87351
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-SL1",
+        "illustrator": "Noriko Hotta",
+        "image": "https://assets.tcgdex.net/en/col/col1/SL1/high.jpg",
+        "localId": "SL1",
+        "name": "Deoxys",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-SL10",
+        "illustrator": "Noriko Hotta",
+        "image": "https://assets.tcgdex.net/en/col/col1/SL10/high.jpg",
+        "localId": "SL10",
+        "name": "Rayquaza",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-SL11",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/col/col1/SL11/high.jpg",
+        "localId": "SL11",
+        "name": "Suicune",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-SL2",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/col/col1/SL2/high.jpg",
+        "localId": "SL2",
+        "name": "Dialga",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-SL3",
+        "illustrator": "Yuri Umemura",
+        "image": "https://assets.tcgdex.net/en/col/col1/SL3/high.jpg",
+        "localId": "SL3",
+        "name": "Entei",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-SL4",
+        "illustrator": "Yuri Umemura",
+        "image": "https://assets.tcgdex.net/en/col/col1/SL4/high.jpg",
+        "localId": "SL4",
+        "name": "Groudon",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-SL5",
+        "illustrator": "Hideaki Hakozaki",
+        "image": "https://assets.tcgdex.net/en/col/col1/SL5/high.jpg",
+        "localId": "SL5",
+        "name": "Ho-Oh",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-SL6",
+        "illustrator": "Yuri Umemura",
+        "image": "https://assets.tcgdex.net/en/col/col1/SL6/high.jpg",
+        "localId": "SL6",
+        "name": "Kyogre",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-SL7",
+        "illustrator": "Hideaki Hakozaki",
+        "image": "https://assets.tcgdex.net/en/col/col1/SL7/high.jpg",
+        "localId": "SL7",
+        "name": "Lugia",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-SL8",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/col/col1/SL8/high.jpg",
+        "localId": "SL8",
+        "name": "Palkia",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "col1-SL9",
+        "illustrator": "Noriko Hotta",
+        "image": "https://assets.tcgdex.net/en/col/col1/SL9/high.jpg",
+        "localId": "SL9",
+        "name": "Raikou",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "col1",
+            "logo": "https://assets.tcgdex.net/en/col/col1/logo.jpg",
+            "name": "Call of Legends",
+            "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.jpg",
+            "releaseDate": "2011-02-09"
+        }
+    }
+]

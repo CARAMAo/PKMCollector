@@ -1,0 +1,386 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS01",
+        "illustrator": "Takashi Yamaguchi",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS01/high.jpg",
+        "localId": "HGSS01",
+        "name": "Ho-Oh",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS02",
+        "illustrator": "Takashi Yamaguchi",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS02/high.jpg",
+        "localId": "HGSS02",
+        "name": "Lugia",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS03",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS03/high.jpg",
+        "localId": "HGSS03",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS04",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS04/high.jpg",
+        "localId": "HGSS04",
+        "name": "Wobbuffet",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS05",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS05/high.jpg",
+        "localId": "HGSS05",
+        "name": "Hoothoot",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS06",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS06/high.jpg",
+        "localId": "HGSS06",
+        "name": "Noctowl",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS07",
+        "illustrator": "Kent Kanetsuna",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS07/high.jpg",
+        "localId": "HGSS07",
+        "name": "Feraligatr",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS08",
+        "illustrator": "Noriko Hotta",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS08/high.jpg",
+        "localId": "HGSS08",
+        "name": "Meganium",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS09",
+        "illustrator": "Wataru Kawahara",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS09/high.jpg",
+        "localId": "HGSS09",
+        "name": "Typhlosion",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS10",
+        "illustrator": "Wataru Kawahara",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS10/high.jpg",
+        "localId": "HGSS10",
+        "name": "Latias",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS11",
+        "illustrator": "Wataru Kawahara",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS11/high.jpg",
+        "localId": "HGSS11",
+        "name": "Latios",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS12",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS12/high.jpg",
+        "localId": "HGSS12",
+        "name": "Cleffa",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS13",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS13/high.jpg",
+        "localId": "HGSS13",
+        "name": "Smoochum",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS14",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS14/high.jpg",
+        "localId": "HGSS14",
+        "name": "Lapras",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS15",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS15/high.jpg",
+        "localId": "HGSS15",
+        "name": "Shuckle",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS16",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS16/high.jpg",
+        "localId": "HGSS16",
+        "name": "Plusle",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS17",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "HGSS17",
+        "name": "Minun",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS19",
+        "illustrator": "Noriko Hotta",
+        "image": null,
+        "localId": "HGSS19",
+        "name": "Raikou",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS20",
+        "illustrator": "Yuri Umemura",
+        "image": null,
+        "localId": "HGSS20",
+        "name": "Entei",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS21",
+        "illustrator": "Hideaki Hakozaki",
+        "image": null,
+        "localId": "HGSS21",
+        "name": "Suicune",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS22",
+        "illustrator": "TOKIYA",
+        "image": null,
+        "localId": "HGSS22",
+        "name": "Porygon",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS23",
+        "illustrator": "TOKIYA",
+        "image": null,
+        "localId": "HGSS23",
+        "name": "Porygon2",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS24",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "HGSS24",
+        "name": "Hitmonchan",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "hgssp-HGSS25",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "HGSS25",
+        "name": "Hitmonlee",
+        "rarity": "Common",
+        "set": {
+            "id": "hgssp",
+            "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo.jpg",
+            "name": "HGSS Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/hgss/hgssp/symbol.jpg",
+            "releaseDate": "2010-02-11"
+        }
+    }
+]

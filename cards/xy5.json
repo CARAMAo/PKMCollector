@@ -1,0 +1,2789 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "xy5-1",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/1/high.jpg",
+        "localId": "1",
+        "name": "Weedle",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95885
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-2",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/2/high.jpg",
+        "localId": "2",
+        "name": "Kakuna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95886
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-3",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/3/high.jpg",
+        "localId": "3",
+        "name": "Beedrill",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95887
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-4",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/4/high.jpg",
+        "localId": "4",
+        "name": "Tangela",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95888
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-5",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/5/high.jpg",
+        "localId": "5",
+        "name": "Tangrowth",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95889
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-6",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/6/high.jpg",
+        "localId": "6",
+        "name": "Treecko",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95890
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-7",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/7/high.jpg",
+        "localId": "7",
+        "name": "Grovyle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95891
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-8",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/8/high.jpg",
+        "localId": "8",
+        "name": "Sceptile",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95892
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-9",
+        "illustrator": "hatachu",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/9/high.jpg",
+        "localId": "9",
+        "name": "Sceptile",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95893
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-10",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/10/high.jpg",
+        "localId": "10",
+        "name": "Lotad",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95894
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-11",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/11/high.jpg",
+        "localId": "11",
+        "name": "Lombre",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95895
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-12",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/12/high.jpg",
+        "localId": "12",
+        "name": "Ludicolo",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95896
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-13",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/13/high.jpg",
+        "localId": "13",
+        "name": "Surskit",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95897
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-14",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/14/high.jpg",
+        "localId": "14",
+        "name": "Masquerain",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95898
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-15",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/15/high.jpg",
+        "localId": "15",
+        "name": "Shroomish",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95899
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-16",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/16/high.jpg",
+        "localId": "16",
+        "name": "Breloom",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95900
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-17",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/17/high.jpg",
+        "localId": "17",
+        "name": "Volbeat",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95901
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-18",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/18/high.jpg",
+        "localId": "18",
+        "name": "Illumise",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95902
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-19",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/19/high.jpg",
+        "localId": "19",
+        "name": "Trevenant EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95903
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-20",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/20/high.jpg",
+        "localId": "20",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95904
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-21",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/21/high.jpg",
+        "localId": "21",
+        "name": "Ninetales",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95905
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-22",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/22/high.jpg",
+        "localId": "22",
+        "name": "Slugma",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95906
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-23",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/23/high.jpg",
+        "localId": "23",
+        "name": "Magcargo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95907
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-24",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/24/high.jpg",
+        "localId": "24",
+        "name": "Magcargo",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95908
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-25",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/25/high.jpg",
+        "localId": "25",
+        "name": "Torchic",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95909
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-26",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/26/high.jpg",
+        "localId": "26",
+        "name": "Torchic",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95918
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-27",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/27/high.jpg",
+        "localId": "27",
+        "name": "Combusken",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95919
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-28",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/28/high.jpg",
+        "localId": "28",
+        "name": "Blaziken",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95920
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-29",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/29/high.jpg",
+        "localId": "29",
+        "name": "Camerupt EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95921
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-30",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/30/high.jpg",
+        "localId": "30",
+        "name": "Horsea",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95922
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-31",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/31/high.jpg",
+        "localId": "31",
+        "name": "Seadra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95923
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-32",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/32/high.jpg",
+        "localId": "32",
+        "name": "Staryu",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95924
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-33",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/33/high.jpg",
+        "localId": "33",
+        "name": "Mudkip",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95925
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-34",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/34/high.jpg",
+        "localId": "34",
+        "name": "Marshtomp",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95926
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-35",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/35/high.jpg",
+        "localId": "35",
+        "name": "Swampert",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95927
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-36",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/36/high.jpg",
+        "localId": "36",
+        "name": "Swampert",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95928
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-37",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/37/high.jpg",
+        "localId": "37",
+        "name": "Ludicolo",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95929
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-38",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/38/high.jpg",
+        "localId": "38",
+        "name": "Wailord EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95930
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-39",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/39/high.jpg",
+        "localId": "39",
+        "name": "Barboach",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95931
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-40",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/40/high.jpg",
+        "localId": "40",
+        "name": "Whiscash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95932
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-41",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/41/high.jpg",
+        "localId": "41",
+        "name": "Whiscash",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95938
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-42",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/42/high.jpg",
+        "localId": "42",
+        "name": "Corphish",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95939
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-43",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/43/high.jpg",
+        "localId": "43",
+        "name": "Feebas",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95940
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-44",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/44/high.jpg",
+        "localId": "44",
+        "name": "Milotic",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95941
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-45",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/45/high.jpg",
+        "localId": "45",
+        "name": "Spheal",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95942
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-46",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/46/high.jpg",
+        "localId": "46",
+        "name": "Spheal",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95944
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-47",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/47/high.jpg",
+        "localId": "47",
+        "name": "Sealeo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95945
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-48",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/48/high.jpg",
+        "localId": "48",
+        "name": "Walrein",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95946
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-49",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/49/high.jpg",
+        "localId": "49",
+        "name": "Clamperl",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95947
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-50",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/50/high.jpg",
+        "localId": "50",
+        "name": "Huntail",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95948
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-51",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/51/high.jpg",
+        "localId": "51",
+        "name": "Gorebyss",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95949
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-52",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/52/high.jpg",
+        "localId": "52",
+        "name": "Gorebyss",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95950
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-53",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/53/high.jpg",
+        "localId": "53",
+        "name": "Kyogre",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95951
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-54",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/54/high.jpg",
+        "localId": "54",
+        "name": "Kyogre EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95952
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-55",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/55/high.jpg",
+        "localId": "55",
+        "name": "Primal Kyogre EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95953
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-56",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/56/high.jpg",
+        "localId": "56",
+        "name": "Manaphy",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95954
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-57",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/57/high.jpg",
+        "localId": "57",
+        "name": "Chinchou",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95955
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-58",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/58/high.jpg",
+        "localId": "58",
+        "name": "Lanturn",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95956
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-59",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/59/high.jpg",
+        "localId": "59",
+        "name": "Electrike",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95957
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-60",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/60/high.jpg",
+        "localId": "60",
+        "name": "Electrike",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95958
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-61",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/61/high.jpg",
+        "localId": "61",
+        "name": "Manectric",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95959
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-62",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/62/high.jpg",
+        "localId": "62",
+        "name": "Tynamo",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95960
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-63",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/63/high.jpg",
+        "localId": "63",
+        "name": "Eelektrik",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95961
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-64",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/64/high.jpg",
+        "localId": "64",
+        "name": "Eelektrik",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95962
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-65",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/65/high.jpg",
+        "localId": "65",
+        "name": "Eelektross",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95963
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-66",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/66/high.jpg",
+        "localId": "66",
+        "name": "Nidoran♀",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-67",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/67/high.jpg",
+        "localId": "67",
+        "name": "Nidorina",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95965
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-68",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/68/high.jpg",
+        "localId": "68",
+        "name": "Nidoqueen",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95966
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-69",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/69/high.jpg",
+        "localId": "69",
+        "name": "Nidoqueen",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95967
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-70",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/70/high.jpg",
+        "localId": "70",
+        "name": "Tentacool",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95968
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-71",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/71/high.jpg",
+        "localId": "71",
+        "name": "Tentacool",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95969
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-72",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/72/high.jpg",
+        "localId": "72",
+        "name": "Tentacruel",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95970
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-73",
+        "illustrator": "HiRON",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/73/high.jpg",
+        "localId": "73",
+        "name": "Starmie",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95971
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-74",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/74/high.jpg",
+        "localId": "74",
+        "name": "Rhyhorn",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95972
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-75",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/75/high.jpg",
+        "localId": "75",
+        "name": "Rhydon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95973
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-76",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/76/high.jpg",
+        "localId": "76",
+        "name": "Rhyperior",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95974
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-77",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/77/high.jpg",
+        "localId": "77",
+        "name": "Rhyperior",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95975
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-78",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/78/high.jpg",
+        "localId": "78",
+        "name": "Nosepass",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95976
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-79",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/79/high.jpg",
+        "localId": "79",
+        "name": "Meditite",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95977
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-80",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/80/high.jpg",
+        "localId": "80",
+        "name": "Medicham",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95978
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-81",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/81/high.jpg",
+        "localId": "81",
+        "name": "Medicham",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95979
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-82",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/82/high.jpg",
+        "localId": "82",
+        "name": "Trapinch",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95980
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-83",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/83/high.jpg",
+        "localId": "83",
+        "name": "Solrock",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95981
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-84",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/84/high.jpg",
+        "localId": "84",
+        "name": "Groudon",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95982
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-85",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/85/high.jpg",
+        "localId": "85",
+        "name": "Groudon EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95983
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-86",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/86/high.jpg",
+        "localId": "86",
+        "name": "Primal Groudon EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95984
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-87",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/87/high.jpg",
+        "localId": "87",
+        "name": "Hippopotas",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95985
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-88",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/88/high.jpg",
+        "localId": "88",
+        "name": "Hippowdon",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95986
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-89",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/89/high.jpg",
+        "localId": "89",
+        "name": "Drilbur",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95987
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-90",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/90/high.jpg",
+        "localId": "90",
+        "name": "Diggersby",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95988
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-91",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/91/high.jpg",
+        "localId": "91",
+        "name": "Sharpedo EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95989
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-92",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/92/high.jpg",
+        "localId": "92",
+        "name": "Crawdaunt",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95990
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-93",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/93/high.jpg",
+        "localId": "93",
+        "name": "Aggron EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95991
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-94",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/94/high.jpg",
+        "localId": "94",
+        "name": "M Aggron EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95992
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-95",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/95/high.jpg",
+        "localId": "95",
+        "name": "Probopass",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95993
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-96",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/96/high.jpg",
+        "localId": "96",
+        "name": "Excadrill",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95994
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-97",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/97/high.jpg",
+        "localId": "97",
+        "name": "Excadrill",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95995
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-98",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/98/high.jpg",
+        "localId": "98",
+        "name": "Honedge",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95996
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-99",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/99/high.jpg",
+        "localId": "99",
+        "name": "Doublade",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95997
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-100",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/100/high.jpg",
+        "localId": "100",
+        "name": "Aegislash",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95998
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-101",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/101/high.jpg",
+        "localId": "101",
+        "name": "Mr. Mime",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 95999
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-102",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/102/high.jpg",
+        "localId": "102",
+        "name": "Marill",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96000
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-103",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/103/high.jpg",
+        "localId": "103",
+        "name": "Azumarill",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96001
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-104",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/104/high.jpg",
+        "localId": "104",
+        "name": "Azumarill",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96002
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-105",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/105/high.jpg",
+        "localId": "105",
+        "name": "Gardevoir EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96003
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-106",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/106/high.jpg",
+        "localId": "106",
+        "name": "M Gardevoir EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96004
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-107",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/107/high.jpg",
+        "localId": "107",
+        "name": "Kingdra",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96005
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-108",
+        "illustrator": "hatachu",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/108/high.jpg",
+        "localId": "108",
+        "name": "Kingdra",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96006
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-109",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/109/high.jpg",
+        "localId": "109",
+        "name": "Vibrava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96007
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-110",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/110/high.jpg",
+        "localId": "110",
+        "name": "Flygon",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96008
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-111",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/111/high.jpg",
+        "localId": "111",
+        "name": "Zigzagoon",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96009
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-112",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/112/high.jpg",
+        "localId": "112",
+        "name": "Linoone",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96010
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-113",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/113/high.jpg",
+        "localId": "113",
+        "name": "Skitty",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96011
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-114",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/114/high.jpg",
+        "localId": "114",
+        "name": "Delcatty",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96012
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-115",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/115/high.jpg",
+        "localId": "115",
+        "name": "Spinda",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96013
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-116",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/116/high.jpg",
+        "localId": "116",
+        "name": "Bidoof",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96014
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-117",
+        "illustrator": "PLANETA",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/117/high.jpg",
+        "localId": "117",
+        "name": "Bidoof",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96015
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-118",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/118/high.jpg",
+        "localId": "118",
+        "name": "Bibarel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96016
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-119",
+        "illustrator": "Hiroki Asanuma",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/119/high.jpg",
+        "localId": "119",
+        "name": "Bouffalant",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96017
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-120",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/120/high.jpg",
+        "localId": "120",
+        "name": "Bunnelby",
+        "rarity": "Common",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96018
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-121",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/121/high.jpg",
+        "localId": "121",
+        "name": "Bunnelby",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96019
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-122",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/122/high.jpg",
+        "localId": "122",
+        "name": "Acro Bike",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96020
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-123",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/123/high.jpg",
+        "localId": "123",
+        "name": "Aggron Spirit Link",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96063
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-124",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/124/high.jpg",
+        "localId": "124",
+        "name": "Archie's Ace in the Hole",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96022
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-125",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/125/high.jpg",
+        "localId": "125",
+        "name": "Dive Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96023
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-126",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/126/high.jpg",
+        "localId": "126",
+        "name": "Energy Retrieval",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96024
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-127",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/127/high.jpg",
+        "localId": "127",
+        "name": "Escape Rope",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96025
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-128",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/128/high.jpg",
+        "localId": "128",
+        "name": "Exp. Share",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96026
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-129",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/129/high.jpg",
+        "localId": "129",
+        "name": "Fresh Water Set",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96027
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-130",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/130/high.jpg",
+        "localId": "130",
+        "name": "Gardevoir Spirit Link",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96028
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-131",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/131/high.jpg",
+        "localId": "131",
+        "name": "Groudon Spirit Link",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96029
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-132",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/132/high.jpg",
+        "localId": "132",
+        "name": "Kyogre Spirit Link",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96030
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-133",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/133/high.jpg",
+        "localId": "133",
+        "name": "Maxie's Hidden Ball Trick",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96031
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-134",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/134/high.jpg",
+        "localId": "134",
+        "name": "Professor Birch's Observations",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96032
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-135",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/135/high.jpg",
+        "localId": "135",
+        "name": "Rare Candy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96033
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-136",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/136/high.jpg",
+        "localId": "136",
+        "name": "Repeat Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96034
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-137",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/137/high.jpg",
+        "localId": "137",
+        "name": "Rough Seas",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96035
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-138",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/138/high.jpg",
+        "localId": "138",
+        "name": "Scorched Earth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96036
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-139",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/139/high.jpg",
+        "localId": "139",
+        "name": "Shrine of Memories",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96037
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-140",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/140/high.jpg",
+        "localId": "140",
+        "name": "Silent Lab",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96038
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-141",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/141/high.jpg",
+        "localId": "141",
+        "name": "Teammates",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96039
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-142",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/142/high.jpg",
+        "localId": "142",
+        "name": "Weakness Policy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96040
+    },
+    {
+        "category": "Energy",
+        "id": "xy5-143",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/143/high.jpg",
+        "localId": "143",
+        "name": "Shield Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96041
+    },
+    {
+        "category": "Energy",
+        "id": "xy5-144",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/144/high.jpg",
+        "localId": "144",
+        "name": "Wonder Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96042
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-145",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/145/high.jpg",
+        "localId": "145",
+        "name": "Trevenant EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96043
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-146",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/146/high.jpg",
+        "localId": "146",
+        "name": "Camerupt EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96044
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-147",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/147/high.jpg",
+        "localId": "147",
+        "name": "Wailord EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96045
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-148",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/148/high.jpg",
+        "localId": "148",
+        "name": "Kyogre EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96046
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-149",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/149/high.jpg",
+        "localId": "149",
+        "name": "Primal Kyogre EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96047
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-150",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/150/high.jpg",
+        "localId": "150",
+        "name": "Groudon EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96048
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-151",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/151/high.jpg",
+        "localId": "151",
+        "name": "Primal Groudon EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96049
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-152",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/152/high.jpg",
+        "localId": "152",
+        "name": "Sharpedo EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96050
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-153",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/153/high.jpg",
+        "localId": "153",
+        "name": "Aggron EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96051
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-154",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/154/high.jpg",
+        "localId": "154",
+        "name": "M Aggron EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96052
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-155",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/155/high.jpg",
+        "localId": "155",
+        "name": "Gardevoir EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96053
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy5-156",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/156/high.jpg",
+        "localId": "156",
+        "name": "M Gardevoir EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96054
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-157",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/157/high.jpg",
+        "localId": "157",
+        "name": "Archie's Ace in the Hole",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96055
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-158",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/158/high.jpg",
+        "localId": "158",
+        "name": "Maxie's Hidden Ball Trick",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96056
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-159",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/159/high.jpg",
+        "localId": "159",
+        "name": "Professor Birch's Observations",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96057
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-160",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/160/high.jpg",
+        "localId": "160",
+        "name": "Teammates",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96058
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-161",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/161/high.jpg",
+        "localId": "161",
+        "name": "Dive Ball",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96059
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-162",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/162/high.jpg",
+        "localId": "162",
+        "name": "Enhanced Hammer",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96060
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-163",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/163/high.jpg",
+        "localId": "163",
+        "name": "Switch",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96061
+    },
+    {
+        "category": "Trainer",
+        "id": "xy5-164",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/xy/xy5/164/high.jpg",
+        "localId": "164",
+        "name": "Weakness Policy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "xy5",
+            "logo": "https://assets.tcgdex.net/en/xy/xy5/logo.jpg",
+            "name": "Primal Clash",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy5/symbol.jpg",
+            "releaseDate": "2015-02-04"
+        },
+        "tcgplayerId": 96062
+    }
+]

@@ -1,0 +1,3197 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "me01-001",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/me/me01/001/high.jpg",
+        "localId": "001",
+        "name": "Bulbasaur",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654340
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-002",
+        "illustrator": "Takumi Wada",
+        "image": "https://assets.tcgdex.net/en/me/me01/002/high.jpg",
+        "localId": "002",
+        "name": "Ivysaur",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654341
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-003",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/003/high.jpg",
+        "localId": "003",
+        "name": "Mega Venusaur ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654342
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-004",
+        "illustrator": "aspara",
+        "image": "https://assets.tcgdex.net/en/me/me01/004/high.jpg",
+        "localId": "004",
+        "name": "Exeggcute",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654343
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-005",
+        "illustrator": "Kazumasa Yasukuni",
+        "image": "https://assets.tcgdex.net/en/me/me01/005/high.jpg",
+        "localId": "005",
+        "name": "Exeggutor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654344
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-006",
+        "illustrator": "Yuriko Akase",
+        "image": "https://assets.tcgdex.net/en/me/me01/006/high.jpg",
+        "localId": "006",
+        "name": "Tangela",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654345
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-007",
+        "illustrator": "REND",
+        "image": "https://assets.tcgdex.net/en/me/me01/007/high.jpg",
+        "localId": "007",
+        "name": "Tangrowth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654346
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-008",
+        "illustrator": "kamonabe",
+        "image": "https://assets.tcgdex.net/en/me/me01/008/high.jpg",
+        "localId": "008",
+        "name": "Chikorita",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654347
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-009",
+        "illustrator": "nisimono",
+        "image": "https://assets.tcgdex.net/en/me/me01/009/high.jpg",
+        "localId": "009",
+        "name": "Bayleef",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654348
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-010",
+        "illustrator": "Yoriyuki Ikegami",
+        "image": "https://assets.tcgdex.net/en/me/me01/010/high.jpg",
+        "localId": "010",
+        "name": "Meganium",
+        "rarity": "Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654349
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-011",
+        "illustrator": "Shinya Komatsu",
+        "image": "https://assets.tcgdex.net/en/me/me01/011/high.jpg",
+        "localId": "011",
+        "name": "Shuckle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654350
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-012",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/me/me01/012/high.jpg",
+        "localId": "012",
+        "name": "Celebi",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654351
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-013",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/me/me01/013/high.jpg",
+        "localId": "013",
+        "name": "Seedot",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654352
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-014",
+        "illustrator": "takashi shiraishi",
+        "image": "https://assets.tcgdex.net/en/me/me01/014/high.jpg",
+        "localId": "014",
+        "name": "Nuzleaf",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654353
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-015",
+        "illustrator": "Uninori",
+        "image": "https://assets.tcgdex.net/en/me/me01/015/high.jpg",
+        "localId": "015",
+        "name": "Shiftry",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654354
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-016",
+        "illustrator": "Kuroimori",
+        "image": "https://assets.tcgdex.net/en/me/me01/016/high.jpg",
+        "localId": "016",
+        "name": "Nincada",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654355
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-017",
+        "illustrator": "Apios",
+        "image": "https://assets.tcgdex.net/en/me/me01/017/high.jpg",
+        "localId": "017",
+        "name": "Ninjask",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654356
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-018",
+        "illustrator": "Haru Akasaka",
+        "image": "https://assets.tcgdex.net/en/me/me01/018/high.jpg",
+        "localId": "018",
+        "name": "Dhelmise",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654357
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-019",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/me/me01/019/high.jpg",
+        "localId": "019",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654358
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-020",
+        "illustrator": "satoma",
+        "image": "https://assets.tcgdex.net/en/me/me01/020/high.jpg",
+        "localId": "020",
+        "name": "Ninetales",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654359
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-021",
+        "illustrator": "Wintr Wandr",
+        "image": "https://assets.tcgdex.net/en/me/me01/021/high.jpg",
+        "localId": "021",
+        "name": "Numel",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654360
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-022",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/022/high.jpg",
+        "localId": "022",
+        "name": "Mega Camerupt ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654361
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-023",
+        "illustrator": "Kurata So",
+        "image": "https://assets.tcgdex.net/en/me/me01/023/high.jpg",
+        "localId": "023",
+        "name": "Litleo",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654362
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-024",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/me/me01/024/high.jpg",
+        "localId": "024",
+        "name": "Pyroar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654363
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-025",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/me/me01/025/high.jpg",
+        "localId": "025",
+        "name": "Volcanion",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654364
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-026",
+        "illustrator": "svlt",
+        "image": "https://assets.tcgdex.net/en/me/me01/026/high.jpg",
+        "localId": "026",
+        "name": "Scorbunny",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654365
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-027",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/me/me01/027/high.jpg",
+        "localId": "027",
+        "name": "Raboot",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654366
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-028",
+        "illustrator": "REND",
+        "image": "https://assets.tcgdex.net/en/me/me01/028/high.jpg",
+        "localId": "028",
+        "name": "Cinderace",
+        "rarity": "Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654367
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-029",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/me/me01/029/high.jpg",
+        "localId": "029",
+        "name": "Sizzlipede",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654368
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-030",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/me/me01/030/high.jpg",
+        "localId": "030",
+        "name": "Centiskorch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654369
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-031",
+        "illustrator": "Gemi",
+        "image": "https://assets.tcgdex.net/en/me/me01/031/high.jpg",
+        "localId": "031",
+        "name": "Chi-Yu",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654370
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-032",
+        "illustrator": "Shimaris Yukichi",
+        "image": "https://assets.tcgdex.net/en/me/me01/032/high.jpg",
+        "localId": "032",
+        "name": "Mantine",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654371
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-033",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/me/me01/033/high.jpg",
+        "localId": "033",
+        "name": "Corphish",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654372
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-034",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/me/me01/034/high.jpg",
+        "localId": "034",
+        "name": "Kyogre",
+        "rarity": "Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654373
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-035",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/me/me01/035/high.jpg",
+        "localId": "035",
+        "name": "Snover",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654374
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-036",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/036/high.jpg",
+        "localId": "036",
+        "name": "Mega Abomasnow ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654375
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-037",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/me/me01/037/high.jpg",
+        "localId": "037",
+        "name": "Clauncher",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654376
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-038",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/me/me01/038/high.jpg",
+        "localId": "038",
+        "name": "Clawitzer",
+        "rarity": "Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654377
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-039",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/me/me01/039/high.jpg",
+        "localId": "039",
+        "name": "Sobble",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654378
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-040",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/me/me01/040/high.jpg",
+        "localId": "040",
+        "name": "Drizzile",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654379
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-041",
+        "illustrator": "akagi",
+        "image": "https://assets.tcgdex.net/en/me/me01/041/high.jpg",
+        "localId": "041",
+        "name": "Inteleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654380
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-042",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/me/me01/042/high.jpg",
+        "localId": "042",
+        "name": "Snom",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654381
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-043",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/me/me01/043/high.jpg",
+        "localId": "043",
+        "name": "Frosmoth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654382
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-044",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/me/me01/044/high.jpg",
+        "localId": "044",
+        "name": "Eiscue",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654383
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-045",
+        "illustrator": "Krgc",
+        "image": "https://assets.tcgdex.net/en/me/me01/045/high.jpg",
+        "localId": "045",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654384
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-046",
+        "illustrator": "Saboteri",
+        "image": "https://assets.tcgdex.net/en/me/me01/046/high.jpg",
+        "localId": "046",
+        "name": "Magneton",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654385
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-047",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/me/me01/047/high.jpg",
+        "localId": "047",
+        "name": "Magnezone",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654386
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-048",
+        "illustrator": "Takumi Wada",
+        "image": "https://assets.tcgdex.net/en/me/me01/048/high.jpg",
+        "localId": "048",
+        "name": "Raikou",
+        "rarity": "Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654387
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-049",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/me/me01/049/high.jpg",
+        "localId": "049",
+        "name": "Electrike",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654388
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-050",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/050/high.jpg",
+        "localId": "050",
+        "name": "Mega Manectric ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654389
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-051",
+        "illustrator": "tono",
+        "image": "https://assets.tcgdex.net/en/me/me01/051/high.jpg",
+        "localId": "051",
+        "name": "Pachirisu",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654390
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-052",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/me/me01/052/high.jpg",
+        "localId": "052",
+        "name": "Helioptile",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654391
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-053",
+        "illustrator": "Nakamura Ippan",
+        "image": "https://assets.tcgdex.net/en/me/me01/053/high.jpg",
+        "localId": "053",
+        "name": "Heliolisk",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654392
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-054",
+        "illustrator": "Orca",
+        "image": "https://assets.tcgdex.net/en/me/me01/054/high.jpg",
+        "localId": "054",
+        "name": "Abra",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654393
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-055",
+        "illustrator": "Saboteri",
+        "image": "https://assets.tcgdex.net/en/me/me01/055/high.jpg",
+        "localId": "055",
+        "name": "Kadabra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654394
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-056",
+        "illustrator": "Bun Toujo",
+        "image": "https://assets.tcgdex.net/en/me/me01/056/high.jpg",
+        "localId": "056",
+        "name": "Alakazam",
+        "rarity": "Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654395
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-057",
+        "illustrator": "Minahamu",
+        "image": "https://assets.tcgdex.net/en/me/me01/057/high.jpg",
+        "localId": "057",
+        "name": "Jynx",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654396
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-058",
+        "illustrator": "Terada Tera",
+        "image": "https://assets.tcgdex.net/en/me/me01/058/high.jpg",
+        "localId": "058",
+        "name": "Ralts",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654397
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-059",
+        "illustrator": "satoma",
+        "image": "https://assets.tcgdex.net/en/me/me01/059/high.jpg",
+        "localId": "059",
+        "name": "Kirlia",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654398
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-060",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/me/me01/060/high.jpg",
+        "localId": "060",
+        "name": "Mega Gardevoir ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654399
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-061",
+        "illustrator": "IKEDA Saki",
+        "image": "https://assets.tcgdex.net/en/me/me01/061/high.jpg",
+        "localId": "061",
+        "name": "Shedinja",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654400
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-062",
+        "illustrator": "toi8",
+        "image": "https://assets.tcgdex.net/en/me/me01/062/high.jpg",
+        "localId": "062",
+        "name": "Spoink",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654401
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-063",
+        "illustrator": "cochi8i",
+        "image": "https://assets.tcgdex.net/en/me/me01/063/high.jpg",
+        "localId": "063",
+        "name": "Grumpig",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654402
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-064",
+        "illustrator": "Kazumasa Yasukuni",
+        "image": "https://assets.tcgdex.net/en/me/me01/064/high.jpg",
+        "localId": "064",
+        "name": "Xerneas",
+        "rarity": "Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654403
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-065",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/me/me01/065/high.jpg",
+        "localId": "065",
+        "name": "Greavard",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654404
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-066",
+        "illustrator": "matazo",
+        "image": "https://assets.tcgdex.net/en/me/me01/066/high.jpg",
+        "localId": "066",
+        "name": "Houndstone",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654405
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-067",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://assets.tcgdex.net/en/me/me01/067/high.jpg",
+        "localId": "067",
+        "name": "Gimmighoul",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654406
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-068",
+        "illustrator": "Shinji Kanda",
+        "image": "https://assets.tcgdex.net/en/me/me01/068/high.jpg",
+        "localId": "068",
+        "name": "Sandshrew",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654407
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-069",
+        "illustrator": "imoniii",
+        "image": "https://assets.tcgdex.net/en/me/me01/069/high.jpg",
+        "localId": "069",
+        "name": "Sandslash",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654408
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-070",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/me/me01/070/high.jpg",
+        "localId": "070",
+        "name": "Onix",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654409
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-071",
+        "illustrator": "OKUBO",
+        "image": "https://assets.tcgdex.net/en/me/me01/071/high.jpg",
+        "localId": "071",
+        "name": "Tyrogue",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654410
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-072",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/me/me01/072/high.jpg",
+        "localId": "072",
+        "name": "Makuhita",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654411
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-073",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/me/me01/073/high.jpg",
+        "localId": "073",
+        "name": "Hariyama",
+        "rarity": "Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654412
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-074",
+        "illustrator": "Whisker",
+        "image": "https://assets.tcgdex.net/en/me/me01/074/high.jpg",
+        "localId": "074",
+        "name": "Lunatone",
+        "rarity": "Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654413
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-075",
+        "illustrator": "Whisker",
+        "image": "https://assets.tcgdex.net/en/me/me01/075/high.jpg",
+        "localId": "075",
+        "name": "Solrock",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654414
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-076",
+        "illustrator": "hncl",
+        "image": "https://assets.tcgdex.net/en/me/me01/076/high.jpg",
+        "localId": "076",
+        "name": "Riolu",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654415
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-077",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/077/high.jpg",
+        "localId": "077",
+        "name": "Mega Lucario ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654416
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-078",
+        "illustrator": "matazo",
+        "image": "https://assets.tcgdex.net/en/me/me01/078/high.jpg",
+        "localId": "078",
+        "name": "Croagunk",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654417
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-079",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/me/me01/079/high.jpg",
+        "localId": "079",
+        "name": "Toxicroak",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654418
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-080",
+        "illustrator": "Tomomi Ozaki",
+        "image": "https://assets.tcgdex.net/en/me/me01/080/high.jpg",
+        "localId": "080",
+        "name": "Marshadow",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654419
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-081",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/me/me01/081/high.jpg",
+        "localId": "081",
+        "name": "Stonjourner",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654420
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-082",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/me/me01/082/high.jpg",
+        "localId": "082",
+        "name": "Nacli",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654421
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-083",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/me/me01/083/high.jpg",
+        "localId": "083",
+        "name": "Naclstack",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654422
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-084",
+        "illustrator": "danciao",
+        "image": "https://assets.tcgdex.net/en/me/me01/084/high.jpg",
+        "localId": "084",
+        "name": "Garganacl",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654423
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-085",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/me/me01/085/high.jpg",
+        "localId": "085",
+        "name": "Crawdaunt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654424
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-086",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/me/me01/086/high.jpg",
+        "localId": "086",
+        "name": "Mega Absol ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654425
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-087",
+        "illustrator": "mingo",
+        "image": "https://assets.tcgdex.net/en/me/me01/087/high.jpg",
+        "localId": "087",
+        "name": "Spiritomb",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654426
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-088",
+        "illustrator": "akagi",
+        "image": "https://assets.tcgdex.net/en/me/me01/088/high.jpg",
+        "localId": "088",
+        "name": "Yveltal",
+        "rarity": "Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654427
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-089",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/me/me01/089/high.jpg",
+        "localId": "089",
+        "name": "Nickit",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654428
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-090",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/me/me01/090/high.jpg",
+        "localId": "090",
+        "name": "Thievul",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654429
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-091",
+        "illustrator": "osare",
+        "image": "https://assets.tcgdex.net/en/me/me01/091/high.jpg",
+        "localId": "091",
+        "name": "Shroodle",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654430
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-092",
+        "illustrator": "Dsuke",
+        "image": "https://assets.tcgdex.net/en/me/me01/092/high.jpg",
+        "localId": "092",
+        "name": "Grafaiai",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654431
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-093",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/me/me01/093/high.jpg",
+        "localId": "093",
+        "name": "Steelix",
+        "rarity": "Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654432
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-094",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/me/me01/094/high.jpg",
+        "localId": "094",
+        "name": "Mega Mawile ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654433
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-095",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/me/me01/095/high.jpg",
+        "localId": "095",
+        "name": "Dialga",
+        "rarity": "Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654434
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-096",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/me/me01/096/high.jpg",
+        "localId": "096",
+        "name": "Tinkatink",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654435
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-097",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/me/me01/097/high.jpg",
+        "localId": "097",
+        "name": "Tinkatuff",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654436
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-098",
+        "illustrator": "toriyufu",
+        "image": "https://assets.tcgdex.net/en/me/me01/098/high.jpg",
+        "localId": "098",
+        "name": "Tinkaton",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654437
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-099",
+        "illustrator": "Yukihiro Tada",
+        "image": "https://assets.tcgdex.net/en/me/me01/099/high.jpg",
+        "localId": "099",
+        "name": "Gholdengo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654438
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-100",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/100/high.jpg",
+        "localId": "100",
+        "name": "Mega Latias ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654439
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-101",
+        "illustrator": "Uninori",
+        "image": "https://assets.tcgdex.net/en/me/me01/101/high.jpg",
+        "localId": "101",
+        "name": "Latios",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654440
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-102",
+        "illustrator": "Scav",
+        "image": "https://assets.tcgdex.net/en/me/me01/102/high.jpg",
+        "localId": "102",
+        "name": "Spearow",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654441
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-103",
+        "illustrator": "Saboteri",
+        "image": "https://assets.tcgdex.net/en/me/me01/103/high.jpg",
+        "localId": "103",
+        "name": "Fearow",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654442
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-104",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/104/high.jpg",
+        "localId": "104",
+        "name": "Mega Kangaskhan ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654443
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-105",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/me/me01/105/high.jpg",
+        "localId": "105",
+        "name": "Delibird",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654444
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-106",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/me/me01/106/high.jpg",
+        "localId": "106",
+        "name": "Miltank",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654445
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-107",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/me/me01/107/high.jpg",
+        "localId": "107",
+        "name": "Buneary",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654446
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-108",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/me/me01/108/high.jpg",
+        "localId": "108",
+        "name": "Lopunny",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654447
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-109",
+        "illustrator": "Mékayu",
+        "image": "https://assets.tcgdex.net/en/me/me01/109/high.jpg",
+        "localId": "109",
+        "name": "Yungoos",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654448
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-110",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/me/me01/110/high.jpg",
+        "localId": "110",
+        "name": "Gumshoos",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654449
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-111",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/me/me01/111/high.jpg",
+        "localId": "111",
+        "name": "Stufful",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654450
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-112",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/me/me01/112/high.jpg",
+        "localId": "112",
+        "name": "Bewear",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654451
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-113",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/me/me01/113/high.jpg",
+        "localId": "113",
+        "name": "Acerola's Mischief",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654452
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-114",
+        "illustrator": "NC Empire",
+        "image": "https://assets.tcgdex.net/en/me/me01/114/high.jpg",
+        "localId": "114",
+        "name": "Boss's Orders",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654453
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-115",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/me/me01/115/high.jpg",
+        "localId": "115",
+        "name": "Energy Switch",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654454
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-116",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/me/me01/116/high.jpg",
+        "localId": "116",
+        "name": "Fighting Gong",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654455
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-117",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/me/me01/117/high.jpg",
+        "localId": "117",
+        "name": "Forest of Vitality",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654456
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-118",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/me/me01/118/high.jpg",
+        "localId": "118",
+        "name": "Iron Defender",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654457
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-119",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/me/me01/119/high.jpg",
+        "localId": "119",
+        "name": "Lillie's Determination",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654458
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-120",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/me/me01/120/high.jpg",
+        "localId": "120",
+        "name": "Lt. Surge's Bargain",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654459
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-121",
+        "illustrator": "inose yukie",
+        "image": "https://assets.tcgdex.net/en/me/me01/121/high.jpg",
+        "localId": "121",
+        "name": "Mega Signal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654460
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-122",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/me/me01/122/high.jpg",
+        "localId": "122",
+        "name": "Mystery Garden",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654461
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-123",
+        "illustrator": "Tomowaka",
+        "image": "https://assets.tcgdex.net/en/me/me01/123/high.jpg",
+        "localId": "123",
+        "name": "Pokémon Center Lady",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-124",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/me/me01/124/high.jpg",
+        "localId": "124",
+        "name": "Premium Power Pro",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654463
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-125",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/me/me01/125/high.jpg",
+        "localId": "125",
+        "name": "Rare Candy",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654464
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-126",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/me/me01/126/high.jpg",
+        "localId": "126",
+        "name": "Repel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654465
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-127",
+        "illustrator": "imoniii",
+        "image": "https://assets.tcgdex.net/en/me/me01/127/high.jpg",
+        "localId": "127",
+        "name": "Risky Ruins",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654466
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-128",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/me/me01/128/high.jpg",
+        "localId": "128",
+        "name": "Strange Timepiece",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654467
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-129",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/me/me01/129/high.jpg",
+        "localId": "129",
+        "name": "Surfing Beach",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654468
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-130",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/me/me01/130/high.jpg",
+        "localId": "130",
+        "name": "Switch",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654469
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-131",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/me/me01/131/high.jpg",
+        "localId": "131",
+        "name": "Ultra Ball",
+        "rarity": "Common",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654470
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-132",
+        "illustrator": "Iori Suzuki",
+        "image": "https://assets.tcgdex.net/en/me/me01/132/high.jpg",
+        "localId": "132",
+        "name": "Wally's Compassion",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654471
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-133",
+        "illustrator": "mashu",
+        "image": "https://assets.tcgdex.net/en/me/me01/133/high.jpg",
+        "localId": "133",
+        "name": "Bulbasaur",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654472
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-134",
+        "illustrator": "mashu",
+        "image": "https://assets.tcgdex.net/en/me/me01/134/high.jpg",
+        "localId": "134",
+        "name": "Ivysaur",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654473
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-135",
+        "illustrator": "Yukihiro Tada",
+        "image": "https://assets.tcgdex.net/en/me/me01/135/high.jpg",
+        "localId": "135",
+        "name": "Exeggutor",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654474
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-136",
+        "illustrator": "OKUBO",
+        "image": "https://assets.tcgdex.net/en/me/me01/136/high.jpg",
+        "localId": "136",
+        "name": "Shuckle",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654475
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-137",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://assets.tcgdex.net/en/me/me01/137/high.jpg",
+        "localId": "137",
+        "name": "Ninjask",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654476
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-138",
+        "illustrator": "saino misaki",
+        "image": "https://assets.tcgdex.net/en/me/me01/138/high.jpg",
+        "localId": "138",
+        "name": "Vulpix",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654477
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-139",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/me/me01/139/high.jpg",
+        "localId": "139",
+        "name": "Litleo",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654478
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-140",
+        "illustrator": "Nurikabe",
+        "image": "https://assets.tcgdex.net/en/me/me01/140/high.jpg",
+        "localId": "140",
+        "name": "Snover",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654479
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-141",
+        "illustrator": "Mori Yuu",
+        "image": "https://assets.tcgdex.net/en/me/me01/141/high.jpg",
+        "localId": "141",
+        "name": "Clawitzer",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654480
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-142",
+        "illustrator": "Ligton",
+        "image": "https://assets.tcgdex.net/en/me/me01/142/high.jpg",
+        "localId": "142",
+        "name": "Inteleon",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654481
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-143",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/me/me01/143/high.jpg",
+        "localId": "143",
+        "name": "Helioptile",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654482
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-144",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://assets.tcgdex.net/en/me/me01/144/high.jpg",
+        "localId": "144",
+        "name": "Shedinja",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654483
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-145",
+        "illustrator": "Arai Kiriko",
+        "image": "https://assets.tcgdex.net/en/me/me01/145/high.jpg",
+        "localId": "145",
+        "name": "Houndstone",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654484
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-146",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/me/me01/146/high.jpg",
+        "localId": "146",
+        "name": "Marshadow",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654485
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-147",
+        "illustrator": "Yano Keiji",
+        "image": "https://assets.tcgdex.net/en/me/me01/147/high.jpg",
+        "localId": "147",
+        "name": "Garganacl",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654486
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-148",
+        "illustrator": "IKEDA Saki",
+        "image": "https://assets.tcgdex.net/en/me/me01/148/high.jpg",
+        "localId": "148",
+        "name": "Spiritomb",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654487
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-149",
+        "illustrator": "Shimaris Yukichi",
+        "image": "https://assets.tcgdex.net/en/me/me01/149/high.jpg",
+        "localId": "149",
+        "name": "Shroodle",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654488
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-150",
+        "illustrator": "Tonji Matsuno",
+        "image": "https://assets.tcgdex.net/en/me/me01/150/high.jpg",
+        "localId": "150",
+        "name": "Steelix",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654489
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-151",
+        "illustrator": "MINAMINAMI Take",
+        "image": "https://assets.tcgdex.net/en/me/me01/151/high.jpg",
+        "localId": "151",
+        "name": "Spearow",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654490
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-152",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://assets.tcgdex.net/en/me/me01/152/high.jpg",
+        "localId": "152",
+        "name": "Delibird",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654491
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-153",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/me/me01/153/high.jpg",
+        "localId": "153",
+        "name": "Gumshoos",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654492
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-154",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/me/me01/154/high.jpg",
+        "localId": "154",
+        "name": "Stufful",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654493
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-155",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/155/high.jpg",
+        "localId": "155",
+        "name": "Mega Venusaur ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654494
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-156",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/156/high.jpg",
+        "localId": "156",
+        "name": "Mega Camerupt ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654495
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-157",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/157/high.jpg",
+        "localId": "157",
+        "name": "Mega Abomasnow ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654496
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-158",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/158/high.jpg",
+        "localId": "158",
+        "name": "Mega Manectric ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654497
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-159",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/me/me01/159/high.jpg",
+        "localId": "159",
+        "name": "Mega Gardevoir ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654498
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-160",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/me/me01/160/high.jpg",
+        "localId": "160",
+        "name": "Mega Lucario ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654499
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-161",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/me/me01/161/high.jpg",
+        "localId": "161",
+        "name": "Mega Absol ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654500
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-162",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/me/me01/162/high.jpg",
+        "localId": "162",
+        "name": "Mega Mawile ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654501
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-163",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/163/high.jpg",
+        "localId": "163",
+        "name": "Mega Latias ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654502
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-164",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/164/high.jpg",
+        "localId": "164",
+        "name": "Mega Kangaskhan ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654503
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-165",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/me/me01/165/high.jpg",
+        "localId": "165",
+        "name": "Acerola's Mischief",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654504
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-166",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/me/me01/166/high.jpg",
+        "localId": "166",
+        "name": "Air Balloon",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654505
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-167",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/me/me01/167/high.jpg",
+        "localId": "167",
+        "name": "Buddy-Buddy Poffin",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654506
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-168",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/me/me01/168/high.jpg",
+        "localId": "168",
+        "name": "Fighting Gong",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654507
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-169",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/me/me01/169/high.jpg",
+        "localId": "169",
+        "name": "Lillie's Determination",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654508
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-170",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/me/me01/170/high.jpg",
+        "localId": "170",
+        "name": "Lt. Surge's Bargain",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654509
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-171",
+        "illustrator": "inose yukie",
+        "image": "https://assets.tcgdex.net/en/me/me01/171/high.jpg",
+        "localId": "171",
+        "name": "Mega Signal",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654510
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-172",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://assets.tcgdex.net/en/me/me01/172/high.jpg",
+        "localId": "172",
+        "name": "Mystery Garden",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654511
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-173",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/me/me01/173/high.jpg",
+        "localId": "173",
+        "name": "Night Stretcher",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654512
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-174",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/me/me01/174/high.jpg",
+        "localId": "174",
+        "name": "Premium Power Pro",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654513
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-175",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/me/me01/175/high.jpg",
+        "localId": "175",
+        "name": "Rare Candy",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654514
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-176",
+        "illustrator": "Iori Suzuki",
+        "image": "https://assets.tcgdex.net/en/me/me01/176/high.jpg",
+        "localId": "176",
+        "name": "Wally's Compassion",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654515
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-177",
+        "illustrator": "mashu",
+        "image": "https://assets.tcgdex.net/en/me/me01/177/high.jpg",
+        "localId": "177",
+        "name": "Mega Venusaur ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654516
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-178",
+        "illustrator": "Raita Kazama",
+        "image": "https://assets.tcgdex.net/en/me/me01/178/high.jpg",
+        "localId": "178",
+        "name": "Mega Gardevoir ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654517
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-179",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/me/me01/179/high.jpg",
+        "localId": "179",
+        "name": "Mega Lucario ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654518
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-180",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/me/me01/180/high.jpg",
+        "localId": "180",
+        "name": "Mega Absol ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654519
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-181",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/me/me01/181/high.jpg",
+        "localId": "181",
+        "name": "Mega Latias ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654520
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-182",
+        "illustrator": "GOTO minori",
+        "image": "https://assets.tcgdex.net/en/me/me01/182/high.jpg",
+        "localId": "182",
+        "name": "Mega Kangaskhan ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654521
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-183",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/me/me01/183/high.jpg",
+        "localId": "183",
+        "name": "Acerola's Mischief",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654522
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-184",
+        "illustrator": "satoma",
+        "image": "https://assets.tcgdex.net/en/me/me01/184/high.jpg",
+        "localId": "184",
+        "name": "Lillie's Determination",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654523
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-185",
+        "illustrator": "osare",
+        "image": "https://assets.tcgdex.net/en/me/me01/185/high.jpg",
+        "localId": "185",
+        "name": "Lt. Surge's Bargain",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654524
+    },
+    {
+        "category": "Trainer",
+        "id": "me01-186",
+        "illustrator": "Jiro Sasumo",
+        "image": "https://assets.tcgdex.net/en/me/me01/186/high.jpg",
+        "localId": "186",
+        "name": "Wally's Compassion",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654525
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-187",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/187/high.jpg",
+        "localId": "187",
+        "name": "Mega Gardevoir ex",
+        "rarity": "Mega Hyper Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654526
+    },
+    {
+        "category": "Pokemon",
+        "id": "me01-188",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/me/me01/188/high.jpg",
+        "localId": "188",
+        "name": "Mega Lucario ex",
+        "rarity": "Mega Hyper Rare",
+        "set": {
+            "id": "me01",
+            "logo": "https://assets.tcgdex.net/en/me/me01/logo.jpg",
+            "name": "Mega Evolution",
+            "symbol": "https://assets.tcgdex.net/univ/me/me01/symbol.jpg",
+            "releaseDate": "2025-09-26"
+        },
+        "tcgplayerId": 654527
+    }
+]

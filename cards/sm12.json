@@ -1,0 +1,4597 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sm12-1",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/1/high.jpg",
+        "localId": "1",
+        "name": "Venusaur & Snivy GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 200350
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-2",
+        "illustrator": "Yumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/2/high.jpg",
+        "localId": "2",
+        "name": "Oddish",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201132
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-3",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/3/high.jpg",
+        "localId": "3",
+        "name": "Gloom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201133
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-4",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/4/high.jpg",
+        "localId": "4",
+        "name": "Vileplume GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201139
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-5",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/5/high.jpg",
+        "localId": "5",
+        "name": "Tangela",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201140
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-6",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/6/high.jpg",
+        "localId": "6",
+        "name": "Tangrowth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201142
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-7",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/7/high.jpg",
+        "localId": "7",
+        "name": "Sunkern",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201153
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-8",
+        "illustrator": "Yumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/8/high.jpg",
+        "localId": "8",
+        "name": "Sunflora",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201155
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-9",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/9/high.jpg",
+        "localId": "9",
+        "name": "Heracross",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201156
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-10",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/10/high.jpg",
+        "localId": "10",
+        "name": "Lileep",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201159
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-11",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/11/high.jpg",
+        "localId": "11",
+        "name": "Cradily",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201160
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-12",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/12/high.jpg",
+        "localId": "12",
+        "name": "Tropius",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201162
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-13",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/13/high.jpg",
+        "localId": "13",
+        "name": "Kricketot",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201163
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-14",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/14/high.jpg",
+        "localId": "14",
+        "name": "Kricketune",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201164
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-15",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/15/high.jpg",
+        "localId": "15",
+        "name": "Deerling",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201167
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-16",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/16/high.jpg",
+        "localId": "16",
+        "name": "Sawsbuck",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201925
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-17",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/17/high.jpg",
+        "localId": "17",
+        "name": "Rowlet",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201171
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-18",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/18/high.jpg",
+        "localId": "18",
+        "name": "Rowlet",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201173
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-19",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/19/high.jpg",
+        "localId": "19",
+        "name": "Dartrix",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201175
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-20",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/20/high.jpg",
+        "localId": "20",
+        "name": "Decidueye",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201926
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-21",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/21/high.jpg",
+        "localId": "21",
+        "name": "Buzzwole",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201183
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-22",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/22/high.jpg",
+        "localId": "22",
+        "name": "Charizard & Braixen GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 200351
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-23",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/23/high.jpg",
+        "localId": "23",
+        "name": "Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201189
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-24",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/24/high.jpg",
+        "localId": "24",
+        "name": "Rapidash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201195
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-25",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/25/high.jpg",
+        "localId": "25",
+        "name": "Flareon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201197
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-26",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/26/high.jpg",
+        "localId": "26",
+        "name": "Slugma",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201198
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-27",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/27/high.jpg",
+        "localId": "27",
+        "name": "Magcargo",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201199
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-28",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/28/high.jpg",
+        "localId": "28",
+        "name": "Entei",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201201
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-29",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/29/high.jpg",
+        "localId": "29",
+        "name": "Torkoal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201206
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-30",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/30/high.jpg",
+        "localId": "30",
+        "name": "Victini",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201207
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-31",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/31/high.jpg",
+        "localId": "31",
+        "name": "Tepig",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201209
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-32",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/32/high.jpg",
+        "localId": "32",
+        "name": "Pignite",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201210
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-33",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/33/high.jpg",
+        "localId": "33",
+        "name": "Emboar",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201211
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-34",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/34/high.jpg",
+        "localId": "34",
+        "name": "Larvesta",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201212
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-35",
+        "illustrator": "Hiroyuki Yamamoto",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/35/high.jpg",
+        "localId": "35",
+        "name": "Volcarona GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201639
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-36",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/36/high.jpg",
+        "localId": "36",
+        "name": "Litleo",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201213
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-37",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/37/high.jpg",
+        "localId": "37",
+        "name": "Pyroar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201214
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-38",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/38/high.jpg",
+        "localId": "38",
+        "name": "Blastoise & Piplup GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 200352
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-39",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/39/high.jpg",
+        "localId": "39",
+        "name": "Alolan Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201215
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-40",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/40/high.jpg",
+        "localId": "40",
+        "name": "Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201216
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-41",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/41/high.jpg",
+        "localId": "41",
+        "name": "Golduck",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201217
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-42",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/42/high.jpg",
+        "localId": "42",
+        "name": "Vaporeon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201218
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-43",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/43/high.jpg",
+        "localId": "43",
+        "name": "Sneasel",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201219
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-44",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/44/high.jpg",
+        "localId": "44",
+        "name": "Weavile",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201220
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-45",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/45/high.jpg",
+        "localId": "45",
+        "name": "Wailmer",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201221
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-46",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/46/high.jpg",
+        "localId": "46",
+        "name": "Wailord",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201222
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-47",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/47/high.jpg",
+        "localId": "47",
+        "name": "Snorunt",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201223
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-48",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/48/high.jpg",
+        "localId": "48",
+        "name": "Glalie",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201224
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-49",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/49/high.jpg",
+        "localId": "49",
+        "name": "Spheal",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201225
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-50",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/50/high.jpg",
+        "localId": "50",
+        "name": "Spheal",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201226
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-51",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/51/high.jpg",
+        "localId": "51",
+        "name": "Sealeo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201227
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-52",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/52/high.jpg",
+        "localId": "52",
+        "name": "Walrein",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201228
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-53",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/53/high.jpg",
+        "localId": "53",
+        "name": "Kyogre",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201229
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-54",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/54/high.jpg",
+        "localId": "54",
+        "name": "Piplup",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201230
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-55",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/55/high.jpg",
+        "localId": "55",
+        "name": "Prinplup",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201231
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-56",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/56/high.jpg",
+        "localId": "56",
+        "name": "Empoleon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201232
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-57",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/57/high.jpg",
+        "localId": "57",
+        "name": "Phione",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201233
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-58",
+        "illustrator": "Asako Ito",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/58/high.jpg",
+        "localId": "58",
+        "name": "Tympole",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201234
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-59",
+        "illustrator": "Yumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/59/high.jpg",
+        "localId": "59",
+        "name": "Ducklett",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201235
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-60",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/60/high.jpg",
+        "localId": "60",
+        "name": "Swanna",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201236
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-61",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/61/high.jpg",
+        "localId": "61",
+        "name": "Black Kyurem",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201237
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-62",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/62/high.jpg",
+        "localId": "62",
+        "name": "Wishiwashi",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201238
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-63",
+        "illustrator": "sadaji",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/63/high.jpg",
+        "localId": "63",
+        "name": "Wishiwashi GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201643
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-64",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/64/high.jpg",
+        "localId": "64",
+        "name": "Dewpider",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201239
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-65",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/65/high.jpg",
+        "localId": "65",
+        "name": "Araquanid",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201240
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-66",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/66/high.jpg",
+        "localId": "66",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201241
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-67",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/67/high.jpg",
+        "localId": "67",
+        "name": "Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201983
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-68",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/68/high.jpg",
+        "localId": "68",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201242
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-69",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/69/high.jpg",
+        "localId": "69",
+        "name": "Magneton",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201243
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-70",
+        "illustrator": "Uta",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/70/high.jpg",
+        "localId": "70",
+        "name": "Jolteon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201244
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-71",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/71/high.jpg",
+        "localId": "71",
+        "name": "Chinchou",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201245
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-72",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/72/high.jpg",
+        "localId": "72",
+        "name": "Lanturn",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201246
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-73",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/73/high.jpg",
+        "localId": "73",
+        "name": "Togedemaru",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201247
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-74",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/74/high.jpg",
+        "localId": "74",
+        "name": "Togedemaru",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201248
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-75",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/75/high.jpg",
+        "localId": "75",
+        "name": "Solgaleo & Lunala GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201249
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-76",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/76/high.jpg",
+        "localId": "76",
+        "name": "Koffing",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201251
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-77",
+        "illustrator": "Motofumi Fujiwara",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/77/high.jpg",
+        "localId": "77",
+        "name": "Weezing",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201252
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-78",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/78/high.jpg",
+        "localId": "78",
+        "name": "Natu",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201253
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-79",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/79/high.jpg",
+        "localId": "79",
+        "name": "Xatu",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201254
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-80",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/80/high.jpg",
+        "localId": "80",
+        "name": "Ralts",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201255
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-81",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/81/high.jpg",
+        "localId": "81",
+        "name": "Kirlia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201256
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-82",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/82/high.jpg",
+        "localId": "82",
+        "name": "Gallade",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201257
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-83",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/83/high.jpg",
+        "localId": "83",
+        "name": "Duskull",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201258
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-84",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/84/high.jpg",
+        "localId": "84",
+        "name": "Dusclops",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201259
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-85",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/85/high.jpg",
+        "localId": "85",
+        "name": "Dusknoir",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201928
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-86",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/86/high.jpg",
+        "localId": "86",
+        "name": "Rotom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201260
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-87",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/87/high.jpg",
+        "localId": "87",
+        "name": "Woobat",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201261
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-88",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/88/high.jpg",
+        "localId": "88",
+        "name": "Swoobat",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201262
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-89",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/89/high.jpg",
+        "localId": "89",
+        "name": "Golett",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201263
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-90",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/90/high.jpg",
+        "localId": "90",
+        "name": "Golurk",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201264
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-91",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/91/high.jpg",
+        "localId": "91",
+        "name": "Skrelp",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201265
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-92",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/92/high.jpg",
+        "localId": "92",
+        "name": "Dragalge",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201266
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-93",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/93/high.jpg",
+        "localId": "93",
+        "name": "Phantump",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201267
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-94",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/94/high.jpg",
+        "localId": "94",
+        "name": "Trevenant",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201268
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-95",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/95/high.jpg",
+        "localId": "95",
+        "name": "Oricorio GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201269
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-96",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/96/high.jpg",
+        "localId": "96",
+        "name": "Mimikyu",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201271
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-97",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/97/high.jpg",
+        "localId": "97",
+        "name": "Mimikyu",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201272
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-98",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/98/high.jpg",
+        "localId": "98",
+        "name": "Dhelmise",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201273
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-99",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/99/high.jpg",
+        "localId": "99",
+        "name": "Cosmog",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201274
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-100",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/100/high.jpg",
+        "localId": "100",
+        "name": "Cosmog",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201275
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-101",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/101/high.jpg",
+        "localId": "101",
+        "name": "Cosmoem",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201276
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-102",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/102/high.jpg",
+        "localId": "102",
+        "name": "Lunala",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201277
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-103",
+        "illustrator": "0313",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/103/high.jpg",
+        "localId": "103",
+        "name": "Marshadow",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201278
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-104",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/104/high.jpg",
+        "localId": "104",
+        "name": "Blacephalon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201279
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-105",
+        "illustrator": "otumami",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/105/high.jpg",
+        "localId": "105",
+        "name": "Onix",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201134
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-106",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/106/high.jpg",
+        "localId": "106",
+        "name": "Nosepass",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201135
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-107",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/107/high.jpg",
+        "localId": "107",
+        "name": "Trapinch",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201136
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-108",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/108/high.jpg",
+        "localId": "108",
+        "name": "Trapinch",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201137
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-109",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/109/high.jpg",
+        "localId": "109",
+        "name": "Vibrava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201138
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-110",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/110/high.jpg",
+        "localId": "110",
+        "name": "Flygon GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201141
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-111",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/111/high.jpg",
+        "localId": "111",
+        "name": "Anorith",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201143
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-112",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/112/high.jpg",
+        "localId": "112",
+        "name": "Armaldo",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201144
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-113",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/113/high.jpg",
+        "localId": "113",
+        "name": "Groudon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201145
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-114",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/114/high.jpg",
+        "localId": "114",
+        "name": "Drilbur",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201146
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-115",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/115/high.jpg",
+        "localId": "115",
+        "name": "Excadrill",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201147
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-116",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/116/high.jpg",
+        "localId": "116",
+        "name": "Palpitoad",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201148
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-117",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/117/high.jpg",
+        "localId": "117",
+        "name": "Seismitoad",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201149
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-118",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/118/high.jpg",
+        "localId": "118",
+        "name": "Throh",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201150
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-119",
+        "illustrator": "Motofumi Fujiwara",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/119/high.jpg",
+        "localId": "119",
+        "name": "Pancham",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201151
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-120",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/120/high.jpg",
+        "localId": "120",
+        "name": "Pangoro",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201152
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-121",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/121/high.jpg",
+        "localId": "121",
+        "name": "Crabrawler",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201154
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-122",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/122/high.jpg",
+        "localId": "122",
+        "name": "Crabominable",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201157
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-123",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/123/high.jpg",
+        "localId": "123",
+        "name": "Rockruff",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201158
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-124",
+        "illustrator": "so-taro",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/124/high.jpg",
+        "localId": "124",
+        "name": "Lycanroc",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201161
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-125",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/125/high.jpg",
+        "localId": "125",
+        "name": "Passimian",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201165
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-126",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/126/high.jpg",
+        "localId": "126",
+        "name": "Sandygast",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201166
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-127",
+        "illustrator": "OOYAMA",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/127/high.jpg",
+        "localId": "127",
+        "name": "Palossand",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201168
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-128",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/128/high.jpg",
+        "localId": "128",
+        "name": "Alolan Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201169
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-129",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/129/high.jpg",
+        "localId": "129",
+        "name": "Alolan Persian GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201170
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-130",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/130/high.jpg",
+        "localId": "130",
+        "name": "Alolan Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201172
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-131",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/131/high.jpg",
+        "localId": "131",
+        "name": "Alolan Muk",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201174
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-132",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/132/high.jpg",
+        "localId": "132",
+        "name": "Carvanha",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201176
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-133",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/133/high.jpg",
+        "localId": "133",
+        "name": "Absol",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201177
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-134",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/134/high.jpg",
+        "localId": "134",
+        "name": "Pawniard",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201178
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-135",
+        "illustrator": "SATOSHI NAKAI",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/135/high.jpg",
+        "localId": "135",
+        "name": "Bisharp",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201179
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-136",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/136/high.jpg",
+        "localId": "136",
+        "name": "Guzzlord",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201180
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-137",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/137/high.jpg",
+        "localId": "137",
+        "name": "Alolan Sandshrew",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201181
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-138",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/138/high.jpg",
+        "localId": "138",
+        "name": "Alolan Sandslash",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201182
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-139",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/139/high.jpg",
+        "localId": "139",
+        "name": "Steelix",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201184
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-140",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/140/high.jpg",
+        "localId": "140",
+        "name": "Mawile",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201185
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-141",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/141/high.jpg",
+        "localId": "141",
+        "name": "Probopass",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201186
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-142",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/142/high.jpg",
+        "localId": "142",
+        "name": "Solgaleo",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201187
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-143",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/143/high.jpg",
+        "localId": "143",
+        "name": "Togepi & Cleffa & Igglybuff GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 200353
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-144",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/144/high.jpg",
+        "localId": "144",
+        "name": "Clefairy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201188
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-145",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/145/high.jpg",
+        "localId": "145",
+        "name": "Alolan Ninetales",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201965
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-146",
+        "illustrator": "Asako Ito",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/146/high.jpg",
+        "localId": "146",
+        "name": "Azurill",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201190
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-147",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/147/high.jpg",
+        "localId": "147",
+        "name": "Cottonee",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201191
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-148",
+        "illustrator": "Yumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/148/high.jpg",
+        "localId": "148",
+        "name": "Whimsicott",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201192
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-149",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/149/high.jpg",
+        "localId": "149",
+        "name": "Flabébé",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-150",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/150/high.jpg",
+        "localId": "150",
+        "name": "Flabébé",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-151",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/151/high.jpg",
+        "localId": "151",
+        "name": "Floette",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201196
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-152",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/152/high.jpg",
+        "localId": "152",
+        "name": "Florges",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201646
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-153",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/153/high.jpg",
+        "localId": "153",
+        "name": "Swirlix",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201200
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-154",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/154/high.jpg",
+        "localId": "154",
+        "name": "Slurpuff",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201202
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-155",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/155/high.jpg",
+        "localId": "155",
+        "name": "Sylveon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201203
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-156",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/156/high.jpg",
+        "localId": "156",
+        "name": "Arceus & Dialga & Palkia GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201204
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-157",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/157/high.jpg",
+        "localId": "157",
+        "name": "Reshiram & Zekrom GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201205
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-158",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/158/high.jpg",
+        "localId": "158",
+        "name": "Naganadel & Guzzlord GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201208
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-159",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/159/high.jpg",
+        "localId": "159",
+        "name": "Drampa",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201280
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-160",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/160/high.jpg",
+        "localId": "160",
+        "name": "Jangmo-o",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201281
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-161",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/161/high.jpg",
+        "localId": "161",
+        "name": "Jangmo-o",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201282
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-162",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/162/high.jpg",
+        "localId": "162",
+        "name": "Hakamo-o",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201283
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-163",
+        "illustrator": "hatachu",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/163/high.jpg",
+        "localId": "163",
+        "name": "Kommo-o",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201647
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-164",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/164/high.jpg",
+        "localId": "164",
+        "name": "Ultra Necrozma",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201648
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-165",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/165/high.jpg",
+        "localId": "165",
+        "name": "Mega Lopunny & Jigglypuff GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201284
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-166",
+        "illustrator": "Motofumi Fujiwara",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/166/high.jpg",
+        "localId": "166",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201288
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-167",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/167/high.jpg",
+        "localId": "167",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201289
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-168",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/168/high.jpg",
+        "localId": "168",
+        "name": "Igglybuff",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201290
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-169",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/169/high.jpg",
+        "localId": "169",
+        "name": "Aipom",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201291
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-170",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/170/high.jpg",
+        "localId": "170",
+        "name": "Ambipom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201292
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-171",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/171/high.jpg",
+        "localId": "171",
+        "name": "Teddiursa",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201293
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-172",
+        "illustrator": "Hiroki Asanuma",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/172/high.jpg",
+        "localId": "172",
+        "name": "Ursaring",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201294
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-173",
+        "illustrator": "tetsuya koizumi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/173/high.jpg",
+        "localId": "173",
+        "name": "Zangoose",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201295
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-174",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/174/high.jpg",
+        "localId": "174",
+        "name": "Lillipup",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201296
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-175",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/175/high.jpg",
+        "localId": "175",
+        "name": "Herdier",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201297
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-176",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/176/high.jpg",
+        "localId": "176",
+        "name": "Stoutland",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201298
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-177",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/177/high.jpg",
+        "localId": "177",
+        "name": "Rufflet",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201299
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-178",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/178/high.jpg",
+        "localId": "178",
+        "name": "Braviary",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201300
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-179",
+        "illustrator": "Sekio",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/179/high.jpg",
+        "localId": "179",
+        "name": "Helioptile",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201301
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-180",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/180/high.jpg",
+        "localId": "180",
+        "name": "Heliolisk",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201302
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-181",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/181/high.jpg",
+        "localId": "181",
+        "name": "Stufful",
+        "rarity": "Common",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201303
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-182",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/182/high.jpg",
+        "localId": "182",
+        "name": "Bewear",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201304
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-183",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/183/high.jpg",
+        "localId": "183",
+        "name": "Type: Null",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201305
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-184",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/184/high.jpg",
+        "localId": "184",
+        "name": "Silvally GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201306
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-185",
+        "illustrator": "inose yukie",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/185/high.jpg",
+        "localId": "185",
+        "name": "Beastite",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201308
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-186",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/186/high.jpg",
+        "localId": "186",
+        "name": "Bellelba & Brycen-Man",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201309
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-187",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/187/high.jpg",
+        "localId": "187",
+        "name": "Chaotic Swell",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201310
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-188",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/188/high.jpg",
+        "localId": "188",
+        "name": "Clay",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201311
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-189",
+        "illustrator": "Ken Sugimori Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/189/high.jpg",
+        "localId": "189",
+        "name": "Cynthia & Caitlin",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201312
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-190",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/190/high.jpg",
+        "localId": "190",
+        "name": "Dragonium Z: Dragon Claw",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201649
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-191",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/191/high.jpg",
+        "localId": "191",
+        "name": "Erika",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201930
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-192",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/192/high.jpg",
+        "localId": "192",
+        "name": "Great Catcher",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201313
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-193",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/193/high.jpg",
+        "localId": "193",
+        "name": "Guzma & Hala",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201314
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-194",
+        "illustrator": "sadaji",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/194/high.jpg",
+        "localId": "194",
+        "name": "Island Challenge Amulet",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201315
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-195",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/195/high.jpg",
+        "localId": "195",
+        "name": "Lana’s Fishing Rod",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-196",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/196/high.jpg",
+        "localId": "196",
+        "name": "Lillie’s Full Force",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-197",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/197/high.jpg",
+        "localId": "197",
+        "name": "Lillie’s Poké Doll",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-198",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/198/high.jpg",
+        "localId": "198",
+        "name": "Mallow & Lana",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201319
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-199",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/199/high.jpg",
+        "localId": "199",
+        "name": "Misty & Lorelei",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201320
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-200",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/200/high.jpg",
+        "localId": "200",
+        "name": "N’s Resolve",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-201",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/201/high.jpg",
+        "localId": "201",
+        "name": "Professor Oak’s Setup",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-202",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/202/high.jpg",
+        "localId": "202",
+        "name": "Red & Blue",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201323
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-203",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/203/high.jpg",
+        "localId": "203",
+        "name": "Roller Skater",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201324
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-204",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/204/high.jpg",
+        "localId": "204",
+        "name": "Rosa",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201650
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-205",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/205/high.jpg",
+        "localId": "205",
+        "name": "Roxie",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201325
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-206",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/206/high.jpg",
+        "localId": "206",
+        "name": "Tag Call",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201326
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-207",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/207/high.jpg",
+        "localId": "207",
+        "name": "Unidentified Fossil",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201327
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-208",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/208/high.jpg",
+        "localId": "208",
+        "name": "Will",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201328
+    },
+    {
+        "category": "Energy",
+        "id": "sm12-209",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm12/209/high.jpg",
+        "localId": "209",
+        "name": "Draw Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201329
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-210",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/210/high.jpg",
+        "localId": "210",
+        "name": "Venusaur & Snivy GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201330
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-211",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/211/high.jpg",
+        "localId": "211",
+        "name": "Vileplume GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201331
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-212",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/212/high.jpg",
+        "localId": "212",
+        "name": "Charizard & Braixen GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201332
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-213",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/213/high.jpg",
+        "localId": "213",
+        "name": "Volcarona GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201640
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-214",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/214/high.jpg",
+        "localId": "214",
+        "name": "Blastoise & Piplup GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201333
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-215",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/215/high.jpg",
+        "localId": "215",
+        "name": "Blastoise & Piplup GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201334
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-216",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/216/high.jpg",
+        "localId": "216",
+        "name": "Solgaleo & Lunala GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201250
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-217",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/217/high.jpg",
+        "localId": "217",
+        "name": "Oricorio GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201270
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-218",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/218/high.jpg",
+        "localId": "218",
+        "name": "Flygon GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201335
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-219",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/219/high.jpg",
+        "localId": "219",
+        "name": "Alolan Persian GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201336
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-220",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/220/high.jpg",
+        "localId": "220",
+        "name": "Arceus & Dialga & Palkia GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201337
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-221",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/221/high.jpg",
+        "localId": "221",
+        "name": "Arceus & Dialga & Palkia GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201338
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-222",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/222/high.jpg",
+        "localId": "222",
+        "name": "Reshiram & Zekrom GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201339
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-223",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/223/high.jpg",
+        "localId": "223",
+        "name": "Naganadel & Guzzlord GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201340
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-224",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/224/high.jpg",
+        "localId": "224",
+        "name": "Naganadel & Guzzlord GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201341
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-225",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/225/high.jpg",
+        "localId": "225",
+        "name": "Mega Lopunny & Jigglypuff GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201285
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-226",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/226/high.jpg",
+        "localId": "226",
+        "name": "Mega Lopunny & Jigglypuff GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201286
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-227",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/227/high.jpg",
+        "localId": "227",
+        "name": "Silvally GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201307
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-228",
+        "illustrator": "Sakiko Maeda",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/228/high.jpg",
+        "localId": "228",
+        "name": "Cynthia & Caitlin",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201342
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-229",
+        "illustrator": "Junsei Kuninobu",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/229/high.jpg",
+        "localId": "229",
+        "name": "Guzma & Hala",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201343
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-230",
+        "illustrator": "Noriko Uono",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/230/high.jpg",
+        "localId": "230",
+        "name": "Lillie’s Full Force",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-231",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/231/high.jpg",
+        "localId": "231",
+        "name": "Mallow & Lana",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201345
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-232",
+        "illustrator": "Mana Ibe",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/232/high.jpg",
+        "localId": "232",
+        "name": "N’s Resolve",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-233",
+        "illustrator": "Nabana Kensaku",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/233/high.jpg",
+        "localId": "233",
+        "name": "Professor Oak’s Setup",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-234",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/234/high.jpg",
+        "localId": "234",
+        "name": "Red & Blue",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201346
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-235",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/235/high.jpg",
+        "localId": "235",
+        "name": "Roller Skater",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201347
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-236",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/236/high.jpg",
+        "localId": "236",
+        "name": "Rosa",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201651
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-237",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/237/high.jpg",
+        "localId": "237",
+        "name": "Torkoal",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201348
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-238",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/238/high.jpg",
+        "localId": "238",
+        "name": "Weavile",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201349
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-239",
+        "illustrator": "Tomomi Kaneko",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/239/high.jpg",
+        "localId": "239",
+        "name": "Piplup",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201350
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-240",
+        "illustrator": "Misaki Hashimoto",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/240/high.jpg",
+        "localId": "240",
+        "name": "Wishiwashi",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201351
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-241",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/241/high.jpg",
+        "localId": "241",
+        "name": "Pikachu",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201352
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-242",
+        "illustrator": "Fumie Kittaka",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/242/high.jpg",
+        "localId": "242",
+        "name": "Magnemite",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201353
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-243",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/243/high.jpg",
+        "localId": "243",
+        "name": "Koffing",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201354
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-244",
+        "illustrator": "Huang Tzu En",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/244/high.jpg",
+        "localId": "244",
+        "name": "Gallade",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201355
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-245",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/245/high.jpg",
+        "localId": "245",
+        "name": "Mimikyu",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201356
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-246",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/246/high.jpg",
+        "localId": "246",
+        "name": "Excadrill",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201357
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-247",
+        "illustrator": "Avec Yoko",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/247/high.jpg",
+        "localId": "247",
+        "name": "Steelix",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201358
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-248",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/248/high.jpg",
+        "localId": "248",
+        "name": "Stoutland",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201359
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-249",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/249/high.jpg",
+        "localId": "249",
+        "name": "Venusaur & Snivy GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201609
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-250",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/250/high.jpg",
+        "localId": "250",
+        "name": "Vileplume GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201610
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-251",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/251/high.jpg",
+        "localId": "251",
+        "name": "Charizard & Braixen GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201611
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-252",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/252/high.jpg",
+        "localId": "252",
+        "name": "Volcarona GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201641
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-253",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/253/high.jpg",
+        "localId": "253",
+        "name": "Blastoise & Piplup GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201612
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-254",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/254/high.jpg",
+        "localId": "254",
+        "name": "Solgaleo & Lunala GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201614
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-255",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/255/high.jpg",
+        "localId": "255",
+        "name": "Oricorio GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201615
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-256",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/256/high.jpg",
+        "localId": "256",
+        "name": "Flygon GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201617
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-257",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/257/high.jpg",
+        "localId": "257",
+        "name": "Alolan Persian GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201619
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-258",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/258/high.jpg",
+        "localId": "258",
+        "name": "Arceus & Dialga & Palkia GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201360
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-259",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/259/high.jpg",
+        "localId": "259",
+        "name": "Reshiram & Zekrom GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201620
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-260",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/260/high.jpg",
+        "localId": "260",
+        "name": "Naganadel & Guzzlord GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201622
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-261",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/261/high.jpg",
+        "localId": "261",
+        "name": "Mega Lopunny & Jigglypuff GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201287
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm12-262",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/262/high.jpg",
+        "localId": "262",
+        "name": "Silvally GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201623
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-263",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/263/high.jpg",
+        "localId": "263",
+        "name": "Giant Hearth",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201626
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-264",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/264/high.jpg",
+        "localId": "264",
+        "name": "Great Catcher",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201627
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-265",
+        "illustrator": "sadaji",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/265/high.jpg",
+        "localId": "265",
+        "name": "Island Challenge Amulet",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201629
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-266",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/266/high.jpg",
+        "localId": "266",
+        "name": "Lana’s Fishing Rod",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-267",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/267/high.jpg",
+        "localId": "267",
+        "name": "Lillie’s Poké Doll",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-268",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/268/high.jpg",
+        "localId": "268",
+        "name": "Martial Arts Dojo",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201634
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-269",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/269/high.jpg",
+        "localId": "269",
+        "name": "Power Plant",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201361
+    },
+    {
+        "category": "Trainer",
+        "id": "sm12-270",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sm/sm12/270/high.jpg",
+        "localId": "270",
+        "name": "Tag Call",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201635
+    },
+    {
+        "category": "Energy",
+        "id": "sm12-271",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sm/sm12/271/high.jpg",
+        "localId": "271",
+        "name": "Draw Energy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm12",
+            "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.jpg",
+            "name": "Cosmic Eclipse",
+            "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.jpg",
+            "releaseDate": "2019-11-01"
+        },
+        "tcgplayerId": 201636
+    }
+]

@@ -1,0 +1,3906 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sv10-001",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/001/high.jpg",
+        "localId": "001",
+        "name": "Ethan's Pinsir",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-002",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/002/high.jpg",
+        "localId": "002",
+        "name": "Yanma",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-003",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/003/high.jpg",
+        "localId": "003",
+        "name": "Yanmega ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-004",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/004/high.jpg",
+        "localId": "004",
+        "name": "Pineco",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-005",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/005/high.jpg",
+        "localId": "005",
+        "name": "Shroomish",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-006",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/006/high.jpg",
+        "localId": "006",
+        "name": "Breloom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-007",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/007/high.jpg",
+        "localId": "007",
+        "name": "Cynthia's Roselia",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-008",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/008/high.jpg",
+        "localId": "008",
+        "name": "Cynthia's Roserade",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-009",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/009/high.jpg",
+        "localId": "009",
+        "name": "Mow Rotom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-010",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/010/high.jpg",
+        "localId": "010",
+        "name": "Shaymin",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-011",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/011/high.jpg",
+        "localId": "011",
+        "name": "Dwebble",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-012",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/012/high.jpg",
+        "localId": "012",
+        "name": "Crustle",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-013",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/013/high.jpg",
+        "localId": "013",
+        "name": "Fomantis",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-014",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/014/high.jpg",
+        "localId": "014",
+        "name": "Lurantis",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-015",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/015/high.jpg",
+        "localId": "015",
+        "name": "Team Rocket's Blipbug",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-016",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/016/high.jpg",
+        "localId": "016",
+        "name": "Applin",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-017",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/017/high.jpg",
+        "localId": "017",
+        "name": "Dipplin",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-018",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/018/high.jpg",
+        "localId": "018",
+        "name": "Hydrapple",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-019",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/019/high.jpg",
+        "localId": "019",
+        "name": "Team Rocket's Tarountula",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-020",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/020/high.jpg",
+        "localId": "020",
+        "name": "Team Rocket's Spidops",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-021",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/021/high.jpg",
+        "localId": "021",
+        "name": "Smoliv",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-022",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/022/high.jpg",
+        "localId": "022",
+        "name": "Dolliv",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-023",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/023/high.jpg",
+        "localId": "023",
+        "name": "Arboliva ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-024",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/024/high.jpg",
+        "localId": "024",
+        "name": "Rellor",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-025",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/025/high.jpg",
+        "localId": "025",
+        "name": "Rabsca ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-026",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/026/high.jpg",
+        "localId": "026",
+        "name": "Teal Mask Ogerpon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-027",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/027/high.jpg",
+        "localId": "027",
+        "name": "Growlithe",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-028",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/028/high.jpg",
+        "localId": "028",
+        "name": "Arcanine",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-029",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/029/high.jpg",
+        "localId": "029",
+        "name": "Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-030",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/030/high.jpg",
+        "localId": "030",
+        "name": "Rapidash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-031",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/031/high.jpg",
+        "localId": "031",
+        "name": "Team Rocket's Moltres ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-032",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/032/high.jpg",
+        "localId": "032",
+        "name": "Ethan's Cyndaquil",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-033",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/033/high.jpg",
+        "localId": "033",
+        "name": "Ethan's Quilava",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-034",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/034/high.jpg",
+        "localId": "034",
+        "name": "Ethan's Typhlosion",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-035",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/035/high.jpg",
+        "localId": "035",
+        "name": "Ethan's Slugma",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-036",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/036/high.jpg",
+        "localId": "036",
+        "name": "Ethan's Magcargo",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-037",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/037/high.jpg",
+        "localId": "037",
+        "name": "Team Rocket's Houndour",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-038",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/038/high.jpg",
+        "localId": "038",
+        "name": "Team Rocket's Houndoom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-039",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/039/high.jpg",
+        "localId": "039",
+        "name": "Ethan's Ho-Oh ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-040",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/040/high.jpg",
+        "localId": "040",
+        "name": "Torchic",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-041",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/041/high.jpg",
+        "localId": "041",
+        "name": "Combusken",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-042",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/042/high.jpg",
+        "localId": "042",
+        "name": "Blaziken",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-043",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/043/high.jpg",
+        "localId": "043",
+        "name": "Heat Rotom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-044",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/044/high.jpg",
+        "localId": "044",
+        "name": "Hearthflame Mask Ogerpon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-045",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/045/high.jpg",
+        "localId": "045",
+        "name": "Misty's Psyduck",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-046",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/046/high.jpg",
+        "localId": "046",
+        "name": "Misty's Staryu",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-047",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/047/high.jpg",
+        "localId": "047",
+        "name": "Misty's Starmie",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-048",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/048/high.jpg",
+        "localId": "048",
+        "name": "Misty's Magikarp",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-049",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/049/high.jpg",
+        "localId": "049",
+        "name": "Misty's Gyarados",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-050",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/050/high.jpg",
+        "localId": "050",
+        "name": "Misty's Lapras",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-051",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/051/high.jpg",
+        "localId": "051",
+        "name": "Team Rocket's Articuno",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-052",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/052/high.jpg",
+        "localId": "052",
+        "name": "Cynthia's Feebas",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-053",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/053/high.jpg",
+        "localId": "053",
+        "name": "Cynthia's Milotic",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-054",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/054/high.jpg",
+        "localId": "054",
+        "name": "Clamperl",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-055",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/055/high.jpg",
+        "localId": "055",
+        "name": "Huntail",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-056",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/056/high.jpg",
+        "localId": "056",
+        "name": "Gorebyss",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-057",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/057/high.jpg",
+        "localId": "057",
+        "name": "Buizel",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-058",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/058/high.jpg",
+        "localId": "058",
+        "name": "Floatzel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-059",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/059/high.jpg",
+        "localId": "059",
+        "name": "Snover",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-060",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/060/high.jpg",
+        "localId": "060",
+        "name": "Abomasnow",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-061",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/061/high.jpg",
+        "localId": "061",
+        "name": "Wash Rotom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-062",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/062/high.jpg",
+        "localId": "062",
+        "name": "Arrokuda",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-063",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/063/high.jpg",
+        "localId": "063",
+        "name": "Barraskewda",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-064",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/064/high.jpg",
+        "localId": "064",
+        "name": "Cetoddle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-065",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/065/high.jpg",
+        "localId": "065",
+        "name": "Cetitan ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-066",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/066/high.jpg",
+        "localId": "066",
+        "name": "Dondozo ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-067",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/067/high.jpg",
+        "localId": "067",
+        "name": "Wellspring Mask Ogerpon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-068",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/068/high.jpg",
+        "localId": "068",
+        "name": "Electabuzz",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-069",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/069/high.jpg",
+        "localId": "069",
+        "name": "Electivire ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-070",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/070/high.jpg",
+        "localId": "070",
+        "name": "Team Rocket's Zapdos",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-071",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/071/high.jpg",
+        "localId": "071",
+        "name": "Ethan's Pichu",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-072",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/072/high.jpg",
+        "localId": "072",
+        "name": "Team Rocket's Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-073",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/073/high.jpg",
+        "localId": "073",
+        "name": "Team Rocket's Flaaffy",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-074",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/074/high.jpg",
+        "localId": "074",
+        "name": "Team Rocket's Ampharos",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-075",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/075/high.jpg",
+        "localId": "075",
+        "name": "Electrike",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-076",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/076/high.jpg",
+        "localId": "076",
+        "name": "Manectric",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-077",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/077/high.jpg",
+        "localId": "077",
+        "name": "Rotom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-078",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/078/high.jpg",
+        "localId": "078",
+        "name": "Zeraora",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-079",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/079/high.jpg",
+        "localId": "079",
+        "name": "Team Rocket's Drowzee",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-080",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/080/high.jpg",
+        "localId": "080",
+        "name": "Team Rocket's Hypno",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-081",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/081/high.jpg",
+        "localId": "081",
+        "name": "Team Rocket's Mewtwo ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-082",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/082/high.jpg",
+        "localId": "082",
+        "name": "Team Rocket's Wobbuffet",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-083",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/083/high.jpg",
+        "localId": "083",
+        "name": "Steven's Baltoy",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-084",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/084/high.jpg",
+        "localId": "084",
+        "name": "Steven's Claydol",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-085",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/085/high.jpg",
+        "localId": "085",
+        "name": "Team Rocket's Chingling",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-086",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/086/high.jpg",
+        "localId": "086",
+        "name": "Steven's Carbink",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-087",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/087/high.jpg",
+        "localId": "087",
+        "name": "Team Rocket's Mimikyu",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-088",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/088/high.jpg",
+        "localId": "088",
+        "name": "Team Rocket's Dottler",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-089",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/089/high.jpg",
+        "localId": "089",
+        "name": "Team Rocket's Orbeetle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-090",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/090/high.jpg",
+        "localId": "090",
+        "name": "Mankey",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-091",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/091/high.jpg",
+        "localId": "091",
+        "name": "Primeape",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-092",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/092/high.jpg",
+        "localId": "092",
+        "name": "Annihilape",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-093",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/093/high.jpg",
+        "localId": "093",
+        "name": "Ethan's Sudowoodo",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-094",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/094/high.jpg",
+        "localId": "094",
+        "name": "Team Rocket's Larvitar",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-095",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/095/high.jpg",
+        "localId": "095",
+        "name": "Team Rocket's Pupitar",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-096",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/096/high.jpg",
+        "localId": "096",
+        "name": "Team Rocket's Tyranitar",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-097",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/097/high.jpg",
+        "localId": "097",
+        "name": "Nosepass",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-098",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/098/high.jpg",
+        "localId": "098",
+        "name": "Probopass",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-099",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/099/high.jpg",
+        "localId": "099",
+        "name": "Meditite",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-100",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/100/high.jpg",
+        "localId": "100",
+        "name": "Medicham",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-101",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/101/high.jpg",
+        "localId": "101",
+        "name": "Regirock ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-102",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/102/high.jpg",
+        "localId": "102",
+        "name": "Cynthia's Gible",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-103",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/103/high.jpg",
+        "localId": "103",
+        "name": "Cynthia's Gabite",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-104",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/104/high.jpg",
+        "localId": "104",
+        "name": "Cynthia's Garchomp ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-105",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/105/high.jpg",
+        "localId": "105",
+        "name": "Hippopotas",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-106",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/106/high.jpg",
+        "localId": "106",
+        "name": "Hippowdon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-107",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/107/high.jpg",
+        "localId": "107",
+        "name": "Mudbray",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-108",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/108/high.jpg",
+        "localId": "108",
+        "name": "Mudsdale",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-109",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/109/high.jpg",
+        "localId": "109",
+        "name": "Arven's Toedscool",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-110",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/110/high.jpg",
+        "localId": "110",
+        "name": "Arven's Toedscruel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-111",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/111/high.jpg",
+        "localId": "111",
+        "name": "Cornerstone Mask Ogerpon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-112",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/112/high.jpg",
+        "localId": "112",
+        "name": "Team Rocket's Ekans",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-113",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/113/high.jpg",
+        "localId": "113",
+        "name": "Team Rocket's Arbok",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-114",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/114/high.jpg",
+        "localId": "114",
+        "name": "Team Rocket's Nidoran♀",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-115",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/115/high.jpg",
+        "localId": "115",
+        "name": "Team Rocket's Nidorina",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-116",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/116/high.jpg",
+        "localId": "116",
+        "name": "Team Rocket's Nidoqueen",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-117",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/117/high.jpg",
+        "localId": "117",
+        "name": "Team Rocket's Nidoran♂",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-118",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/118/high.jpg",
+        "localId": "118",
+        "name": "Team Rocket's Nidorino",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-119",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/119/high.jpg",
+        "localId": "119",
+        "name": "Team Rocket's Nidoking ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-120",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/120/high.jpg",
+        "localId": "120",
+        "name": "Team Rocket's Zubat",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-121",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/121/high.jpg",
+        "localId": "121",
+        "name": "Team Rocket's Golbat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-122",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/122/high.jpg",
+        "localId": "122",
+        "name": "Team Rocket's Crobat ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-123",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/123/high.jpg",
+        "localId": "123",
+        "name": "Team Rocket's Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-124",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/124/high.jpg",
+        "localId": "124",
+        "name": "Team Rocket's Muk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-125",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/125/high.jpg",
+        "localId": "125",
+        "name": "Team Rocket's Koffing",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-126",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/126/high.jpg",
+        "localId": "126",
+        "name": "Team Rocket's Weezing",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-127",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/127/high.jpg",
+        "localId": "127",
+        "name": "Team Rocket's Murkrow",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-128",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/128/high.jpg",
+        "localId": "128",
+        "name": "Team Rocket's Sneasel",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-129",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/129/high.jpg",
+        "localId": "129",
+        "name": "Cynthia's Spiritomb",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-130",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/130/high.jpg",
+        "localId": "130",
+        "name": "Marnie's Purrloin",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-131",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/131/high.jpg",
+        "localId": "131",
+        "name": "Marnie's Liepard",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-132",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/132/high.jpg",
+        "localId": "132",
+        "name": "Marnie's Scraggy",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-133",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/133/high.jpg",
+        "localId": "133",
+        "name": "Marnie's Scrafty",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-134",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/134/high.jpg",
+        "localId": "134",
+        "name": "Marnie's Impidimp",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-135",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/135/high.jpg",
+        "localId": "135",
+        "name": "Marnie's Morgrem",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-136",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/136/high.jpg",
+        "localId": "136",
+        "name": "Marnie's Grimmsnarl ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-137",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/137/high.jpg",
+        "localId": "137",
+        "name": "Marnie's Morpeko",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-138",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/138/high.jpg",
+        "localId": "138",
+        "name": "Arven's Maschiff",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-139",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/139/high.jpg",
+        "localId": "139",
+        "name": "Arven's Mabosstiff ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-140",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/140/high.jpg",
+        "localId": "140",
+        "name": "Forretress",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-141",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/141/high.jpg",
+        "localId": "141",
+        "name": "Skarmory",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-142",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/142/high.jpg",
+        "localId": "142",
+        "name": "Steven's Skarmory",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-143",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/143/high.jpg",
+        "localId": "143",
+        "name": "Steven's Beldum",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-144",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/144/high.jpg",
+        "localId": "144",
+        "name": "Steven's Metang",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-145",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/145/high.jpg",
+        "localId": "145",
+        "name": "Steven's Metagross ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-146",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/146/high.jpg",
+        "localId": "146",
+        "name": "Zamazenta",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-147",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/147/high.jpg",
+        "localId": "147",
+        "name": "Team Rocket's Rattata",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-148",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/148/high.jpg",
+        "localId": "148",
+        "name": "Team Rocket's Raticate",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-149",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/149/high.jpg",
+        "localId": "149",
+        "name": "Team Rocket's Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-150",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/150/high.jpg",
+        "localId": "150",
+        "name": "Team Rocket's Persian ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-151",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/151/high.jpg",
+        "localId": "151",
+        "name": "Kangaskhan",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-152",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/152/high.jpg",
+        "localId": "152",
+        "name": "Tauros",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-153",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/153/high.jpg",
+        "localId": "153",
+        "name": "Team Rocket's Porygon",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-154",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/154/high.jpg",
+        "localId": "154",
+        "name": "Team Rocket's Porygon2",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-155",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/155/high.jpg",
+        "localId": "155",
+        "name": "Team Rocket's Porygon-Z",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-156",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/156/high.jpg",
+        "localId": "156",
+        "name": "Taillow",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-157",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/157/high.jpg",
+        "localId": "157",
+        "name": "Swellow",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-158",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/158/high.jpg",
+        "localId": "158",
+        "name": "Arven's Skwovet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-159",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/159/high.jpg",
+        "localId": "159",
+        "name": "Arven's Greedent",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-160",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/160/high.jpg",
+        "localId": "160",
+        "name": "Squawkabilly",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-161",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/161/high.jpg",
+        "localId": "161",
+        "name": "Arven's Sandwich",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-162",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/162/high.jpg",
+        "localId": "162",
+        "name": "Cynthia's Power Weight",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-163",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/163/high.jpg",
+        "localId": "163",
+        "name": "Emcee's Hype",
+        "rarity": "Common",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-164",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/164/high.jpg",
+        "localId": "164",
+        "name": "Energy Recycler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-165",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/165/high.jpg",
+        "localId": "165",
+        "name": "Ethan's Adventure",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-166",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/166/high.jpg",
+        "localId": "166",
+        "name": "Granite Cave",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-167",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/167/high.jpg",
+        "localId": "167",
+        "name": "Judge",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-168",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/168/high.jpg",
+        "localId": "168",
+        "name": "Sacred Ash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-169",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/169/high.jpg",
+        "localId": "169",
+        "name": "Spikemuth Gym",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-170",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/170/high.jpg",
+        "localId": "170",
+        "name": "Team Rocket's Archer",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-171",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/171/high.jpg",
+        "localId": "171",
+        "name": "Team Rocket's Ariana",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-172",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/172/high.jpg",
+        "localId": "172",
+        "name": "Team Rocket's Bother-Bot",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-173",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/173/high.jpg",
+        "localId": "173",
+        "name": "Team Rocket's Factory",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-174",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/174/high.jpg",
+        "localId": "174",
+        "name": "Team Rocket's Giovanni",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-175",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/175/high.jpg",
+        "localId": "175",
+        "name": "Team Rocket's Great Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-176",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/176/high.jpg",
+        "localId": "176",
+        "name": "Team Rocket's Petrel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-177",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/177/high.jpg",
+        "localId": "177",
+        "name": "Team Rocket's Proton",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-178",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/178/high.jpg",
+        "localId": "178",
+        "name": "Team Rocket's Transceiver",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-179",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/179/high.jpg",
+        "localId": "179",
+        "name": "Team Rocket's Venture Bomb",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-180",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/180/high.jpg",
+        "localId": "180",
+        "name": "Team Rocket's Watchtower",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-181",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/181/high.jpg",
+        "localId": "181",
+        "name": "TM Machine",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sv10-182",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/182/high.jpg",
+        "localId": "182",
+        "name": "Team Rocket's Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-183",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/183/high.jpg",
+        "localId": "183",
+        "name": "Yanma",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-184",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/184/high.jpg",
+        "localId": "184",
+        "name": "Cynthia's Roserade",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-185",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/185/high.jpg",
+        "localId": "185",
+        "name": "Shaymin",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-186",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/186/high.jpg",
+        "localId": "186",
+        "name": "Crustle",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-187",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/187/high.jpg",
+        "localId": "187",
+        "name": "Team Rocket's Spidops",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-188",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/188/high.jpg",
+        "localId": "188",
+        "name": "Hydrapple",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-189",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/189/high.jpg",
+        "localId": "189",
+        "name": "Rapidash",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-190",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/190/high.jpg",
+        "localId": "190",
+        "name": "Ethan's Typhlosion",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-191",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/191/high.jpg",
+        "localId": "191",
+        "name": "Team Rocket's Houndoom",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-192",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/192/high.jpg",
+        "localId": "192",
+        "name": "Blaziken",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-193",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/193/high.jpg",
+        "localId": "193",
+        "name": "Misty's Psyduck",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-194",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/194/high.jpg",
+        "localId": "194",
+        "name": "Misty's Lapras",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-195",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/195/high.jpg",
+        "localId": "195",
+        "name": "Clamperl",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-196",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/196/high.jpg",
+        "localId": "196",
+        "name": "Electrike",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-197",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/197/high.jpg",
+        "localId": "197",
+        "name": "Rotom",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-198",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/198/high.jpg",
+        "localId": "198",
+        "name": "Team Rocket's Orbeetle",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-199",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/199/high.jpg",
+        "localId": "199",
+        "name": "Team Rocket's Weezing",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-200",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/200/high.jpg",
+        "localId": "200",
+        "name": "Team Rocket's Murkrow",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-201",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/201/high.jpg",
+        "localId": "201",
+        "name": "Zamazenta",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-202",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/202/high.jpg",
+        "localId": "202",
+        "name": "Team Rocket's Raticate",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-203",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/203/high.jpg",
+        "localId": "203",
+        "name": "Team Rocket's Meowth",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-204",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/204/high.jpg",
+        "localId": "204",
+        "name": "Kangaskhan",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-205",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/205/high.jpg",
+        "localId": "205",
+        "name": "Arven's Greedent",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-206",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/206/high.jpg",
+        "localId": "206",
+        "name": "Yanmega ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-207",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/207/high.jpg",
+        "localId": "207",
+        "name": "Arboliva ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-208",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/208/high.jpg",
+        "localId": "208",
+        "name": "Team Rocket's Moltres ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-209",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/209/high.jpg",
+        "localId": "209",
+        "name": "Ethan's Ho-Oh ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-210",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/210/high.jpg",
+        "localId": "210",
+        "name": "Cetitan ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-211",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/211/high.jpg",
+        "localId": "211",
+        "name": "Dondozo ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-212",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/212/high.jpg",
+        "localId": "212",
+        "name": "Electivire ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-213",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/213/high.jpg",
+        "localId": "213",
+        "name": "Team Rocket's Mewtwo ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-214",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/214/high.jpg",
+        "localId": "214",
+        "name": "Regirock ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-215",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/215/high.jpg",
+        "localId": "215",
+        "name": "Cynthia's Garchomp ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-216",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/216/high.jpg",
+        "localId": "216",
+        "name": "Team Rocket's Nidoking ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-217",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/217/high.jpg",
+        "localId": "217",
+        "name": "Team Rocket's Crobat ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-218",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/218/high.jpg",
+        "localId": "218",
+        "name": "Arven's Mabosstiff ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-219",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/219/high.jpg",
+        "localId": "219",
+        "name": "Team Rocket's Persian ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-220",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/220/high.jpg",
+        "localId": "220",
+        "name": "Emcee's Hype",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-221",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/221/high.jpg",
+        "localId": "221",
+        "name": "Ethan's Adventure",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-222",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/222/high.jpg",
+        "localId": "222",
+        "name": "Judge",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-223",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/223/high.jpg",
+        "localId": "223",
+        "name": "Team Rocket's Archer",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-224",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/224/high.jpg",
+        "localId": "224",
+        "name": "Team Rocket's Ariana",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-225",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/225/high.jpg",
+        "localId": "225",
+        "name": "Team Rocket's Giovanni",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-226",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/226/high.jpg",
+        "localId": "226",
+        "name": "Team Rocket's Petrel",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-227",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/227/high.jpg",
+        "localId": "227",
+        "name": "Team Rocket's Proton",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-228",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/228/high.jpg",
+        "localId": "228",
+        "name": "Yanmega ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-229",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/229/high.jpg",
+        "localId": "229",
+        "name": "Team Rocket's Moltres ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-230",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/230/high.jpg",
+        "localId": "230",
+        "name": "Ethan's Ho-Oh ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-231",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/231/high.jpg",
+        "localId": "231",
+        "name": "Team Rocket's Mewtwo ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-232",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/232/high.jpg",
+        "localId": "232",
+        "name": "Cynthia's Garchomp ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-233",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/233/high.jpg",
+        "localId": "233",
+        "name": "Team Rocket's Nidoking ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-234",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/234/high.jpg",
+        "localId": "234",
+        "name": "Team Rocket's Crobat ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-235",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/235/high.jpg",
+        "localId": "235",
+        "name": "Arven's Mabosstiff ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-236",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/236/high.jpg",
+        "localId": "236",
+        "name": "Ethan's Adventure",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-237",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/237/high.jpg",
+        "localId": "237",
+        "name": "Team Rocket's Ariana",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-238",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/238/high.jpg",
+        "localId": "238",
+        "name": "Team Rocket's Giovanni",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-239",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/239/high.jpg",
+        "localId": "239",
+        "name": "Ethan's Ho-Oh ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-240",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/240/high.jpg",
+        "localId": "240",
+        "name": "Team Rocket's Mewtwo ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-241",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/241/high.jpg",
+        "localId": "241",
+        "name": "Cynthia's Garchomp ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv10-242",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/242/high.jpg",
+        "localId": "242",
+        "name": "Team Rocket's Crobat ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-243",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/243/high.jpg",
+        "localId": "243",
+        "name": "Jamming Tower",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv10-244",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv10/244/high.jpg",
+        "localId": "244",
+        "name": "Levincia",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv10",
+            "logo": "https://assets.tcgdex.net/en/sv/sv10/logo.jpg",
+            "name": "Destined Rivals",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv10/symbol.jpg",
+            "releaseDate": "2025-05-30"
+        }
+    }
+]

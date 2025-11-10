@@ -1,0 +1,162 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-latia-1",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "1",
+        "name": "Bagon",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latia",
+            "name": "EX trainer Kit (Latias)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latia/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 83694
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-latia-2",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "2",
+        "name": "Combusken",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latia",
+            "name": "EX trainer Kit (Latias)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latia/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 84403
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-latia-3",
+        "illustrator": "Midori Harada",
+        "image": null,
+        "localId": "3",
+        "name": "Delcatty",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latia",
+            "name": "EX trainer Kit (Latias)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latia/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 84737
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-latia-4",
+        "illustrator": "Nakaoka",
+        "image": null,
+        "localId": "4",
+        "name": "Latias",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latia",
+            "name": "EX trainer Kit (Latias)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latia/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 86650
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-latia-5",
+        "illustrator": "Yuka Morii",
+        "image": null,
+        "localId": "5",
+        "name": "Numel",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latia",
+            "name": "EX trainer Kit (Latias)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latia/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 87808
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-latia-6",
+        "illustrator": "Atsuko Nishida",
+        "image": null,
+        "localId": "6",
+        "name": "Skitty",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latia",
+            "name": "EX trainer Kit (Latias)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latia/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 89263
+    },
+    {
+        "category": "Pokemon",
+        "id": "tk-ex-latia-7",
+        "illustrator": "Hironobu Yoshida",
+        "image": null,
+        "localId": "7",
+        "name": "Torchic",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latia",
+            "name": "EX trainer Kit (Latias)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latia/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 89954
+    },
+    {
+        "category": "Trainer",
+        "id": "tk-ex-latia-8",
+        "illustrator": "Keiji Kinebuchi",
+        "image": null,
+        "localId": "8",
+        "name": "Potion",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latia",
+            "name": "EX trainer Kit (Latias)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latia/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 88335
+    },
+    {
+        "category": "Trainer",
+        "id": "tk-ex-latia-9",
+        "illustrator": "Kai Ishikawa",
+        "image": null,
+        "localId": "9",
+        "name": "Energy Search",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latia",
+            "name": "EX trainer Kit (Latias)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latia/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 85239
+    },
+    {
+        "category": "Energy",
+        "id": "tk-ex-latia-10",
+        "illustrator": "",
+        "image": null,
+        "localId": "10",
+        "name": "Fire Energy",
+        "rarity": "None",
+        "set": {
+            "id": "tk-ex-latia",
+            "name": "EX trainer Kit (Latias)",
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latia/symbol.jpg",
+            "releaseDate": "2004-07-01"
+        },
+        "tcgplayerId": 85457
+    }
+]

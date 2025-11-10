@@ -1,0 +1,1868 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "lc-1",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/1/high.jpg",
+        "localId": "1",
+        "name": "Alakazam",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 83496
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-2",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/2/high.jpg",
+        "localId": "2",
+        "name": "Articuno",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 83643
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-3",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/3/high.jpg",
+        "localId": "3",
+        "name": "Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84196
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-4",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/4/high.jpg",
+        "localId": "4",
+        "name": "Dark Blastoise",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84569
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-5",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/5/high.jpg",
+        "localId": "5",
+        "name": "Dark Dragonite",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84585
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-6",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/lc/lc/6/high.jpg",
+        "localId": "6",
+        "name": "Dark Persian",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84637
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-7",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/7/high.jpg",
+        "localId": "7",
+        "name": "Dark Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84646
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-8",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/8/high.jpg",
+        "localId": "8",
+        "name": "Dark Slowbro",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84653
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-9",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/9/high.jpg",
+        "localId": "9",
+        "name": "Dark Vaporeon",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84664
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-10",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/10/high.jpg",
+        "localId": "10",
+        "name": "Flareon",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85492
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-11",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/lc/lc/11/high.jpg",
+        "localId": "11",
+        "name": "Gengar",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85670
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-12",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/12/high.jpg",
+        "localId": "12",
+        "name": "Gyarados",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85989
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-13",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/13/high.jpg",
+        "localId": "13",
+        "name": "Hitmonlee",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 86101
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-14",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/14/high.jpg",
+        "localId": "14",
+        "name": "Jolteon",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 86339
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-15",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/15/high.jpg",
+        "localId": "15",
+        "name": "Machamp",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 86957
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-16",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/16/high.jpg",
+        "localId": "16",
+        "name": "Muk",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87618
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-17",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/17/high.jpg",
+        "localId": "17",
+        "name": "Ninetales",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87764
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-18",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/18/high.jpg",
+        "localId": "18",
+        "name": "Venusaur",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 90313
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-19",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/19/high.jpg",
+        "localId": "19",
+        "name": "Zapdos",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 90712
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-20",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/20/high.jpg",
+        "localId": "20",
+        "name": "Beedrill",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 83768
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-21",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/21/high.jpg",
+        "localId": "21",
+        "name": "Butterfree",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84062
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-22",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/22/high.jpg",
+        "localId": "22",
+        "name": "Electrode",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85151
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-23",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/23/high.jpg",
+        "localId": "23",
+        "name": "Exeggutor",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85357
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-24",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/24/high.jpg",
+        "localId": "24",
+        "name": "Golem",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85822
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-25",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/25/high.jpg",
+        "localId": "25",
+        "name": "Hypno",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 86251
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-26",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/26/high.jpg",
+        "localId": "26",
+        "name": "Jynx",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 86371
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-27",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/27/high.jpg",
+        "localId": "27",
+        "name": "Kabutops",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 86395
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-28",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/28/high.jpg",
+        "localId": "28",
+        "name": "Magneton",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87099
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-29",
+        "illustrator": "Christopher Rush",
+        "image": "https://assets.tcgdex.net/en/lc/lc/29/high.jpg",
+        "localId": "29",
+        "name": "Mewtwo",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87419
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-30",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/30/high.jpg",
+        "localId": "30",
+        "name": "Moltres",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87560
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-31",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/31/high.jpg",
+        "localId": "31",
+        "name": "Nidoking",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87694
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-32",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/32/high.jpg",
+        "localId": "32",
+        "name": "Nidoqueen",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87706
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-33",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/33/high.jpg",
+        "localId": "33",
+        "name": "Pidgeot",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88028
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-34",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/34/high.jpg",
+        "localId": "34",
+        "name": "Pidgeotto",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88038
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-35",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/35/high.jpg",
+        "localId": "35",
+        "name": "Rhydon",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88730
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-36",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/36/high.jpg",
+        "localId": "36",
+        "name": "Arcanine",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 83581
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-37",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/37/high.jpg",
+        "localId": "37",
+        "name": "Charmeleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84223
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-38",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/38/high.jpg",
+        "localId": "38",
+        "name": "Dark Dragonair",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84581
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-39",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/39/high.jpg",
+        "localId": "39",
+        "name": "Dark Wartortle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84669
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-40",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/40/high.jpg",
+        "localId": "40",
+        "name": "Dewgong",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84788
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-41",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/41/high.jpg",
+        "localId": "41",
+        "name": "Dodrio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84847
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-42",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/42/high.jpg",
+        "localId": "42",
+        "name": "Fearow",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85395
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-43",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/43/high.jpg",
+        "localId": "43",
+        "name": "Golduck",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85812
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-44",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/44/high.jpg",
+        "localId": "44",
+        "name": "Graveler",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85887
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-45",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/45/high.jpg",
+        "localId": "45",
+        "name": "Growlithe",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85948
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-46",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/46/high.jpg",
+        "localId": "46",
+        "name": "Haunter",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 86022
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-47",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/47/high.jpg",
+        "localId": "47",
+        "name": "Ivysaur",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 86295
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-48",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/48/high.jpg",
+        "localId": "48",
+        "name": "Kabuto",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 86381
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-49",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/49/high.jpg",
+        "localId": "49",
+        "name": "Kadabra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 86404
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-50",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/lc/lc/50/high.jpg",
+        "localId": "50",
+        "name": "Kakuna",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 86409
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-51",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/51/high.jpg",
+        "localId": "51",
+        "name": "Machoke",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 86976
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-52",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/52/high.jpg",
+        "localId": "52",
+        "name": "Magikarp",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87022
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-53",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/53/high.jpg",
+        "localId": "53",
+        "name": "Meowth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87311
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-54",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/54/high.jpg",
+        "localId": "54",
+        "name": "Metapod",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87387
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-55",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/55/high.jpg",
+        "localId": "55",
+        "name": "Nidorina",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87733
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-56",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/56/high.jpg",
+        "localId": "56",
+        "name": "Nidorino",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87743
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-57",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/57/high.jpg",
+        "localId": "57",
+        "name": "Omanyte",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87855
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-58",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/58/high.jpg",
+        "localId": "58",
+        "name": "Omastar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87867
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-59",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/59/high.jpg",
+        "localId": "59",
+        "name": "Primeape",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88361
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-60",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/60/high.jpg",
+        "localId": "60",
+        "name": "Rapidash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88579
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-61",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/61/high.jpg",
+        "localId": "61",
+        "name": "Raticate",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88601
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-62",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/62/high.jpg",
+        "localId": "62",
+        "name": "Sandslash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88930
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-63",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/63/high.jpg",
+        "localId": "63",
+        "name": "Seadra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 89011
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-64",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/64/high.jpg",
+        "localId": "64",
+        "name": "Snorlax",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 89386
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-65",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/65/high.jpg",
+        "localId": "65",
+        "name": "Tauros",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 89759
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-66",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/66/high.jpg",
+        "localId": "66",
+        "name": "Tentacruel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 89874
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-67",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/67/high.jpg",
+        "localId": "67",
+        "name": "Abra",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 83446
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-68",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/68/high.jpg",
+        "localId": "68",
+        "name": "Bulbasaur",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84025
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-69",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/69/high.jpg",
+        "localId": "69",
+        "name": "Caterpie",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84134
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-70",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/70/high.jpg",
+        "localId": "70",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84205
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-71",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/71/high.jpg",
+        "localId": "71",
+        "name": "Doduo",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84858
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-72",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/72/high.jpg",
+        "localId": "72",
+        "name": "Dratini",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84930
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-73",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/73/high.jpg",
+        "localId": "73",
+        "name": "Drowzee",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84970
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-74",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/74/high.jpg",
+        "localId": "74",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85079
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-75",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/75/high.jpg",
+        "localId": "75",
+        "name": "Exeggcute",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85343
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-76",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/lc/lc/76/high.jpg",
+        "localId": "76",
+        "name": "Gastly",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85648
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-77",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/77/high.jpg",
+        "localId": "77",
+        "name": "Geodude",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85685
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-78",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/78/high.jpg",
+        "localId": "78",
+        "name": "Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85906
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-79",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/79/high.jpg",
+        "localId": "79",
+        "name": "Machop",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 86990
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-80",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/lc/lc/80/high.jpg",
+        "localId": "80",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87070
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-81",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/81/high.jpg",
+        "localId": "81",
+        "name": "Mankey",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87171
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-82",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/82/high.jpg",
+        "localId": "82",
+        "name": "Nidoran♀",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-83",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/83/high.jpg",
+        "localId": "83",
+        "name": "Nidoran♂",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-84",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/84/high.jpg",
+        "localId": "84",
+        "name": "Onix",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87877
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-85",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/85/high.jpg",
+        "localId": "85",
+        "name": "Pidgey",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88046
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-86",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/86/high.jpg",
+        "localId": "86",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88075
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-87",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/87/high.jpg",
+        "localId": "87",
+        "name": "Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88282
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-88",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/88/high.jpg",
+        "localId": "88",
+        "name": "Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88434
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-89",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/89/high.jpg",
+        "localId": "89",
+        "name": "Rattata",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88612
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-90",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/90/high.jpg",
+        "localId": "90",
+        "name": "Rhyhorn",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88738
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-91",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/91/high.jpg",
+        "localId": "91",
+        "name": "Sandshrew",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88920
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-92",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/92/high.jpg",
+        "localId": "92",
+        "name": "Seel",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 89049
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-93",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/lc/lc/93/high.jpg",
+        "localId": "93",
+        "name": "Slowpoke",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 89324
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-94",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/94/high.jpg",
+        "localId": "94",
+        "name": "Spearow",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 89437
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-95",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/95/high.jpg",
+        "localId": "95",
+        "name": "Squirtle",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 89485
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-96",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/96/high.jpg",
+        "localId": "96",
+        "name": "Tentacool",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 89864
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-97",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/lc/lc/97/high.jpg",
+        "localId": "97",
+        "name": "Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 90410
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-98",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/98/high.jpg",
+        "localId": "98",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 90434
+    },
+    {
+        "category": "Pokemon",
+        "id": "lc-99",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/lc/lc/99/high.jpg",
+        "localId": "99",
+        "name": "Weedle",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 90539
+    },
+    {
+        "category": "Energy",
+        "id": "lc-100",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/lc/lc/100/high.jpg",
+        "localId": "100",
+        "name": "Full Heal Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85585
+    },
+    {
+        "category": "Energy",
+        "id": "lc-101",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/lc/lc/101/high.jpg",
+        "localId": "101",
+        "name": "Potion Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88351
+    },
+    {
+        "category": "Trainer",
+        "id": "lc-102",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/102/high.jpg",
+        "localId": "102",
+        "name": "Pokémon Breeder",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "lc-103",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/103/high.jpg",
+        "localId": "103",
+        "name": "Pokémon Trader",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "lc-104",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/lc/lc/104/high.jpg",
+        "localId": "104",
+        "name": "Scoop Up",
+        "rarity": "Rare",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88973
+    },
+    {
+        "category": "Trainer",
+        "id": "lc-105",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/105/high.jpg",
+        "localId": "105",
+        "name": "The Boss's Way",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 89895
+    },
+    {
+        "category": "Trainer",
+        "id": "lc-106",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/lc/lc/106/high.jpg",
+        "localId": "106",
+        "name": "Challenge!",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 84160
+    },
+    {
+        "category": "Trainer",
+        "id": "lc-107",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/lc/lc/107/high.jpg",
+        "localId": "107",
+        "name": "Energy Retrieval",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 85233
+    },
+    {
+        "category": "Trainer",
+        "id": "lc-108",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/lc/lc/108/high.jpg",
+        "localId": "108",
+        "name": "Bill",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 83836
+    },
+    {
+        "category": "Trainer",
+        "id": "lc-109",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/lc/lc/109/high.jpg",
+        "localId": "109",
+        "name": "Mysterious Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 87668
+    },
+    {
+        "category": "Trainer",
+        "id": "lc-110",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/lc/lc/110/high.jpg",
+        "localId": "110",
+        "name": "Potion",
+        "rarity": "Common",
+        "set": {
+            "id": "lc",
+            "logo": "https://assets.tcgdex.net/en/lc/lc/logo.jpg",
+            "name": "Legendary Collection",
+            "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.jpg",
+            "releaseDate": "2002-05-24"
+        },
+        "tcgplayerId": 88332
+    }
+]

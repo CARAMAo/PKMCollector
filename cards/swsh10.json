@@ -1,0 +1,4154 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "swsh10-001",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/001/high.jpg",
+        "localId": "001",
+        "name": "Beedrill V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272201
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-002",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/002/high.jpg",
+        "localId": "002",
+        "name": "Hisuian Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272202
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-003",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/003/high.jpg",
+        "localId": "003",
+        "name": "Hisuian Electrode",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272203
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-004",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/004/high.jpg",
+        "localId": "004",
+        "name": "Scyther",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272204
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-005",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/005/high.jpg",
+        "localId": "005",
+        "name": "Scyther",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272205
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-006",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/006/high.jpg",
+        "localId": "006",
+        "name": "Yanma",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272206
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-007",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/007/high.jpg",
+        "localId": "007",
+        "name": "Yanmega",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272207
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-008",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/008/high.jpg",
+        "localId": "008",
+        "name": "Heracross",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272208
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-009",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/009/high.jpg",
+        "localId": "009",
+        "name": "Kricketot",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272209
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-010",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/010/high.jpg",
+        "localId": "010",
+        "name": "Kricketune",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272210
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-011",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/011/high.jpg",
+        "localId": "011",
+        "name": "Combee",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272211
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-012",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/012/high.jpg",
+        "localId": "012",
+        "name": "Vespiquen",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272212
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-013",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/013/high.jpg",
+        "localId": "013",
+        "name": "Leafeon",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272213
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-014",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/014/high.jpg",
+        "localId": "014",
+        "name": "Shaymin",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272214
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-015",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/015/high.jpg",
+        "localId": "015",
+        "name": "Petilil",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272215
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-016",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/016/high.jpg",
+        "localId": "016",
+        "name": "Hisuian Lilligant",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272216
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-017",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/017/high.jpg",
+        "localId": "017",
+        "name": "Hisuian Lilligant V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272217
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-018",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/018/high.jpg",
+        "localId": "018",
+        "name": "Hisuian Lilligant VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272218
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-019",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/019/high.jpg",
+        "localId": "019",
+        "name": "Rowlet",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272219
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-020",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/020/high.jpg",
+        "localId": "020",
+        "name": "Dartrix",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272220
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-021",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/021/high.jpg",
+        "localId": "021",
+        "name": "Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272221
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-022",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/022/high.jpg",
+        "localId": "022",
+        "name": "Rapidash",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272222
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-023",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/023/high.jpg",
+        "localId": "023",
+        "name": "Cyndaquil",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272223
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-024",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/024/high.jpg",
+        "localId": "024",
+        "name": "Quilava",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272224
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-025",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/025/high.jpg",
+        "localId": "025",
+        "name": "Heatran V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272225
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-026",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/026/high.jpg",
+        "localId": "026",
+        "name": "Heatran VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272226
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-027",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/027/high.jpg",
+        "localId": "027",
+        "name": "Radiant Heatran",
+        "rarity": "Radiant Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272227
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-028",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/028/high.jpg",
+        "localId": "028",
+        "name": "Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272228
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-029",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/029/high.jpg",
+        "localId": "029",
+        "name": "Golduck",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272229
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-030",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/030/high.jpg",
+        "localId": "030",
+        "name": "Starmie V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272230
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-031",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/031/high.jpg",
+        "localId": "031",
+        "name": "Swinub",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272231
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-032",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/032/high.jpg",
+        "localId": "032",
+        "name": "Piloswine",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272232
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-033",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/033/high.jpg",
+        "localId": "033",
+        "name": "Mamoswine",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272233
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-034",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/034/high.jpg",
+        "localId": "034",
+        "name": "Mantine",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272234
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-035",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/035/high.jpg",
+        "localId": "035",
+        "name": "Barboach",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272235
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-036",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/036/high.jpg",
+        "localId": "036",
+        "name": "Whiscash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272236
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-037",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/037/high.jpg",
+        "localId": "037",
+        "name": "Regice",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272237
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-038",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/038/high.jpg",
+        "localId": "038",
+        "name": "Glaceon",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272238
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-039",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/039/high.jpg",
+        "localId": "039",
+        "name": "Origin Forme Palkia V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272239
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-040",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/040/high.jpg",
+        "localId": "040",
+        "name": "Origin Forme Palkia VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272240
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-041",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/041/high.jpg",
+        "localId": "041",
+        "name": "Oshawott",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272241
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-042",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/042/high.jpg",
+        "localId": "042",
+        "name": "Dewott",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272242
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-043",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/043/high.jpg",
+        "localId": "043",
+        "name": "Hisuian Basculin",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272243
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-044",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/044/high.jpg",
+        "localId": "044",
+        "name": "Hisuian Basculegion",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272244
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-045",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/045/high.jpg",
+        "localId": "045",
+        "name": "Keldeo",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272245
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-046",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/046/high.jpg",
+        "localId": "046",
+        "name": "Radiant Greninja",
+        "rarity": "Radiant Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272246
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-047",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/047/high.jpg",
+        "localId": "047",
+        "name": "Bergmite",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272247
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-048",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/048/high.jpg",
+        "localId": "048",
+        "name": "Hisuian Avalugg",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272248
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-049",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/049/high.jpg",
+        "localId": "049",
+        "name": "Galarian Mr. Rime V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272249
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-050",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/050/high.jpg",
+        "localId": "050",
+        "name": "Luxray V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272250
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-051",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/051/high.jpg",
+        "localId": "051",
+        "name": "Regieleki",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272252
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-052",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/052/high.jpg",
+        "localId": "052",
+        "name": "Hisuian Typhlosion",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272253
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-053",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/053/high.jpg",
+        "localId": "053",
+        "name": "Hisuian Typhlosion V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272254
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-054",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/054/high.jpg",
+        "localId": "054",
+        "name": "Hisuian Typhlosion VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272255
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-055",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/055/high.jpg",
+        "localId": "055",
+        "name": "Togepi",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272256
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-056",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/056/high.jpg",
+        "localId": "056",
+        "name": "Togetic",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272257
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-057",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/057/high.jpg",
+        "localId": "057",
+        "name": "Togekiss",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272258
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-058",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/058/high.jpg",
+        "localId": "058",
+        "name": "Misdreavus",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272259
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-059",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/059/high.jpg",
+        "localId": "059",
+        "name": "Mismagius",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272260
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-060",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/060/high.jpg",
+        "localId": "060",
+        "name": "Ralts",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272261
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-061",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/061/high.jpg",
+        "localId": "061",
+        "name": "Kirlia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272262
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-062",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/062/high.jpg",
+        "localId": "062",
+        "name": "Gallade",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272263
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-063",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/063/high.jpg",
+        "localId": "063",
+        "name": "Drifloon",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272264
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-064",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/064/high.jpg",
+        "localId": "064",
+        "name": "Drifblim",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272265
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-065",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/065/high.jpg",
+        "localId": "065",
+        "name": "Uxie",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272266
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-066",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/066/high.jpg",
+        "localId": "066",
+        "name": "Mesprit",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272267
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-067",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/067/high.jpg",
+        "localId": "067",
+        "name": "Azelf",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272268
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-068",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/068/high.jpg",
+        "localId": "068",
+        "name": "Diancie",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272269
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-069",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/069/high.jpg",
+        "localId": "069",
+        "name": "Wyrdeer",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272270
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-070",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/070/high.jpg",
+        "localId": "070",
+        "name": "Hisuian Growlithe",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272271
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-071",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/071/high.jpg",
+        "localId": "071",
+        "name": "Hisuian Arcanine",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272272
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-072",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/072/high.jpg",
+        "localId": "072",
+        "name": "Machamp V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272273
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-073",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/073/high.jpg",
+        "localId": "073",
+        "name": "Machamp VMAX",
+        "rarity": "Holo Rare VMAX",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272274
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-074",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/074/high.jpg",
+        "localId": "074",
+        "name": "Sudowoodo",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272275
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-075",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/075/high.jpg",
+        "localId": "075",
+        "name": "Regirock",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272276
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-076",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/076/high.jpg",
+        "localId": "076",
+        "name": "Cranidos",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272277
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-077",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/077/high.jpg",
+        "localId": "077",
+        "name": "Rampardos",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272278
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-078",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/078/high.jpg",
+        "localId": "078",
+        "name": "Lucario V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272279
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-079",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/079/high.jpg",
+        "localId": "079",
+        "name": "Hippopotas",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272280
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-080",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/080/high.jpg",
+        "localId": "080",
+        "name": "Hippowdon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272281
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-081",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/081/high.jpg",
+        "localId": "081",
+        "name": "Radiant Hawlucha",
+        "rarity": "Radiant Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272282
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-082",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/082/high.jpg",
+        "localId": "082",
+        "name": "Hisuian Decidueye",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272283
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-083",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/083/high.jpg",
+        "localId": "083",
+        "name": "Hisuian Decidueye V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272284
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-084",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/084/high.jpg",
+        "localId": "084",
+        "name": "Hisuian Decidueye VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272285
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-085",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/085/high.jpg",
+        "localId": "085",
+        "name": "Kleavor",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272286
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-086",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/086/high.jpg",
+        "localId": "086",
+        "name": "Kleavor",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272287
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-087",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/087/high.jpg",
+        "localId": "087",
+        "name": "Kleavor V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272288
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-088",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/088/high.jpg",
+        "localId": "088",
+        "name": "Hisuian Qwilfish",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272289
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-089",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/089/high.jpg",
+        "localId": "089",
+        "name": "Hisuian Qwilfish",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272290
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-090",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/090/high.jpg",
+        "localId": "090",
+        "name": "Hisuian Overqwil",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272291
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-091",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/091/high.jpg",
+        "localId": "091",
+        "name": "Hisuian Overqwil",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272292
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-092",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/092/high.jpg",
+        "localId": "092",
+        "name": "Hisuian Sneasel",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272293
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-093",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/093/high.jpg",
+        "localId": "093",
+        "name": "Hisuian Sneasler",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272294
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-094",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/094/high.jpg",
+        "localId": "094",
+        "name": "Hisuian Sneasler V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272295
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-095",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/095/high.jpg",
+        "localId": "095",
+        "name": "Poochyena",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272296
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-096",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/096/high.jpg",
+        "localId": "096",
+        "name": "Mightyena",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272297
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-097",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/097/high.jpg",
+        "localId": "097",
+        "name": "Absol",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272298
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-098",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/098/high.jpg",
+        "localId": "098",
+        "name": "Darkrai V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272299
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-099",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/099/high.jpg",
+        "localId": "099",
+        "name": "Darkrai VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272300
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-100",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/100/high.jpg",
+        "localId": "100",
+        "name": "Hisuian Samurott",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272301
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-101",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/101/high.jpg",
+        "localId": "101",
+        "name": "Hisuian Samurott V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272302
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-102",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/102/high.jpg",
+        "localId": "102",
+        "name": "Hisuian Samurott VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272303
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-103",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/103/high.jpg",
+        "localId": "103",
+        "name": "Nickit",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272304
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-104",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/104/high.jpg",
+        "localId": "104",
+        "name": "Thievul",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272305
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-105",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/105/high.jpg",
+        "localId": "105",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272306
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-106",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/106/high.jpg",
+        "localId": "106",
+        "name": "Magneton",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272307
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-107",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/107/high.jpg",
+        "localId": "107",
+        "name": "Magnezone",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272310
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-108",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/108/high.jpg",
+        "localId": "108",
+        "name": "Registeel",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272708
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-109",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/109/high.jpg",
+        "localId": "109",
+        "name": "Shieldon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272324
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-110",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/110/high.jpg",
+        "localId": "110",
+        "name": "Bastiodon",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272325
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-111",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/111/high.jpg",
+        "localId": "111",
+        "name": "Bronzor",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272332
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-112",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/112/high.jpg",
+        "localId": "112",
+        "name": "Bronzong",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272337
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-113",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/113/high.jpg",
+        "localId": "113",
+        "name": "Origin Forme Dialga V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272338
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-114",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/114/high.jpg",
+        "localId": "114",
+        "name": "Origin Forme Dialga VSTAR",
+        "rarity": "Holo Rare VSTAR",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272339
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-115",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/115/high.jpg",
+        "localId": "115",
+        "name": "Pawniard",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272343
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-116",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/116/high.jpg",
+        "localId": "116",
+        "name": "Bisharp",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272345
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-117",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/117/high.jpg",
+        "localId": "117",
+        "name": "Garchomp V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272346
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-118",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/118/high.jpg",
+        "localId": "118",
+        "name": "Regidrago",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272349
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-119",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/119/high.jpg",
+        "localId": "119",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272353
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-120",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/120/high.jpg",
+        "localId": "120",
+        "name": "Hoothoot",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272355
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-121",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/121/high.jpg",
+        "localId": "121",
+        "name": "Noctowl",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272356
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-122",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/122/high.jpg",
+        "localId": "122",
+        "name": "Teddiursa",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272359
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-123",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/123/high.jpg",
+        "localId": "123",
+        "name": "Ursaring",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272360
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-124",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/124/high.jpg",
+        "localId": "124",
+        "name": "Ursaluna",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272361
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-125",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/125/high.jpg",
+        "localId": "125",
+        "name": "Stantler",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272362
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-126",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/126/high.jpg",
+        "localId": "126",
+        "name": "Miltank",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272363
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-127",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/127/high.jpg",
+        "localId": "127",
+        "name": "Glameow",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272364
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-128",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/128/high.jpg",
+        "localId": "128",
+        "name": "Purugly",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272367
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-129",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/129/high.jpg",
+        "localId": "129",
+        "name": "Chatot",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272370
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-130",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/130/high.jpg",
+        "localId": "130",
+        "name": "Regigigas",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272371
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-131",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/131/high.jpg",
+        "localId": "131",
+        "name": "Rufflet",
+        "rarity": "Common",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272372
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-132",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/132/high.jpg",
+        "localId": "132",
+        "name": "Hisuian Braviary",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272373
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-133",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/133/high.jpg",
+        "localId": "133",
+        "name": "Oranguru V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272375
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-134",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/134/high.jpg",
+        "localId": "134",
+        "name": "Wyrdeer V",
+        "rarity": "Holo Rare V",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272377
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-135",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/135/high.jpg",
+        "localId": "135",
+        "name": "Adaman",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272387
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-136",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/136/high.jpg",
+        "localId": "136",
+        "name": "Canceling Cologne",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272388
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-137",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/137/high.jpg",
+        "localId": "137",
+        "name": "Choy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272389
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-138",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/138/high.jpg",
+        "localId": "138",
+        "name": "Cyllene",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272390
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-139",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/139/high.jpg",
+        "localId": "139",
+        "name": "Dark Patch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272391
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-140",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/140/high.jpg",
+        "localId": "140",
+        "name": "Energy Loto",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272392
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-141",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/141/high.jpg",
+        "localId": "141",
+        "name": "Feather Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272393
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-142",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/142/high.jpg",
+        "localId": "142",
+        "name": "Gapejaw Bog",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272394
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-143",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/143/high.jpg",
+        "localId": "143",
+        "name": "Gardenia's Vigor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272395
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-144",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/144/high.jpg",
+        "localId": "144",
+        "name": "Grant",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272396
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-145",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/145/high.jpg",
+        "localId": "145",
+        "name": "Gutsy Pickaxe",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272397
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-146",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/146/high.jpg",
+        "localId": "146",
+        "name": "Hisuian Heavy Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272398
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-147",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/147/high.jpg",
+        "localId": "147",
+        "name": "Irida",
+        "rarity": "Holo Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272399
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-148",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/148/high.jpg",
+        "localId": "148",
+        "name": "Jubilife Village",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272400
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-149",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/149/high.jpg",
+        "localId": "149",
+        "name": "Kamado",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272401
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-150",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/150/high.jpg",
+        "localId": "150",
+        "name": "Roxanne",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272402
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-151",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/151/high.jpg",
+        "localId": "151",
+        "name": "Spicy Seasoned Curry",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272403
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-152",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/152/high.jpg",
+        "localId": "152",
+        "name": "Supereffective Glasses",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272404
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-153",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/153/high.jpg",
+        "localId": "153",
+        "name": "Sweet Honey",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272405
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-154",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/154/high.jpg",
+        "localId": "154",
+        "name": "Switch Cart",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272406
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-155",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/155/high.jpg",
+        "localId": "155",
+        "name": "Temple of Sinnoh",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272407
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-156",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/156/high.jpg",
+        "localId": "156",
+        "name": "Trekking Shoes",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272408
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-157",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/157/high.jpg",
+        "localId": "157",
+        "name": "Unidentified Fossil",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272409
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-158",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/158/high.jpg",
+        "localId": "158",
+        "name": "Wait and See Turbo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272410
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-159",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/159/high.jpg",
+        "localId": "159",
+        "name": "Zisu",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272411
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-160",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/160/high.jpg",
+        "localId": "160",
+        "name": "Beedrill V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272412
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-161",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/161/high.jpg",
+        "localId": "161",
+        "name": "Beedrill V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272413
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-162",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/162/high.jpg",
+        "localId": "162",
+        "name": "Hisuian Lilligant V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272414
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-163",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/163/high.jpg",
+        "localId": "163",
+        "name": "Hisuian Lilligant V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272415
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-164",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/164/high.jpg",
+        "localId": "164",
+        "name": "Virizion V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272416
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-165",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/165/high.jpg",
+        "localId": "165",
+        "name": "Heatran V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272417
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-166",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/166/high.jpg",
+        "localId": "166",
+        "name": "Starmie V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272418
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-167",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/167/high.jpg",
+        "localId": "167",
+        "name": "Origin Forme Palkia V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272419
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-168",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/168/high.jpg",
+        "localId": "168",
+        "name": "Luxray V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272420
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-169",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/169/high.jpg",
+        "localId": "169",
+        "name": "Hisuian Typhlosion V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272709
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-170",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/170/high.jpg",
+        "localId": "170",
+        "name": "Jirachi V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272710
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-171",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/171/high.jpg",
+        "localId": "171",
+        "name": "Machamp V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272421
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-172",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/172/high.jpg",
+        "localId": "172",
+        "name": "Machamp V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272422
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-173",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/173/high.jpg",
+        "localId": "173",
+        "name": "Hisuian Decidueye V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272423
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-174",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/174/high.jpg",
+        "localId": "174",
+        "name": "Hisuian Sneasler V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272424
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-175",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/175/high.jpg",
+        "localId": "175",
+        "name": "Hisuian Sneasler V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272425
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-176",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/176/high.jpg",
+        "localId": "176",
+        "name": "Hisuian Samurott V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272426
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-177",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/177/high.jpg",
+        "localId": "177",
+        "name": "Origin Forme Dialga V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272427
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-178",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/178/high.jpg",
+        "localId": "178",
+        "name": "Garchomp V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272428
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-179",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/179/high.jpg",
+        "localId": "179",
+        "name": "Oranguru V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272429
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-180",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/180/high.jpg",
+        "localId": "180",
+        "name": "Wyrdeer V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272430
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-181",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/181/high.jpg",
+        "localId": "181",
+        "name": "Adaman",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272431
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-182",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/182/high.jpg",
+        "localId": "182",
+        "name": "Choy",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272432
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-183",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/183/high.jpg",
+        "localId": "183",
+        "name": "Cyllene",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272433
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-184",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/184/high.jpg",
+        "localId": "184",
+        "name": "Gardenia's Vigor",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272434
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-185",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/185/high.jpg",
+        "localId": "185",
+        "name": "Grant",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272435
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-186",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/186/high.jpg",
+        "localId": "186",
+        "name": "Irida",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272436
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-187",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/187/high.jpg",
+        "localId": "187",
+        "name": "Kamado",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272437
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-188",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/188/high.jpg",
+        "localId": "188",
+        "name": "Roxanne",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272438
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-189",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/189/high.jpg",
+        "localId": "189",
+        "name": "Zisu",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272439
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-190",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/190/high.jpg",
+        "localId": "190",
+        "name": "Hisuian Lilligant VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272444
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-191",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/191/high.jpg",
+        "localId": "191",
+        "name": "Heatran VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272445
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-192",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/192/high.jpg",
+        "localId": "192",
+        "name": "Origin Forme Palkia VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272446
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-193",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/193/high.jpg",
+        "localId": "193",
+        "name": "Hisuian Typhlosion VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272447
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-194",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/194/high.jpg",
+        "localId": "194",
+        "name": "Machamp VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272448
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-195",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/195/high.jpg",
+        "localId": "195",
+        "name": "Hisuian Decidueye VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272449
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-196",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/196/high.jpg",
+        "localId": "196",
+        "name": "Kleavor VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272450
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-197",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/197/high.jpg",
+        "localId": "197",
+        "name": "Hisuian Samurott VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272451
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-198",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/198/high.jpg",
+        "localId": "198",
+        "name": "Origin Forme Dialga VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272452
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-199",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/199/high.jpg",
+        "localId": "199",
+        "name": "Adaman",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272453
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-200",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/200/high.jpg",
+        "localId": "200",
+        "name": "Choy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272454
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-201",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/201/high.jpg",
+        "localId": "201",
+        "name": "Cyllene",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272455
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-202",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/202/high.jpg",
+        "localId": "202",
+        "name": "Gardenia's Vigor",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272457
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-203",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/203/high.jpg",
+        "localId": "203",
+        "name": "Grant",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272458
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-204",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/204/high.jpg",
+        "localId": "204",
+        "name": "Irida",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272459
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-205",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/205/high.jpg",
+        "localId": "205",
+        "name": "Kamado",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272460
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-206",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/206/high.jpg",
+        "localId": "206",
+        "name": "Roxanne",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272461
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-207",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/207/high.jpg",
+        "localId": "207",
+        "name": "Zisu",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272462
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-208",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/208/high.jpg",
+        "localId": "208",
+        "name": "Origin Forme Palkia VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272463
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-209",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/209/high.jpg",
+        "localId": "209",
+        "name": "Hisuian Samurott VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272464
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-210",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/210/high.jpg",
+        "localId": "210",
+        "name": "Origin Forme Dialga VSTAR",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272465
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-211",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/211/high.jpg",
+        "localId": "211",
+        "name": "Choice Belt",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272466
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-212",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/212/high.jpg",
+        "localId": "212",
+        "name": "Jubilife Village",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272467
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-213",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/213/high.jpg",
+        "localId": "213",
+        "name": "Path to the Peak",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272468
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-214",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/214/high.jpg",
+        "localId": "214",
+        "name": "Temple of Sinnoh",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272469
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-215",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/215/high.jpg",
+        "localId": "215",
+        "name": "Trekking Shoes",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272470
+    },
+    {
+        "category": "Energy",
+        "id": "swsh10-216",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/216/high.jpg",
+        "localId": "216",
+        "name": "Double Turbo Energy",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        },
+        "tcgplayerId": 272471
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG01",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG01/high.jpg",
+        "localId": "TG01",
+        "name": "Abomasnow",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG02",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG02/high.jpg",
+        "localId": "TG02",
+        "name": "Flapple",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG03",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG03/high.jpg",
+        "localId": "TG03",
+        "name": "Kingdra",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG04",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG04/high.jpg",
+        "localId": "TG04",
+        "name": "Frosmoth",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG05",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG05/high.jpg",
+        "localId": "TG05",
+        "name": "Gardevoir",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG06",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG06/high.jpg",
+        "localId": "TG06",
+        "name": "Wyrdeer",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG07",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG07/high.jpg",
+        "localId": "TG07",
+        "name": "Falinks",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG08",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG08/high.jpg",
+        "localId": "TG08",
+        "name": "Kleavor",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG09",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG09/high.jpg",
+        "localId": "TG09",
+        "name": "Mightyena",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG10",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG10/high.jpg",
+        "localId": "TG10",
+        "name": "Galarian Obstagoon",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG11",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG11/high.jpg",
+        "localId": "TG11",
+        "name": "Bronzong",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG12",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG12/high.jpg",
+        "localId": "TG12",
+        "name": "Hoothoot",
+        "rarity": "Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG13",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG13/high.jpg",
+        "localId": "TG13",
+        "name": "Starmie V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG14",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG14/high.jpg",
+        "localId": "TG14",
+        "name": "Ice Rider Calyrex V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG15",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG15/high.jpg",
+        "localId": "TG15",
+        "name": "Ice Rider Calyrex VMAX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG16",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG16/high.jpg",
+        "localId": "TG16",
+        "name": "Galarian Articuno V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG17",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG17/high.jpg",
+        "localId": "TG17",
+        "name": "Shadow Rider Calyrex V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG18",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG18/high.jpg",
+        "localId": "TG18",
+        "name": "Shadow Rider Calyrex VMAX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG19",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG19/high.jpg",
+        "localId": "TG19",
+        "name": "Galarian Zapdos V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG20",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG20/high.jpg",
+        "localId": "TG20",
+        "name": "Galarian Moltres V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG21",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG21/high.jpg",
+        "localId": "TG21",
+        "name": "Zacian V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG22",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG22/high.jpg",
+        "localId": "TG22",
+        "name": "Zamazenta V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG23",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG23/high.jpg",
+        "localId": "TG23",
+        "name": "Garchomp V",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-TG24",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG24/high.jpg",
+        "localId": "TG24",
+        "name": "Allister",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-TG25",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG25/high.jpg",
+        "localId": "TG25",
+        "name": "Bea",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-TG26",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG26/high.jpg",
+        "localId": "TG26",
+        "name": "Melony",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-TG27",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG27/high.jpg",
+        "localId": "TG27",
+        "name": "Milo",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "swsh10-TG28",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG28/high.jpg",
+        "localId": "TG28",
+        "name": "Piers",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG29",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG29/high.jpg",
+        "localId": "TG29",
+        "name": "Ice Rider Calyrex VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "swsh10-TG30",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG30/high.jpg",
+        "localId": "TG30",
+        "name": "Shadow Rider Calyrex VMAX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "swsh10",
+            "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.jpg",
+            "name": "Astral Radiance",
+            "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.jpg",
+            "releaseDate": "2022-05-27"
+        }
+    }
+]

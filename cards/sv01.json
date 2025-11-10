@@ -1,0 +1,4130 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sv01-001",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/001/high.jpg",
+        "localId": "001",
+        "name": "Pineco",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-002",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/002/high.jpg",
+        "localId": "002",
+        "name": "Heracross",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-003",
+        "illustrator": "kurumitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/003/high.jpg",
+        "localId": "003",
+        "name": "Shroomish",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-004",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/004/high.jpg",
+        "localId": "004",
+        "name": "Breloom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-005",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/005/high.jpg",
+        "localId": "005",
+        "name": "Cacnea",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-006",
+        "illustrator": "DOM",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/006/high.jpg",
+        "localId": "006",
+        "name": "Cacturne",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-007",
+        "illustrator": "aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/007/high.jpg",
+        "localId": "007",
+        "name": "Tropius",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-008",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/008/high.jpg",
+        "localId": "008",
+        "name": "Scatterbug",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-009",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/009/high.jpg",
+        "localId": "009",
+        "name": "Spewpa",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-010",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/010/high.jpg",
+        "localId": "010",
+        "name": "Vivillon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-011",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/011/high.jpg",
+        "localId": "011",
+        "name": "Skiddo",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-012",
+        "illustrator": "Gemi",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/012/high.jpg",
+        "localId": "012",
+        "name": "Gogoat",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-013",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/013/high.jpg",
+        "localId": "013",
+        "name": "Sprigatito",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-014",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/014/high.jpg",
+        "localId": "014",
+        "name": "Floragato",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-015",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/015/high.jpg",
+        "localId": "015",
+        "name": "Meowscarada",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-016",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/016/high.jpg",
+        "localId": "016",
+        "name": "Tarountula",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-017",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/017/high.jpg",
+        "localId": "017",
+        "name": "Tarountula",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-018",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/018/high.jpg",
+        "localId": "018",
+        "name": "Tarountula",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-019",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/019/high.jpg",
+        "localId": "019",
+        "name": "Spidops ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-020",
+        "illustrator": "yuu",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/020/high.jpg",
+        "localId": "020",
+        "name": "Smoliv",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-021",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/021/high.jpg",
+        "localId": "021",
+        "name": "Smoliv",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-022",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/022/high.jpg",
+        "localId": "022",
+        "name": "Dolliv",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-023",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/023/high.jpg",
+        "localId": "023",
+        "name": "Arboliva",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-024",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/024/high.jpg",
+        "localId": "024",
+        "name": "Toedscool",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-025",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/025/high.jpg",
+        "localId": "025",
+        "name": "Toedscool",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-026",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/026/high.jpg",
+        "localId": "026",
+        "name": "Toedscruel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-027",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/027/high.jpg",
+        "localId": "027",
+        "name": "Capsakid",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-028",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/028/high.jpg",
+        "localId": "028",
+        "name": "Capsakid",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-029",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/029/high.jpg",
+        "localId": "029",
+        "name": "Scovillain",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-030",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/030/high.jpg",
+        "localId": "030",
+        "name": "Growlithe",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-031",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/031/high.jpg",
+        "localId": "031",
+        "name": "Growlithe",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-032",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/032/high.jpg",
+        "localId": "032",
+        "name": "Arcanine ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-033",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/033/high.jpg",
+        "localId": "033",
+        "name": "Houndour",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-034",
+        "illustrator": "hncl",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/034/high.jpg",
+        "localId": "034",
+        "name": "Houndoom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-035",
+        "illustrator": "Kurata So",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/035/high.jpg",
+        "localId": "035",
+        "name": "Torkoal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-036",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/036/high.jpg",
+        "localId": "036",
+        "name": "Fuecoco",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-037",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/037/high.jpg",
+        "localId": "037",
+        "name": "Crocalor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-038",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/038/high.jpg",
+        "localId": "038",
+        "name": "Skeledirge",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-039",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/039/high.jpg",
+        "localId": "039",
+        "name": "Charcadet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-040",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/040/high.jpg",
+        "localId": "040",
+        "name": "Charcadet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-041",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/041/high.jpg",
+        "localId": "041",
+        "name": "Armarouge",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-042",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/042/high.jpg",
+        "localId": "042",
+        "name": "Slowpoke",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-043",
+        "illustrator": "Shinji Kanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/043/high.jpg",
+        "localId": "043",
+        "name": "Slowbro",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-044",
+        "illustrator": "KIYOTAKA OSHIYAMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/044/high.jpg",
+        "localId": "044",
+        "name": "Magikarp",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-045",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/045/high.jpg",
+        "localId": "045",
+        "name": "Gyarados ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-046",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/046/high.jpg",
+        "localId": "046",
+        "name": "Buizel",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-047",
+        "illustrator": "Gemi",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/047/high.jpg",
+        "localId": "047",
+        "name": "Floatzel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-048",
+        "illustrator": "Shinji Kanda",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/048/high.jpg",
+        "localId": "048",
+        "name": "Alomomola",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-049",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/049/high.jpg",
+        "localId": "049",
+        "name": "Clauncher",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-050",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/050/high.jpg",
+        "localId": "050",
+        "name": "Clawitzer",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-051",
+        "illustrator": "kurumitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/051/high.jpg",
+        "localId": "051",
+        "name": "Bruxish",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-052",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/052/high.jpg",
+        "localId": "052",
+        "name": "Quaxly",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-053",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/053/high.jpg",
+        "localId": "053",
+        "name": "Quaxwell",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-054",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/054/high.jpg",
+        "localId": "054",
+        "name": "Quaquaval",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-055",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/055/high.jpg",
+        "localId": "055",
+        "name": "Wiglett",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-056",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/056/high.jpg",
+        "localId": "056",
+        "name": "Wiglett",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-057",
+        "illustrator": "KIYOTAKA OSHIYAMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/057/high.jpg",
+        "localId": "057",
+        "name": "Wugtrio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-058",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/058/high.jpg",
+        "localId": "058",
+        "name": "Cetoddle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-059",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/059/high.jpg",
+        "localId": "059",
+        "name": "Cetoddle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-060",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/060/high.jpg",
+        "localId": "060",
+        "name": "Cetitan",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-061",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/061/high.jpg",
+        "localId": "061",
+        "name": "Dondozo",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-062",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/062/high.jpg",
+        "localId": "062",
+        "name": "Tatsugiri",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-063",
+        "illustrator": "KIYOTAKA OSHIYAMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/063/high.jpg",
+        "localId": "063",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-064",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/064/high.jpg",
+        "localId": "064",
+        "name": "Magneton",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-065",
+        "illustrator": "hncl",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/065/high.jpg",
+        "localId": "065",
+        "name": "Magnezone ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-066",
+        "illustrator": "Narumi Sato",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/066/high.jpg",
+        "localId": "066",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-067",
+        "illustrator": "Kurata So",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/067/high.jpg",
+        "localId": "067",
+        "name": "Flaaffy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-068",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/068/high.jpg",
+        "localId": "068",
+        "name": "Pachirisu",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-069",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/069/high.jpg",
+        "localId": "069",
+        "name": "Rotom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-070",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/070/high.jpg",
+        "localId": "070",
+        "name": "Rotom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-071",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/071/high.jpg",
+        "localId": "071",
+        "name": "Toxel",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-072",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/072/high.jpg",
+        "localId": "072",
+        "name": "Toxtricity",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-073",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/073/high.jpg",
+        "localId": "073",
+        "name": "Pawmi",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-074",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/074/high.jpg",
+        "localId": "074",
+        "name": "Pawmi",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-075",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/075/high.jpg",
+        "localId": "075",
+        "name": "Pawmo",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-076",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/076/high.jpg",
+        "localId": "076",
+        "name": "Pawmot",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-077",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/077/high.jpg",
+        "localId": "077",
+        "name": "Wattrel",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-078",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/078/high.jpg",
+        "localId": "078",
+        "name": "Wattrel",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-079",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/079/high.jpg",
+        "localId": "079",
+        "name": "Kilowattrel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-080",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/080/high.jpg",
+        "localId": "080",
+        "name": "Miraidon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-081",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/081/high.jpg",
+        "localId": "081",
+        "name": "Miraidon ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-082",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/082/high.jpg",
+        "localId": "082",
+        "name": "Drowzee",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-083",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/083/high.jpg",
+        "localId": "083",
+        "name": "Hypno",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-084",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/084/high.jpg",
+        "localId": "084",
+        "name": "Ralts",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-085",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/085/high.jpg",
+        "localId": "085",
+        "name": "Kirlia",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-086",
+        "illustrator": "N-DESIGN Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/086/high.jpg",
+        "localId": "086",
+        "name": "Gardevoir ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-087",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/087/high.jpg",
+        "localId": "087",
+        "name": "Shuppet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-088",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/088/high.jpg",
+        "localId": "088",
+        "name": "Banette ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-089",
+        "illustrator": "Taira Akitsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/089/high.jpg",
+        "localId": "089",
+        "name": "Drifloon",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-090",
+        "illustrator": "Yuu Nishida",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/090/high.jpg",
+        "localId": "090",
+        "name": "Drifblim",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-091",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/091/high.jpg",
+        "localId": "091",
+        "name": "Flabébé",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-092",
+        "illustrator": "saino misaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/092/high.jpg",
+        "localId": "092",
+        "name": "Floette",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-093",
+        "illustrator": "Haru Akasaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/093/high.jpg",
+        "localId": "093",
+        "name": "Florges",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-094",
+        "illustrator": "zig",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/094/high.jpg",
+        "localId": "094",
+        "name": "Dedenne",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-095",
+        "illustrator": "Nelnal",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/095/high.jpg",
+        "localId": "095",
+        "name": "Dedenne",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-096",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/096/high.jpg",
+        "localId": "096",
+        "name": "Klefki",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-097",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/097/high.jpg",
+        "localId": "097",
+        "name": "Fidough",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-098",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/098/high.jpg",
+        "localId": "098",
+        "name": "Fidough",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-099",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/099/high.jpg",
+        "localId": "099",
+        "name": "Dachsbun",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-100",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/100/high.jpg",
+        "localId": "100",
+        "name": "Flittle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-101",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/101/high.jpg",
+        "localId": "101",
+        "name": "Flittle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-102",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/102/high.jpg",
+        "localId": "102",
+        "name": "Flittle",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-103",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/103/high.jpg",
+        "localId": "103",
+        "name": "Espathra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-104",
+        "illustrator": "yuu",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/104/high.jpg",
+        "localId": "104",
+        "name": "Greavard",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-105",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/105/high.jpg",
+        "localId": "105",
+        "name": "Greavard",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-106",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/106/high.jpg",
+        "localId": "106",
+        "name": "Houndstone",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-107",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/107/high.jpg",
+        "localId": "107",
+        "name": "Mankey",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-108",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/108/high.jpg",
+        "localId": "108",
+        "name": "Primeape",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-109",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/109/high.jpg",
+        "localId": "109",
+        "name": "Annihilape",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-110",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/110/high.jpg",
+        "localId": "110",
+        "name": "Meditite",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-111",
+        "illustrator": "Jerky",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/111/high.jpg",
+        "localId": "111",
+        "name": "Medicham",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-112",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/112/high.jpg",
+        "localId": "112",
+        "name": "Riolu",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-113",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/113/high.jpg",
+        "localId": "113",
+        "name": "Riolu",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-114",
+        "illustrator": "Nurikabe",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/114/high.jpg",
+        "localId": "114",
+        "name": "Lucario",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-115",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/115/high.jpg",
+        "localId": "115",
+        "name": "Sandile",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-116",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/116/high.jpg",
+        "localId": "116",
+        "name": "Krokorok",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-117",
+        "illustrator": "Misa Tsutsui",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/117/high.jpg",
+        "localId": "117",
+        "name": "Krookodile",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-118",
+        "illustrator": "GOSSAN",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/118/high.jpg",
+        "localId": "118",
+        "name": "Hawlucha",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-119",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/119/high.jpg",
+        "localId": "119",
+        "name": "Silicobra",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-120",
+        "illustrator": "Yuya Oka",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/120/high.jpg",
+        "localId": "120",
+        "name": "Sandaconda",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-121",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/121/high.jpg",
+        "localId": "121",
+        "name": "Stonjourner",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-122",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/122/high.jpg",
+        "localId": "122",
+        "name": "Klawf",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-123",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/123/high.jpg",
+        "localId": "123",
+        "name": "Great Tusk ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-124",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/124/high.jpg",
+        "localId": "124",
+        "name": "Koraidon",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-125",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/125/high.jpg",
+        "localId": "125",
+        "name": "Koraidon ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-126",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/126/high.jpg",
+        "localId": "126",
+        "name": "Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-127",
+        "illustrator": "Haru Akasaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/127/high.jpg",
+        "localId": "127",
+        "name": "Muk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-128",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/128/high.jpg",
+        "localId": "128",
+        "name": "Seviper",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-129",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/129/high.jpg",
+        "localId": "129",
+        "name": "Spiritomb",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-130",
+        "illustrator": "Shiburingaru",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/130/high.jpg",
+        "localId": "130",
+        "name": "Croagunk",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-131",
+        "illustrator": "Nisota Niso",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/131/high.jpg",
+        "localId": "131",
+        "name": "Toxicroak ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-132",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/132/high.jpg",
+        "localId": "132",
+        "name": "Pawniard",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-133",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/133/high.jpg",
+        "localId": "133",
+        "name": "Bisharp",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-134",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/134/high.jpg",
+        "localId": "134",
+        "name": "Kingambit",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-135",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/135/high.jpg",
+        "localId": "135",
+        "name": "Maschiff",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-136",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/136/high.jpg",
+        "localId": "136",
+        "name": "Maschiff",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-137",
+        "illustrator": "KIYOTAKA OSHIYAMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/137/high.jpg",
+        "localId": "137",
+        "name": "Mabosstiff",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-138",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/138/high.jpg",
+        "localId": "138",
+        "name": "Bombirdier",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-139",
+        "illustrator": "Lee HyunJung",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/139/high.jpg",
+        "localId": "139",
+        "name": "Forretress",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-140",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/140/high.jpg",
+        "localId": "140",
+        "name": "Varoom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-141",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/141/high.jpg",
+        "localId": "141",
+        "name": "Varoom",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-142",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/142/high.jpg",
+        "localId": "142",
+        "name": "Revavroom",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-143",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/143/high.jpg",
+        "localId": "143",
+        "name": "Iron Treads ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-144",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/144/high.jpg",
+        "localId": "144",
+        "name": "Chansey",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-145",
+        "illustrator": "chibi",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/145/high.jpg",
+        "localId": "145",
+        "name": "Blissey",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-146",
+        "illustrator": "Yuya Oka",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/146/high.jpg",
+        "localId": "146",
+        "name": "Zangoose",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-147",
+        "illustrator": "aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/147/high.jpg",
+        "localId": "147",
+        "name": "Zangoose",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-148",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/148/high.jpg",
+        "localId": "148",
+        "name": "Starly",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-149",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/149/high.jpg",
+        "localId": "149",
+        "name": "Staravia",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-150",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/150/high.jpg",
+        "localId": "150",
+        "name": "Staraptor",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-151",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/151/high.jpg",
+        "localId": "151",
+        "name": "Skwovet",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-152",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/152/high.jpg",
+        "localId": "152",
+        "name": "Greedent",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-153",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/153/high.jpg",
+        "localId": "153",
+        "name": "Indeedee",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-154",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/154/high.jpg",
+        "localId": "154",
+        "name": "Lechonk",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-155",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/155/high.jpg",
+        "localId": "155",
+        "name": "Lechonk",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-156",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/156/high.jpg",
+        "localId": "156",
+        "name": "Lechonk",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-157",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/157/high.jpg",
+        "localId": "157",
+        "name": "Oinkologne",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-158",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/158/high.jpg",
+        "localId": "158",
+        "name": "Oinkologne ex",
+        "rarity": "Double rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-159",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/159/high.jpg",
+        "localId": "159",
+        "name": "Tandemaus",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-160",
+        "illustrator": "yuu",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/160/high.jpg",
+        "localId": "160",
+        "name": "Tandemaus",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-161",
+        "illustrator": "KIYOTAKA OSHIYAMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/161/high.jpg",
+        "localId": "161",
+        "name": "Maushold",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-162",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/162/high.jpg",
+        "localId": "162",
+        "name": "Squawkabilly",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-163",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/163/high.jpg",
+        "localId": "163",
+        "name": "Cyclizar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-164",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/164/high.jpg",
+        "localId": "164",
+        "name": "Cyclizar",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-165",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/165/high.jpg",
+        "localId": "165",
+        "name": "Flamigo",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-166",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/166/high.jpg",
+        "localId": "166",
+        "name": "Arven",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-167",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/167/high.jpg",
+        "localId": "167",
+        "name": "Beach Court",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-168",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/168/high.jpg",
+        "localId": "168",
+        "name": "Crushing Hammer",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-169",
+        "illustrator": "inose yukie",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/169/high.jpg",
+        "localId": "169",
+        "name": "Defiance Band",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-170",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/170/high.jpg",
+        "localId": "170",
+        "name": "Electric Generator",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-171",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/171/high.jpg",
+        "localId": "171",
+        "name": "Energy Retrieval",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-172",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/172/high.jpg",
+        "localId": "172",
+        "name": "Energy Search",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-173",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/173/high.jpg",
+        "localId": "173",
+        "name": "Energy Switch",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-174",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/174/high.jpg",
+        "localId": "174",
+        "name": "Exp. Share",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-175",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/175/high.jpg",
+        "localId": "175",
+        "name": "Jacq",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-176",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/176/high.jpg",
+        "localId": "176",
+        "name": "Judge",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-177",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/177/high.jpg",
+        "localId": "177",
+        "name": "Katy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-178",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/178/high.jpg",
+        "localId": "178",
+        "name": "Mesagoza",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-179",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/179/high.jpg",
+        "localId": "179",
+        "name": "Miriam",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-180",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/180/high.jpg",
+        "localId": "180",
+        "name": "Nemona",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-181",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/181/high.jpg",
+        "localId": "181",
+        "name": "Nest Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-182",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/182/high.jpg",
+        "localId": "182",
+        "name": "Pal Pad",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-183",
+        "illustrator": "yuu",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/183/high.jpg",
+        "localId": "183",
+        "name": "Penny",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-184",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/184/high.jpg",
+        "localId": "184",
+        "name": "Picnic Basket",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-185",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/185/high.jpg",
+        "localId": "185",
+        "name": "Poké Ball",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-186",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/186/high.jpg",
+        "localId": "186",
+        "name": "Pokégear 3.0",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-187",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/187/high.jpg",
+        "localId": "187",
+        "name": "Pokémon Catcher",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-188",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/188/high.jpg",
+        "localId": "188",
+        "name": "Potion",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-189",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/189/high.jpg",
+        "localId": "189",
+        "name": "Professor's Research",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-190",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/190/high.jpg",
+        "localId": "190",
+        "name": "Professor's Research",
+        "rarity": "Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-191",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/191/high.jpg",
+        "localId": "191",
+        "name": "Rare Candy",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-192",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/192/high.jpg",
+        "localId": "192",
+        "name": "Rock Chestplate",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-193",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/193/high.jpg",
+        "localId": "193",
+        "name": "Rocky Helmet",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-194",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/194/high.jpg",
+        "localId": "194",
+        "name": "Switch",
+        "rarity": "Common",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-195",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/195/high.jpg",
+        "localId": "195",
+        "name": "Team Star Grunt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-196",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/196/high.jpg",
+        "localId": "196",
+        "name": "Ultra Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-197",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/197/high.jpg",
+        "localId": "197",
+        "name": "Vitality Band",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-198",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/198/high.jpg",
+        "localId": "198",
+        "name": "Youngster",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-199",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/199/high.jpg",
+        "localId": "199",
+        "name": "Tarountula",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-200",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/200/high.jpg",
+        "localId": "200",
+        "name": "Dolliv",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-201",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/201/high.jpg",
+        "localId": "201",
+        "name": "Toedscool",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-202",
+        "illustrator": "KIYOTAKA OSHIYAMA",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/202/high.jpg",
+        "localId": "202",
+        "name": "Scovillain",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-203",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/203/high.jpg",
+        "localId": "203",
+        "name": "Armarouge",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-204",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/204/high.jpg",
+        "localId": "204",
+        "name": "Slowpoke",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-205",
+        "illustrator": "Shinya Komatsu",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/205/high.jpg",
+        "localId": "205",
+        "name": "Clauncher",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-206",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/206/high.jpg",
+        "localId": "206",
+        "name": "Wiglett",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-207",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/207/high.jpg",
+        "localId": "207",
+        "name": "Dondozo",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-208",
+        "illustrator": "zig",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/208/high.jpg",
+        "localId": "208",
+        "name": "Pachirisu",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-209",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/209/high.jpg",
+        "localId": "209",
+        "name": "Pawmot",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-210",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/210/high.jpg",
+        "localId": "210",
+        "name": "Drowzee",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-211",
+        "illustrator": "Jiro Sasumo",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/211/high.jpg",
+        "localId": "211",
+        "name": "Ralts",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-212",
+        "illustrator": "Jiro Sasumo",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/212/high.jpg",
+        "localId": "212",
+        "name": "Kirlia",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-213",
+        "illustrator": "Tika Matsuno",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/213/high.jpg",
+        "localId": "213",
+        "name": "Fidough",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-214",
+        "illustrator": "sowsow",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/214/high.jpg",
+        "localId": "214",
+        "name": "Greavard",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-215",
+        "illustrator": "Nelnal",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/215/high.jpg",
+        "localId": "215",
+        "name": "Riolu",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-216",
+        "illustrator": "Nurikabe",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/216/high.jpg",
+        "localId": "216",
+        "name": "Sandile",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-217",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/217/high.jpg",
+        "localId": "217",
+        "name": "Klawf",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-218",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/218/high.jpg",
+        "localId": "218",
+        "name": "Mabosstiff",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-219",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/219/high.jpg",
+        "localId": "219",
+        "name": "Bombirdier",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-220",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/220/high.jpg",
+        "localId": "220",
+        "name": "Kingambit",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-221",
+        "illustrator": "saino misaki",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/221/high.jpg",
+        "localId": "221",
+        "name": "Starly",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-222",
+        "illustrator": "Teeziro",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/222/high.jpg",
+        "localId": "222",
+        "name": "Skwovet",
+        "rarity": "Illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-223",
+        "illustrator": "takuyoa",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/223/high.jpg",
+        "localId": "223",
+        "name": "Spidops ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-224",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/224/high.jpg",
+        "localId": "224",
+        "name": "Arcanine ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-225",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/225/high.jpg",
+        "localId": "225",
+        "name": "Gyarados ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-226",
+        "illustrator": "PLANETA Tsuji",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/226/high.jpg",
+        "localId": "226",
+        "name": "Magnezone ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-227",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/227/high.jpg",
+        "localId": "227",
+        "name": "Miraidon ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-228",
+        "illustrator": "N-DESIGN Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/228/high.jpg",
+        "localId": "228",
+        "name": "Gardevoir ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-229",
+        "illustrator": "PLANETA Mochizuki",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/229/high.jpg",
+        "localId": "229",
+        "name": "Banette ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-230",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/230/high.jpg",
+        "localId": "230",
+        "name": "Great Tusk ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-231",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/231/high.jpg",
+        "localId": "231",
+        "name": "Koraidon ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-232",
+        "illustrator": "PLANETA Hiiragi",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/232/high.jpg",
+        "localId": "232",
+        "name": "Toxicroak ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-233",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/233/high.jpg",
+        "localId": "233",
+        "name": "Iron Treads ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-234",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/234/high.jpg",
+        "localId": "234",
+        "name": "Oinkologne ex",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-235",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/235/high.jpg",
+        "localId": "235",
+        "name": "Arven",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-236",
+        "illustrator": "GIDORA",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/236/high.jpg",
+        "localId": "236",
+        "name": "Jacq",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-237",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/237/high.jpg",
+        "localId": "237",
+        "name": "Katy",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-238",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/238/high.jpg",
+        "localId": "238",
+        "name": "Miriam",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-239",
+        "illustrator": "yuu",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/239/high.jpg",
+        "localId": "239",
+        "name": "Penny",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-240",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/240/high.jpg",
+        "localId": "240",
+        "name": "Professor's Research",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-241",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/241/high.jpg",
+        "localId": "241",
+        "name": "Professor's Research",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-242",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/242/high.jpg",
+        "localId": "242",
+        "name": "Team Star Grunt",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-243",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/243/high.jpg",
+        "localId": "243",
+        "name": "Spidops ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-244",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/244/high.jpg",
+        "localId": "244",
+        "name": "Miraidon ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-245",
+        "illustrator": "Jiro Sasumo",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/245/high.jpg",
+        "localId": "245",
+        "name": "Gardevoir ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-246",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/246/high.jpg",
+        "localId": "246",
+        "name": "Great Tusk ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-247",
+        "illustrator": "Ryota Murayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/247/high.jpg",
+        "localId": "247",
+        "name": "Koraidon ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-248",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/248/high.jpg",
+        "localId": "248",
+        "name": "Iron Treads ex",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-249",
+        "illustrator": "kantaro",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/249/high.jpg",
+        "localId": "249",
+        "name": "Arven",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-250",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/250/high.jpg",
+        "localId": "250",
+        "name": "Jacq",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-251",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/251/high.jpg",
+        "localId": "251",
+        "name": "Miriam",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-252",
+        "illustrator": "OKACHEKE",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/252/high.jpg",
+        "localId": "252",
+        "name": "Penny",
+        "rarity": "Special illustration rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-253",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/253/high.jpg",
+        "localId": "253",
+        "name": "Miraidon ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sv01-254",
+        "illustrator": "aky CG Works",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/254/high.jpg",
+        "localId": "254",
+        "name": "Koraidon ex",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-255",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/255/high.jpg",
+        "localId": "255",
+        "name": "Nest Ball",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sv01-256",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://assets.tcgdex.net/en/sv/sv01/256/high.jpg",
+        "localId": "256",
+        "name": "Rare Candy",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sv01-257",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv01/257/high.jpg",
+        "localId": "257",
+        "name": "Basic Lightning Energy",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    },
+    {
+        "category": "Energy",
+        "id": "sv01-258",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/sv/sv01/258/high.jpg",
+        "localId": "258",
+        "name": "Basic Fighting Energy",
+        "rarity": "Hyper rare",
+        "set": {
+            "id": "sv01",
+            "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.jpg",
+            "name": "Scarlet & Violet",
+            "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol.jpg",
+            "releaseDate": "2023-03-31"
+        }
+    }
+]

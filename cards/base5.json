@@ -1,0 +1,1413 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "base5-1",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base5/1/high.jpg",
+        "localId": "1",
+        "name": "Dark Alakazam",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84559
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-2",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/2/high.jpg",
+        "localId": "2",
+        "name": "Dark Arbok",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84563
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-3",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/3/high.jpg",
+        "localId": "3",
+        "name": "Dark Blastoise",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84568
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-4",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base5/4/high.jpg",
+        "localId": "4",
+        "name": "Dark Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84572
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-5",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/5/high.jpg",
+        "localId": "5",
+        "name": "Dark Dragonite",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84584
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-6",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/6/high.jpg",
+        "localId": "6",
+        "name": "Dark Dugtrio",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84588
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-7",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/7/high.jpg",
+        "localId": "7",
+        "name": "Dark Golbat",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84601
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-8",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/8/high.jpg",
+        "localId": "8",
+        "name": "Dark Gyarados",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84606
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-9",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/9/high.jpg",
+        "localId": "9",
+        "name": "Dark Hypno",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84613
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-10",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/10/high.jpg",
+        "localId": "10",
+        "name": "Dark Machamp",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84619
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-11",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/base/base5/11/high.jpg",
+        "localId": "11",
+        "name": "Dark Magneton",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84624
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-12",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/12/high.jpg",
+        "localId": "12",
+        "name": "Dark Slowbro",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84654
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-13",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/13/high.jpg",
+        "localId": "13",
+        "name": "Dark Vileplume",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84667
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-14",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/base/base5/14/high.jpg",
+        "localId": "14",
+        "name": "Dark Weezing",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84671
+    },
+    {
+        "category": "Trainer",
+        "id": "base5-15",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base5/15/high.jpg",
+        "localId": "15",
+        "name": "Here Comes Team Rocket!",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 86073
+    },
+    {
+        "category": "Trainer",
+        "id": "base5-16",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base5/16/high.jpg",
+        "localId": "16",
+        "name": "Rocket's Sneak Attack",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 88791
+    },
+    {
+        "category": "Energy",
+        "id": "base5-17",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/base/base5/17/high.jpg",
+        "localId": "17",
+        "name": "Rainbow Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 88550
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-18",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base5/18/high.jpg",
+        "localId": "18",
+        "name": "Dark Alakazam",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84560
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-19",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/19/high.jpg",
+        "localId": "19",
+        "name": "Dark Arbok",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84564
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-20",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/20/high.jpg",
+        "localId": "20",
+        "name": "Dark Blastoise",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84570
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-21",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base5/21/high.jpg",
+        "localId": "21",
+        "name": "Dark Charizard",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84573
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-22",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/22/high.jpg",
+        "localId": "22",
+        "name": "Dark Dragonite",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84586
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-23",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/23/high.jpg",
+        "localId": "23",
+        "name": "Dark Dugtrio",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84589
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-24",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/24/high.jpg",
+        "localId": "24",
+        "name": "Dark Golbat",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84602
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-25",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/25/high.jpg",
+        "localId": "25",
+        "name": "Dark Gyarados",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84607
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-26",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/26/high.jpg",
+        "localId": "26",
+        "name": "Dark Hypno",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84614
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-27",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/27/high.jpg",
+        "localId": "27",
+        "name": "Dark Machamp",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84620
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-28",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/base/base5/28/high.jpg",
+        "localId": "28",
+        "name": "Dark Magneton",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84625
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-29",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/29/high.jpg",
+        "localId": "29",
+        "name": "Dark Slowbro",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84655
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-30",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/30/high.jpg",
+        "localId": "30",
+        "name": "Dark Vileplume",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84668
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-31",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/base/base5/31/high.jpg",
+        "localId": "31",
+        "name": "Dark Weezing",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84672
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-32",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/32/high.jpg",
+        "localId": "32",
+        "name": "Dark Charmeleon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84574
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-33",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/33/high.jpg",
+        "localId": "33",
+        "name": "Dark Dragonair",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84580
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-34",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base5/34/high.jpg",
+        "localId": "34",
+        "name": "Dark Electrode",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84590
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-35",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/35/high.jpg",
+        "localId": "35",
+        "name": "Dark Flareon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84597
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-36",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/36/high.jpg",
+        "localId": "36",
+        "name": "Dark Gloom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84600
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-37",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/37/high.jpg",
+        "localId": "37",
+        "name": "Dark Golduck",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84604
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-38",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/38/high.jpg",
+        "localId": "38",
+        "name": "Dark Jolteon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84617
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-39",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/39/high.jpg",
+        "localId": "39",
+        "name": "Dark Kadabra",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84618
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-40",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/40/high.jpg",
+        "localId": "40",
+        "name": "Dark Machoke",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84621
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-41",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/41/high.jpg",
+        "localId": "41",
+        "name": "Dark Muk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84630
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-42",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/base/base5/42/high.jpg",
+        "localId": "42",
+        "name": "Dark Persian",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84639
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-43",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/43/high.jpg",
+        "localId": "43",
+        "name": "Dark Primeape",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84641
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-44",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/44/high.jpg",
+        "localId": "44",
+        "name": "Dark Rapidash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84648
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-45",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/45/high.jpg",
+        "localId": "45",
+        "name": "Dark Vaporeon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84665
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-46",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/46/high.jpg",
+        "localId": "46",
+        "name": "Dark Wartortle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84670
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-47",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/47/high.jpg",
+        "localId": "47",
+        "name": "Magikarp",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 87021
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-48",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base5/48/high.jpg",
+        "localId": "48",
+        "name": "Porygon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 88304
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-49",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/base/base5/49/high.jpg",
+        "localId": "49",
+        "name": "Abra",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 83445
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-50",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/50/high.jpg",
+        "localId": "50",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84204
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-51",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://assets.tcgdex.net/en/base/base5/51/high.jpg",
+        "localId": "51",
+        "name": "Dark Raticate",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84649
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-52",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/base/base5/52/high.jpg",
+        "localId": "52",
+        "name": "Diglett",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84819
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-53",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/53/high.jpg",
+        "localId": "53",
+        "name": "Dratini",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84928
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-54",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/54/high.jpg",
+        "localId": "54",
+        "name": "Drowzee",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84969
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-55",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/base/base5/55/high.jpg",
+        "localId": "55",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 85078
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-56",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base5/56/high.jpg",
+        "localId": "56",
+        "name": "Ekans",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 85099
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-57",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/57/high.jpg",
+        "localId": "57",
+        "name": "Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 85905
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-58",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/base/base5/58/high.jpg",
+        "localId": "58",
+        "name": "Koffing",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 86491
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-59",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base5/59/high.jpg",
+        "localId": "59",
+        "name": "Machop",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 86987
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-60",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/base/base5/60/high.jpg",
+        "localId": "60",
+        "name": "Magnemite",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 87068
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-61",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/base/base5/61/high.jpg",
+        "localId": "61",
+        "name": "Mankey",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 87170
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-62",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/base/base5/62/high.jpg",
+        "localId": "62",
+        "name": "Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 87313
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-63",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/63/high.jpg",
+        "localId": "63",
+        "name": "Oddish",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 87837
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-64",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/base/base5/64/high.jpg",
+        "localId": "64",
+        "name": "Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 88281
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-65",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/65/high.jpg",
+        "localId": "65",
+        "name": "Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 88431
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-66",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/base/base5/66/high.jpg",
+        "localId": "66",
+        "name": "Rattata",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 88611
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-67",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/base/base5/67/high.jpg",
+        "localId": "67",
+        "name": "Slowpoke",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 89322
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-68",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/base/base5/68/high.jpg",
+        "localId": "68",
+        "name": "Squirtle",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 89484
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-69",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base5/69/high.jpg",
+        "localId": "69",
+        "name": "Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 90409
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-70",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/70/high.jpg",
+        "localId": "70",
+        "name": "Zubat",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 90767
+    },
+    {
+        "category": "Trainer",
+        "id": "base5-71",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base5/71/high.jpg",
+        "localId": "71",
+        "name": "Here Comes Team Rocket!",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 86074
+    },
+    {
+        "category": "Trainer",
+        "id": "base5-72",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base5/72/high.jpg",
+        "localId": "72",
+        "name": "Rocket's Sneak Attack",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 88792
+    },
+    {
+        "category": "Trainer",
+        "id": "base5-73",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base5/73/high.jpg",
+        "localId": "73",
+        "name": "The Boss's Way",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 89894
+    },
+    {
+        "category": "Trainer",
+        "id": "base5-74",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/base/base5/74/high.jpg",
+        "localId": "74",
+        "name": "Challenge!",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84159
+    },
+    {
+        "category": "Trainer",
+        "id": "base5-75",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/base/base5/75/high.jpg",
+        "localId": "75",
+        "name": "Digger",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84815
+    },
+    {
+        "category": "Trainer",
+        "id": "base5-76",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/base/base5/76/high.jpg",
+        "localId": "76",
+        "name": "Imposter Oak's Revenge",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 86270
+    },
+    {
+        "category": "Trainer",
+        "id": "base5-77",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/base/base5/77/high.jpg",
+        "localId": "77",
+        "name": "Nightly Garbage Run",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 87755
+    },
+    {
+        "category": "Trainer",
+        "id": "base5-78",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/base/base5/78/high.jpg",
+        "localId": "78",
+        "name": "Goop Gas Attack",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 85841
+    },
+    {
+        "category": "Trainer",
+        "id": "base5-79",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/base/base5/79/high.jpg",
+        "localId": "79",
+        "name": "Sleep!",
+        "rarity": "Common",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 89301
+    },
+    {
+        "category": "Energy",
+        "id": "base5-80",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/base/base5/80/high.jpg",
+        "localId": "80",
+        "name": "Rainbow Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 88551
+    },
+    {
+        "category": "Energy",
+        "id": "base5-81",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base5/81/high.jpg",
+        "localId": "81",
+        "name": "Full Heal Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 85584
+    },
+    {
+        "category": "Energy",
+        "id": "base5-82",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://assets.tcgdex.net/en/base/base5/82/high.jpg",
+        "localId": "82",
+        "name": "Potion Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 88350
+    },
+    {
+        "category": "Pokemon",
+        "id": "base5-83",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/base/base5/83/high.jpg",
+        "localId": "83",
+        "name": "Dark Raichu",
+        "rarity": "Rare",
+        "set": {
+            "id": "base5",
+            "logo": "https://assets.tcgdex.net/en/base/base5/logo.jpg",
+            "name": "Team Rocket",
+            "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.jpg",
+            "releaseDate": "2000-04-24"
+        },
+        "tcgplayerId": 84647
+    }
+]

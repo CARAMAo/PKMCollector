@@ -1,0 +1,1618 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW01",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW01/high.jpg",
+        "localId": "BW01",
+        "name": "Snivy",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW02",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW02/high.jpg",
+        "localId": "BW02",
+        "name": "Tepig",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW03",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW03/high.jpg",
+        "localId": "BW03",
+        "name": "Oshawott",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW04",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "BW04",
+        "name": "Reshiram",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW05",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "BW05",
+        "name": "Zekrom",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW06",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW06/high.jpg",
+        "localId": "BW06",
+        "name": "Snivy",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW07",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW07/high.jpg",
+        "localId": "BW07",
+        "name": "Tepig",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW08",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW08/high.jpg",
+        "localId": "BW08",
+        "name": "Oshawott",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW09",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW09/high.jpg",
+        "localId": "BW09",
+        "name": "Zoroark",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW10",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW10/high.jpg",
+        "localId": "BW10",
+        "name": "Axew",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "bwp-BW100",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW100/high.jpg",
+        "localId": "BW100",
+        "name": "N",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW101",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW101/high.jpg",
+        "localId": "BW101",
+        "name": "Genesect",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW11",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW11/high.jpg",
+        "localId": "BW11",
+        "name": "Pansage",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW12",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW12/high.jpg",
+        "localId": "BW12",
+        "name": "Zorua",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW13",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW13/high.jpg",
+        "localId": "BW13",
+        "name": "Minccino",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW14",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW14/high.jpg",
+        "localId": "BW14",
+        "name": "Pansage",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW15",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW15/high.jpg",
+        "localId": "BW15",
+        "name": "Pidove",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW16",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW16/high.jpg",
+        "localId": "BW16",
+        "name": "Axew",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW17",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW17/high.jpg",
+        "localId": "BW17",
+        "name": "Ducklett",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW18",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW18/high.jpg",
+        "localId": "BW18",
+        "name": "Darumaka",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW19",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW19/high.jpg",
+        "localId": "BW19",
+        "name": "Zoroark",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW20",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW20/high.jpg",
+        "localId": "BW20",
+        "name": "Serperior",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW21",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW21/high.jpg",
+        "localId": "BW21",
+        "name": "Emboar",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW22",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW22/high.jpg",
+        "localId": "BW22",
+        "name": "Samurott",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW23",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW23/high.jpg",
+        "localId": "BW23",
+        "name": "Reshiram",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW24",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW24/high.jpg",
+        "localId": "BW24",
+        "name": "Zekrom",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW25",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW25/high.jpg",
+        "localId": "BW25",
+        "name": "Scraggy",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW26",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW26/high.jpg",
+        "localId": "BW26",
+        "name": "Axew",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW27",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW27/high.jpg",
+        "localId": "BW27",
+        "name": "Litwick",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "bwp-BW28",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW28/high.jpg",
+        "localId": "BW28",
+        "name": "Tropical Beach",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "bwp-BW29",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW29/high.jpg",
+        "localId": "BW29",
+        "name": "Victory Cup",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "bwp-BW30",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW30/high.jpg",
+        "localId": "BW30",
+        "name": "Victory Cup",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "bwp-BW31",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW31/high.jpg",
+        "localId": "BW31",
+        "name": "Victory Cup",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW32",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW32/high.jpg",
+        "localId": "BW32",
+        "name": "Victini",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW33",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW33/high.jpg",
+        "localId": "BW33",
+        "name": "Riolu",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW34",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW34/high.jpg",
+        "localId": "BW34",
+        "name": "Luxio",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW35",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW35/high.jpg",
+        "localId": "BW35",
+        "name": "Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW36",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW36/high.jpg",
+        "localId": "BW36",
+        "name": "Reshiram-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW37",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW37/high.jpg",
+        "localId": "BW37",
+        "name": "Kyurem-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW38",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW38/high.jpg",
+        "localId": "BW38",
+        "name": "Zekrom-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "bwp-BW39",
+        "illustrator": "Hideaki Hakozaki",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW39/high.jpg",
+        "localId": "BW39",
+        "name": "Battle City",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW40",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW40/high.jpg",
+        "localId": "BW40",
+        "name": "Volcarona",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW41",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW41/high.jpg",
+        "localId": "BW41",
+        "name": "Thundurus",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW42",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW42/high.jpg",
+        "localId": "BW42",
+        "name": "Tornadus",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW43",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW43/high.jpg",
+        "localId": "BW43",
+        "name": "Landorus",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW44",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW44/high.jpg",
+        "localId": "BW44",
+        "name": "Kyurem",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW45",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW45/high.jpg",
+        "localId": "BW45",
+        "name": "Mewtwo-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW46",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW46/high.jpg",
+        "localId": "BW46",
+        "name": "Darkrai-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW47",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW47/high.jpg",
+        "localId": "BW47",
+        "name": "Rayquaza-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW48",
+        "illustrator": "HiRON",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW48/high.jpg",
+        "localId": "BW48",
+        "name": "Altaria",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW49",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW49/high.jpg",
+        "localId": "BW49",
+        "name": "Lilligant",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "bwp-BW50",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW50/high.jpg",
+        "localId": "BW50",
+        "name": "Tropical Beach",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW51",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW51/high.jpg",
+        "localId": "BW51",
+        "name": "Crobat",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW52",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW52/high.jpg",
+        "localId": "BW52",
+        "name": "Lillipup",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW53",
+        "illustrator": "BERUBURI",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW53/high.jpg",
+        "localId": "BW53",
+        "name": "Flygon",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW54",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW54/high.jpg",
+        "localId": "BW54",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW55",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW55/high.jpg",
+        "localId": "BW55",
+        "name": "Elgyem",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW56",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW56/high.jpg",
+        "localId": "BW56",
+        "name": "Empoleon",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW57",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW57/high.jpg",
+        "localId": "BW57",
+        "name": "Haxorus",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW58",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW58/high.jpg",
+        "localId": "BW58",
+        "name": "Black Kyurem",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW59",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW59/high.jpg",
+        "localId": "BW59",
+        "name": "White Kyurem",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW60",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW60/high.jpg",
+        "localId": "BW60",
+        "name": "Keldeo",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW61",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW61/high.jpg",
+        "localId": "BW61",
+        "name": "Keldeo-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW62",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW62/high.jpg",
+        "localId": "BW62",
+        "name": "Black Kyurem-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW63",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW63/high.jpg",
+        "localId": "BW63",
+        "name": "White Kyurem-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW64",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW64/high.jpg",
+        "localId": "BW64",
+        "name": "Drifblim",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW65",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW65/high.jpg",
+        "localId": "BW65",
+        "name": "Jigglypuff",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW66",
+        "illustrator": "Hideaki Hakozaki",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW66/high.jpg",
+        "localId": "BW66",
+        "name": "Ninetales",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW67",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW67/high.jpg",
+        "localId": "BW67",
+        "name": "Ampharos",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW68",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW68/high.jpg",
+        "localId": "BW68",
+        "name": "Meloetta",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW69",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW69/high.jpg",
+        "localId": "BW69",
+        "name": "Meloetta",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW70",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW70/high.jpg",
+        "localId": "BW70",
+        "name": "Virizion",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW71",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW71/high.jpg",
+        "localId": "BW71",
+        "name": "Terrakion",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW72",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW72/high.jpg",
+        "localId": "BW72",
+        "name": "Cobalion",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW73",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW73/high.jpg",
+        "localId": "BW73",
+        "name": "Darkrai",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW74",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW74/high.jpg",
+        "localId": "BW74",
+        "name": "Giratina",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW75",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW75/high.jpg",
+        "localId": "BW75",
+        "name": "Metagross",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW76",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW76/high.jpg",
+        "localId": "BW76",
+        "name": "Electrode",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW77",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW77/high.jpg",
+        "localId": "BW77",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW78",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW78/high.jpg",
+        "localId": "BW78",
+        "name": "Raichu",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW79",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW79/high.jpg",
+        "localId": "BW79",
+        "name": "Landorus",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW80",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW80/high.jpg",
+        "localId": "BW80",
+        "name": "Druddigon",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW81",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW81/high.jpg",
+        "localId": "BW81",
+        "name": "Thundurus-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW82",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW82/high.jpg",
+        "localId": "BW82",
+        "name": "Deoxys-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW83",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW83/high.jpg",
+        "localId": "BW83",
+        "name": "Lugia-EX",
+        "rarity": "Rare",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW84",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW84/high.jpg",
+        "localId": "BW84",
+        "name": "Porygon-Z",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW85",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW85/high.jpg",
+        "localId": "BW85",
+        "name": "Lucario",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW86",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW86/high.jpg",
+        "localId": "BW86",
+        "name": "Genesect",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW87",
+        "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW87/high.jpg",
+        "localId": "BW87",
+        "name": "Leafeon",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW88",
+        "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW88/high.jpg",
+        "localId": "BW88",
+        "name": "Flareon",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW89",
+        "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW89/high.jpg",
+        "localId": "BW89",
+        "name": "Vaporeon",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW90",
+        "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW90/high.jpg",
+        "localId": "BW90",
+        "name": "Glaceon",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW91",
+        "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW91/high.jpg",
+        "localId": "BW91",
+        "name": "Jolteon",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW92",
+        "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW92/high.jpg",
+        "localId": "BW92",
+        "name": "Espeon",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW93",
+        "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW93/high.jpg",
+        "localId": "BW93",
+        "name": "Umbreon",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW94",
+        "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW94/high.jpg",
+        "localId": "BW94",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "bwp-BW95",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW95/high.jpg",
+        "localId": "BW95",
+        "name": "Champions Festival",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW96",
+        "illustrator": "Ryo Ueda",
+        "image": null,
+        "localId": "BW96",
+        "name": "Tornadus-EX",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW97",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW97/high.jpg",
+        "localId": "BW97",
+        "name": "Eevee",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW98",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW98/high.jpg",
+        "localId": "BW98",
+        "name": "Mew",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "bwp-BW99",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/bw/bwp/BW99/high.jpg",
+        "localId": "BW99",
+        "name": "Genesect",
+        "rarity": "Common",
+        "set": {
+            "id": "bwp",
+            "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.jpg",
+            "name": "BW Black Star Promos",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.jpg",
+            "releaseDate": "2011-04-26"
+        }
+    }
+]

@@ -1,0 +1,580 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "dc1-1",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/1/high.jpg",
+        "localId": "1",
+        "name": "Team Magma's Numel",
+        "rarity": "Common",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97047
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-2",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/2/high.jpg",
+        "localId": "2",
+        "name": "Team Magma's Camerupt",
+        "rarity": "Rare",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97048
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-3",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/3/high.jpg",
+        "localId": "3",
+        "name": "Team Aqua's Spheal",
+        "rarity": "Common",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97049
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-4",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/4/high.jpg",
+        "localId": "4",
+        "name": "Team Aqua's Sealeo",
+        "rarity": "Common",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97050
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-5",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/5/high.jpg",
+        "localId": "5",
+        "name": "Team Aqua's Walrein",
+        "rarity": "Rare",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97051
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-6",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/6/high.jpg",
+        "localId": "6",
+        "name": "Team Aqua's Kyogre EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97052
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-7",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/7/high.jpg",
+        "localId": "7",
+        "name": "Team Aqua's Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97053
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-8",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/8/high.jpg",
+        "localId": "8",
+        "name": "Team Aqua's Muk",
+        "rarity": "Rare",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97054
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-9",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/9/high.jpg",
+        "localId": "9",
+        "name": "Team Aqua's Seviper",
+        "rarity": "Common",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97055
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-10",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/10/high.jpg",
+        "localId": "10",
+        "name": "Team Magma's Baltoy",
+        "rarity": "Common",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97056
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-11",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/11/high.jpg",
+        "localId": "11",
+        "name": "Team Magma's Claydol",
+        "rarity": "Rare",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97057
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-12",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/12/high.jpg",
+        "localId": "12",
+        "name": "Team Magma's Aron",
+        "rarity": "Common",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97058
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-13",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/13/high.jpg",
+        "localId": "13",
+        "name": "Team Magma's Lairon",
+        "rarity": "Common",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97059
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-14",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/14/high.jpg",
+        "localId": "14",
+        "name": "Team Magma's Aggron",
+        "rarity": "Rare",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97060
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-15",
+        "illustrator": "nagimiso",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/15/high.jpg",
+        "localId": "15",
+        "name": "Team Magma's Groudon EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97061
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-16",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/16/high.jpg",
+        "localId": "16",
+        "name": "Team Aqua's Poochyena",
+        "rarity": "Common",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97063
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-17",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/17/high.jpg",
+        "localId": "17",
+        "name": "Team Magma's Poochyena",
+        "rarity": "Common",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97062
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-18",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/18/high.jpg",
+        "localId": "18",
+        "name": "Team Aqua's Mightyena",
+        "rarity": "Common",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97064
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-19",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/19/high.jpg",
+        "localId": "19",
+        "name": "Team Magma's Mightyena",
+        "rarity": "Common",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97065
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-20",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/20/high.jpg",
+        "localId": "20",
+        "name": "Team Aqua's Carvanha",
+        "rarity": "Common",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97066
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-21",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/21/high.jpg",
+        "localId": "21",
+        "name": "Team Aqua's Sharpedo",
+        "rarity": "Rare",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97067
+    },
+    {
+        "category": "Pokemon",
+        "id": "dc1-22",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/22/high.jpg",
+        "localId": "22",
+        "name": "Team Magma's Zangoose",
+        "rarity": "Common",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97068
+    },
+    {
+        "category": "Trainer",
+        "id": "dc1-23",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/23/high.jpg",
+        "localId": "23",
+        "name": "Aqua Diffuser",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97069
+    },
+    {
+        "category": "Trainer",
+        "id": "dc1-24",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/24/high.jpg",
+        "localId": "24",
+        "name": "Magma Pointer",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97070
+    },
+    {
+        "category": "Trainer",
+        "id": "dc1-25",
+        "illustrator": "GAME FREAK inc.",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/25/high.jpg",
+        "localId": "25",
+        "name": "Team Aqua Admin",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97071
+    },
+    {
+        "category": "Trainer",
+        "id": "dc1-26",
+        "illustrator": "GAME FREAK inc.",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/26/high.jpg",
+        "localId": "26",
+        "name": "Team Aqua Grunt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97072
+    },
+    {
+        "category": "Trainer",
+        "id": "dc1-27",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/27/high.jpg",
+        "localId": "27",
+        "name": "Team Aqua's Great Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97073
+    },
+    {
+        "category": "Trainer",
+        "id": "dc1-28",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/28/high.jpg",
+        "localId": "28",
+        "name": "Team Aqua's Secret Base",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97074
+    },
+    {
+        "category": "Trainer",
+        "id": "dc1-29",
+        "illustrator": "GAME FREAK inc.",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/29/high.jpg",
+        "localId": "29",
+        "name": "Team Magma Admin",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97075
+    },
+    {
+        "category": "Trainer",
+        "id": "dc1-30",
+        "illustrator": "GAME FREAK inc.",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/30/high.jpg",
+        "localId": "30",
+        "name": "Team Magma Grunt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97076
+    },
+    {
+        "category": "Trainer",
+        "id": "dc1-31",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/31/high.jpg",
+        "localId": "31",
+        "name": "Team Magma's Great Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97077
+    },
+    {
+        "category": "Trainer",
+        "id": "dc1-32",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/32/high.jpg",
+        "localId": "32",
+        "name": "Team Magma's Secret Base",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97078
+    },
+    {
+        "category": "Energy",
+        "id": "dc1-33",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/33/high.jpg",
+        "localId": "33",
+        "name": "Double Aqua Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97079
+    },
+    {
+        "category": "Energy",
+        "id": "dc1-34",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/dc1/34/high.jpg",
+        "localId": "34",
+        "name": "Double Magma Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "dc1",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo.jpg",
+            "name": "Double Crisis",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol.jpg",
+            "releaseDate": "2015-03-25"
+        },
+        "tcgplayerId": 97080
+    }
+]

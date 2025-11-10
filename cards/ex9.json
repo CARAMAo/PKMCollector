@@ -1,0 +1,1820 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "ex9-1",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/1/high.jpg",
+        "localId": "1",
+        "name": "Blaziken",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 83906
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-2",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/2/high.jpg",
+        "localId": "2",
+        "name": "Deoxys",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 84766
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-3",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/3/high.jpg",
+        "localId": "3",
+        "name": "Exploud",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85371
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-4",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/4/high.jpg",
+        "localId": "4",
+        "name": "Gardevoir",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85633
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-5",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/5/high.jpg",
+        "localId": "5",
+        "name": "Groudon",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85922
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-6",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/6/high.jpg",
+        "localId": "6",
+        "name": "Kyogre",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 86547
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-7",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/7/high.jpg",
+        "localId": "7",
+        "name": "Manectric",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87156
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-8",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/8/high.jpg",
+        "localId": "8",
+        "name": "Milotic",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87453
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-9",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/9/high.jpg",
+        "localId": "9",
+        "name": "Rayquaza",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88626
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-10",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/10/high.jpg",
+        "localId": "10",
+        "name": "Sceptile",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 97730
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-11",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/11/high.jpg",
+        "localId": "11",
+        "name": "Swampert",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 97731
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-12",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/12/high.jpg",
+        "localId": "12",
+        "name": "Chimecho",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 84294
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-13",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/13/high.jpg",
+        "localId": "13",
+        "name": "Glalie",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85753
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-14",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/14/high.jpg",
+        "localId": "14",
+        "name": "Groudon",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85923
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-15",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/15/high.jpg",
+        "localId": "15",
+        "name": "Kyogre",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 86548
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-16",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/16/high.jpg",
+        "localId": "16",
+        "name": "Manectric",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87157
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-17",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/17/high.jpg",
+        "localId": "17",
+        "name": "Nosepass",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87799
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-18",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/18/high.jpg",
+        "localId": "18",
+        "name": "Relicanth",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88685
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-19",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/19/high.jpg",
+        "localId": "19",
+        "name": "Rhydon",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88733
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-20",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/20/high.jpg",
+        "localId": "20",
+        "name": "Seviper",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 89083
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-21",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/21/high.jpg",
+        "localId": "21",
+        "name": "Zangoose",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 90703
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-22",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/22/high.jpg",
+        "localId": "22",
+        "name": "Breloom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 83956
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-23",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/23/high.jpg",
+        "localId": "23",
+        "name": "Camerupt",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 84090
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-24",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/24/high.jpg",
+        "localId": "24",
+        "name": "Claydol",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 84335
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-25",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/25/high.jpg",
+        "localId": "25",
+        "name": "Combusken",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 84404
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-26",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/26/high.jpg",
+        "localId": "26",
+        "name": "Dodrio",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 84851
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-27",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/27/high.jpg",
+        "localId": "27",
+        "name": "Electrode",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85154
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-28",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/28/high.jpg",
+        "localId": "28",
+        "name": "Grovyle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85938
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-29",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/29/high.jpg",
+        "localId": "29",
+        "name": "Grumpig",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85966
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-30",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/30/high.jpg",
+        "localId": "30",
+        "name": "Grumpig",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85967
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-31",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/31/high.jpg",
+        "localId": "31",
+        "name": "Hariyama",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 86012
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-32",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/32/high.jpg",
+        "localId": "32",
+        "name": "Illumise",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 86265
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-33",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/33/high.jpg",
+        "localId": "33",
+        "name": "Kirlia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 86462
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-34",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/34/high.jpg",
+        "localId": "34",
+        "name": "Linoone",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 86806
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-35",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/35/high.jpg",
+        "localId": "35",
+        "name": "Loudred",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 86841
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-36",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/36/high.jpg",
+        "localId": "36",
+        "name": "Marshtomp",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87235
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-37",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/37/high.jpg",
+        "localId": "37",
+        "name": "Minun",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87485
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-38",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/38/high.jpg",
+        "localId": "38",
+        "name": "Ninetales",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87770
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-39",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/39/high.jpg",
+        "localId": "39",
+        "name": "Plusle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88165
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-40",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/40/high.jpg",
+        "localId": "40",
+        "name": "Swalot",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 89671
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-41",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/41/high.jpg",
+        "localId": "41",
+        "name": "Swellow",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 89692
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-42",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/42/high.jpg",
+        "localId": "42",
+        "name": "Volbeat",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 90397
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-43",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/43/high.jpg",
+        "localId": "43",
+        "name": "Baltoy",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 83713
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-44",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/44/high.jpg",
+        "localId": "44",
+        "name": "Cacnea",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 84071
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-45",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/45/high.jpg",
+        "localId": "45",
+        "name": "Doduo",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 84862
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-46",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/46/high.jpg",
+        "localId": "46",
+        "name": "Duskull",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85047
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-47",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/47/high.jpg",
+        "localId": "47",
+        "name": "Electrike",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85134
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-48",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/48/high.jpg",
+        "localId": "48",
+        "name": "Electrike",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85135
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-49",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/49/high.jpg",
+        "localId": "49",
+        "name": "Feebas",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85402
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-50",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/50/high.jpg",
+        "localId": "50",
+        "name": "Feebas",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85403
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-51",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/51/high.jpg",
+        "localId": "51",
+        "name": "Gulpin",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85975
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-52",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/52/high.jpg",
+        "localId": "52",
+        "name": "Larvitar",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 86639
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-53",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/53/high.jpg",
+        "localId": "53",
+        "name": "Luvdisc",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 86933
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-54",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/54/high.jpg",
+        "localId": "54",
+        "name": "Makuhita",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87129
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-55",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/55/high.jpg",
+        "localId": "55",
+        "name": "Meditite",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87281
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-56",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/56/high.jpg",
+        "localId": "56",
+        "name": "Mudkip",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87610
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-57",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/57/high.jpg",
+        "localId": "57",
+        "name": "Numel",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87810
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-58",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/58/high.jpg",
+        "localId": "58",
+        "name": "Numel",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87811
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-59",
+        "illustrator": "Nakaoka",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/59/high.jpg",
+        "localId": "59",
+        "name": "Pichu",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88016
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-60",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/60/high.jpg",
+        "localId": "60",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88080
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-61",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/61/high.jpg",
+        "localId": "61",
+        "name": "Ralts",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88557
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-62",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/62/high.jpg",
+        "localId": "62",
+        "name": "Rhyhorn",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88741
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-63",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/63/high.jpg",
+        "localId": "63",
+        "name": "Shroomish",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 89184
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-64",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/64/high.jpg",
+        "localId": "64",
+        "name": "Snorunt",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 89400
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-65",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/65/high.jpg",
+        "localId": "65",
+        "name": "Spoink",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 89473
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-66",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/66/high.jpg",
+        "localId": "66",
+        "name": "Spoink",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 89474
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-67",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/67/high.jpg",
+        "localId": "67",
+        "name": "Swablu",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 89655
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-68",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/68/high.jpg",
+        "localId": "68",
+        "name": "Taillow",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 89733
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-69",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/69/high.jpg",
+        "localId": "69",
+        "name": "Torchic",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 89955
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-70",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/70/high.jpg",
+        "localId": "70",
+        "name": "Treecko",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 90037
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-71",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/71/high.jpg",
+        "localId": "71",
+        "name": "Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 90416
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-72",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/72/high.jpg",
+        "localId": "72",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 90438
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-73",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/73/high.jpg",
+        "localId": "73",
+        "name": "Whismur",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 90581
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-74",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/74/high.jpg",
+        "localId": "74",
+        "name": "Zigzagoon",
+        "rarity": "Common",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 90747
+    },
+    {
+        "category": "Trainer",
+        "id": "ex9-75",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/75/high.jpg",
+        "localId": "75",
+        "name": "Battle Frontier",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 83740
+    },
+    {
+        "category": "Trainer",
+        "id": "ex9-76",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/76/high.jpg",
+        "localId": "76",
+        "name": "Double Full Heal",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 84888
+    },
+    {
+        "category": "Trainer",
+        "id": "ex9-77",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/77/high.jpg",
+        "localId": "77",
+        "name": "Lanette's Net Search",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 86598
+    },
+    {
+        "category": "Trainer",
+        "id": "ex9-78",
+        "illustrator": "Kazuo Yazawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/78/high.jpg",
+        "localId": "78",
+        "name": "Lum Berry",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 86920
+    },
+    {
+        "category": "Trainer",
+        "id": "ex9-79",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/79/high.jpg",
+        "localId": "79",
+        "name": "Mr. Stone's Project",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87600
+    },
+    {
+        "category": "Trainer",
+        "id": "ex9-80",
+        "illustrator": "Kazuo Yazawa",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/80/high.jpg",
+        "localId": "80",
+        "name": "Oran Berry",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87889
+    },
+    {
+        "category": "Trainer",
+        "id": "ex9-81",
+        "illustrator": "Katsura Tabata",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/81/high.jpg",
+        "localId": "81",
+        "name": "PokéNav",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "ex9-82",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/82/high.jpg",
+        "localId": "82",
+        "name": "Professor Birch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88382
+    },
+    {
+        "category": "Trainer",
+        "id": "ex9-83",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/83/high.jpg",
+        "localId": "83",
+        "name": "Rare Candy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88590
+    },
+    {
+        "category": "Trainer",
+        "id": "ex9-84",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/84/high.jpg",
+        "localId": "84",
+        "name": "Scott",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88975
+    },
+    {
+        "category": "Trainer",
+        "id": "ex9-85",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/85/high.jpg",
+        "localId": "85",
+        "name": "Wally's Training",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 90465
+    },
+    {
+        "category": "Energy",
+        "id": "ex9-86",
+        "illustrator": "Milky Isobe",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/86/high.jpg",
+        "localId": "86",
+        "name": "Darkness Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 84684
+    },
+    {
+        "category": "Energy",
+        "id": "ex9-87",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ex/ex9/87/high.jpg",
+        "localId": "87",
+        "name": "Double Rainbow Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 84892
+    },
+    {
+        "category": "Energy",
+        "id": "ex9-88",
+        "illustrator": "Milky Isobe",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/88/high.jpg",
+        "localId": "88",
+        "name": "Metal Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87357
+    },
+    {
+        "category": "Energy",
+        "id": "ex9-89",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/89/high.jpg",
+        "localId": "89",
+        "name": "Multi Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87631
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-90",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/90/high.jpg",
+        "localId": "90",
+        "name": "Altaria ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 83524
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-91",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/91/high.jpg",
+        "localId": "91",
+        "name": "Cacturne ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 84084
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-92",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/92/high.jpg",
+        "localId": "92",
+        "name": "Camerupt ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 84096
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-93",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/93/high.jpg",
+        "localId": "93",
+        "name": "Deoxys ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 84773
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-94",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/94/high.jpg",
+        "localId": "94",
+        "name": "Dusclops ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85032
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-95",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/95/high.jpg",
+        "localId": "95",
+        "name": "Medicham ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87277
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-96",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/96/high.jpg",
+        "localId": "96",
+        "name": "Milotic ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 87460
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-97",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/97/high.jpg",
+        "localId": "97",
+        "name": "Raichu ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88526
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-98",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/98/high.jpg",
+        "localId": "98",
+        "name": "Regice ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88660
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-99",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/99/high.jpg",
+        "localId": "99",
+        "name": "Regirock ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88675
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-100",
+        "illustrator": "Hikaru Koike",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/100/high.jpg",
+        "localId": "100",
+        "name": "Registeel ex",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88680
+    },
+    {
+        "category": "Energy",
+        "id": "ex9-101",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ex/ex9/101/high.jpg",
+        "localId": "101",
+        "name": "Grass Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85875
+    },
+    {
+        "category": "Energy",
+        "id": "ex9-102",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ex/ex9/102/high.jpg",
+        "localId": "102",
+        "name": "Fire Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85459
+    },
+    {
+        "category": "Energy",
+        "id": "ex9-103",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ex/ex9/103/high.jpg",
+        "localId": "103",
+        "name": "Water Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 90507
+    },
+    {
+        "category": "Energy",
+        "id": "ex9-104",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ex/ex9/104/high.jpg",
+        "localId": "104",
+        "name": "Lightning Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 86762
+    },
+    {
+        "category": "Energy",
+        "id": "ex9-105",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ex/ex9/105/high.jpg",
+        "localId": "105",
+        "name": "Psychic Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 88419
+    },
+    {
+        "category": "Energy",
+        "id": "ex9-106",
+        "illustrator": null,
+        "image": "https://assets.tcgdex.net/en/ex/ex9/106/high.jpg",
+        "localId": "106",
+        "name": "Fighting Energy",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85439
+    },
+    {
+        "category": "Pokemon",
+        "id": "ex9-107",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/ex/ex9/107/high.jpg",
+        "localId": "107",
+        "name": "Farfetch'd",
+        "rarity": "Rare",
+        "set": {
+            "id": "ex9",
+            "logo": "https://assets.tcgdex.net/en/ex/ex9/logo.jpg",
+            "name": "Emerald",
+            "symbol": "https://assets.tcgdex.net/univ/ex/ex9/symbol.jpg",
+            "releaseDate": "2005-05-09"
+        },
+        "tcgplayerId": 85385
+    }
+]

@@ -1,0 +1,2256 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "pl1-1",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/1/high.jpg",
+        "localId": "1",
+        "name": "Ampharos",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 83543
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-2",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/2/high.jpg",
+        "localId": "2",
+        "name": "Blastoise",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 83894
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-3",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/3/high.jpg",
+        "localId": "3",
+        "name": "Blaziken",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 83910
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-4",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/4/high.jpg",
+        "localId": "4",
+        "name": "Delcatty",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84741
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-5",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/5/high.jpg",
+        "localId": "5",
+        "name": "Dialga",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84804
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-6",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/6/high.jpg",
+        "localId": "6",
+        "name": "Dialga",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84803
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-7",
+        "illustrator": "Yusuke Ishikawa",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/7/high.jpg",
+        "localId": "7",
+        "name": "Dialga G",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84810
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-8",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/8/high.jpg",
+        "localId": "8",
+        "name": "Gardevoir",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85636
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-9",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/9/high.jpg",
+        "localId": "9",
+        "name": "Giratina",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85737
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-10",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/10/high.jpg",
+        "localId": "10",
+        "name": "Giratina",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85736
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-11",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/11/high.jpg",
+        "localId": "11",
+        "name": "Manectric",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87162
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-12",
+        "illustrator": "Yusuke Ishikawa",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/12/high.jpg",
+        "localId": "12",
+        "name": "Palkia G",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87917
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-13",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/13/high.jpg",
+        "localId": "13",
+        "name": "Rampardos",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 88571
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-14",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/14/high.jpg",
+        "localId": "14",
+        "name": "Shaymin",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89108
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-15",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/15/high.jpg",
+        "localId": "15",
+        "name": "Shaymin",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89107
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-16",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/16/high.jpg",
+        "localId": "16",
+        "name": "Slaking",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89292
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-17",
+        "illustrator": "Makoto Imai",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/17/high.jpg",
+        "localId": "17",
+        "name": "Weavile G",
+        "rarity": "Rare Holo",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 90536
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-18",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/18/high.jpg",
+        "localId": "18",
+        "name": "Altaria",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 83517
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-19",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/19/high.jpg",
+        "localId": "19",
+        "name": "Banette",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 83723
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-20",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/20/high.jpg",
+        "localId": "20",
+        "name": "Bastiodon",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 83736
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-21",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/21/high.jpg",
+        "localId": "21",
+        "name": "Beautifly",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 83759
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-22",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/22/high.jpg",
+        "localId": "22",
+        "name": "Blissey",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 83922
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-23",
+        "illustrator": "Kent Kanetsuna",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/23/high.jpg",
+        "localId": "23",
+        "name": "Dialga",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84802
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-24",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/24/high.jpg",
+        "localId": "24",
+        "name": "Dugtrio",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85003
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-25",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/25/high.jpg",
+        "localId": "25",
+        "name": "Dustox",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85058
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-26",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/26/high.jpg",
+        "localId": "26",
+        "name": "Empoleon",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85200
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-27",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/27/high.jpg",
+        "localId": "27",
+        "name": "Giratina",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85735
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-28",
+        "illustrator": "Yusuke Ishikawa",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/28/high.jpg",
+        "localId": "28",
+        "name": "Giratina",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85734
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-29",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/29/high.jpg",
+        "localId": "29",
+        "name": "Golduck",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85816
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-30",
+        "illustrator": "Kent Kanetsuna",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/30/high.jpg",
+        "localId": "30",
+        "name": "Gyarados G",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86005
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-31",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/31/high.jpg",
+        "localId": "31",
+        "name": "Infernape",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86277
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-32",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/32/high.jpg",
+        "localId": "32",
+        "name": "Kricketune",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86533
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-33",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/33/high.jpg",
+        "localId": "33",
+        "name": "Lickilicky",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86713
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-34",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/34/high.jpg",
+        "localId": "34",
+        "name": "Ludicolo",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86900
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-35",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/35/high.jpg",
+        "localId": "35",
+        "name": "Luvdisc",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86937
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-36",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/36/high.jpg",
+        "localId": "36",
+        "name": "Ninetales",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87773
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-37",
+        "illustrator": "Kent Kanetsuna",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/37/high.jpg",
+        "localId": "37",
+        "name": "Palkia",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87910
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-38",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/38/high.jpg",
+        "localId": "38",
+        "name": "Shaymin",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89106
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-39",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/39/high.jpg",
+        "localId": "39",
+        "name": "Torterra",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89986
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-40",
+        "illustrator": "Ryota Saito",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/40/high.jpg",
+        "localId": "40",
+        "name": "Toxicroak G",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 90012
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-41",
+        "illustrator": "Makoto Imai",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/41/high.jpg",
+        "localId": "41",
+        "name": "Bronzong G",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84000
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-42",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/42/high.jpg",
+        "localId": "42",
+        "name": "Cacturne",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84081
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-43",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/43/high.jpg",
+        "localId": "43",
+        "name": "Carnivine",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84102
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-44",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/44/high.jpg",
+        "localId": "44",
+        "name": "Cascoon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84122
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-45",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/45/high.jpg",
+        "localId": "45",
+        "name": "Combusken",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84412
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-46",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/46/high.jpg",
+        "localId": "46",
+        "name": "Cranidos",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84460
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-47",
+        "illustrator": "Makoto Imai",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/47/high.jpg",
+        "localId": "47",
+        "name": "Crobat G",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84494
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-48",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/48/high.jpg",
+        "localId": "48",
+        "name": "Flaaffy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85481
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-49",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/49/high.jpg",
+        "localId": "49",
+        "name": "Grotle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85918
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-50",
+        "illustrator": "Kent Kanetsuna",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/50/high.jpg",
+        "localId": "50",
+        "name": "Houndoom G",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86215
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-51",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/51/high.jpg",
+        "localId": "51",
+        "name": "Kirlia",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86468
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-52",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/52/high.jpg",
+        "localId": "52",
+        "name": "Lombre",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86820
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-53",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/53/high.jpg",
+        "localId": "53",
+        "name": "Lucario",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86878
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-54",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/54/high.jpg",
+        "localId": "54",
+        "name": "Mightyena",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87448
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-55",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/55/high.jpg",
+        "localId": "55",
+        "name": "Mismagius",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87516
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-56",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/56/high.jpg",
+        "localId": "56",
+        "name": "Monferno",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87572
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-57",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/57/high.jpg",
+        "localId": "57",
+        "name": "Muk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87624
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-58",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/58/high.jpg",
+        "localId": "58",
+        "name": "Octillery",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87833
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-59",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/59/high.jpg",
+        "localId": "59",
+        "name": "Prinplup",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 88371
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-60",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/60/high.jpg",
+        "localId": "60",
+        "name": "Probopass",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 88377
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-61",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/61/high.jpg",
+        "localId": "61",
+        "name": "Seviper",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89087
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-62",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/62/high.jpg",
+        "localId": "62",
+        "name": "Shieldon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89151
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-63",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/63/high.jpg",
+        "localId": "63",
+        "name": "Silcoon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89213
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-64",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/64/high.jpg",
+        "localId": "64",
+        "name": "Vigoroth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 90371
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-65",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/65/high.jpg",
+        "localId": "65",
+        "name": "Wartortle",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 90490
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-66",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/66/high.jpg",
+        "localId": "66",
+        "name": "Zangoose",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 90707
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-67",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/67/high.jpg",
+        "localId": "67",
+        "name": "Cacnea",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84076
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-68",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/68/high.jpg",
+        "localId": "68",
+        "name": "Carnivine",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84101
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-69",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/69/high.jpg",
+        "localId": "69",
+        "name": "Chansey",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84176
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-70",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/70/high.jpg",
+        "localId": "70",
+        "name": "Chimchar",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84288
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-71",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/71/high.jpg",
+        "localId": "71",
+        "name": "Combee",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84395
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-72",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/72/high.jpg",
+        "localId": "72",
+        "name": "Diglett",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84824
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-73",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/73/high.jpg",
+        "localId": "73",
+        "name": "Dunsparce",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85011
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-74",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/74/high.jpg",
+        "localId": "74",
+        "name": "Electrike",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85141
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-75",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/75/high.jpg",
+        "localId": "75",
+        "name": "Grimer",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85912
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-76",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/76/high.jpg",
+        "localId": "76",
+        "name": "Happiny",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86008
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-77",
+        "illustrator": "Yusuke Ishikawa",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/77/high.jpg",
+        "localId": "77",
+        "name": "Honchkrow G",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86164
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-78",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/78/high.jpg",
+        "localId": "78",
+        "name": "Kricketot",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86528
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-79",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/79/high.jpg",
+        "localId": "79",
+        "name": "Lapras",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86619
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-80",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/80/high.jpg",
+        "localId": "80",
+        "name": "Lickitung",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86722
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-81",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/81/high.jpg",
+        "localId": "81",
+        "name": "Lotad",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86837
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-82",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/82/high.jpg",
+        "localId": "82",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87203
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-83",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/83/high.jpg",
+        "localId": "83",
+        "name": "Misdreavus",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87509
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-84",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/84/high.jpg",
+        "localId": "84",
+        "name": "Nosepass",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87802
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-85",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/85/high.jpg",
+        "localId": "85",
+        "name": "Piplup",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 88149
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-86",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/86/high.jpg",
+        "localId": "86",
+        "name": "Poochyena",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 88301
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-87",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/87/high.jpg",
+        "localId": "87",
+        "name": "Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 88439
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-88",
+        "illustrator": "Ryota Saito",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/88/high.jpg",
+        "localId": "88",
+        "name": "Purugly G",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 88466
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-89",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/89/high.jpg",
+        "localId": "89",
+        "name": "Ralts",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 88563
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-90",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/90/high.jpg",
+        "localId": "90",
+        "name": "Remoraid",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 88698
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-91",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/91/high.jpg",
+        "localId": "91",
+        "name": "Riolu",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 88756
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-92",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/92/high.jpg",
+        "localId": "92",
+        "name": "Shuppet",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89201
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-93",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/93/high.jpg",
+        "localId": "93",
+        "name": "Skitty",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89268
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-94",
+        "illustrator": "Makoto Imai",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/94/high.jpg",
+        "localId": "94",
+        "name": "Skuntank G",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89284
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-95",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/95/high.jpg",
+        "localId": "95",
+        "name": "Slakoth",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89299
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-96",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/96/high.jpg",
+        "localId": "96",
+        "name": "Squirtle",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89495
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-97",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/97/high.jpg",
+        "localId": "97",
+        "name": "Swablu",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89658
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-98",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/98/high.jpg",
+        "localId": "98",
+        "name": "Tauros",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89765
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-99",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/99/high.jpg",
+        "localId": "99",
+        "name": "Torchic",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89961
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-100",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/100/high.jpg",
+        "localId": "100",
+        "name": "Torkoal",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89971
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-101",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/101/high.jpg",
+        "localId": "101",
+        "name": "Turtwig",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 90077
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-102",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/102/high.jpg",
+        "localId": "102",
+        "name": "Vulpix",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 90442
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-103",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/103/high.jpg",
+        "localId": "103",
+        "name": "Wurmple",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 90652
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-104",
+        "illustrator": "Kent Kanetsuna",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/104/high.jpg",
+        "localId": "104",
+        "name": "Broken Time-Space",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 83991
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-105",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/105/high.jpg",
+        "localId": "105",
+        "name": "Cyrus's Conspiracy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84557
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-106",
+        "illustrator": "Ryota Saito",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/106/high.jpg",
+        "localId": "106",
+        "name": "Galactic HQ",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85603
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-107",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/107/high.jpg",
+        "localId": "107",
+        "name": "Level Max",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86711
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-108",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/108/high.jpg",
+        "localId": "108",
+        "name": "Life Herb",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86732
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-109",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/109/high.jpg",
+        "localId": "109",
+        "name": "Looker's Investigation",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86822
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-110",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/110/high.jpg",
+        "localId": "110",
+        "name": "Memory Berry",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87306
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-111",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/111/high.jpg",
+        "localId": "111",
+        "name": "Miasma Valley",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87435
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-112",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/112/high.jpg",
+        "localId": "112",
+        "name": "PlusPower",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 88178
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-113",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/113/high.jpg",
+        "localId": "113",
+        "name": "Poké Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-114",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/114/high.jpg",
+        "localId": "114",
+        "name": "Pokédex HANDY910is",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-115",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/115/high.jpg",
+        "localId": "115",
+        "name": "Pokémon Rescue",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-116",
+        "illustrator": "Makoto Imai",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/116/high.jpg",
+        "localId": "116",
+        "name": "Team Galactic's Invention G-101 Energy Gain",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89805
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-117",
+        "illustrator": "Yusuke Ishikawa",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/117/high.jpg",
+        "localId": "117",
+        "name": "Team Galactic's Invention G-103 Power Spray",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89806
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-118",
+        "illustrator": "Makoto Imai",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/118/high.jpg",
+        "localId": "118",
+        "name": "Team Galactic's Invention G-105 Poké Turn",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-119",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/119/high.jpg",
+        "localId": "119",
+        "name": "Armor Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 83626
+    },
+    {
+        "category": "Trainer",
+        "id": "pl1-120",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/120/high.jpg",
+        "localId": "120",
+        "name": "Skull Fossil",
+        "rarity": "Common",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89278
+    },
+    {
+        "category": "Energy",
+        "id": "pl1-121",
+        "illustrator": "Takumi Akabane",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/121/high.jpg",
+        "localId": "121",
+        "name": "Rainbow Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 88547
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-122",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/122/high.jpg",
+        "localId": "122",
+        "name": "Dialga G",
+        "rarity": "Rare Holo LV.X",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84811
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-123",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/123/high.jpg",
+        "localId": "123",
+        "name": "Drapion",
+        "rarity": "Rare Holo LV.X",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 84926
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-124",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/124/high.jpg",
+        "localId": "124",
+        "name": "Giratina",
+        "rarity": "Rare Holo LV.X",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85742
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-125",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/125/high.jpg",
+        "localId": "125",
+        "name": "Palkia G",
+        "rarity": "Rare Holo LV.X",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 87918
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-126",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/126/high.jpg",
+        "localId": "126",
+        "name": "Shaymin",
+        "rarity": "Rare Holo LV.X",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89114
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-127",
+        "illustrator": "Shizurow",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/127/high.jpg",
+        "localId": "127",
+        "name": "Shaymin",
+        "rarity": "Rare Holo LV.X",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89115
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-128",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/128/high.jpg",
+        "localId": "128",
+        "name": "Electabuzz",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 85116
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-129",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/129/high.jpg",
+        "localId": "129",
+        "name": "Hitmonchan",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 86094
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-130",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/130/high.jpg",
+        "localId": "130",
+        "name": "Scyther",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        },
+        "tcgplayerId": 89002
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-SH4",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/SH4/high.jpg",
+        "localId": "SH4",
+        "name": "Lotad",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-SH5",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/SH5/high.jpg",
+        "localId": "SH5",
+        "name": "Swablu",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "pl1-SH6",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/pl/pl1/SH6/high.jpg",
+        "localId": "SH6",
+        "name": "Vulpix",
+        "rarity": "Rare",
+        "set": {
+            "id": "pl1",
+            "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.jpg",
+            "name": "Platinum",
+            "symbol": "https://assets.tcgdex.net/univ/pl/pl1/symbol.jpg",
+            "releaseDate": "2009-02-11"
+        }
+    }
+]

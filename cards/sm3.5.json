@@ -1,0 +1,1169 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-1",
+        "illustrator": "Mizue",
+        "image": null,
+        "localId": "1",
+        "name": "Bulbasaur",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146653
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-2",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "2",
+        "name": "Ivysaur",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146654
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-3",
+        "illustrator": "Eske Yoshinob",
+        "image": null,
+        "localId": "3",
+        "name": "Venusaur",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146655
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-4",
+        "illustrator": "kawayoo",
+        "image": null,
+        "localId": "4",
+        "name": "Shroomish",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146656
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-5",
+        "illustrator": "Mizue",
+        "image": null,
+        "localId": "5",
+        "name": "Breloom",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146657
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-6",
+        "illustrator": "Tomokazu Komiya",
+        "image": null,
+        "localId": "6",
+        "name": "Carnivine",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146658
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-7",
+        "illustrator": "Mizue",
+        "image": null,
+        "localId": "7",
+        "name": "Shaymin",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146659
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-8",
+        "illustrator": "kawayoo",
+        "image": null,
+        "localId": "8",
+        "name": "Virizion",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146660
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-9",
+        "illustrator": "Hitoshi Ariga",
+        "image": null,
+        "localId": "9",
+        "name": "Shining Genesect",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146661
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-10",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "10",
+        "name": "Entei GX",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146663
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-11",
+        "illustrator": "Suwama Chiaki",
+        "image": null,
+        "localId": "11",
+        "name": "Torkoal",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146664
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-12",
+        "illustrator": "kawayoo",
+        "image": null,
+        "localId": "12",
+        "name": "Larvesta",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146665
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-13",
+        "illustrator": "nagimiso",
+        "image": null,
+        "localId": "13",
+        "name": "Volcarona",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146666
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-14",
+        "illustrator": "TOKIYA",
+        "image": null,
+        "localId": "14",
+        "name": "Reshiram",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146667
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-15",
+        "illustrator": "Mitsuhiro Arita",
+        "image": null,
+        "localId": "15",
+        "name": "Litten",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146668
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-16",
+        "illustrator": "Shin Nagasawa",
+        "image": null,
+        "localId": "16",
+        "name": "Torracat",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146669
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-17",
+        "illustrator": "Emi Ando",
+        "image": null,
+        "localId": "17",
+        "name": "Incineroar",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146670
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-18",
+        "illustrator": "TOKIYA",
+        "image": null,
+        "localId": "18",
+        "name": "Totodile",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146671
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-19",
+        "illustrator": "Naoki Saito",
+        "image": null,
+        "localId": "19",
+        "name": "Croconaw",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146672
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-20",
+        "illustrator": "nagimiso",
+        "image": null,
+        "localId": "20",
+        "name": "Feraligatr",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146673
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-21",
+        "illustrator": "Shin Nagasawa",
+        "image": null,
+        "localId": "21",
+        "name": "Qwilfish",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146674
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-22",
+        "illustrator": "Sekio",
+        "image": null,
+        "localId": "22",
+        "name": "Buizel",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146675
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-23",
+        "illustrator": "Suwama Chiaki",
+        "image": null,
+        "localId": "23",
+        "name": "Floatzel",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146676
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-24",
+        "illustrator": "Eske Yoshinob",
+        "image": null,
+        "localId": "24",
+        "name": "Palkia",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146678
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-25",
+        "illustrator": "Kagemaru Himeno",
+        "image": null,
+        "localId": "25",
+        "name": "Manaphy",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146679
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-26",
+        "illustrator": "kodama",
+        "image": null,
+        "localId": "26",
+        "name": "Keldeo",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146680
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-27",
+        "illustrator": "Hitoshi Ariga",
+        "image": null,
+        "localId": "27",
+        "name": "Shining Volcanion",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146681
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-28",
+        "illustrator": "Kagemaru Himeno",
+        "image": null,
+        "localId": "28",
+        "name": "Pikachu",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146682
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-29",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "29",
+        "name": "Raichu GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146687
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-30",
+        "illustrator": "match",
+        "image": null,
+        "localId": "30",
+        "name": "Voltorb",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146683
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-31",
+        "illustrator": "Kyoko Umemoto",
+        "image": null,
+        "localId": "31",
+        "name": "Electrode",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146684
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-32",
+        "illustrator": "Mitsuhiro Arita",
+        "image": null,
+        "localId": "32",
+        "name": "Raikou",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146688
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-33",
+        "illustrator": "Tomokazu Komiya",
+        "image": null,
+        "localId": "33",
+        "name": "Plusle",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146685
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-34",
+        "illustrator": "nagimiso",
+        "image": null,
+        "localId": "34",
+        "name": "Minun",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146686
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-35",
+        "illustrator": "nagimiso",
+        "image": null,
+        "localId": "35",
+        "name": "Zekrom",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146692
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-36",
+        "illustrator": "DemizuPosuka",
+        "image": null,
+        "localId": "36",
+        "name": "Ekans",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146703
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-37",
+        "illustrator": "kodama",
+        "image": null,
+        "localId": "37",
+        "name": "Arbok",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146705
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-38",
+        "illustrator": "Tomokazu Komiya",
+        "image": null,
+        "localId": "38",
+        "name": "Jynx",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146706
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-39",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "39",
+        "name": "Mewtwo GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146695
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-40",
+        "illustrator": "Sanosuke Sakuma",
+        "image": null,
+        "localId": "40",
+        "name": "Shining Mew",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146699
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-41",
+        "illustrator": "Mitsuhiro Arita",
+        "image": null,
+        "localId": "41",
+        "name": "Latios",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146700
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-42",
+        "illustrator": "Shigenori Negishi",
+        "image": null,
+        "localId": "42",
+        "name": "Shining Jirachi",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146701
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-43",
+        "illustrator": "Kyoko Umemoto",
+        "image": null,
+        "localId": "43",
+        "name": "Golett",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146707
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-44",
+        "illustrator": "Kagemaru Himeno",
+        "image": null,
+        "localId": "44",
+        "name": "Golurk",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146708
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-45",
+        "illustrator": "Emi Ando",
+        "image": null,
+        "localId": "45",
+        "name": "Marshadow",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146702
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-46",
+        "illustrator": "Naoyo Kimura",
+        "image": null,
+        "localId": "46",
+        "name": "Stunfisk",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 147026
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-47",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "47",
+        "name": "Spiritomb",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146709
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-48",
+        "illustrator": "Naoyo Kimura",
+        "image": null,
+        "localId": "48",
+        "name": "Purrloin",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146710
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-49",
+        "illustrator": "kawayoo",
+        "image": null,
+        "localId": "49",
+        "name": "Liepard",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146711
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-50",
+        "illustrator": "Sekio",
+        "image": null,
+        "localId": "50",
+        "name": "Scraggy",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146712
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-51",
+        "illustrator": "Mitsuhiro Arita",
+        "image": null,
+        "localId": "51",
+        "name": "Scrafty",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146713
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-52",
+        "illustrator": "kodama",
+        "image": null,
+        "localId": "52",
+        "name": "Zorua",
+        "rarity": "Common",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146714
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-53",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "53",
+        "name": "Zoroark GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146715
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-54",
+        "illustrator": "Shin Nagasawa",
+        "image": null,
+        "localId": "54",
+        "name": "Yveltal",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146717
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-55",
+        "illustrator": "TOKIYA",
+        "image": null,
+        "localId": "55",
+        "name": "Hoopa",
+        "rarity": "Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146718
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-56",
+        "illustrator": "Naoki Saito",
+        "image": null,
+        "localId": "56",
+        "name": "Shining Rayquaza",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146719
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-57",
+        "illustrator": "Kouki Saitou",
+        "image": null,
+        "localId": "57",
+        "name": "Shining Arceus",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146720
+    },
+    {
+        "category": "Trainer",
+        "id": "sm3.5-58",
+        "illustrator": "Toyste Beach",
+        "image": null,
+        "localId": "58",
+        "name": "Damage Mover",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146721
+    },
+    {
+        "category": "Trainer",
+        "id": "sm3.5-59",
+        "illustrator": "Toyste Beach",
+        "image": null,
+        "localId": "59",
+        "name": "Energy Retrieval",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146722
+    },
+    {
+        "category": "Trainer",
+        "id": "sm3.5-60",
+        "illustrator": "Ryo Ueda",
+        "image": null,
+        "localId": "60",
+        "name": "Great Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146723
+    },
+    {
+        "category": "Trainer",
+        "id": "sm3.5-61",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "61",
+        "name": "Hau",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146728
+    },
+    {
+        "category": "Trainer",
+        "id": "sm3.5-62",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "62",
+        "name": "Lillie",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146729
+    },
+    {
+        "category": "Trainer",
+        "id": "sm3.5-63",
+        "illustrator": "Kanako Eo",
+        "image": null,
+        "localId": "63",
+        "name": "Pok\u00e9mon Breeder",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm3.5-64",
+        "illustrator": "Toyste Beach",
+        "image": null,
+        "localId": "64",
+        "name": "Pok\u00e9mon Catcher",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "sm3.5-65",
+        "illustrator": "Ken Sugimori",
+        "image": null,
+        "localId": "65",
+        "name": "Sophocles",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146732
+    },
+    {
+        "category": "Trainer",
+        "id": "sm3.5-66",
+        "illustrator": "Toyste Beach",
+        "image": null,
+        "localId": "66",
+        "name": "Super Scoop Up",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146725
+    },
+    {
+        "category": "Trainer",
+        "id": "sm3.5-67",
+        "illustrator": "Ryo Ueda",
+        "image": null,
+        "localId": "67",
+        "name": "Switch",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146726
+    },
+    {
+        "category": "Trainer",
+        "id": "sm3.5-68",
+        "illustrator": "Ryo Ueda",
+        "image": null,
+        "localId": "68",
+        "name": "Ultra Ball",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146727
+    },
+    {
+        "category": "Energy",
+        "id": "sm3.5-69",
+        "illustrator": null,
+        "image": null,
+        "localId": "69",
+        "name": "Double Colorless Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146733
+    },
+    {
+        "category": "Energy",
+        "id": "sm3.5-70",
+        "illustrator": null,
+        "image": null,
+        "localId": "70",
+        "name": "Warp Energy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146734
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-71",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "71",
+        "name": "Entei GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146736
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-72",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "72",
+        "name": "Mewtwo GX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146696
+    },
+    {
+        "category": "Trainer",
+        "id": "sm3.5-73",
+        "illustrator": "Sanosuke Sakuma",
+        "image": null,
+        "localId": "73",
+        "name": "Pok\u00e9mon Breeder",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-74",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "74",
+        "name": "Entei GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146735
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-75",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "75",
+        "name": "Raichu GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146737
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-76",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "76",
+        "name": "Mewtwo GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146697
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-77",
+        "illustrator": "5ban Graphics",
+        "image": null,
+        "localId": "77",
+        "name": "Zoroark GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146716
+    },
+    {
+        "category": "Pokemon",
+        "id": "sm3.5-78",
+        "illustrator": "Mitsuhiro Arita",
+        "image": null,
+        "localId": "78",
+        "name": "Mewtwo GX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "sm3.5",
+            "name": "Shining Legends",
+            "releaseDate": "2017-10-06"
+        },
+        "tcgplayerId": 146698
+    }
+]

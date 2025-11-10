@@ -1,0 +1,308 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "det1-1",
+        "illustrator": "MPC Film",
+        "image": "https://assets.tcgdex.net/en/sm/det1/1/high.jpg",
+        "localId": "1",
+        "name": "Bulbasaur",
+        "rarity": "Common",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186001
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-2",
+        "illustrator": "Framestore",
+        "image": "https://assets.tcgdex.net/en/sm/det1/2/high.jpg",
+        "localId": "2",
+        "name": "Ludicolo",
+        "rarity": "Rare",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186003
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-3",
+        "illustrator": "MPC Film",
+        "image": "https://assets.tcgdex.net/en/sm/det1/3/high.jpg",
+        "localId": "3",
+        "name": "Morelull",
+        "rarity": "Common",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186004
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-4",
+        "illustrator": "MPC Film",
+        "image": "https://assets.tcgdex.net/en/sm/det1/4/high.jpg",
+        "localId": "4",
+        "name": "Charmander",
+        "rarity": "Common",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186005
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-5",
+        "illustrator": "Framestore",
+        "image": "https://assets.tcgdex.net/en/sm/det1/5/high.jpg",
+        "localId": "5",
+        "name": "Charizard",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186007
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-6",
+        "illustrator": "MPC Film",
+        "image": "https://assets.tcgdex.net/en/sm/det1/6/high.jpg",
+        "localId": "6",
+        "name": "Arcanine",
+        "rarity": "Rare",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186009
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-7",
+        "illustrator": "Framestore",
+        "image": "https://assets.tcgdex.net/en/sm/det1/7/high.jpg",
+        "localId": "7",
+        "name": "Psyduck",
+        "rarity": "Common",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186010
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-8",
+        "illustrator": "Framestore",
+        "image": "https://assets.tcgdex.net/en/sm/det1/8/high.jpg",
+        "localId": "8",
+        "name": "Magikarp",
+        "rarity": "Common",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186012
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-9",
+        "illustrator": "MPC Film",
+        "image": "https://assets.tcgdex.net/en/sm/det1/9/high.jpg",
+        "localId": "9",
+        "name": "Greninja",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186013
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-10",
+        "illustrator": "MPC Film",
+        "image": "https://assets.tcgdex.net/en/sm/det1/10/high.jpg",
+        "localId": "10",
+        "name": "Detective Pikachu",
+        "rarity": "Rare",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186015
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-11",
+        "illustrator": "MPC Film",
+        "image": "https://assets.tcgdex.net/en/sm/det1/11/high.jpg",
+        "localId": "11",
+        "name": "Mr. Mime",
+        "rarity": "Rare",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186019
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-12",
+        "illustrator": "MPC Film",
+        "image": "https://assets.tcgdex.net/en/sm/det1/12/high.jpg",
+        "localId": "12",
+        "name": "Mewtwo",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186020
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-13",
+        "illustrator": "MPC Film",
+        "image": "https://assets.tcgdex.net/en/sm/det1/13/high.jpg",
+        "localId": "13",
+        "name": "Machamp",
+        "rarity": "Rare",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186021
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-14",
+        "illustrator": "Framestore",
+        "image": "https://assets.tcgdex.net/en/sm/det1/14/high.jpg",
+        "localId": "14",
+        "name": "Jigglypuff",
+        "rarity": "Common",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186022
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-15",
+        "illustrator": "Framestore",
+        "image": "https://assets.tcgdex.net/en/sm/det1/15/high.jpg",
+        "localId": "15",
+        "name": "Snubbull",
+        "rarity": "Common",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186023
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-16",
+        "illustrator": "MPC Film",
+        "image": "https://assets.tcgdex.net/en/sm/det1/16/high.jpg",
+        "localId": "16",
+        "name": "Lickitung",
+        "rarity": "Common",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186024
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-17",
+        "illustrator": "MPC Film",
+        "image": "https://assets.tcgdex.net/en/sm/det1/17/high.jpg",
+        "localId": "17",
+        "name": "Ditto",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186025
+    },
+    {
+        "category": "Pokemon",
+        "id": "det1-18",
+        "illustrator": "Framestore",
+        "image": "https://assets.tcgdex.net/en/sm/det1/18/high.jpg",
+        "localId": "18",
+        "name": "Slaking",
+        "rarity": "Rare",
+        "set": {
+            "id": "det1",
+            "logo": "https://assets.tcgdex.net/en/sm/det1/logo.jpg",
+            "name": "Detective Pikachu",
+            "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol.jpg",
+            "releaseDate": "2019-03-29"
+        },
+        "tcgplayerId": 186026
+    }
+]

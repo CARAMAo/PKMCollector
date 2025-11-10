@@ -1,0 +1,1970 @@
+[
+    {
+        "category": "Pokemon",
+        "id": "xy11-1",
+        "illustrator": "OOYAMA",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/1/high.jpg",
+        "localId": "1",
+        "name": "Tangela",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120990
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-2",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/2/high.jpg",
+        "localId": "2",
+        "name": "Tangrowth",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120991
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-3",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/3/high.jpg",
+        "localId": "3",
+        "name": "Hoppip",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120992
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-4",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/4/high.jpg",
+        "localId": "4",
+        "name": "Skiploom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120993
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-5",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/5/high.jpg",
+        "localId": "5",
+        "name": "Jumpluff",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120994
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-6",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/6/high.jpg",
+        "localId": "6",
+        "name": "Yanma",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120995
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-7",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/7/high.jpg",
+        "localId": "7",
+        "name": "Yanmega",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120996
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-8",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/8/high.jpg",
+        "localId": "8",
+        "name": "Yanmega BREAK",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120997
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-9",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/9/high.jpg",
+        "localId": "9",
+        "name": "Seedot",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120998
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-10",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/10/high.jpg",
+        "localId": "10",
+        "name": "Nuzleaf",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120999
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-11",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/11/high.jpg",
+        "localId": "11",
+        "name": "Shiftry",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121000
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-12",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/12/high.jpg",
+        "localId": "12",
+        "name": "Foongus",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121001
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-13",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/13/high.jpg",
+        "localId": "13",
+        "name": "Amoonguss",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121002
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-14",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/14/high.jpg",
+        "localId": "14",
+        "name": "Larvesta",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121003
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-15",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/15/high.jpg",
+        "localId": "15",
+        "name": "Volcarona",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121004
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-16",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/16/high.jpg",
+        "localId": "16",
+        "name": "Ponyta",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121005
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-17",
+        "illustrator": "Yukiko Baba",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/17/high.jpg",
+        "localId": "17",
+        "name": "Rapidash",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121006
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-18",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/18/high.jpg",
+        "localId": "18",
+        "name": "Chimchar",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121007
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-19",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/19/high.jpg",
+        "localId": "19",
+        "name": "Monferno",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121008
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-20",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/20/high.jpg",
+        "localId": "20",
+        "name": "Infernape",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121009
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-21",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/21/high.jpg",
+        "localId": "21",
+        "name": "Talonflame BREAK",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120150
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-22",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/22/high.jpg",
+        "localId": "22",
+        "name": "Litleo",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121010
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-23",
+        "illustrator": "Yumi",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/23/high.jpg",
+        "localId": "23",
+        "name": "Pyroar",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121011
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-24",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/24/high.jpg",
+        "localId": "24",
+        "name": "Pyroar BREAK",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121012
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-25",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/25/high.jpg",
+        "localId": "25",
+        "name": "Volcanion",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121013
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-26",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/26/high.jpg",
+        "localId": "26",
+        "name": "Volcanion EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120151
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-27",
+        "illustrator": "DemizuPosuka",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/27/high.jpg",
+        "localId": "27",
+        "name": "Mantine",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121014
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-28",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/28/high.jpg",
+        "localId": "28",
+        "name": "Shellos",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121015
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-29",
+        "illustrator": "Aya Kusube",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/29/high.jpg",
+        "localId": "29",
+        "name": "Gastrodon",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121016
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-30",
+        "illustrator": "sui",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/30/high.jpg",
+        "localId": "30",
+        "name": "Oshawott",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121017
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-31",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/31/high.jpg",
+        "localId": "31",
+        "name": "Dewott",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121018
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-32",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/32/high.jpg",
+        "localId": "32",
+        "name": "Samurott",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121019
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-33",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/33/high.jpg",
+        "localId": "33",
+        "name": "Clauncher",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121020
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-34",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/34/high.jpg",
+        "localId": "34",
+        "name": "Clawitzer",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121021
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-35",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/35/high.jpg",
+        "localId": "35",
+        "name": "Clawitzer BREAK",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121022
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-36",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/36/high.jpg",
+        "localId": "36",
+        "name": "Bergmite",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121125
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-37",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/37/high.jpg",
+        "localId": "37",
+        "name": "Avalugg",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121126
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-38",
+        "illustrator": "Eri Yamaki",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/38/high.jpg",
+        "localId": "38",
+        "name": "Mareep",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121127
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-39",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/39/high.jpg",
+        "localId": "39",
+        "name": "Flaaffy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121128
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-40",
+        "illustrator": "Kanako Eo",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/40/high.jpg",
+        "localId": "40",
+        "name": "Ampharos",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121129
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-41",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/41/high.jpg",
+        "localId": "41",
+        "name": "Joltik",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121130
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-42",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/42/high.jpg",
+        "localId": "42",
+        "name": "Galvantula",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121131
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-43",
+        "illustrator": "Hasuno",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/43/high.jpg",
+        "localId": "43",
+        "name": "Nidoran♂",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        }
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-44",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/44/high.jpg",
+        "localId": "44",
+        "name": "Nidorino",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121133
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-45",
+        "illustrator": "Mina Nakai",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/45/high.jpg",
+        "localId": "45",
+        "name": "Nidoking",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121134
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-46",
+        "illustrator": "kodama",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/46/high.jpg",
+        "localId": "46",
+        "name": "Drifloon",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121135
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-47",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/47/high.jpg",
+        "localId": "47",
+        "name": "Drifblim",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121136
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-48",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/48/high.jpg",
+        "localId": "48",
+        "name": "Litwick",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121137
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-49",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/49/high.jpg",
+        "localId": "49",
+        "name": "Lampent",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121138
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-50",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/50/high.jpg",
+        "localId": "50",
+        "name": "Chandelure",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121139
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-51",
+        "illustrator": "Yoshinobu Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/51/high.jpg",
+        "localId": "51",
+        "name": "Hoopa",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121140
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-52",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/52/high.jpg",
+        "localId": "52",
+        "name": "Mankey",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121141
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-53",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/53/high.jpg",
+        "localId": "53",
+        "name": "Primeape",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121183
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-54",
+        "illustrator": "You Iribi",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/54/high.jpg",
+        "localId": "54",
+        "name": "Nosepass",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121184
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-55",
+        "illustrator": "MAHOU",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/55/high.jpg",
+        "localId": "55",
+        "name": "Probopass",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121185
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-56",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/56/high.jpg",
+        "localId": "56",
+        "name": "Anorith",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121186
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-57",
+        "illustrator": "Satoshi Shirai",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/57/high.jpg",
+        "localId": "57",
+        "name": "Armaldo",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121187
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-58",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/58/high.jpg",
+        "localId": "58",
+        "name": "Croagunk",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121188
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-59",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/59/high.jpg",
+        "localId": "59",
+        "name": "Toxicroak",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121189
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-60",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/60/high.jpg",
+        "localId": "60",
+        "name": "Sneasel",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121190
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-61",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/61/high.jpg",
+        "localId": "61",
+        "name": "Weavile",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121191
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-62",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/62/high.jpg",
+        "localId": "62",
+        "name": "Spiritomb",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121192
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-63",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/63/high.jpg",
+        "localId": "63",
+        "name": "Pawniard",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121193
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-64",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/64/high.jpg",
+        "localId": "64",
+        "name": "Bisharp",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120152
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-65",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/65/high.jpg",
+        "localId": "65",
+        "name": "Yveltal",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121194
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-66",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/66/high.jpg",
+        "localId": "66",
+        "name": "Yveltal BREAK",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121195
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-67",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/67/high.jpg",
+        "localId": "67",
+        "name": "Steelix EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121196
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-68",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/68/high.jpg",
+        "localId": "68",
+        "name": "M Steelix EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121197
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-69",
+        "illustrator": "Mizue",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/69/high.jpg",
+        "localId": "69",
+        "name": "Shieldon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121198
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-70",
+        "illustrator": "match",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/70/high.jpg",
+        "localId": "70",
+        "name": "Bastiodon",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121199
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-71",
+        "illustrator": "Miki Tanaka",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/71/high.jpg",
+        "localId": "71",
+        "name": "Klink",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121200
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-72",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/72/high.jpg",
+        "localId": "72",
+        "name": "Klang",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121201
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-73",
+        "illustrator": "Midori Harada",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/73/high.jpg",
+        "localId": "73",
+        "name": "Klinklang",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121202
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-74",
+        "illustrator": "kirisAki",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/74/high.jpg",
+        "localId": "74",
+        "name": "Cobalion",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121203
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-75",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/75/high.jpg",
+        "localId": "75",
+        "name": "Magearna EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121204
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-76",
+        "illustrator": "Shibuzoh.",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/76/high.jpg",
+        "localId": "76",
+        "name": "Marill",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121205
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-77",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/77/high.jpg",
+        "localId": "77",
+        "name": "Azumarill",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120153
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-78",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/78/high.jpg",
+        "localId": "78",
+        "name": "Gardevoir EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120154
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-79",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/79/high.jpg",
+        "localId": "79",
+        "name": "M Gardevoir EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120155
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-80",
+        "illustrator": "Saya Tsuruta",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/80/high.jpg",
+        "localId": "80",
+        "name": "Klefki",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121206
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-81",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/81/high.jpg",
+        "localId": "81",
+        "name": "Xerneas",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121207
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-82",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/82/high.jpg",
+        "localId": "82",
+        "name": "Xerneas BREAK",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121208
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-83",
+        "illustrator": "kawayoo",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/83/high.jpg",
+        "localId": "83",
+        "name": "Druddigon",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121209
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-84",
+        "illustrator": "Suwama Chiaki",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/84/high.jpg",
+        "localId": "84",
+        "name": "Deino",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121210
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-85",
+        "illustrator": "Ken Sugimori",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/85/high.jpg",
+        "localId": "85",
+        "name": "Zweilous",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121211
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-86",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/86/high.jpg",
+        "localId": "86",
+        "name": "Hydreigon",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121212
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-87",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/87/high.jpg",
+        "localId": "87",
+        "name": "Hydreigon BREAK",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121213
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-88",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/88/high.jpg",
+        "localId": "88",
+        "name": "Meowth",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121214
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-89",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/89/high.jpg",
+        "localId": "89",
+        "name": "Persian",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121215
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-90",
+        "illustrator": "Naoki Saito",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/90/high.jpg",
+        "localId": "90",
+        "name": "Aipom",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121216
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-91",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/91/high.jpg",
+        "localId": "91",
+        "name": "Ambipom",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121217
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-92",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/92/high.jpg",
+        "localId": "92",
+        "name": "Rufflet",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121218
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-93",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/93/high.jpg",
+        "localId": "93",
+        "name": "Braviary",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121219
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-94",
+        "illustrator": "TOKIYA",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/94/high.jpg",
+        "localId": "94",
+        "name": "Fletchling",
+        "rarity": "Common",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121220
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-95",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/95/high.jpg",
+        "localId": "95",
+        "name": "Fletchinder",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121221
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-96",
+        "illustrator": "Kouki Saitou",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/96/high.jpg",
+        "localId": "96",
+        "name": "Talonflame",
+        "rarity": "Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 120156
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-97",
+        "illustrator": "miki kudo",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/97/high.jpg",
+        "localId": "97",
+        "name": "Hawlucha",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121222
+    },
+    {
+        "category": "Trainer",
+        "id": "xy11-98",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/98/high.jpg",
+        "localId": "98",
+        "name": "Armor Fossil Shieldon",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121223
+    },
+    {
+        "category": "Trainer",
+        "id": "xy11-99",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/99/high.jpg",
+        "localId": "99",
+        "name": "Captivating Poké Puff",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xy11-100",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/100/high.jpg",
+        "localId": "100",
+        "name": "Claw Fossil Anorith",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121224
+    },
+    {
+        "category": "Trainer",
+        "id": "xy11-101",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/101/high.jpg",
+        "localId": "101",
+        "name": "Gardevoir Spirit Link",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121225
+    },
+    {
+        "category": "Trainer",
+        "id": "xy11-102",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/102/high.jpg",
+        "localId": "102",
+        "name": "Greedy Dice",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121226
+    },
+    {
+        "category": "Trainer",
+        "id": "xy11-103",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/103/high.jpg",
+        "localId": "103",
+        "name": "Ninja Boy",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121227
+    },
+    {
+        "category": "Trainer",
+        "id": "xy11-104",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/104/high.jpg",
+        "localId": "104",
+        "name": "Pokémon Ranger",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xy11-105",
+        "illustrator": "Toyste Beach",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/105/high.jpg",
+        "localId": "105",
+        "name": "Special Charge",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121229
+    },
+    {
+        "category": "Trainer",
+        "id": "xy11-106",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/106/high.jpg",
+        "localId": "106",
+        "name": "Steelix Spirit Link",
+        "rarity": "Uncommon",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121230
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-107",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/107/high.jpg",
+        "localId": "107",
+        "name": "Volcanion EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121231
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-108",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/108/high.jpg",
+        "localId": "108",
+        "name": "Steelix EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121232
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-109",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/109/high.jpg",
+        "localId": "109",
+        "name": "M Steelix EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121233
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-110",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/110/high.jpg",
+        "localId": "110",
+        "name": "Magearna EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121234
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-111",
+        "illustrator": "Ryo Ueda",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/111/high.jpg",
+        "localId": "111",
+        "name": "Gardevoir EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121235
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-112",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/112/high.jpg",
+        "localId": "112",
+        "name": "M Gardevoir EX",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121236
+    },
+    {
+        "category": "Trainer",
+        "id": "xy11-113",
+        "illustrator": "Megumi Mizutani",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/113/high.jpg",
+        "localId": "113",
+        "name": "Pokémon Ranger",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        }
+    },
+    {
+        "category": "Trainer",
+        "id": "xy11-114",
+        "illustrator": "Yusuke Ohmura",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/114/high.jpg",
+        "localId": "114",
+        "name": "Professor Sycamore",
+        "rarity": "Ultra Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121238
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-115",
+        "illustrator": "5ban Graphics",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/115/high.jpg",
+        "localId": "115",
+        "name": "Volcanion EX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121239
+    },
+    {
+        "category": "Pokemon",
+        "id": "xy11-116",
+        "illustrator": "Eske Yoshinob",
+        "image": "https://assets.tcgdex.net/en/xy/xy11/116/high.jpg",
+        "localId": "116",
+        "name": "Gardevoir EX",
+        "rarity": "Secret Rare",
+        "set": {
+            "id": "xy11",
+            "logo": "https://assets.tcgdex.net/en/xy/xy11/logo.jpg",
+            "name": "Steam Siege",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy11/symbol.jpg",
+            "releaseDate": "2016-08-03"
+        },
+        "tcgplayerId": 121240
+    }
+]
