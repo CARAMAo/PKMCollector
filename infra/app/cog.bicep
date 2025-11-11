@@ -66,6 +66,25 @@ resource openAIDeployment 'Microsoft.CognitiveServices/accounts/deployments@2025
   }
 }
 
+resource openAIEmbeddingDeployment 'Microsoft.CognitiveServices/accounts/deployments@2025-06-01' = {
+  parent: openAI
+  name: 'text-embedding-ada-002'
+  sku: {
+    name: 'GlobalStandard'
+    capacity: 150
+  }
+  properties: {
+    model: {
+      format: 'OpenAI'
+      name: 'text-embedding-ada-002'
+      version: '2'
+    }
+    versionUpgradeOption: 'NoAutoUpgrade'
+    currentCapacity: 150
+    raiPolicyName: 'Microsoft.DefaultV2'
+  }
+}
+
 
 
 

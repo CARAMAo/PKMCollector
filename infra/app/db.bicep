@@ -86,6 +86,9 @@ resource cosmosDbCardsContainer 'Microsoft.DocumentDB/databaseAccounts/sqlDataba
           {
             path: '/imageVector/*'
           }
+          {
+            path: '/captionVector/*'
+          }
         ]
         fullTextIndexes: [
           {
@@ -128,7 +131,7 @@ resource cosmosDbCardsContainer 'Microsoft.DocumentDB/databaseAccounts/sqlDataba
           {
             path: '/captionVector'
             dataType: 'float32'
-            dimensions: 1024
+            dimensions: 1536
             distanceFunction: 'cosine'
           }
         ]
