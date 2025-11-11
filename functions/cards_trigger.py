@@ -111,10 +111,11 @@ def index_cards(cards_blob: blob.BlobClient) -> None:
                 desc = openai_caption_card_image(img_url)
                 if desc:
                     card['caption'] = desc
+                    logging.info(desc)
                     card['captionVector'] = vectorize_text(desc)
                     logging.info('computed caption and embedding for %s', card_id)
                 else:
-                    logging.info('captioning failed for %s', card_id)
+                    logging.info('no captioning for %s', card_id)
             
             except Exception as e:
                 logging.warning('captioning failed for %s: %s', card_id, e)

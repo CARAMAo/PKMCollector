@@ -52,7 +52,7 @@ def http_text_search(req: func.HttpRequest) -> func.HttpResponse:
         query_vector = vectorize_text(query_text)
 
         query = f'''
-        SELECT TOP 3 c.id,c.name,c.category,c.illustrator,c.image,c.localId,
+        SELECT TOP 10 c.id,c.name,c.category,c.illustrator,c.image,c.localId,
                 c.rarity,c["set"], VectorDistance(c.captionVector, @queryVector) AS score
         FROM c
         ORDER BY VectorDistance(c.captionVector, @queryVector)

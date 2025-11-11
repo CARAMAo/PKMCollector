@@ -32,29 +32,28 @@ def vectorize_image(url: str) -> list[float] | None:
         return None
 
 def vectorize_text(text: str) -> list[float] | None:
-    endpoint = os.environ.get('AZURE_VISION_ENDPOINT', '').rstrip('/')
-    key = os.environ.get('AZURE_VISION_KEY')
-    api_version = os.environ.get('AZURE_VISION_API_VERSION', '2024-02-01')
-    model_version = '2022-04-11'
+    endpoint = os.environ.get('AZURE_OPENAI_ENDPOINT', '').rstrip('/')
+    key = os.environ.get('AZURE_OPENAI_API_KEY')
+    api_version = os.environ.get('AZURE_OPENAI_EMBEDDING_API_VERSION', '2023-05-15')
 
     if not endpoint or not key:
-        logging.error('Vision not configured (AZURE_VISION_ENDPOINT/AZURE_VISION_KEY)')
+        logging.error('TEXT embedding not configured (AZURE_OPENAI_ENDPOINT/AZURE_OPENAI_EMBEDDING_KEY)')
         return None
 
-    url_ep = f"{endpoint}/computervision/retrieval:vectorizeText?model-version={model_version}&api-version={api_version}"
+    url_ep = f"{endpoint}/openai/deployments/text-embedding-ada-002/embeddings?api-version={api_version}"
     headers = {
         'Content-Type': 'application/json',
-        'Ocp-Apim-Subscription-Key': key,
+        'api-key': key,
     }
     try:
-        resp = requests.post(url_ep, headers=headers, json={'text': text}, timeout=30)
+        resp = requests.post(url_ep, headers=headers, json={'input': text}, timeout=30)
         if resp.status_code >= 400:
-            logging.warning('Vision error %s: %s', resp.status_code, resp.text)
+            logging.warning('Embedding error %s: %s', resp.status_code, resp.text)
             return None
         data = resp.json()
-        return data.get('vector')
+        return data.get('data',[])[0].get('embedding')
     except Exception as e:
-        logging.exception('Vision request failed: %s', e)
+        logging.exception('Embedding request failed: %s', e)
         return None
 
 def vectorize_image_bytes(data: bytes, content_type: str | None = None) -> list[float] | None:
@@ -100,7 +99,7 @@ def get_cosmos_container():
     return db.get_container_client(container_name)
 
 
-def openai_caption_card_image(card_image_url: str) -> dict | None:
+def openai_caption_card_image(card_image_url: str) -> str | None:
     try:
         from openai import AzureOpenAI
     except Exception as e:
@@ -117,10 +116,11 @@ def openai_caption_card_image(card_image_url: str) -> dict | None:
         return None
 
     system_prompt = (
-        'You describe only what is visible in Pokémon TCG card artwork. Mentioning Pokemons,interactions,objects,and scenery. '
-        'Return JSON with a single key "description" (<=60 words).'
-        'Return null if the image is not a Pokémon TCG card artwork or you cannot access the image.'
-        'Example: {"description": "Mega Lucario is fighting with Mega Venusaur, about to throw a punch in mid-air among skyscrapers. In the background, Latios is flying by and Kangashkan is looking from a building."}'
+        'Describe Pokémon TCG card artwork for semantic search. Decribe the scene in the card Artwork, mentioning Pokemons, what they\'re doing, interactions, and the location they\'re in. '
+        'ONLY Return a JSON with a single key "description" {"description: "..."}'
+        'Describe the elements of the card that a person could remember to describe the card, in simple language, in order to allow effective semantic search.'
+        'Return empty description property {"description":""} if the image is not a Pokémon TCG card artwork or you cannot access the image.'
+        'Return an empty description for simple items, energy cards, or cards without full artwork (the artwork does not cover the entire card)'
     )
 
     client = AzureOpenAI(azure_endpoint=endpoint, api_key=key, api_version=api_version)
@@ -130,10 +130,16 @@ def openai_caption_card_image(card_image_url: str) -> dict | None:
         {"role": "user", "content": [{"type": "image_url", "image_url": {"url": card_image_url}}]},
     ]
     try:
-        completion = client.chat.completions.create(model=deployment, messages=messages, temperature=0.2, max_tokens=1024)
+        completion = client.chat.completions.create(model=deployment, messages=messages, temperature=0.6, max_tokens=6553)
         content = completion.choices[0].message.content
-        data = json.loads(content)
-        return data.get('description',None)
+        if not content:
+            return None
+        try:
+            data = json.loads(content)
+        except Exception:
+            return None
+        description = data.get('description') if isinstance(data, dict) else None
+        return description if isinstance(description, str) and description.strip() else None
     except Exception as e:
         logging.warning('OpenAI caption failed: %s', e)
         return None
