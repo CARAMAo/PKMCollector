@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" modified="2025-11-12T12:00:00Z" agent="PKMCollector" version="24.4.15" type="device">
+  <diagram id="pkm-diagram" name="PKMCollector Architecture">
+    <mxGraphModel dx="1600" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- Utente / App iOS -->
+        <mxCell id="u" value="Utente&#10;pkm-collector iOS (React Native + Expo)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F2FF;strokeColor=#0F6CBD;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="220" height="80" as="geometry"/>
+        </mxCell>
+
+        <!-- Function App swimlane -->
+        <mxCell id="f" value="Azure Function App (Flex Consumption)" style="swimlane;rounded=1;html=1;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=#E6F2FF;strokeColor=#0F6CBD;fontColor=#002050;container=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="260" height="220" as="geometry"/>
+        </mxCell>
+        <mxCell id="f1" value="HTTP POST /api/image-search" style="rounded=1;whiteSpace=wrap;html=1;spacing=8;fillColor=#ffffff;strokeColor=#0F6CBD;" vertex="1" parent="f">
+          <mxGeometry x="10" y="40" width="240" height="56" as="geometry"/>
+        </mxCell>
+        <mxCell id="f2" value="HTTP GET /api/text-search" style="rounded=1;whiteSpace=wrap;html=1;spacing=8;fillColor=#ffffff;strokeColor=#0F6CBD;" vertex="1" parent="f">
+          <mxGeometry x="10" y="104" width="240" height="56" as="geometry"/>
+        </mxCell>
+        <mxCell id="ft" value="Blob/Event Grid Trigger&#10;cards_trigger" style="rounded=1;whiteSpace=wrap;html=1;spacing=8;fillColor=#ffffff;strokeColor=#0F6CBD;" vertex="1" parent="f">
+          <mxGeometry x="10" y="168" width="240" height="40" as="geometry"/>
+        </mxCell>
+
+        <!-- Servizi AI -->
+        <mxCell id="v" value="Azure AI Vision&#10;Vectorize Image" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F2FF;strokeColor=#0F6CBD;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="200" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="oai" value="Azure OpenAI&#10;GPT-4o caption + Embeddings" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F2FF;strokeColor=#0F6CBD;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="600" y="170" width="200" height="70" as="geometry"/>
+        </mxCell>
+
+        <!-- Dati -->
+        <mxCell id="cdb" value="Azure Cosmos DB&#10;db: pkmcollector-db, container: cards&#10;Vector + FullText Index" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6F2FF;strokeColor=#0F6CBD;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="860" y="120" width="200" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="stg" value="Azure Storage Account&#10;container: cards-uploads" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F2FF;strokeColor=#0F6CBD;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="eg" value="Event Grid&#10;System Topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F2FF;strokeColor=#0F6CBD;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="820" y="260" width="200" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- Monitor -->
+        <mxCell id="ai" value="Application Insights&#10;+ Log Analytics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F2FF;strokeColor=#0F6CBD;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="600" y="10" width="200" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- Edges: App -> Functions -->
+        <mxCell id="e_u_f1" edge="1" parent="1" source="u" target="f1" value="HTTP" style="endArrow=block;rounded=0;strokeColor=#0F6CBD;fontColor=#002050;"/>
+        <mxCell id="e_u_f2" edge="1" parent="1" source="u" target="f2" value="HTTP" style="endArrow=block;rounded=0;strokeColor=#0F6CBD;fontColor=#002050;"/>
+
+        <!-- image-search path -->
+        <mxCell id="e_f1_v" edge="1" parent="1" source="f1" target="v" value="Vectorize image" style="endArrow=block;strokeColor=#0F6CBD;fontColor=#002050;"/>
+        <mxCell id="e_f1_c" edge="1" parent="1" source="f1" target="cdb" value="Vector search" style="endArrow=block;strokeColor=#0F6CBD;fontColor=#002050;"/>
+
+        <!-- text-search path -->
+        <mxCell id="e_f2_c" edge="1" parent="1" source="f2" target="cdb" value="FullText search" style="endArrow=block;strokeColor=#0F6CBD;fontColor=#002050;"/>
+        <mxCell id="e_f2_oai" edge="1" parent="1" source="f2" target="oai" value="Embedding (fallback)" style="endArrow=block;strokeColor=#0F6CBD;fontColor=#002050;"/>
+        <mxCell id="e_oai_c" edge="1" parent="1" source="oai" target="cdb" value="Vector search" style="endArrow=block;strokeColor=#0F6CBD;fontColor=#002050;"/>
+
+        <!-- indexing pipeline -->
+        <mxCell id="e_s_eg" edge="1" parent="1" source="stg" target="eg" value="Blob JSON carte" style="endArrow=block;strokeColor=#0F6CBD;fontColor=#002050;"/>
+        <mxCell id="e_eg_ft" edge="1" parent="1" source="eg" target="ft" value="Event Grid" style="endArrow=block;strokeColor=#0F6CBD;fontColor=#002050;"/>
+        <mxCell id="e_s_ft" edge="1" parent="1" source="stg" target="ft" value="Blob Trigger" style="dashed=1;endArrow=block;strokeColor=#0F6CBD;fontColor=#002050;"/>
+        <mxCell id="e_ft_v" edge="1" parent="1" source="ft" target="v" value="Vectorize" style="endArrow=block;strokeColor=#0F6CBD;fontColor=#002050;"/>
+        <mxCell id="e_ft_oai" edge="1" parent="1" source="ft" target="oai" value="Caption + embed" style="endArrow=block;strokeColor=#0F6CBD;fontColor=#002050;"/>
+        <mxCell id="e_ft_c" edge="1" parent="1" source="ft" target="cdb" value="Upsert" style="endArrow=block;strokeColor=#0F6CBD;fontColor=#002050;"/>
+
+        <!-- monitoring edges -->
+        <mxCell id="e_f1_ai" edge="1" parent="1" source="f1" target="ai" value="Logs" style="dashed=1;endArrow=block;strokeColor=#0F6CBD;fontColor=#002050;"/>
+        <mxCell id="e_f2_ai" edge="1" parent="1" source="f2" target="ai" value="Logs" style="dashed=1;endArrow=block;strokeColor=#0F6CBD;fontColor=#002050;"/>
+
+        <!-- Captions (service names) under shapes -->
+        <mxCell id="lbl_u" value="Mobile App" style="text;html=1;align=center;verticalAlign=top;strokeColor=none;fillColor=none;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="30" y="245" width="220" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbl_f" value="Azure Function App" style="text;html=1;align=center;verticalAlign=top;strokeColor=none;fillColor=none;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="300" y="305" width="260" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbl_v" value="Azure AI Vision" style="text;html=1;align=center;verticalAlign=top;strokeColor=none;fillColor=none;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="600" y="155" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbl_oai" value="Azure OpenAI" style="text;html=1;align=center;verticalAlign=top;strokeColor=none;fillColor=none;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="600" y="245" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbl_cdb" value="Azure Cosmos DB" style="text;html=1;align=center;verticalAlign=top;strokeColor=none;fillColor=none;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="860" y="325" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbl_stg" value="Azure Storage Account" style="text;html=1;align=center;verticalAlign=top;strokeColor=none;fillColor=none;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="600" y="325" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbl_eg" value="Event Grid" style="text;html=1;align=center;verticalAlign=top;strokeColor=none;fillColor=none;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="820" y="325" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="lbl_ai" value="Application Insights + Log Analytics" style="text;html=1;align=center;verticalAlign=top;strokeColor=none;fillColor=none;fontColor=#002050;" vertex="1" parent="1">
+          <mxGeometry x="600" y="75" width="200" height="20" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
