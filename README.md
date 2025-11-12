@@ -38,14 +38,14 @@ L'applicazione espone due endpoint HTTP implementati tramite **Azure Function Ap
 ## Servizi Utilizzati
 
 - **Azure Function App** (Python 3.12, Flex Consumption) con HTTP Trigger;
-- **Azure Storage Account** + **Event Grid System Topic** 
 - **Azure Cosmos DB (NoSQL)** per i dati delle carte e per la ricerca vettoriale;
 - **Azure AI Vision** per calcolare gli embedding delle immagini carte, sia in fase di query che di indicizzazione;
 - **Azure OpenAI** per generare descrizioni visive degli artwork delle carte (GPT-4o) e calcolarne gli embedding (text-embedding-ada-002);
 
+- **Azure Storage Account** + **Event Grid System Topic**: per importare nuove carte nel sistema di ricerca, è possibile caricare un file .json nel Blob Container `cards-upload`, avviando automaticamente il processo di generazione delle caption e degli embedding;
 ## Architettura
 
-<img src="repo-files/pkmcollector-architecture.png" style="background-color:white;"/>
+![architettura](repo-files/pkmcollector-architecture.png)
 
 ## Guida all'utilizzo
 
